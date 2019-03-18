@@ -1,0 +1,74 @@
+[
+    {
+        "data-offset-end": 358,
+        "pageid": 26,
+        "top": 1187,
+        "font-id": "f11",
+        "level": "Level",
+        "left": 127,
+        "text": "於二零一八年三月二十八日，本集團土地儲備1總面積約為1.47億平方米，權益土地儲備面積約為1.10億平方米，另考慮舊改等協議狀態的土地，本集團土地儲備1總面積約為2.18億平方米。",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 268
+    },
+    {
+        "data-offset-end": 415,
+        "pageid": 26,
+        "top": 1314,
+        "font-id": "f11",
+        "level": "Level",
+        "left": 127,
+        "text": "註1：土地儲備數據截至二零一七年十二月三十一日，另包括二零一八年一月一日至二零一八年三月二十八日新獲取的土地。",
+        "font-size": 22,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 360
+    },
+    {
+        "data-offset-end": 424,
+        "pageid": 26,
+        "top": 1390,
+        "font-id": "f13",
+        "level": "Level",
+        "left": 127,
+        "text": "2.3合同銷售",
+        "font-size": 33,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 417
+    },
+    {
+        "data-offset-end": 544,
+        "pageid": 26,
+        "top": 1479,
+        "font-id": "f11",
+        "level": "Level",
+        "left": 127,
+        "text": "截至二零一七年十二月三十一日止年度，本集團實現合同銷售面積約為2,203.3萬平方米，合同銷售金額約為人民幣3,620.1億元，較截至二零一六年十二月三十一日止年度同比增長約140.3%。合同銷售金額在中國房地產行業排名躍升至第四名1。",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 426
+    },
+    {
+        "data-offset-end": 725,
+        "pageid": 26,
+        "top": 2303,
+        "font-id": "f7",
+        "level": "Level",
+        "left": 47,
+        "text": "24融創中國控股有限公司",
+        "font-size": 33,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 713
+    },
+    {
+        "data-offset-end": 734,
+        "pageid": 26,
+        "top": 2330,
+        "font-id": "f9",
+        "level": "Level",
+        "left": 127,
+        "text": "2017年度報告",
+        "font-size": 24,
+        "color": "rgba(101,98,98,1)",
+        "data-offset-start": 727
+    }
+]

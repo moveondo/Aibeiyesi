@@ -1,0 +1,81 @@
+APPENDIX I
+
+ACCOUNTANTS’ REPORT
+
+The Group accounts for the assets, liabilities, revenues and expenses relating to its interest in a joint operation
+
+in accordance with the IFRSs applicable to the particular assets, liabilities, revenues and expenses.
+
+When a group entity transacts with a joint operation in which a group entity is a joint operator (such as a sale
+or contribution of assets), the Group is considered to be conducting the transaction with the other parties to the joint
+operation, and gains and losses resulting from the transactions are recognised in the Group’s consolidated financial
+statements only to the extent of other parties’ interests in the joint operation.
+
+When a group entity transacts with a joint operation in which a group entity is a joint operator (such as a
+purchase of assets), the Group does not recognise its share of the gains and losses until it resells those assets to a
+third party.
+
+Investments in subsidiaries
+
+Investments in subsidiaries are included in the statement of financial position at cost less any identified
+
+impairment losses.
+
+Revenue
+
+Revenue is measured based on the consideration specified in a contract with a customer and excludes amounts
+collected on behalf of third parties. The Group recognises revenue when it transfers control of a product or service
+to a customer.
+
+The Group recognises revenue from the following major sources:
+
+(a)
+
+Sales of goods
+
+Revenue is recognised when control of the goods has been transferred, being when the goods have been
+delivered to the customer’s specific location. A receivable is recognised by the Group when the goods are
+delivered to the customer as this represents the point in time at which the right to consideration becomes
+unconditional, as only the passage of time is required before payment is due. A contract liability represents the
+Group’s obligation to transfer goods to a customer for which the Group has received consideration from the
+customer.
+
+(b)
+
+Consultancy service fee income
+
+The Group primarily earns revenues by providing consulting and researching services to its customers
+through fee-for-service contracts. Contracts duration ranges from a few weeks to months. A contract asset
+represents the Group’s right to consideration in exchange for services that the Group has transferred to a
+customer that is not yet unconditional. Upfront payments received by the Group is initially recognised as a
+contract liability.
+
+Revenue is recognised at a point of time when performance obligation is completed and has a present
+
+right to payment for the services performed.
+
+The Group incurs costs to fulfil a contract in its consulting services. The Group first assesses whether these
+costs qualify for recognition as an asset in terms of other relevant standards, failing which it recognises an asset for
+these costs only if they meet all of the following criteria:
+
+(a)
+
+(b)
+
+the costs relate directly to a contract or to an anticipated contract that the Group can specifically
+identify;
+
+the costs generate or enhance resources of the Group that will be used in satisfying (or in continuing
+to satisfy) performance obligations in the future; and
+
+(c)
+
+the costs are expected to be recovered.
+
+The asset so recognised is subsequently amortised to profit or loss on a systematic basis that is consistent with
+the transfer to the customer of the goods or services to which the assets relate. The asset is subject to impairment
+review.
+
+– I-18 –
+
+

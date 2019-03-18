@@ -1,0 +1,60 @@
+BUSINESS
+
+Currently approved first-generation BRAF inhibitors, vemurafenib and dabrafenib, are only
+active against the BRAF monomer. Because lifirafenib is designed to inhibit both the monomer and
+dimer forms of RAF, we believe lifirafenib has the potential to be a first-in-class RAF dimer inhibitor.
+Lifirafenib was evaluated in a multicenter, open-label Phase 1 trial conducted in Australia and New
+Zealand comprised of two parts — dose escalation and dose expansion — in patients with BRAF or
+KRAS/NRAS mutated solid tumors or patients with pancreatic cancer. Lifirafenib demonstrated
+antitumor activity in both BRAF and KRAS-mutated tumors in preclinical studies and in the
+dose-escalation portion of this Phase 1 trial.
+
+We presented data from the dose-expansion portion of the trial at the 2017 American Association
+for Cancer Research Annual Meeting. The dose-expansion portion of the trial was designed to evaluate
+the safety and efficacy of lifirafenib at the recommended Phase 2 dose of 30 mg once daily established
+in the dose-escalation part of the trial. In the dose-expansion portion,
+lifirafenib was generally
+well-tolerated at a dose of 30 mg once daily and continued to show antitumor activity in patients with
+BRAF V600-mutated solid tumors and patients with KRAS-mutated solid tumors. The safety analysis,
+which included 96 patients as of the September 12, 2016 cutoff, suggested that
+lifirafenib was
+generally well-tolerated at 30 mg once daily, with most drug-related AEs being grades 1 or 2 in
+severity. The most frequent drug-related AEs (≥10%) of any grade were fatigue (38.5%), dysphonia
+(26.0%), decreased appetite
+(21.9%),
+thrombocytopenia (19.8%), dermatitis acneiform (17.7%), diarrhea (16.7%), rash (16.7%), nausea
+(15.6%), hypertension (11.5%) and glossodynia (10.4%). The most frequent drug-related grade 3 and
+4 AEs (≥ 2%, two patients or more) included fatigue (7.3%), hypertension (6.3%), thrombocytopenia
+(6.3%), pyrexia (3.1%), hyponatremia (2.1%), anemia (2.1%), neutropenia (2.1%), febrile neutropenia
+(2.1%), decreased platelet count (2.1%), increased alanine aminotransferase (2.1%), increased GGT
+(2.1%) and sepsis (2.1%).
+
+(21.9%), palmar-plantar
+
+erythrodysaesthesia
+
+syndrome
+
+The cutoff for the efficacy analysis was September 17, 2016. In seven patients with BRAF
+V600-mutated melanoma (including one V600K and one V600R) who were naïve to BRAF or MEK
+inhibitors, there were three PRs and three cases of SD. In three patients with BRAF V600-mutated
+PTC, there was one PR and two cases of SD. In six patients with KRAS-mutated NSCLC, there was
+one PR and two cases of SD. In ten patients with solid tumors with BRAF non-V600 mutations or solid
+tumors with BRAF V600 mutations that are not included in other cohorts, there were two PRs, in one
+patient with BRAF V600E-mutated melanoma and one with BRAF V600E-mutated OC, and three
+cases of SD. In two patients with BRAF V600-mutated NSCLC, there was one unconfirmed PR and
+one case of SD. Additional cases of SD were observed in four of six melanoma patients with BRAF
+V600-mutated melanoma who had responses to but developed resistance against BRAF or MEK
+inhibitors, nine of 13 patients with BRAF V600-mutated CRC,
+five patients with
+KRAS-mutated endometrial cancer, 12 of 20 patients with KRAS/NRAS-mutated CRC, and 10 of 21
+patients with other KRAS/NRAS-mutated solid tumors or pancreatic cancer. In the Phase 1a portion
+of the trial, confirmed objective responses included a CR in a patient with BRAF V600E-mutated
+melanoma and two PRs, one in a patient with BRAF V600E-mutated thyroid cancer and one in a
+patient with KRAS-mutated endometrial cancer.
+
+five of
+
+— 232 —
+
+

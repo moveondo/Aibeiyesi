@@ -1,0 +1,69 @@
+BUSINESS
+
+Abbreviation: NRDL = national reimbursement drug list of China; PRDL = provincial reimbursement drug list; “No”
+means that the drug is not list in the NRDL or the PRDL even though it is marketed; “N.A.” means, with respect to
+retail price, not available, and with respect to NRDL/PRDL, not applicable because the drug candidate is not
+marketed yet.
+
+*
+
+(1)
+
+for a marketed product, it refers to the NMPA approval date; for a clinical stage product, it refers to the date
+when the information about clinical trials is published for the first time (首次公示日期); for a product with
+NDA submitted and the NDA result pending, it refers to the date of NDA submission.
+
+Merck has publicly announced its patient assistance program for Keytruda, subject to its right to cancel at
+anytime, which provides the patients for certain indications and with proven financial difficulties with free
+Keytruda for a certain period of time.
+
+Current PD-1 Therapies and Limitations
+
+Immunotherapy has become a lifesaving therapy for some patients with previously
+incurable cancers. Some types of cancers are exquisitely sensitive to immunotherapy with
+antibodies that bind to immune checkpoint proteins, and in so doing, stimulate the immune
+system to attack cancer cells. In patients with melanoma, Hodgkin’s disease and Merkel cell
+carcinoma, the majority have demonstrated substantial clinical benefit from treatment with
+these new types of therapy.
+
+Two PD-1 antibodies, pembrolizumab and nivolumab, have been approved outside China
+for the treatment of several types of cancer, including melanoma, non-small cell lung cancer
+(NSCLC), Hodgkin’s lymphoma, gastric cancer, microsatellite instability high (MSI-H)
+cancers, head and neck cancer, urothelial cancer, MSI-H/dMMR colorectal cancer, liver cancer,
+kidney cancer, bladder cancer, cervical cancer and primary mediastinal large B-cell lymphoma.
+One PD-1 antibody, nivolumab, has been approved in China for the treatment of locally
+advanced or metastatic NSCLC.
+antibodies,
+atezolizumab, avelumab and durvalumab, have been approved by the FDA for the treatment of
+a few types of cancers: metastatic NSCLC,
+locally advanced or metastatic urothelial
+carcinoma, and metastatic Merkel cell carcinoma. Unfortunately, less than 20% of all cancer
+patients have a clinically meaningful response to these approved PD-1 or PD-L1 antibody
+therapies.
+
+three PD-L1 monoclonal
+
+In addition,
+
+The clinical efficacy of an antibody drug depends upon several factors. The most
+important factor is the ability of the antibody to bind to the target with sufficient strength and
+duration. The currently approved antibodies against PD-1, pembrolizumab and nivolumab,
+have biological characteristics that could be enhanced, such as binding affinity and durations
+of target engagement.
+
+Advantages
+
+Sintilimab (IBI-308) has the potential to be a global best-in-class PD-1 antibody, based
+on characteristics that were designed into sintilimab that improve the biological properties
+compared to other well-studied PD-1 antibody drugs such as pembrolizumab and nivolumab.
+We believe sintilimab potentially has the following competitive advantages:
+
+Higher binding affinity for PD-1
+
+A major contributor to the action of an antibody in the body is how the antibody engages
+the target, including how tightly the antibody binds its antigen and how long the antibody stays
+bound to the antigen.
+
+– 229 –
+
+

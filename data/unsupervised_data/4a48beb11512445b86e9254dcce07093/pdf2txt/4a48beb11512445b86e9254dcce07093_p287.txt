@@ -1,0 +1,35 @@
+BUSINESS
+
+phagocytosis of tumor cells and stimulating T cells activation. Anti-CD47 antibodies tend to
+attack normal cells. However, IBI-322 molecules preferentially distribute to PD-L1 positive
+tumor cells and thereby reduce this potential on-target side effect associated with mono-
+specific anti-CD47 antibodies. Our pre-clinical data show that IBI-322 has promising in vivo
+efficacy,
+tumor-enriched distribution and better safety than a mono-specific anti-CD47
+antibody.
+
+The diagram below shows that IBI-322, a bi-specific antibody that contains a binding site
+for CD47 and a different binding site for PD-L1, has a dual mechanism of action-stimulation
+of macrophages and blockade of the PD-1 T-cell checkpoint. Macrophages are phagocytes
+(cells that “eat other cells and pathogens”). CD47 is a protein on the surface of many normal
+cells that signals to the macrophage: “Don’t eat me”. The signaling protein on the surface of
+the macrophage that interacts with CD47 is SIRP␣. Tumors often express high levels of CD47
+to inhibit macrophage phagocytosis. Also, tumors frequently express high levels of PD-L1, a
+protein that binds to the checkpoint receptor, PD-1, on surface of T-cell. This binding turns off
+the ability of a T-cell to kill PD-L1 expressing tumor cells. As is seen in the top panel of the
+following diagram, tumor cells that express both PD-L1 and CD47 are able to block two
+different pathways that would normally kill tumor cells. Normal erythrocytes also express
+CD47 so that high potency binding of an anti-CD47 antibody will cause the macrophage to
+ingest erythrocytes. The erythrocyte phagocytosis causes significant anemia. IBI-322 has a
+finely tuned affinity for CD47 and also has the PD-L1 binding component to only target tumor
+cells that express both PD-L1 and CD47. The bi-specific nature of IBI-322 and the careful
+tuning of the affinity allow the antibody to spare the erythrocytes which do not express PD-L1.
+
+Based on Yoji Murata, Takenori Kotani, Hiroshi Ohnishi and Takashi Matozaki. “The CD47-SIRP␣ signalling system:
+its physiological roles and therapeutic application.” J. Biochem. 2014 Jun; 155(6):335-344. Published online 2014
+Mar 12. doi:10.1093/jb/mvu017; Francisco, Loise M., Peter T. Sage and Arlene H. Sharpe. “The PD-1 Pathway in
+Tolerance and Autoimmunity.” Immunological Reviews 236 (2010): 219-242. PMC. Web. 1 Aug. 2018.
+
+– 278 –
+
+

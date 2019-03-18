@@ -1,0 +1,41 @@
+[
+    {
+        "font_family": "ff1",
+        "text": "欧菲科技股份有限公司  2017  年年度报告全文",
+        "bottom": 790.32,
+        "data_offset_end": 30,
+        "font_size": 36.0,
+        "left": 363.16,
+        "line_height": 0,
+        "data_offset_start": 6,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "Text_9999"
+    },
+    {
+        "font_family": "ff2",
+        "text": "26",
+        "bottom": 51.72,
+        "data_offset_end": 34,
+        "font_size": 36.0,
+        "left": 529.68,
+        "line_height": 0,
+        "data_offset_start": 31,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "Text_9999"
+    },
+    {
+        "font_family": "ff2",
+        "text": "C.    传感器产品：布局全屏化识别技术方案，持续巩固行业领军地位随着指纹识别产品的渗透率持续提高， 公司作为全球第一家量产玻璃 /陶瓷盖板指纹模组供应商，以及全球第一家量产电容式玻璃下指纹模组供应商，率先在全球范围内完成了全产业链整合，产能规模优势和资源整合优势将得到进一步有效发挥，截至报告期末，电容式指纹识别的产能达到 32KK/月。与此同时，公司具备成熟的屏下光学方案和超声波方案的指纹识别技术，充分发挥公司在触控和指纹识别领域的复合产业优势，有望开启指纹识别产业新一轮快速增长。（ 2 ）智能汽车公司全面布局智能汽车和车联网领域，打造 “双轮驱动 ”新引擎，推进业务结构化协同发展，以科技创新、商业模式创新带动企业升级。A ． HMI （ Human Machine Interface ，人车交互系统）是智能汽车和驾驶员实现双向沟通的纽带， 最重要的两类产品是智能中控台和数字化仪表盘。 公司引入优秀团队从事产品研发，组建得力的销售团队拓展客户。",
+        "bottom": 412.28,
+        "data_offset_end": 469,
+        "font_size": 48.0,
+        "left": 522.54,
+        "line_height": 0,
+        "data_offset_start": 35,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 44.88,
+        "level": "ATitle_9999"
+    }
+]

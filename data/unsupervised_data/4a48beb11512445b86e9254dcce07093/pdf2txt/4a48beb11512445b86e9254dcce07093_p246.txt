@@ -1,0 +1,36 @@
+BUSINESS
+
+The following graph shows the best objective response in each of the 96 patients as
+measured by the percentage of change from baseline in target lesion based on CT scans and
+PET scans. By IWG 2007 (International Working Group 2007) criteria for assessing objective
+response in Hodgkin’s lymphoma, patients whose tumor do not completely resolve based on
+size of the tumors but become PET scan negative (blue bars) are complete responses.
+
+Best response in relapsed/refractory classical Hodgkin’s lymphoma patients
+
+Abbreviations: CR = complete response; PR = partial response; SD = stable disease; PD = progressive disease.
+
+The safety profile of sintilimab is consistent with the expected safety profile of a
+PD-1-specific antibody such as those of nivolumab and pembrolizumab that does not involve
+side effects such as skin capillary hemangioma. In these 96 patients, every patient experienced
+at least one treatment emergent adverse event (TEAE), 92.7% of which were assessed as
+treatment related by the investigator. The majority of the TEAEs were grade 1 to 2. 25.0% of
+the TEAEs were grade 3 to 4. No grade 5 TEAE occurred. The most common treatment related
+adverse event (AE) was fever, which affected 40.6% of the patients during the study. Serious
+AE (SAEs) of any cause were reported in 14.6% of the patients, with the most common being
+pneumonia (3.1%), lung infection (2.1%), infectious pneumonia (2.1%), upper respiratory tract
+infection (2.1%) and infusion-related reaction (2.1%). Treatment related SAEs occurred in 11
+patients (11.5%). Adverse events that led to permanent treatment discontinuation occurred in
+three out of 96 patients, including one patient with grade 2 pneumonia, one patient with grade
+4 liver dysfunction, and one patient with grade 3 pneumonia and grade 4 platelet count
+decreased. 52 of the 96 patients reported immune related adverse events (irAE), including
+hypothyroidism (19.8%), serum thyrotropin increased (16.7%) and free thyroxine decreased
+(11.5%). Three patients experienced irAEs above grade 3, including one patient with grade 3
+alanine aminotransferase increase, one patient with grade 4 liver dysfunction, and one patient
+with grade 3 pneumonia and grade 3 platelet count decrease. Immune pneumonitis is a PD-1
+class specific adverse event. No fatalities and no unusual or unexpected safety signals, which
+are signals not related to the PD-1 class of drugs, have been observed in this study.
+
+– 237 –
+
+

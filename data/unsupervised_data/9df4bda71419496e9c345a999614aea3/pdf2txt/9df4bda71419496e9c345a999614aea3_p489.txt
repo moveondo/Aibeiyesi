@@ -1,0 +1,144 @@
+APPENDIX IA
+
+CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+The table below discloses movement of the Company’s share options held by the Group’s employees:
+
+Exercise
+
+Date of grant
+
+price Vesting date
+
+Expiry date
+
+RMB
+
+Number of share options
+
+Granted
+during
+the
+period
+
+Forfeited
+during
+the
+period
+
+Outstanding
+at
+September 30,
+2018
+
+(Unaudited)
+
+Outstanding
+at January 1,
+2018
+
+(Audited)
+
+May 14, 2018
+May 14, 2018
+May 14, 2018
+
+9.20 May 14, 2019 May 14, 2019
+9.20 May 14, 2020 May 14, 2020
+9.20 May 14, 2021 May 14, 2021
+
+– 1,465,250
+– 2,051,350
+– 2,344,400
+
+(11,500)
+(16,100)
+(18,400)
+
+1,453,750
+2,035,250
+2,326,000
+
+– 5,861,000
+
+(46,000)
+
+5,815,000
+
+–
+
+9.20
+
+Employees
+– Tranche 1
+– Tranche 2
+– Tranche 3
+
+Exercisable at
+the end of
+the period
+
+Weighted
+average
+exercise
+price (RMB)
+
+During the nine months ended September 30, 2018, share-based payment expenses of approximately
+
+RMB11,587,000 have been recognised in profit or loss.
+
+The following assumptions were used to calculate the fair values of share options:
+
+Share price (Note a)
+Exercise price
+Expected volatility (Note b)
+Dividend yield
+Risk-free rate
+Fair value per option
+
+Tranche 1
+
+Tranche 2
+
+Tranche 3
+
+RMB18.00
+RMB9.20
+36.40%
+0%
+2.90%
+RMB9.11
+
+RMB18.00
+RMB9.20
+31.40%
+0%
+3.10%
+RMB9.47
+
+RMB18.00
+RMB9.20
+43.30%
+0%
+3.20%
+RMB10.34
+
+Notes:
+
+(a)
+
+(b)
+
+The share price is determined based on the share price on February 23, 2018, which is the date of
+shareholders’ approval of newly issued shares on March 7, 2018.
+
+The expected volatility was determined by using the historical volatility of the share price of the
+comparable companies with similar business nature of the Company as of the valuation dates.
+
+The Black-Scholes option pricing model has been used to estimate the fair value of the options. The variables
+and assumptions used in computing the fair value of the share options are based on the directors’ best estimate.
+Changes in variables and assumptions may result in changes in the fair value of the options.
+
+– IA-22 –
+
+

@@ -1,0 +1,98 @@
+[
+    {
+        "data-offset-end": 86,
+        "pageid": 106,
+        "top": 1110,
+        "font-id": "f11",
+        "level": "Level",
+        "left": 144,
+        "text": "按權益法入賬的應佔聯營公司",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 74
+    },
+    {
+        "data-offset-end": 159,
+        "pageid": 106,
+        "top": 1560,
+        "font-id": "f10",
+        "level": "Level",
+        "left": 144,
+        "text": "下列各項應佔的全面收入╱（虧損）總額：",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 141
+    },
+    {
+        "data-offset-end": 212,
+        "pageid": 106,
+        "top": 1839,
+        "font-id": "f10",
+        "level": "Level",
+        "left": 144,
+        "text": "本公司擁有人應佔每股盈利（以每股人民幣元列示）：",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 189
+    },
+    {
+        "data-offset-end": 256,
+        "pageid": 106,
+        "top": 2188,
+        "font-id": "f11",
+        "level": "Level",
+        "left": 127,
+        "text": "第109至208頁之附註為此等綜合財務報表的組成部分。",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 230
+    },
+    {
+        "data-offset-end": 271,
+        "pageid": 106,
+        "top": 2303,
+        "font-id": "f7",
+        "level": "Level",
+        "left": 39,
+        "text": "104融創中國控股有限公司",
+        "font-size": 33,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 258
+    },
+    {
+        "data-offset-end": 280,
+        "pageid": 106,
+        "top": 2330,
+        "font-id": "f9",
+        "level": "Level",
+        "left": 127,
+        "text": "2017年度報告",
+        "font-size": 24,
+        "color": "rgba(101,98,98,1)",
+        "data-offset-start": 273
+    },
+    {
+        "data-offset-end": 328,
+        "pageid": 106,
+        "top": 362,
+        "font-id": "f10",
+        "level": "Level",
+        "left": 1279,
+        "text": "截至十二月三十一日止年度",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 317
+    },
+    {
+        "data-offset-end": 789,
+        "pageid": 106,
+        "top": 1840,
+        "font-id": "f12",
+        "level": "Level",
+        "left": 1153,
+        "text": "35",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 788
+    }
+]

@@ -1,0 +1,139 @@
+{
+    "root": true,
+    "children": [
+        {
+            "left": 187,
+            "top": 494,
+            "text": "1、2017-2019年，预计抗肿瘤产品销量增速为23%、23%、40%；麻醉产品销量增速为19%、21%、17%；造影剂销量增速为25%、26%、23%；心血管产品销量增速为-1%、30%、50%；抗感染产品销量增速为50%、60%、45%；特色输液销量增速为8%、10%、10%。",
+            "pageid": 2,
+            "font-size": 29,
+            "font-id": "f5",
+            "data-offset-start": 29,
+            "data-offset-end": 179,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 187,
+            "top": 698,
+            "level": "Level_0",
+            "text": "2、预计2017-2019年公司将获批吡咯替尼、硫培非格司亭、瑞格列汀、PD-1单抗四个重磅创新药，结合已获批的艾瑞昔布与阿帕替尼两个创新药，预计2017-2019年公司创新药销售额分别为17亿、30亿、63亿元。",
+            "pageid": 2,
+            "font-size": 29,
+            "font-id": "f5",
+            "data-offset-start": 181,
+            "children": [
+                {
+                    "left": 187,
+                    "top": 1551,
+                    "text": "（1）未来两年随着吡咯替尼、19K、PD-1、紫杉醇（白蛋白）等重磅产品的陆续获批，预计抗肿瘤2017-2019年销量增速分别为23%、23%、40%，毛利率分别为92%、92.5%、93%；",
+                    "pageid": 78,
+                    "font-size": 29,
+                    "font-id": "f2",
+                    "data-offset-start": 426,
+                    "data-offset-end": 527,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 187,
+                    "top": 1702,
+                    "text": "（2）预计麻醉2017-2019年销量增速分别为19%、21%、17%，毛利率分别为90%、90.5%、91%；",
+                    "pageid": 78,
+                    "font-size": 29,
+                    "font-id": "f2",
+                    "data-offset-start": 529,
+                    "data-offset-end": 589,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 187,
+                    "top": 1810,
+                    "text": "（3）预计造影剂2017-2019年销量增速分别为25%、26%、23%，毛利率分别为73%、75%、77%；",
+                    "pageid": 78,
+                    "font-size": 29,
+                    "font-id": "f2",
+                    "data-offset-start": 591,
+                    "data-offset-end": 650,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 187,
+                    "top": 1918,
+                    "text": "（4）随着氯吡格雷、磺达肝癸钠的获批，预计心血管2017-2019年销量增速分别为-1%、30%、50%，毛利率分别为84%、85%、90%，新获批品种2018-2019年销售额约为6000万、2.5亿元；",
+                    "pageid": 78,
+                    "font-size": 29,
+                    "font-id": "f2",
+                    "data-offset-start": 652,
+                    "data-offset-end": 763,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 187,
+                    "top": 2070,
+                    "text": "（5）随着达托霉素与卡泊芬净上市销售，预计抗感染2017-2019年销量增速分别为50%、60%、45%，毛利率分别为75%、80%、85%，达托霉素与卡泊芬净2017-2019年销售额合计约为1.5亿、3.5亿、6.5亿元；",
+                    "pageid": 78,
+                    "font-size": 29,
+                    "font-id": "f2",
+                    "data-offset-start": 765,
+                    "data-offset-end": 889,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 187,
+                    "top": 2222,
+                    "text": "（6）预计特色输液2017-2019年销量增速分别为8%、10%、10%，毛利率维持为85%。",
+                    "pageid": 78,
+                    "font-size": 29,
+                    "font-id": "f2",
+                    "data-offset-start": 891,
+                    "data-offset-end": 941,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 187,
+                    "top": 733,
+                    "text": "（2）所得税率为13%；",
+                    "pageid": 80,
+                    "font-size": 29,
+                    "font-id": "f2",
+                    "data-offset-start": 204,
+                    "data-offset-end": 216,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 187,
+                    "top": 802,
+                    "text": "（3）加权平均资本成本（WACC）为7.9%；",
+                    "pageid": 80,
+                    "font-size": 29,
+                    "font-id": "f2",
+                    "data-offset-start": 218,
+                    "data-offset-end": 241,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 187,
+                    "top": 870,
+                    "text": "（4）永续增长率为0.5%。",
+                    "pageid": 80,
+                    "font-size": 29,
+                    "font-id": "f2",
+                    "data-offset-start": 243,
+                    "data-offset-end": 257,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                }
+            ],
+            "color": "rgba(0,0,0,1)",
+            "data-offset-end": 298
+        }
+    ]
+}

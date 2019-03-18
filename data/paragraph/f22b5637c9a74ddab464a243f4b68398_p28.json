@@ -1,0 +1,38 @@
+[
+    {
+        "data-offset-end": 164,
+        "pageid": 28,
+        "top": 1980,
+        "font-id": "f11",
+        "level": "Level",
+        "left": 127,
+        "text": "註1：合同銷售金額排名數據由中國克爾瑞信息集團聯合中國房地產測評中心共同發布。",
+        "font-size": 22,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 125
+    },
+    {
+        "data-offset-end": 494,
+        "pageid": 28,
+        "top": 2303,
+        "font-id": "f7",
+        "level": "Level",
+        "left": 47,
+        "text": "26融創中國控股有限公司",
+        "font-size": 33,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 482
+    },
+    {
+        "data-offset-end": 503,
+        "pageid": 28,
+        "top": 2330,
+        "font-id": "f9",
+        "level": "Level",
+        "left": 127,
+        "text": "2017年度報告",
+        "font-size": 24,
+        "color": "rgba(101,98,98,1)",
+        "data-offset-start": 496
+    }
+]

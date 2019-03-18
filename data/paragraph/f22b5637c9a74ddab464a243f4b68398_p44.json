@@ -1,0 +1,122 @@
+[
+    {
+        "data-offset-end": 7,
+        "pageid": 44,
+        "top": 153,
+        "font-id": "f8",
+        "level": "Level",
+        "left": 127,
+        "text": "企業管治報告",
+        "font-size": 51,
+        "color": "rgba(190,146,91,1)",
+        "data-offset-start": 2
+    },
+    {
+        "data-offset-end": 19,
+        "pageid": 44,
+        "top": 344,
+        "font-id": "f10",
+        "level": "Level",
+        "left": 127,
+        "text": "公司風險管理結構如下：",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 9
+    },
+    {
+        "data-offset-end": 26,
+        "pageid": 44,
+        "top": 1008,
+        "font-id": "f11",
+        "level": "Level",
+        "left": 127,
+        "text": "風險管理程序",
+        "font-size": 33,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 21
+    },
+    {
+        "data-offset-end": 177,
+        "pageid": 44,
+        "top": 1103,
+        "font-id": "f10",
+        "level": "Level",
+        "left": 127,
+        "text": "本公司依據集團內部審計制度對主要業務風險進行識別、評估、處理，風險管控部門為本公司制定風險評估標準，評估可能影響實現業務目標的主要風險，並根據風險的重要性水平，對本公司業務進行風險評級，確定內部審計範圍和內容。業務單位同時對現有監控措施和管理方法進行評估，對經營管理中存在的潛在風險制定處理方案。",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 28
+    },
+    {
+        "data-offset-end": 331,
+        "pageid": 44,
+        "top": 1283,
+        "font-id": "f10",
+        "level": "Level",
+        "left": 127,
+        "text": "風險管控部門根據本公司業務開展情況，通過常規審計、專項審計、舉報調查審計等方式，對經營管理中的主要業務環節進行審計監督，對審計發現的各項風險事項要求業務單位進行整改，並對整改情況和措施進行跟蹤，確保各項風險事項得到有效控制，並定期組織公司業務單位進行培訓，分享內控經驗與風險資訊，提升公司風險管理水平。",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 179
+    },
+    {
+        "data-offset-end": 343,
+        "pageid": 44,
+        "top": 1458,
+        "font-id": "f11",
+        "level": "Level",
+        "left": 127,
+        "text": "風險管理及內部監控檢討",
+        "font-size": 33,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 333
+    },
+    {
+        "data-offset-end": 423,
+        "pageid": 44,
+        "top": 1553,
+        "font-id": "f10",
+        "level": "Level",
+        "left": 127,
+        "text": "本公司董事會每年檢討本集團在上一個財政年度風險管理及內部監控系統的有效性，並通過內、外部專業人員與機構對本集團的風險管理及內部監控體系和流程做出評估與建議。",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 345
+    },
+    {
+        "data-offset-end": 565,
+        "pageid": 44,
+        "top": 1688,
+        "font-id": "f10",
+        "level": "Level",
+        "left": 127,
+        "text": "年度檢討已就截至二零一七年十二月三十一日止年度審議了公司資源是否充裕、風險管理與內部監控措施和程序是否健全有效，本集團規定和主要業務流程能否適應經營管理的要求和公司快速發展的需要，且董事會亦對本公司各項內幕消息的處理和發佈程序及時性、有效性和規範性進行了充分評估，結果基本滿意。",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 425
+    },
+    {
+        "data-offset-end": 579,
+        "pageid": 44,
+        "top": 2303,
+        "font-id": "f7",
+        "level": "Level",
+        "left": 47,
+        "text": "42融創中國控股有限公司",
+        "font-size": 33,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 567
+    },
+    {
+        "data-offset-end": 588,
+        "pageid": 44,
+        "top": 2330,
+        "font-id": "f9",
+        "level": "Level",
+        "left": 127,
+        "text": "2017年度報告",
+        "font-size": 24,
+        "color": "rgba(101,98,98,1)",
+        "data-offset-start": 581
+    }
+]

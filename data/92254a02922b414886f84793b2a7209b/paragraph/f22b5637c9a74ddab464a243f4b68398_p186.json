@@ -1,0 +1,98 @@
+[
+    {
+        "data-offset-end": 38,
+        "pageid": 186,
+        "top": 347,
+        "font-id": "f11",
+        "level": "Level",
+        "left": 127,
+        "text": "33財務收入及成本",
+        "font-size": 39,
+        "color": "rgba(222,129,14,1)",
+        "data-offset-start": 29
+    },
+    {
+        "data-offset-end": 76,
+        "pageid": 186,
+        "top": 888,
+        "font-id": "f13",
+        "level": "Level",
+        "left": 212,
+        "text": "財務收入：",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 72
+    },
+    {
+        "data-offset-end": 309,
+        "pageid": 186,
+        "top": 1111,
+        "font-id": "f13",
+        "level": "Level",
+        "left": 195,
+        "text": "二零一七年用於釐定符合資本化條件的利息支出的資本化率為6.24%（二零一六年：5.98%）。",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 264
+    },
+    {
+        "data-offset-end": 318,
+        "pageid": 186,
+        "top": 1195,
+        "font-id": "f11",
+        "level": "Level",
+        "left": 127,
+        "text": "34所得稅開支",
+        "font-size": 39,
+        "color": "rgba(222,129,14,1)",
+        "data-offset-start": 311
+    },
+    {
+        "data-offset-end": 324,
+        "pageid": 186,
+        "top": 1412,
+        "font-id": "f13",
+        "level": "Level",
+        "left": 212,
+        "text": "企業所得稅",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 320
+    },
+    {
+        "data-offset-end": 336,
+        "pageid": 186,
+        "top": 1511,
+        "font-id": "f13",
+        "level": "Level",
+        "left": 237,
+        "text": "遞延所得稅",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 332
+    },
+    {
+        "data-offset-end": 533,
+        "pageid": 186,
+        "top": 2303,
+        "font-id": "f7",
+        "level": "Level",
+        "left": 39,
+        "text": "184融創中國控股有限公司",
+        "font-size": 33,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 520
+    },
+    {
+        "data-offset-end": 542,
+        "pageid": 186,
+        "top": 2330,
+        "font-id": "f9",
+        "level": "Level",
+        "left": 127,
+        "text": "2017年度報告",
+        "font-size": 24,
+        "color": "rgba(101,98,98,1)",
+        "data-offset-start": 535
+    }
+]

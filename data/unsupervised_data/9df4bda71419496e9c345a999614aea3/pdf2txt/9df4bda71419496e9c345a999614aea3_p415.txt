@@ -1,0 +1,79 @@
+APPENDIX I
+
+Intangible assets
+
+Intangible assets acquired separately
+
+ACCOUNTANTS’ REPORT
+
+Intangible assets with finite useful lives that are acquired separately are carried at costs less accumulated
+amortisation and any accumulated impairment losses. Amortisation for intangible assets with finite useful lives is
+recognised on a straight-line basis over their estimated useful lives. The estimated useful life and amortisation
+method are reviewed at the end of each reporting period, with the effect of any changes in estimate being accounted
+for on a prospective basis.
+
+Internally-generated intangible assets – research and development expenditure
+
+Expenditure on research activities is recognised as an expense in the period in which it is incurred.
+
+An internally-generated intangible asset arising from development activities is recognised if, and only if all of
+
+the following have been demonstrated:
+
+(cid:129)
+
+(cid:129)
+
+(cid:129)
+
+(cid:129)
+
+(cid:129)
+
+(cid:129)
+
+the technical feasibility of completing the intangible assets so that it will be available for use or sale;
+
+the intention to complete the intangible asset and use or sell it;
+
+the ability to use or sell the intangible assets;
+
+the intangible asset will generate probable future economic benefits;
+
+the availability of adequate technical, financial and other resources to complete the development and to
+use or sell the intangible asset; and
+
+the ability to measure reliably the expenditure attributable to the intangible asset during its
+development.
+
+The amount initially recognised for internally-generated intangible asset is the sum of the expenditure incurred
+from the date when the intangible asset first meets the recognition criteria listed above. Where no internally-
+generated intangible asset can be recognised, development expenditure is recognised in profit or loss in the period
+in which it is incurred.
+
+Subsequent to initial recognition, internally-generated intangible assets are reported at cost less accumulated
+amortisation and accumulated impairment losses (if any), on the same basis as intangible assets that are acquired
+separately.
+
+Impairment on tangible and intangible assets other than goodwill (see the accounting policy in respect of
+goodwill above)
+
+At the end of the reporting period, the Group reviews the carrying amounts of its tangible and intangible assets
+with finite useful lives to determine whether there is any indication that those assets have suffered an impairment
+loss. If any such indication exists, the recoverable amount of the relevant asset is estimated in order to determine the
+extent of the impairment loss (if any).
+
+When it is not possible to estimate the recoverable amount of an asset individually, the Group estimates the
+recoverable amount of the cash-generating unit to which the asset belongs. When a reasonable and consistent basis
+of allocation can be identified, corporate assets are also allocated to individual cash-generating units, or otherwise
+they are allocated to the smallest group of cash-generating units for which a reasonable and consistent allocation basis
+can be identified.
+
+Recoverable amount is the higher of fair value less costs of disposal and value in use. In assessing value in
+use, the estimated future cash flows are discounted to their present value using a pre-tax discount rate that reflects
+current market assessments of the time value of money and the risks specific to the asset (or a cash-generating unit)
+for which the estimates of future cash flows have not been adjusted.
+
+– I-22 –
+
+

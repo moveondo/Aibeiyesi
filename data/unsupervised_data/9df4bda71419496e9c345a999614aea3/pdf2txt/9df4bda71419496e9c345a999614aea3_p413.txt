@@ -1,0 +1,67 @@
+APPENDIX I
+
+ACCOUNTANTS’ REPORT
+
+Government grants that are receivable as compensation for expenses or losses already incurred or for the
+purpose of giving immediate financial support to the Group with no future related costs are recognised in profit or
+loss in the period in which they become receivable.
+
+Retirement benefits costs
+
+The Group participates in state-managed retirement benefit schemes, which are defined contribution schemes,
+pursuant to which the Group pays a fixed percentage of its qualifying staff’s wages as contributions to the plans.
+Payments to such retirement benefit schemes are charged as an expense when employees have rendered service
+entitling them to the contributions.
+
+Short-term employee benefits
+
+Short-term employee benefits are recognised at the undiscounted amount of the benefits expected to be paid
+as and when employees rendered the services. All short-term employee benefits are recognised as an expense unless
+another IFRS standards requires or permits the inclusion of the benefit in the cost of an asset.
+
+A liability is recognised for benefits accruing to employees (such as wages and salaries, annual leave and sick
+
+leave) after deducting any amount already paid.
+
+Share-based payment arrangements
+
+Equity-settled share-based payment transactions
+
+Equity-settled share-based payments to employees and others providing similar services are measured at the
+
+fair value of the equity instruments at the grant date.
+
+The fair value of the equity-settled share-based payments determined at the grant date without taking into
+consideration all non-market vesting conditions is expensed on a straight-line basis over the vesting period, based on
+the Group’s estimate of equity instruments that will eventually vest, with a corresponding increase in equity (share
+option reserve). At the end of each reporting period, the Group revises its estimate of the number of equity
+instruments expected to vest based on assessment of all relevant non-market vesting conditions. The impact of the
+revision of the original estimates, if any, is recognised in profit or loss such that the cumulative expense reflects the
+revised estimate, with a corresponding adjustment to the share options reserve.
+
+When share options are exercised, the amount previously recognised in share option reserve will be transferred
+to share premium. When the share options are forfeited after the vesting date or are still not exercised at the expiry
+date, the amount previously recognised in share option reserve will be transferred to accumulated losses.
+
+Taxation
+
+Income tax expense represents the sum of the tax currently payable and deferred tax.
+
+The tax currently payable is based on taxable profit for the Track Record Period. Taxable profit differs from
+“loss before tax” as reported in the consolidated statements of profit or loss and other comprehensive income because
+of income or expense that are taxable or deductible in other years and items that are never taxable or deductible. The
+Group’s liability for current tax is calculated using tax rates that have been enacted or substantively enacted by the
+end of each reporting period.
+
+Deferred tax is recognised on temporary differences between the carrying amounts of assets and liabilities in
+the Historical Financial Information and the corresponding tax base used in the computation of taxable profit.
+Deferred tax liabilities are generally recognised for all taxable temporary differences. Deferred tax assets are
+generally recognised for all deductible temporary difference to the extent that it is probable that taxable profits will
+be available against which those deductible temporary differences can be utilised. Such deferred tax assets and
+liabilities are not recognised if the temporary difference arises from the initial recognition of assets and liabilities in
+a transaction that affects neither the taxable profit nor the accounting profit. In addition, deferred tax liabilities are
+not recognised if the temporary difference arises from the initial recognition of goodwill.
+
+– I-20 –
+
+

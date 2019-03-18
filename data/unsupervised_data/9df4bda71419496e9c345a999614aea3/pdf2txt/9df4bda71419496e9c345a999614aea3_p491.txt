@@ -1,0 +1,146 @@
+APPENDIX IA
+
+CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+Financial
+assets/financial
+liabilities
+
+Fair value as at
+
+September 30,
+2018
+
+December 31,
+2017
+
+Fair value
+hierarchy
+
+Valuation techniques
+and key inputs
+
+Significant
+unobservable inputs
+
+RMB’000
+(Unaudited)
+
+RMB’000
+(Audited)
+
+Fund
+
+2,350
+
+102,434 Level 2
+
+Fair value determined
+
+N/A
+
+based on fair value of
+underlying debt
+investments using
+discounted cash flow
+method based on the
+return from the
+underlying investments
+and quoted market
+price of underlying
+equity investments
+
+Unlisted equity
+
+investment
+
+15,000
+
+– Level 2
+
+Recent transaction price
+
+N/A
+
+Foreign
+
+–
+
+(16,034) Level 2
+
+(213,988)
+
+– Level 3
+
+Binomial option pricing
+
+Expected volatility of
+
+model the key input
+are underlying share
+price, conversion
+price, discount rate,
+expected volatility,
+debt yield and risk-
+free rate
+
+42%, taking into
+account the historical
+volatility of the
+comparable companies
+(Note a)
+
+Discount rate of 20.03%
+
+(Note b)
+
+There were no transfers between Level 1 and Level 2 during both periods.
+
+Notes:
+
+(a)
+
+A slight increase in the expected volatility used in isolation would result in a slight increase in the fair
+value measurement of convertible loan notes, and vice versa. If the volatility was 5% higher/lower to
+47%/37% while holding all other variables constant, the carrying amount of the convertible loan notes
+would increase by RMB7,153,000 or decrease by RMB3,947,000 as at September 30, 2018.
+
+(b)
+
+A slight increase in the discount rate used in isolation would result in a slight decrease in the fair value
+measurement of convertible loan notes, and vice versa. If the discount rate was 0.5% higher/lower to
+20.5%/19.5% while all other variables constant, the carrying amount of the convertible loan notes would
+decrease by RMB1,634,000 or increase by RMB1,652,000 as at September 30, 2018.
+
+– IA-24 –
+
+currency
+forward
+contracts
+classified as
+derivative
+financial
+instruments
+
+Convertible
+loan notes
+designated
+at FVTPL
+
+N/A
+
+Discounted cash flow –
+Future cash flows are
+estimated based on
+forward exchange rates
+(from observable
+forward exchange rates
+at the end of each
+reporting date) and
+contracted forward
+rates at a rate that
+reflects the credit risk
+of various
+counterparties
+
+

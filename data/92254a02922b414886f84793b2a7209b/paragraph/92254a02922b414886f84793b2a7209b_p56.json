@@ -1,0 +1,41 @@
+[
+    {
+        "font_family": "ff1",
+        "text": "欧菲科技股份有限公司  2017  年年度报告全文",
+        "bottom": 790.32,
+        "data_offset_end": 30,
+        "font_size": 36.0,
+        "left": 363.16,
+        "line_height": 0,
+        "data_offset_start": 6,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "Text_9999"
+    },
+    {
+        "font_family": "ff2",
+        "text": "56",
+        "bottom": 51.72,
+        "data_offset_end": 34,
+        "font_size": 36.0,
+        "left": 529.68,
+        "line_height": 0,
+        "data_offset_start": 31,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "Text_9999"
+    },
+    {
+        "font_family": "ff2",
+        "text": "（ 1）传统液晶屏触控显示和贴合业务，在保证稳定出货量的情况下，进一步摊薄成本，提升利润率；（ 2）针对AMOLED 行业发展，持续加强新技术研发，突破行业龙头客户，进入其他手机厂商的 AMOLED业务；（ 3 ）在国内一线汽车厂商的中控系统供应链体系，获取更大的发展机会。公司继续发挥已经储备的薄膜触摸屏、  3D玻璃、3D全贴合、触觉反馈等新产品和技术优势，进一步提升曲面屏全贴合业务的量产能力。3 、生物识别（ 1 ）伴随手机指纹识别市场的高速渗透，保持传统指纹识别业务的优势，凭借储备的成熟的屏下光学式方案和超声波方案的指纹识别技术，围绕最终客户实际需求快速响应，提供满足客户要求的方案，巩固龙头地位。（ 2 ）不断优化自身的技术，构筑更高的技术壁垒，建立可复制的商业模式并实现商业突破；（ 3 ）拓展更多领域的商业化应用，如车载类的驾驶习惯个性化定制、无钥匙启动、中控娱乐个性化定制、智能车联移动支付等；智能家居类的智能指纹锁、蓝牙遥控器、白色家电等；金融卡、门禁卡类的其他领域的拓展。4 、智能汽车公司认为汽车智能化程度将会逐步提升，自动驾驶相关电子硬件市场 规模有望达到智能",
+        "bottom": 524.68,
+        "data_offset_end": 541,
+        "font_size": 48.0,
+        "left": 422.7,
+        "line_height": 0,
+        "data_offset_start": 35,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 44.88,
+        "level": "ATitle_9999"
+    }
+]

@@ -1,0 +1,67 @@
+APPENDIX I
+
+(ii)
+
+Preferred Shares
+
+ACCOUNTANTS’ REPORT
+
+Under US GAAP, the Preferred Shares issued by the Company are classified as mezzanine equity as these convertible
+preferred shares are redeemable upon the occurrence of a conditional event (i.e., Liquidation Transaction). The holders
+of the Preferred Shares have a liquidation preference upon the occurrence of the conditional event. As explained in note
+II.30, the conversion options and contingent redemption options of the convertible preferred shares do not qualify for
+bifurcation accounting. No beneficial conversion features are recognized for the convertible preferred shares as the fair
+values per ordinary share at the respective commitment dates were less than the most favorable conversion prices. The
+Company concluded that the Preferred Shares are not redeemable currently, and is not probable that the Preferred Shares
+will become redeemable because the likelihood of the Liquidation Transaction is remote. Therefore, no adjustment will
+be made to the initial carrying amount of the Preferred Shares until it is probable that they will become redeemable.
+
+Under IFRSs, certain redemption triggering events of the Preferred Shares are outside the control of the ordinary
+shareholders of the Company. In addition, the holders of the Preferred Shares are entitled to convert the Preferred Shares
+into a variable number of the Company’s ordinary shares upon occurrence of certain anti-dilution events. Accordingly,
+the Preferred Shares are regarded as a hybrid instruments consisting of a host debt instrument and a conversion option
+as a derivative. The Company designated the entire Preferred Shares as financial liabilities at fair value through profit
+or loss such that the preferred Shares are initially recognized at fair value. Subsequent to initial recognition, the amount
+of change in the fair value of the Preferred Shares that is attributed to changes in credit risk of the Preferred Shares are
+presented in other comprehensive income and the remaining amount of change in the fair value of the Preferred Shares
+are presented in the income statements in the year in which they arose. The Group considered that amount of change in
+the fair value of the Preferred Shares that is attributed to changes in credit risk of the Preferred Shares are not significant
+for the periods prior to the conversion into the Company’s ordinary shares in February 2016. Hence all the fair value
+changes in the Preferred Shares of US$307,894,000 prior to the conversion was recognized in the income statement under
+IFRSs, which included an amount of changes in fair value of Preferred Shares of US$114,142,000 and US$193,752,000
+attributed to the year ended December 31, 2016 and the periods prior to January 1, 2016 respectively.
+
+(iii)
+
+Tax benefit/deficiency on share based compensation
+
+Under US GAAP, deferred taxes are calculated based on the cumulative share based compensation expense recognized
+in the Historical Financial Information, and ASC 2016-09 required all excess tax benefits and tax deficiencies to be
+recorded as income tax expense or benefit in the income statement, rather than in shareholders’ equity.
+
+Under IFRSs, deferred taxes are calculated based on the estimated tax deduction determined at each reporting date. If
+the tax deduction exceeds cumulative compensation cost for an individual award, deferred tax based on the excess is
+credited to shareholders’ equity. If the tax deduction is less than or equal to cumulative compensation cost for an
+individual award, deferred taxes are recorded in income statement.
+
+Hence difference of US$8,617,000 (December 31, 2016: nil) arose between the amount of deferred tax asset recognised
+under US GAAP and IFRSs as at December 31, 2017. Such difference is recognised in equity under IFRSs. The difference
+in the amount of deferred tax asset recognized as at March 31, 2018 under US GAAP and IFRSs remain unchanged from
+US$ 8,617,000 as of December 31, 2017. This is because no additional deferred tax asset can be recognized during the
+three months ended March 31, 2018 under IFRS, which is after taking into account the extent of future available taxable
+profit against which the estimated additional
+tax deduction can be utilized. In addition, excess tax deduction of
+US$2,066,000 (year ended December 31, 2016: nil) is recognized in equity under IFRSs, rather than income statement
+under US GAAP, for the year ended December 31, 2017. Similarly, the excess tax deduction of US$3,538,000 during the
+
+three months ended March 31, 2018 (three months ended March 31, 2017: nil) is credited to equity under IFRSs.
+
+40. SUBSEQUENT FINANCIAL STATEMENTS
+
+No audited financial statements have been prepared by the Group or any subsidiaries in respect
+
+of any period subsequent to March 31, 2018.
+
+— I-96 —
+
+

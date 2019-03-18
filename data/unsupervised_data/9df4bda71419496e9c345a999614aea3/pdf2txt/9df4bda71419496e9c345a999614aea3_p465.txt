@@ -1,0 +1,229 @@
+APPENDIX I
+
+ACCOUNTANTS’ REPORT
+
+42c. Fair value measurements of financial instruments
+
+This note provides information about how the Group determines fair values of various financial assets and
+
+financial liabilities.
+
+(i)
+
+Fair value of the Group’s financial assets and financial liabilities that are measured at fair value on
+a recurring basis
+
+Certain of the Group’s financial assets and financial liabilities are measured at fair value at the end of
+December 31, 2016 and 2017 and June 30, 3018. The following table gives information about how the fair
+values of these financial assets and financial liabilities are determined in particular, the valuation techniques
+and inputs used.
+
+Fair value at
+
+31.12.2016 31.12.2017
+
+30.6.2018
+
+RMB’000
+
+RMB’000
+
+RMB’000
+
+Fair value
+hierarchy
+
+Valuation techniques
+and key inputs
+
+Significant
+unobservable inputs
+
+4,687
+
+4,323
+
+–
+
+active market
+
+Level 1
+
+Quoted bid prices in an
+
+N/A
+
+456,864
+456,864
+
+45,000
+–
+
+7,500
+–
+
+Fund
+
+– The Group
+– The Company
+
+129,234
+129,182
+
+102,434
+102,394
+
+76,679
+76,639
+
+Level 2
+
+Level 2
+
+N/A
+
+N/A
+
+Discounted cash flow –
+Future cash flows are
+estimated based on
+expected return,
+discounted at a rate
+that reflects the risk of
+underlying investments
+
+Fair value determined
+
+based on fair value of
+underlying debt
+investments using
+discounted cash flow
+method based on the
+return from the
+underlying investments
+and quoted market
+price of underlying
+equity investments
+
+–
+
+–
+
+15,000 Level 2
+
+Recent transaction price
+
+N/A
+
+Financial assets/
+financial liabilities
+
+Corporate bond
+
+– The Group and
+
+the Company
+Financial products
+
+– The Group
+– The Company
+
+Unlisted equity
+
+investment
+– The Group and
+
+the Company
+Foreign currency
+
+forward contracts
+classified as
+derivative financial
+instruments
+– The Group
+
+– The Company
+
+Level 2
+
+Assets
+4,588
+Liabilities
+nil
+Assets
+915
+Liabilities
+nil
+
+Assets
+nil
+Liabilities
+16,034
+Assets
+nil
+Liabilities
+16,304
+
+Assets
+nil
+Liabilities
+nil
+Assets
+nil
+Liabilities
+nil
+
+Convertible loan notes
+designated at FVTPL
+– The Group and
+
+the Company
+
+Level 3
+
+–
+
+–
+
+(209,601)
+
+Discounted cash flow –
+Future cash flows are
+estimated based on
+forward exchange rates
+(from observable
+forward exchange rates
+at the end of each
+reporting date) and
+contracted forward
+rates at a rate that
+reflects the credit risk
+of various
+counterparties
+
+Binomial option pricing
+
+model the key input
+are underlying share
+price, conversion price,
+discount rate, expected
+volatility, debt yield
+and risk-free rate
+
+N/A
+
+Expected volatility of
+
+42%, taking into
+account historical
+of the comparable
+companies (Note a)
+Discount rate of 20%
+
+(Note b)
+
+There were no transfers between Level 1 and Level 2 during the Track Record Period.
+
+– I-72 –
+
+

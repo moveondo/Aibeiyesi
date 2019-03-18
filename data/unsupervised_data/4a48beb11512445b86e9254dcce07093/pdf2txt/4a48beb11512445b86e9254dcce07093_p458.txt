@@ -1,0 +1,85 @@
+APPENDIX I
+
+ACCOUNTANTS’ REPORT
+
+Impairment of financial assets
+
+The Group recognises a loss allowance for ECL on investments in debt instruments that are measured at
+amortised cost. The amount of ECL is updated at each reporting date to reflect changes in credit risk since initial
+recognition of the respective financial instrument.
+
+The Group always recognises lifetime ECL for trade receivables. The ECL on these financial assets are
+estimated using a provision matrix based on the Group’s historical credit loss experience, adjusted for factors that
+are specific to the debtors, general economic conditions and an assessment of both the current as well as the forecast
+direction of conditions at the reporting date, including time value of money where appropriate.
+
+increased significantly since initial recognition,
+
+For all other financial instruments, the Group recognises lifetime ECL when there has been a significant
+increase in credit risk since initial recognition. If, on the other hand, the credit risk on the financial instrument has
+not
+the Group measures the loss allowance for that financial
+instrument at an amount equal to twelve-months ECL. The assessment of whether lifetime ECL should be recognised
+is based on significant increases in the likelihood or risk of a default occurring since initial recognition instead of
+on evidence of a financial asset being credit-impaired at the reporting date or an actual default occurring.
+
+Lifetime ECL represent the ECL that will result from all possible default events over the expected life of a
+financial instrument. In contrast, twelve-months ECL (“12m ECL”) represent the portion of lifetime ECL that is
+expected to result from default events on a financial instrument that are possible within twelve months after the
+reporting date.
+
+Significant increase in credit risk
+
+In assessing whether the credit risk on a financial
+
+instrument has increased significantly since initial
+recognition, the Group compares the risk of a default occurring on the financial instrument as at the reporting date
+with the risk of a default occurring on the financial instrument as at the date of initial recognition. In making this
+assessment, the Group considers both quantitative and qualitative information that is reasonable and supportable,
+including historical experience and forward-looking information that is available without undue cost or effort.
+Forward-looking information considered includes the future prospects of the industries in which the Group’s debtors
+operate, obtained from economic expert reports, financial analysts, governmental bodies, relevant think-tanks and
+other similar organisations, as well as consideration of various external sources of actual and forecast economic
+information that relate to the Group’s core operations.
+
+In particular, the following information is taken into account when assessing whether credit risk has increased
+
+significantly since initial recognition:
+
+(cid:129)
+
+(cid:129)
+
+(cid:129)
+
+(cid:129)
+
+(cid:129)
+
+(cid:129)
+
+an actual or expected significant deterioration in the financial instrument’s external (if available) or
+internal credit rating;
+
+significant deterioration in external market indicators of credit risk for a particular financial instrument,
+e.g. a significant increase in the credit spread, the credit default swap prices for the debtor, or the length
+of time or the extent to which the fair value of a financial asset has been less than its amortised cost;
+
+existing or forecast adverse changes in business, financial or economic conditions that are expected to
+cause a significant decrease in the debtor’s ability to meet its debt obligations;
+
+an actual or expected significant deterioration in the operating results of the debtor;
+
+significant increases in credit risk on other financial instruments of the same debtor; and
+
+an actual or expected significant adverse change in the regulatory, economic, or technological
+environment of the debtor that results in a significant decrease in the debtor’s ability to meet its debt
+obligations.
+
+Irrespective of the outcome of the above assessment, the Group presumes that the credit risk on a financial
+asset has increased significantly since initial recognition when contractual payments are more than 30 days past due,
+unless the Group has reasonable and supportable information that demonstrates otherwise.
+
+– I-21 –
+
+

@@ -1,0 +1,98 @@
+BUSINESS
+
+Mechanisms of action of anti-CD20 mAbs
+
+Apoptosis/
+Ligand blockade
+
+CDC
+
+Compl-
+ement
+
+A p o p t o s
+
+s
+
+i
+
+Cytotoxicity
+
+Apoptosis
+
+ADCC
+ADCC
+
+T cell
+
+Cross-
+linking
+
+Cancer Cell
+
+p
+
+o
+
+A
+
+ptosis
+
+Apoptosis
+
+T
+
+ c
+e
+ll
+
+Complement
+enhanced
+ADCC
+
+T cell
+
+Source: FDA, Frost & Sullivan analysis
+
+Notes:
+
+CD20 mAbs can induce tumor killing in several ways.
+
+A.
+
+B.
+
+C.
+
+D.
+
+E.
+
+Direct binding of CD20 mAbs initiates the crosslinking of multiple CD20 molecules, resulting in cell-death
+via induction of non-classical apoptosis;
+
+Activation of complement results in complement-dependent cytotoxicity;
+
+Recognition of opsonized tumor cells by Fc␥Rs expressed on immune effector cells initiates antibody-
+dependent cell-mediated cytotoxicity;
+
+Fc␥R may only serve as crosslinking platform and thereby enhance antigen signaling in the tumor cells;
+
+Ab-initiated complement activation yields to deposition of complement cleavage fragments, which may
+enhance tumor killing through recognition by complement receptors (CRs) in a process called complement-
+enhanced ADCC.
+
+Market Opportunities and Competition
+
+Originally developed by Roche and Genentech, and first approved for marketing in 1997,
+rituximab is used for treatment of non-Hodgkin’s lymphoma, chronic lymphocytic leukemia,
+rheumatoid arthritis, granulomatosis with polyangiitis, idiopathic thrombocytopenic purpura,
+pemphigus vulgaris and myasthenia gravis. Rituxan reached US$7.5 billion in worldwide sales
+in 2017, according to the Frost & Sullivan Report.
+
+According to Frost & Sullivan Report, there were 81,800 new cases of non-Hodgkin’s
+lymphoma in China in 2017, and the incidence is expect to increase to 90,100 in 2022. These
+
+– 252 –
+
+

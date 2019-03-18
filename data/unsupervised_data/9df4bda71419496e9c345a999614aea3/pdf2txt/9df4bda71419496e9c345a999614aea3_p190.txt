@@ -1,0 +1,63 @@
+BUSINESS
+
+Notes:
+
+(1) We have completed Phase II clinical trial for melanoma 2L, based on which we filed NDA with
+the NMPA. We expect to obtain such NDA approval in late 2018 or early 2019 and are preparing
+to launch JS001 in the PRC shortly after obtaining NDA approval. We were undertaking Phase
+III clinical trial for melanoma 1L as of the Latest Practicable Date.
+
+(2) We plan to initiate Phase III clinical trials of JS001 for nasopharyngeal carcinoma, gastric
+carcinoma, esophageal carcinoma and non-small cell lung carcinoma in the first quarter of 2019.
+For indications other than the above-mentioned ones and melanoma, we will determine the timing
+of the initiation of the next phase of clinical trials based on various considerations including the
+progress and outcome of
+industry development and
+competition.
+
+the current phase of clinical
+
+trials,
+
+(3)
+
+In accordance with the biosimilar approval pathway in China, we were undertaking Phase I and
+Phase III clinical trials of UBP1211 concurrently as of the Latest Practicable Date.
+
+JS001 (toripalimab, anti-PD-1 mAb)
+
+JS001, or toripalimab, is a recombinant humanized anti-PD-1 monoclonal antibody for
+injection addressing various malignant tumors. We optimized JS001 through various R&D
+steps, in particular the discovery and efficient identification of new molecular entities, the
+humanization of mouse antibodies, functional evaluation of antibody leads in vivo and the
+construction of productive and stable cell lines, all of which made JS001 an innovative drug
+with distinctive treatment advantages.
+
+JS001 is our most advanced product candidate and is currently in the near-commercial
+stage. We are cooperating with KOLs and PIs in a number of clinical trial centers in the PRC
+to conduct Phase II and Phase III clinical trials of JS001 for oncological indications including
+malignant melanoma, urothelial cancer, gastric cancer, esophageal cancer and nasopharyngeal
+cancer. We also started Phase I clinical trial of JS001 in the United States in March 2018.
+
+Mechanism of Action
+
+PD-1 is an inhibitory receptor expressed on activated B and T lymphocytes and myeloid
+cells. Constitutive surface expression of PD-L1 is restricted to antigen presentation cells (APC)
+and cells at immune-privileged sites. Expression of PD-L1, however, could be induced on a
+variety of tissue and cell types, including leukocytes, peripheral epithelial and endothelial cells
+upon stimulation by pro-inflammatory cytokines, such as interferons and TNF. The PD-L1
+expression profile implicates a role in APC function and host response to inflammatory stimuli.
+Unlike the broad inducible expression pattern of PD-L1, surface expression of PD-L2 is
+restricted to dendritic cells and macrophages, implicating a role in APC function. PD-L1 is
+rapidly upregulated in the peripheral tissues in response to inflammation to shut down immune
+responses through PD-1 expressed on lymphocytes. They are the host natural check point to
+prevent
+immunopathology as a consequence of lymphocyte activation. This safeguarding
+mechanism was exploited by cancer to evade host immune attack. PD-L1, the primary PD-1
+ligand in the peripheral tissue, is found to be overexpressed in many solid tumors, and PD-L1
+expression has been identified as a negative prognostic biomarker in various cancers associated
+with poor survival.
+
+– 184 –
+
+

@@ -1,0 +1,122 @@
+[
+    {
+        "data-offset-end": 9,
+        "pageid": 163,
+        "top": 153,
+        "font-id": "f8",
+        "level": "Level",
+        "left": 1240,
+        "text": "綜合財務報表附註",
+        "font-size": 51,
+        "color": "rgba(222,129,14,1)",
+        "data-offset-start": 2
+    },
+    {
+        "data-offset-end": 27,
+        "pageid": 163,
+        "top": 215,
+        "font-id": "f10",
+        "level": "Level",
+        "left": 1187,
+        "text": "截至二零一七年十二月三十一日止年度",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 11
+    },
+    {
+        "data-offset-end": 99,
+        "pageid": 163,
+        "top": 625,
+        "font-id": "f13",
+        "level": "Level",
+        "left": 331,
+        "text": "以下載列主要聯營公司的財務資料概要。",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 82
+    },
+    {
+        "data-offset-end": 107,
+        "pageid": 163,
+        "top": 906,
+        "font-id": "f12",
+        "level": "Level",
+        "left": 348,
+        "text": "資產及負債概要",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 101
+    },
+    {
+        "data-offset-end": 165,
+        "pageid": 163,
+        "top": 715,
+        "font-id": "f12",
+        "level": "Level",
+        "left": 1367,
+        "text": "聯營公司－A",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 160
+    },
+    {
+        "data-offset-end": 193,
+        "pageid": 163,
+        "top": 816,
+        "font-id": "f12",
+        "level": "Level",
+        "left": 1235,
+        "text": "十二月三十一日十二月三十一日",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 179
+    },
+    {
+        "data-offset-end": 391,
+        "pageid": 163,
+        "top": 1294,
+        "font-id": "f12",
+        "level": "Level",
+        "left": 1367,
+        "text": "聯營公司－A",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 386
+    },
+    {
+        "data-offset-end": 589,
+        "pageid": 163,
+        "top": 1852,
+        "font-id": "f13",
+        "level": "Level",
+        "left": 331,
+        "text": "以上資料反映在聯營公司財務報表內呈列的數額（並非本公司享有此等數額的份額），並經就本集團與聯營公司之間會計政策的差異作出調整。",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 526
+    },
+    {
+        "data-offset-end": 604,
+        "pageid": 163,
+        "top": 2303,
+        "font-id": "f8",
+        "level": "Level",
+        "left": 1412,
+        "text": "融創中國控股有限公司161",
+        "font-size": 24,
+        "color": "rgba(222,129,14,1)",
+        "data-offset-start": 591
+    },
+    {
+        "data-offset-end": 613,
+        "pageid": 163,
+        "top": 2330,
+        "font-id": "f9",
+        "level": "Level",
+        "left": 1504,
+        "text": "2017年度報告",
+        "font-size": 24,
+        "color": "rgba(101,98,98,1)",
+        "data-offset-start": 606
+    }
+]

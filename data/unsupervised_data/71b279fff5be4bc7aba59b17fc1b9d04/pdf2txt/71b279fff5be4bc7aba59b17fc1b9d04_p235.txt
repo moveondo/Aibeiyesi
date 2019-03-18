@@ -1,0 +1,129 @@
+BUSINESS
+
+(olaparib), Clovis Oncology’s RUBRACA威
+
+A number of PARP inhibitors have been approved by the FDA. These include AstraZeneca’s
+LYNPARZA威
+(rucaparib) and Tesaro’s ZEJULA威
+(niraparib). Several PARP inhibitors are in late-stage clinical development besides pamiparib,
+including AbbVie’s veliparib and Pfizer’s talazoparib. In 2017, global sales of the PARP class
+exceeded US$461 million according to company reports. In China, there were no approved PARP
+inhibitors as of July 18, 2018. AstraZeneca has submitted an NDA for olaparib. In addition, Zai Lab
+obtained the development and commercial rights for niraparib in China, and is currently running a
+Phase 1 pharmacokinetics study, a Phase 3 trial as a maintenance treatment after two lines of
+platinum-containing therapy in patients with OC, a Phase 3 trial as a maintenance treatment after one
+line of platinum-containing therapy in patients with OC, and a Phase 3 trial as a maintenance treatment
+after one line of platinum-containing therapy in patients with small cell lung cancer. There are some
+other PARP inhibitors being developed by domestic Chinese companies, including fluzoparib from
+Hengrui and Hansoh. The table below summarizes the China competitive landscape of pamiparib,
+according to the Frost & Sullivan Report.
+
+PARP Competitive Landscape in China (Late-Stage)
+
+PARP inhibitors are involved in DNA transcription and repair. PARP can detect and initiate the immediate cellular response
+
+to chemical or radiation-induced single-strand DNA breaks by signaling the enzymatic machinery involved in the repair
+
+process. Cancer cells with mutations in breast cancer susceptibility gene, or BRCA1/2 genes, are highly sensitive to PARP
+
+inhibition. This phenomenon is called “synthetic lethality” and is the foundation of the therapeutic utility of PARP
+
+inhibition in cancer therapy.
+
+Products
+
+Products
+
+(generic name)
+
+(brand name)
+
+Company
+
+CDA Status
+
+olaparib
+
+LYNPARZA威
+
+AstraZeneca
+
+NDA review
+
+ZL-2306
+
+Pamiparib
+(BGB-290)
+
+ZEJULA威
+(in the US)
+
+Tesaro, Zai
+
+Lab
+
+PhIII
+
+NA
+
+BeiGene
+
+PhIII
+
+Lead
+
+Indications
+
+Ovarian cancer,
+Breast cancer
+
+Ovarian cancer,
+small cell lung
+
+cancer
+
+Ovarian
+cancer
+
+Reimbursement
+
+U.S. Patent
+Exclusivity
+
+Generic
+Versions
+
+NA
+
+NA
+
+NA
+
+2022
+
+NA
+
+2030
+
+NA
+
+2031
+
+NA
+
+Summary of Clinical Data
+
+As of July 5, 2018, we have enrolled over 350 patients in clinical trials of pamiparib, including
+
+combination trials.
+
+A multi-center, open-label Phase 1/2 trial of pamiparib is being conducted in Australia in patients
+with advanced solid tumors. On September 8, 2017, we presented preliminary clinical data from the
+ongoing Phase 1/2 trial of pamiparib in patients with advanced solid tumors at the ESMO 2017
+Congress. As of June 1, 2017, 68 patients were enrolled in the trial. The median duration of therapy
+for all patients was 79 days (range 1 to 926 days). At the time of the data cutoff, 20 patients remained
+on treatment.
+
+— 229 —
+
+

@@ -1,0 +1,54 @@
+[
+    {
+        "font_family": "ff1",
+        "text": "欧菲科技股份有限公司  2017  年年度报告全文",
+        "bottom": 790.32,
+        "data_offset_end": 30,
+        "font_size": 36.0,
+        "left": 363.16,
+        "line_height": 0,
+        "data_offset_start": 6,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "BTitle_9999"
+    },
+    {
+        "font_family": "ff2",
+        "text": "126其中：优先股永续债长期应付款755,000,000.00252,083,333.33长期应付职工薪酬专项应付款预计负债7,122,129.366,923,931.80递延收益23,031,500.5921,781,032.88递延所得税负债33,868,091.0325,531,244.84其他非流动负债4,226,158.362,726,752.04非流动负债合计5,183,414,708.031,855,664,243.44负债合计21,649,862,939.4215,393,641,471.55所有者权益：股本2,714,445,975.001,086,266,390.00其他权益工具其中：优先股永续债资本公积3,180,650,102.764,522,818,830.65减：库存股190,923,250.00279,872,500.00其他综合收益28,628,660.6141,426,204.20专项储备盈余公积69,594,291.3969,594,291.39一般风险准备未分配利润3,303,420,166.392,600,334,360.62归属于母公司所有者权益合计9,105,815,946.158,040,567,576.86少数股东权益82,572,901.69-28,000.76所有者权益合计9,188,388,847.848,040,539,576.10负债和所有者权益总计30,838,251,787.2623,434,181,047.65法定代表人：蔡荣军  主管会计工作负责人：李素雯  会计机构负责人：李素雯",
+        "bottom": 51.72,
+        "data_offset_end": 858,
+        "font_size": 36.0,
+        "left": 525.18,
+        "line_height": 0,
+        "data_offset_start": 31,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "BTitle_9999"
+    },
+    {
+        "font_family": "ff4",
+        "text": "2 、母公司资产负债表",
+        "bottom": 169.52,
+        "data_offset_end": 870,
+        "font_size": 42.0,
+        "left": 56.94,
+        "line_height": 0,
+        "data_offset_start": 859,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 39.27,
+        "level": "ATitle_9999"
+    },
+    {
+        "font_family": "ff1",
+        "text": "单位：元项目期末余额期初余额流动资产：货币资金229,200,457.01720,416,029.44",
+        "bottom": 139.32,
+        "data_offset_end": 939,
+        "font_size": 36.0,
+        "left": 502.68,
+        "line_height": 0,
+        "data_offset_start": 871,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "BTitle_9999"
+    }
+]

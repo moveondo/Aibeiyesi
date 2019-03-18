@@ -1,0 +1,86 @@
+APPENDIX I
+
+ACCOUNTANTS’ REPORT
+
+Despite the aforegoing,
+recognition of a financial asset:
+
+the Group may make the following irrevocable election/designation at
+
+initial
+
+(cid:129)
+
+(cid:129)
+
+the Group may irrevocably elect to present subsequent changes in fair value of an equity investment in
+other comprehensive income if certain criteria are met; and
+
+the Group may irrevocably designate a debt investment that meets the amortised cost or FVTOCI criteria
+as measured at FVTPL if doing so eliminates or significantly reduces an accounting mismatch.
+
+Amortised cost and effective interest method
+
+The effective interest method is a method of calculating the amortised cost of a debt instrument and of
+
+allocating interest income over the relevant period.
+
+The amortised cost of a financial asset is the amount at which the financial asset is measured at initial
+recognition minus the principal repayments, plus the cumulative amortisation using the effective interest method of
+any difference between that initial amount and the maturity amount, adjusted for any loss allowance. On the other
+hand, the gross carrying amount of a financial asset is the amortised cost of a financial asset before adjusting for any
+loss allowance.
+
+Interest income is recognised using the effective interest method for debt instruments measured subsequently
+at amortised cost. Interest income is calculated by applying the effective interest rate to the gross carrying amount
+of a financial asset except for financial assets that have subsequently become credit-impaired. For financial assets
+that have subsequently become credit-impaired, interest income is recognised by applying the effective interest rate
+to the amortised cost of the financial asset. If, in subsequent reporting periods, the credit risk on the credit-impaired
+financial instrument improves so that the financial asset is no longer credit-impaired, interest income is recognised
+by applying the effective interest rate to the gross carrying amount of the financial asset.
+
+Interest income is recognised in profit or loss and is included in the “other income” line item.
+
+Debt instruments classified as at FVTOCI
+
+Corporate bond held by the Group is classified as at FVTOCI. The listed corporate bond is initially measured
+at fair value plus transaction costs. Subsequently, changes in the carrying amount of the corporate bonds as a result
+of foreign exchange gains and losses, impairment gains or losses and interest income calculated using the effective
+interest method are recognised in profit or loss. The amounts that are recognised in profit or loss are the same as the
+amounts that would have been recognised in profit or loss if these corporate bonds had been measured at amortised
+cost. All other changes in the carrying amount of these corporate bonds are recognised in other comprehensive
+income and accumulated under the heading of investments revaluation reserve. When these corporate bond are
+derecognised, the cumulative gains or losses previously recognised in other comprehensive income are reclassified
+to profit or loss.
+
+Financial assets at FVTPL
+
+A financial asset is held for trading if:
+
+(cid:129)
+
+(cid:129)
+
+(cid:129)
+
+it has been acquired principally for the purpose of selling it in the near term; or
+
+on initial recognition it is part of a portfolio of identified financial instruments that the Group manages
+together and has evidence of a recent actual pattern of short-term profit-taking; or
+
+it is a derivative (except for a derivative that is a financial guarantee contract or a designated and
+effective hedging instrument).
+
+Financial assets that do not meet the criteria for being measured at amortised cost or FVTOCI are measured
+
+at FVTPL. Specifically:
+
+(cid:129)
+
+Investments in equity instruments are classified as at FVTPL, unless the Group designates an equity
+investment that is neither held for trading nor a contingent consideration arising from a business
+combination as at FVTOCI on initial recognition.
+
+– I-24 –
+
+

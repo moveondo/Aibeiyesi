@@ -1,0 +1,977 @@
+{
+    "root": true,
+    "children": [
+        {
+            "left": 711,
+            "top": 293,
+            "text": "第一节重要提示",
+            "pageid": 2,
+            "font-size": 48,
+            "font-id": "f3",
+            "data-offset-start": 26,
+            "data-offset-end": 33,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 663,
+            "top": 293,
+            "level": "Level_0",
+            "text": "第二节公司基本情况",
+            "pageid": 3,
+            "font-size": 48,
+            "font-id": "f3",
+            "data-offset-start": 26,
+            "data-offset-end": 35,
+            "color": "rgba(0,0,0,1)",
+            "children": [
+                {
+                    "left": 169,
+                    "top": 923,
+                    "text": "二、报告期末股东总数及前十名股东持股情况表",
+                    "pageid": 4,
+                    "font-size": 36,
+                    "font-id": "f3",
+                    "data-offset-start": 334,
+                    "data-offset-end": 354,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_2"
+                },
+                {
+                    "left": 169,
+                    "top": 1001,
+                    "text": "1、普通股股东总数和表决权恢复的优先股股东数量及前10名股东持股情况表",
+                    "pageid": 4,
+                    "font-size": 31,
+                    "font-id": "f85",
+                    "data-offset-start": 356,
+                    "data-offset-end": 392,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 633,
+                    "top": 1552,
+                    "text": "1、钜盛华持有前海人寿保险股份有限公司51%的股权。",
+                    "pageid": 5,
+                    "font-size": 27,
+                    "font-id": "f1",
+                    "data-offset-start": 661,
+                    "data-offset-end": 687,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 633,
+                    "top": 1605,
+                    "text": "2、安邦保险集团股份有限公司为安邦财产保险股份有限公司和安邦人寿保险股份有",
+                    "pageid": 5,
+                    "font-size": 27,
+                    "font-id": "f1",
+                    "data-offset-start": 689,
+                    "data-offset-end": 725,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 633,
+                    "top": 1704,
+                    "text": "3、除此之外，公司未知上述股东之间是否存在关联关系或属于《上市公司收购管理",
+                    "pageid": 5,
+                    "font-size": 27,
+                    "font-id": "f1",
+                    "data-offset-start": 754,
+                    "data-offset-end": 790,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 169,
+                    "top": 313,
+                    "text": "2、公司优先股股东总数及前10名优先股股东持股情况表",
+                    "pageid": 6,
+                    "font-size": 31,
+                    "font-id": "f19",
+                    "data-offset-start": 5,
+                    "data-offset-end": 32,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                }
+            ]
+        },
+        {
+            "left": 591,
+            "top": 249,
+            "level": "Level_0",
+            "text": "第三节经营情况讨论与分析",
+            "pageid": 7,
+            "font-size": 48,
+            "font-id": "f3",
+            "data-offset-start": 26,
+            "data-offset-end": 38,
+            "color": "rgba(0,0,0,1)",
+            "children": [
+                {
+                    "left": 169,
+                    "top": 398,
+                    "text": "一、第三季度房地产市场情况",
+                    "pageid": 7,
+                    "font-size": 36,
+                    "font-id": "f3",
+                    "data-offset-start": 40,
+                    "data-offset-end": 53,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_2"
+                },
+                {
+                    "left": 169,
+                    "top": 751,
+                    "level": "Level_1",
+                    "text": "8、9月份增速分别降至2.8%和-0.8%；全国商品住宅销售金额第三季度同比增长17.0%，单月同比增速分别为24.8%、17.8%和11.0%。",
+                    "pageid": 7,
+                    "font-size": 31,
+                    "font-id": "f1",
+                    "data-offset-start": 222,
+                    "data-offset-end": 300,
+                    "color": "rgba(0,0,0,1)",
+                    "children": [
+                        {
+                            "left": 169,
+                            "top": 1553,
+                            "text": "二、报告期内公司业务进展",
+                            "pageid": 7,
+                            "font-size": 36,
+                            "font-id": "f3",
+                            "data-offset-start": 650,
+                            "data-offset-end": 661,
+                            "color": "rgba(0,0,0,1)",
+                            "level": "Level_2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "left": 711,
+            "top": 299,
+            "level": "Level_0",
+            "text": "第四节重要事项",
+            "pageid": 10,
+            "font-size": 48,
+            "font-id": "f3",
+            "data-offset-start": 26,
+            "data-offset-end": 33,
+            "color": "rgba(0,0,0,1)",
+            "children": [
+                {
+                    "left": 169,
+                    "top": 434,
+                    "text": "一、报告期主要财务数据、财务指标发生变动的情况及原因",
+                    "pageid": 10,
+                    "font-size": 36,
+                    "font-id": "f3",
+                    "data-offset-start": 35,
+                    "data-offset-end": 60,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_2"
+                },
+                {
+                    "left": 169,
+                    "top": 1690,
+                    "text": "二、重要事项进展情况及其影响和解决方案的分析说明",
+                    "pageid": 11,
+                    "font-size": 36,
+                    "font-id": "f3",
+                    "data-offset-start": 832,
+                    "data-offset-end": 855,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_2"
+                },
+                {
+                    "left": 169,
+                    "top": 968,
+                    "text": "三、公司实际控制人、股东、关联方、收购人以及公司等承诺相关方在报告期内超期未履行完毕的承诺事项",
+                    "pageid": 12,
+                    "font-size": 36,
+                    "font-id": "f3",
+                    "data-offset-start": 461,
+                    "data-offset-end": 508,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_2"
+                },
+                {
+                    "left": 169,
+                    "top": 1396,
+                    "text": "四、对2018年度经营业绩的预计",
+                    "pageid": 12,
+                    "font-size": 36,
+                    "font-id": "f3",
+                    "data-offset-start": 577,
+                    "data-offset-end": 594,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_2"
+                },
+                {
+                    "left": 169,
+                    "top": 1743,
+                    "text": "五、证券投资情况",
+                    "pageid": 12,
+                    "font-size": 36,
+                    "font-id": "f3",
+                    "data-offset-start": 656,
+                    "data-offset-end": 663,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_2"
+                },
+                {
+                    "left": 169,
+                    "top": 221,
+                    "text": "六、委托理财",
+                    "pageid": 13,
+                    "font-size": 36,
+                    "font-id": "f3",
+                    "data-offset-start": 2,
+                    "data-offset-end": 7,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_2"
+                },
+                {
+                    "left": 169,
+                    "top": 811,
+                    "text": "七、衍生品投资情况",
+                    "pageid": 13,
+                    "font-size": 36,
+                    "font-id": "f3",
+                    "data-offset-start": 166,
+                    "data-offset-end": 174,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_2"
+                },
+                {
+                    "left": 169,
+                    "top": 1105,
+                    "text": "八、报告期内接待调研、沟通、采访等活动登记表",
+                    "pageid": 14,
+                    "font-size": 36,
+                    "font-id": "f3",
+                    "data-offset-start": 604,
+                    "data-offset-end": 625,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_2"
+                },
+                {
+                    "left": 1414,
+                    "top": 1507,
+                    "text": "1、谈论的主要内",
+                    "pageid": 14,
+                    "font-size": 27,
+                    "font-id": "f1",
+                    "data-offset-start": 819,
+                    "data-offset-end": 826,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 1414,
+                    "top": 1894,
+                    "level": "Level_1",
+                    "text": "2、提供的主要资",
+                    "pageid": 14,
+                    "font-size": 27,
+                    "font-id": "f1",
+                    "data-offset-start": 1144,
+                    "data-offset-end": 1151,
+                    "color": "rgba(0,0,0,1)",
+                    "children": [
+                        {
+                            "left": 169,
+                            "top": 973,
+                            "text": "九、违规对外担保情况",
+                            "pageid": 15,
+                            "font-size": 36,
+                            "font-id": "f3",
+                            "data-offset-start": 554,
+                            "data-offset-end": 563,
+                            "color": "rgba(0,0,0,1)",
+                            "level": "Level_2"
+                        },
+                        {
+                            "left": 169,
+                            "top": 1180,
+                            "text": "十、控股股东及其关联方对上市公司的非经营性占用资金情况",
+                            "pageid": 15,
+                            "font-size": 36,
+                            "font-id": "f3",
+                            "data-offset-start": 581,
+                            "data-offset-end": 607,
+                            "color": "rgba(0,0,0,1)",
+                            "level": "Level_2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "left": 711,
+            "top": 299,
+            "level": "Level_0",
+            "text": "第五节财务报表",
+            "pageid": 16,
+            "font-size": 48,
+            "font-id": "f3",
+            "data-offset-start": 228,
+            "children": [
+                {
+                    "left": 169,
+                    "top": 223,
+                    "text": "2、母公司资产负债表",
+                    "pageid": 18,
+                    "font-size": 31,
+                    "font-id": "f17",
+                    "data-offset-start": 2,
+                    "data-offset-end": 11,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 169,
+                    "top": 511,
+                    "level": "Level_1",
+                    "text": "3、合并本报告期利润表",
+                    "pageid": 19,
+                    "font-size": 31,
+                    "font-id": "f57",
+                    "data-offset-start": 32,
+                    "data-offset-end": 42,
+                    "color": "rgba(0,0,0,1)",
+                    "children": [
+                        {
+                            "left": 178,
+                            "top": 727,
+                            "text": "一、营业总收入",
+                            "pageid": 19,
+                            "font-size": 27,
+                            "font-id": "f3",
+                            "data-offset-start": 47,
+                            "data-offset-end": 53,
+                            "color": "rgba(0,0,0,1)",
+                            "level": "Level_2"
+                        },
+                        {
+                            "left": 178,
+                            "top": 847,
+                            "text": "二、营业总成本",
+                            "pageid": 19,
+                            "font-size": 27,
+                            "font-id": "f3",
+                            "data-offset-start": 63,
+                            "data-offset-end": 69,
+                            "color": "rgba(0,0,0,1)",
+                            "level": "Level_2"
+                        },
+                        {
+                            "left": 178,
+                            "top": 1752,
+                            "text": "三、营业利润（亏损以“－”号填列）",
+                            "pageid": 19,
+                            "font-size": 27,
+                            "font-id": "f3",
+                            "data-offset-start": 207,
+                            "data-offset-end": 223,
+                            "color": "rgba(0,0,0,1)",
+                            "level": "Level_2"
+                        },
+                        {
+                            "left": 178,
+                            "top": 1933,
+                            "text": "四、利润总额（亏损总额以“－”号填列）",
+                            "pageid": 19,
+                            "font-size": 27,
+                            "font-id": "f3",
+                            "data-offset-start": 241,
+                            "data-offset-end": 259,
+                            "color": "rgba(0,0,0,1)",
+                            "level": "Level_2"
+                        },
+                        {
+                            "left": 178,
+                            "top": 2054,
+                            "level": "Level_2",
+                            "text": "五、净利润（净亏损以“－”号填列）",
+                            "pageid": 19,
+                            "font-size": 27,
+                            "font-id": "f3",
+                            "data-offset-start": 269,
+                            "children": [
+                                {
+                                    "left": 232,
+                                    "top": 2114,
+                                    "text": "（一）持续经营净利润（净亏损以“－”号填列）",
+                                    "pageid": 19,
+                                    "font-size": 27,
+                                    "font-id": "f3",
+                                    "data-offset-start": 287,
+                                    "data-offset-end": 308,
+                                    "color": "rgba(0,0,0,1)",
+                                    "level": "Level_4"
+                                },
+                                {
+                                    "left": 232,
+                                    "top": 475,
+                                    "text": "（二）将重分类进损益的其他综合收益",
+                                    "pageid": 20,
+                                    "font-size": 27,
+                                    "font-id": "f3",
+                                    "data-offset-start": 74,
+                                    "data-offset-end": 90,
+                                    "color": "rgba(0,0,0,1)",
+                                    "level": "Level_4"
+                                }
+                            ],
+                            "color": "rgba(0,0,0,1)",
+                            "data-offset-end": 285
+                        },
+                        {
+                            "left": 178,
+                            "top": 836,
+                            "text": "七、综合收益总额",
+                            "pageid": 20,
+                            "font-size": 27,
+                            "font-id": "f3",
+                            "data-offset-start": 173,
+                            "data-offset-end": 180,
+                            "color": "rgba(0,0,0,1)",
+                            "level": "Level_2"
+                        },
+                        {
+                            "left": 178,
+                            "top": 1018,
+                            "level": "Level_2",
+                            "text": "八、每股收益：",
+                            "pageid": 20,
+                            "font-size": 27,
+                            "font-id": "f3",
+                            "data-offset-start": 214,
+                            "children": [
+                                {
+                                    "left": 232,
+                                    "top": 1078,
+                                    "text": "（一）基本每股收益",
+                                    "pageid": 20,
+                                    "font-size": 27,
+                                    "font-id": "f3",
+                                    "data-offset-start": 222,
+                                    "data-offset-end": 230,
+                                    "color": "rgba(0,0,0,1)",
+                                    "level": "Level_4"
+                                },
+                                {
+                                    "left": 232,
+                                    "top": 1138,
+                                    "text": "（二）稀释每股收益",
+                                    "pageid": 20,
+                                    "font-size": 27,
+                                    "font-id": "f3",
+                                    "data-offset-start": 232,
+                                    "data-offset-end": 240,
+                                    "color": "rgba(0,0,0,1)",
+                                    "level": "Level_4"
+                                }
+                            ],
+                            "color": "rgba(0,0,0,1)",
+                            "data-offset-end": 220
+                        }
+                    ]
+                },
+                {
+                    "left": 169,
+                    "top": 1287,
+                    "level": "Level_1",
+                    "text": "4、母公司本报告期利润表",
+                    "pageid": 20,
+                    "font-size": 31,
+                    "font-id": "f185",
+                    "data-offset-start": 592,
+                    "data-offset-end": 603,
+                    "color": "rgba(0,0,0,1)",
+                    "children": [
+                        {
+                            "left": 178,
+                            "top": 1503,
+                            "text": "一、营业收入",
+                            "pageid": 20,
+                            "font-size": 27,
+                            "font-id": "f3",
+                            "data-offset-start": 608,
+                            "data-offset-end": 613,
+                            "color": "rgba(0,0,0,1)",
+                            "level": "Level_2"
+                        },
+                        {
+                            "left": 178,
+                            "top": 2228,
+                            "level": "Level_2",
+                            "text": "二、营业利润（亏损以“－”号填列）",
+                            "pageid": 20,
+                            "font-size": 27,
+                            "font-id": "f3",
+                            "data-offset-start": 720,
+                            "children": [
+                                {
+                                    "left": 232,
+                                    "top": 475,
+                                    "text": "（一）持续经营净利润（净亏损以“－”号填列）",
+                                    "pageid": 21,
+                                    "font-size": 27,
+                                    "font-id": "f3",
+                                    "data-offset-start": 56,
+                                    "data-offset-end": 77,
+                                    "color": "rgba(0,0,0,1)",
+                                    "level": "Level_4"
+                                }
+                            ],
+                            "color": "rgba(0,0,0,1)",
+                            "data-offset-end": 736
+                        },
+                        {
+                            "left": 178,
+                            "top": 535,
+                            "text": "五、其他综合收益的税后净额",
+                            "pageid": 21,
+                            "font-size": 27,
+                            "font-id": "f3",
+                            "data-offset-start": 79,
+                            "data-offset-end": 91,
+                            "color": "rgba(0,0,0,1)",
+                            "level": "Level_2"
+                        },
+                        {
+                            "left": 178,
+                            "top": 595,
+                            "text": "六、综合收益总额",
+                            "pageid": 21,
+                            "font-size": 27,
+                            "font-id": "f3",
+                            "data-offset-start": 93,
+                            "data-offset-end": 100,
+                            "color": "rgba(0,0,0,1)",
+                            "level": "Level_2"
+                        }
+                    ]
+                },
+                {
+                    "left": 169,
+                    "top": 691,
+                    "level": "Level_1",
+                    "text": "5、合并年初到报告期末利润表",
+                    "pageid": 21,
+                    "font-size": 31,
+                    "font-id": "f113",
+                    "data-offset-start": 102,
+                    "data-offset-end": 115,
+                    "color": "rgba(0,0,0,1)",
+                    "children": [
+                        {
+                            "left": 178,
+                            "top": 907,
+                            "text": "一、营业总收入",
+                            "pageid": 21,
+                            "font-size": 27,
+                            "font-id": "f3",
+                            "data-offset-start": 120,
+                            "data-offset-end": 126,
+                            "color": "rgba(0,0,0,1)",
+                            "level": "Level_2"
+                        },
+                        {
+                            "left": 178,
+                            "top": 1028,
+                            "text": "二、营业总成本",
+                            "pageid": 21,
+                            "font-size": 27,
+                            "font-id": "f3",
+                            "data-offset-start": 136,
+                            "data-offset-end": 142,
+                            "color": "rgba(0,0,0,1)",
+                            "level": "Level_2"
+                        },
+                        {
+                            "left": 178,
+                            "top": 1933,
+                            "text": "三、营业利润（亏损以“－”号填列）",
+                            "pageid": 21,
+                            "font-size": 27,
+                            "font-id": "f3",
+                            "data-offset-start": 280,
+                            "data-offset-end": 296,
+                            "color": "rgba(0,0,0,1)",
+                            "level": "Level_2"
+                        },
+                        {
+                            "left": 178,
+                            "top": 2114,
+                            "text": "四、利润总额（亏损总额以“－”号填列）",
+                            "pageid": 21,
+                            "font-size": 27,
+                            "font-id": "f3",
+                            "data-offset-start": 314,
+                            "data-offset-end": 332,
+                            "color": "rgba(0,0,0,1)",
+                            "level": "Level_2"
+                        },
+                        {
+                            "left": 178,
+                            "top": 2235,
+                            "level": "Level_2",
+                            "text": "五、净利润（净亏损以“－”号填列）",
+                            "pageid": 21,
+                            "font-size": 27,
+                            "font-id": "f3",
+                            "data-offset-start": 342,
+                            "children": [
+                                {
+                                    "left": 232,
+                                    "top": 233,
+                                    "text": "（一）持续经营净利润（净亏损以“－”号填列）",
+                                    "pageid": 22,
+                                    "font-size": 27,
+                                    "font-id": "f3",
+                                    "data-offset-start": 2,
+                                    "data-offset-end": 23,
+                                    "color": "rgba(0,0,0,1)",
+                                    "level": "Level_4"
+                                },
+                                {
+                                    "left": 232,
+                                    "top": 535,
+                                    "text": "（一）不能重分类进损益的其他综合收益",
+                                    "pageid": 22,
+                                    "font-size": 27,
+                                    "font-id": "f3",
+                                    "data-offset-start": 81,
+                                    "data-offset-end": 98,
+                                    "color": "rgba(0,0,0,1)",
+                                    "level": "Level_4"
+                                },
+                                {
+                                    "left": 232,
+                                    "top": 655,
+                                    "text": "（二）将重分类进损益的其他综合收益",
+                                    "pageid": 22,
+                                    "font-size": 27,
+                                    "font-id": "f3",
+                                    "data-offset-start": 117,
+                                    "data-offset-end": 133,
+                                    "color": "rgba(0,0,0,1)",
+                                    "level": "Level_4"
+                                }
+                            ],
+                            "color": "rgba(0,0,0,1)",
+                            "data-offset-end": 358
+                        },
+                        {
+                            "left": 178,
+                            "top": 1018,
+                            "text": "七、综合收益总额",
+                            "pageid": 22,
+                            "font-size": 27,
+                            "font-id": "f3",
+                            "data-offset-start": 216,
+                            "data-offset-end": 223,
+                            "color": "rgba(0,0,0,1)",
+                            "level": "Level_2"
+                        },
+                        {
+                            "left": 178,
+                            "top": 1198,
+                            "level": "Level_2",
+                            "text": "八、每股收益：",
+                            "pageid": 22,
+                            "font-size": 27,
+                            "font-id": "f3",
+                            "data-offset-start": 257,
+                            "children": [
+                                {
+                                    "left": 232,
+                                    "top": 1258,
+                                    "text": "（一）基本每股收益",
+                                    "pageid": 22,
+                                    "font-size": 27,
+                                    "font-id": "f3",
+                                    "data-offset-start": 265,
+                                    "data-offset-end": 273,
+                                    "color": "rgba(0,0,0,1)",
+                                    "level": "Level_4"
+                                },
+                                {
+                                    "left": 232,
+                                    "top": 1320,
+                                    "text": "（二）稀释每股收益",
+                                    "pageid": 22,
+                                    "font-size": 27,
+                                    "font-id": "f3",
+                                    "data-offset-start": 275,
+                                    "data-offset-end": 283,
+                                    "color": "rgba(0,0,0,1)",
+                                    "level": "Level_4"
+                                }
+                            ],
+                            "color": "rgba(0,0,0,1)",
+                            "data-offset-end": 263
+                        }
+                    ]
+                },
+                {
+                    "left": 169,
+                    "top": 1469,
+                    "level": "Level_1",
+                    "text": "6、母公司年初到报告期末利润表",
+                    "pageid": 22,
+                    "font-size": 31,
+                    "font-id": "f225",
+                    "data-offset-start": 757,
+                    "data-offset-end": 771,
+                    "color": "rgba(0,0,0,1)",
+                    "children": [
+                        {
+                            "left": 178,
+                            "top": 1684,
+                            "text": "一、营业收入",
+                            "pageid": 22,
+                            "font-size": 27,
+                            "font-id": "f3",
+                            "data-offset-start": 776,
+                            "data-offset-end": 781,
+                            "color": "rgba(0,0,0,1)",
+                            "level": "Level_2"
+                        },
+                        {
+                            "left": 178,
+                            "top": 595,
+                            "level": "Level_2",
+                            "text": "四、净利润（净亏损以“－”号填列）",
+                            "pageid": 23,
+                            "font-size": 27,
+                            "font-id": "f3",
+                            "data-offset-start": 93,
+                            "children": [
+                                {
+                                    "left": 232,
+                                    "top": 655,
+                                    "text": "（一）持续经营净利润（净亏损以“－”号填列）",
+                                    "pageid": 23,
+                                    "font-size": 27,
+                                    "font-id": "f3",
+                                    "data-offset-start": 111,
+                                    "data-offset-end": 132,
+                                    "color": "rgba(0,0,0,1)",
+                                    "level": "Level_4"
+                                }
+                            ],
+                            "color": "rgba(0,0,0,1)",
+                            "data-offset-end": 109
+                        },
+                        {
+                            "left": 178,
+                            "top": 716,
+                            "text": "五、其他综合收益的税后净额",
+                            "pageid": 23,
+                            "font-size": 27,
+                            "font-id": "f3",
+                            "data-offset-start": 134,
+                            "data-offset-end": 146,
+                            "color": "rgba(0,0,0,1)",
+                            "level": "Level_2"
+                        },
+                        {
+                            "left": 178,
+                            "top": 776,
+                            "text": "六、综合收益总额",
+                            "pageid": 23,
+                            "font-size": 27,
+                            "font-id": "f3",
+                            "data-offset-start": 148,
+                            "data-offset-end": 155,
+                            "color": "rgba(0,0,0,1)",
+                            "level": "Level_2"
+                        }
+                    ]
+                },
+                {
+                    "left": 169,
+                    "top": 873,
+                    "level": "Level_1",
+                    "text": "7、合并年初到报告期末现金流量表",
+                    "pageid": 23,
+                    "font-size": 31,
+                    "font-id": "f159",
+                    "data-offset-start": 157,
+                    "data-offset-end": 172,
+                    "color": "rgba(0,0,0,1)",
+                    "children": [
+                        {
+                            "left": 178,
+                            "top": 1088,
+                            "text": "一、经营活动产生的现金流量：",
+                            "pageid": 23,
+                            "font-size": 27,
+                            "font-id": "f3",
+                            "data-offset-start": 177,
+                            "data-offset-end": 190,
+                            "color": "rgba(0,0,0,1)",
+                            "level": "Level_2"
+                        },
+                        {
+                            "left": 178,
+                            "top": 1692,
+                            "text": "二、投资活动产生的现金流量：",
+                            "pageid": 23,
+                            "font-size": 27,
+                            "font-id": "f3",
+                            "data-offset-start": 312,
+                            "data-offset-end": 325,
+                            "color": "rgba(0,0,0,1)",
+                            "level": "Level_2"
+                        },
+                        {
+                            "left": 178,
+                            "top": 1258,
+                            "text": "四、汇率变动对现金及现金等价物的影响",
+                            "pageid": 24,
+                            "font-size": 27,
+                            "font-id": "f3",
+                            "data-offset-start": 231,
+                            "data-offset-end": 248,
+                            "color": "rgba(0,0,0,1)",
+                            "level": "Level_2"
+                        },
+                        {
+                            "left": 178,
+                            "top": 1320,
+                            "text": "五、现金及现金等价物净增加额",
+                            "pageid": 24,
+                            "font-size": 27,
+                            "font-id": "f3",
+                            "data-offset-start": 250,
+                            "data-offset-end": 263,
+                            "color": "rgba(0,0,0,1)",
+                            "level": "Level_2"
+                        },
+                        {
+                            "left": 178,
+                            "top": 1440,
+                            "text": "六、期末现金及现金等价物余额",
+                            "pageid": 24,
+                            "font-size": 27,
+                            "font-id": "f3",
+                            "data-offset-start": 280,
+                            "data-offset-end": 293,
+                            "color": "rgba(0,0,0,1)",
+                            "level": "Level_2"
+                        }
+                    ]
+                },
+                {
+                    "left": 169,
+                    "top": 1536,
+                    "level": "Level_1",
+                    "text": "8、母公司年初到报告期末现金流量表",
+                    "pageid": 24,
+                    "font-size": 31,
+                    "font-id": "f33",
+                    "data-offset-start": 295,
+                    "data-offset-end": 311,
+                    "color": "rgba(0,0,0,1)",
+                    "children": [
+                        {
+                            "left": 178,
+                            "top": 1752,
+                            "text": "一、经营活动产生的现金流量：",
+                            "pageid": 24,
+                            "font-size": 27,
+                            "font-id": "f3",
+                            "data-offset-start": 316,
+                            "data-offset-end": 329,
+                            "color": "rgba(0,0,0,1)",
+                            "level": "Level_2"
+                        },
+                        {
+                            "left": 178,
+                            "top": 2235,
+                            "text": "二、投资活动产生的现金流量：",
+                            "pageid": 24,
+                            "font-size": 27,
+                            "font-id": "f3",
+                            "data-offset-start": 421,
+                            "data-offset-end": 434,
+                            "color": "rgba(0,0,0,1)",
+                            "level": "Level_2"
+                        },
+                        {
+                            "left": 178,
+                            "top": 716,
+                            "text": "三、筹资活动产生的现金流量：",
+                            "pageid": 25,
+                            "font-size": 27,
+                            "font-id": "f3",
+                            "data-offset-start": 123,
+                            "data-offset-end": 136,
+                            "color": "rgba(0,0,0,1)",
+                            "level": "Level_2"
+                        },
+                        {
+                            "left": 178,
+                            "top": 1258,
+                            "text": "四、汇率变动对现金及现金等价物的影响",
+                            "pageid": 25,
+                            "font-size": 27,
+                            "font-id": "f3",
+                            "data-offset-start": 237,
+                            "data-offset-end": 254,
+                            "color": "rgba(0,0,0,1)",
+                            "level": "Level_2"
+                        },
+                        {
+                            "left": 178,
+                            "top": 1320,
+                            "text": "五、现金及现金等价物净增加额",
+                            "pageid": 25,
+                            "font-size": 27,
+                            "font-id": "f3",
+                            "data-offset-start": 256,
+                            "data-offset-end": 269,
+                            "color": "rgba(0,0,0,1)",
+                            "level": "Level_2"
+                        },
+                        {
+                            "left": 178,
+                            "top": 1440,
+                            "text": "六、期末现金及现金等价物余额",
+                            "pageid": 25,
+                            "font-size": 27,
+                            "font-id": "f3",
+                            "data-offset-start": 286,
+                            "data-offset-end": 299,
+                            "color": "rgba(0,0,0,1)",
+                            "level": "Level_2"
+                        },
+                        {
+                            "left": 169,
+                            "top": 1534,
+                            "text": "二、审计报告",
+                            "pageid": 25,
+                            "font-size": 36,
+                            "font-id": "f3",
+                            "data-offset-start": 301,
+                            "data-offset-end": 306,
+                            "color": "rgba(0,0,0,1)",
+                            "level": "Level_2"
+                        }
+                    ]
+                }
+            ],
+            "color": "rgba(0,0,0,1)",
+            "data-offset-end": 235
+        }
+    ]
+}

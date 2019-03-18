@@ -1,0 +1,96 @@
+BUSINESS
+
+Efficacy observed in clinical studies
+
+trial comparison of
+
+the various PD-1 antibodies,
+
+Improved biochemical properties, more robust receptor occupancy, and longer blockade
+of PD-1 on lymphocytes, not only lead to more robust pre-clinical tumor efficacy of sintilimab,
+but could also lead to more robust clinical benefit for patients. While there is no head-to-head
+clinical
+sintilimab, nivolumab and
+pembrolizumab have all completed Phase 2 trials in relapsed/refractory classical Hodgkin’s
+lymphoma. Sintilimab has demonstrated robust clinical efficacy in this patient population. As
+judged by an independent radiological review committee, 79.2% of the 96 patients treated with
+sintilimab in our registration trial achieved a best overall objective response (week 24 data),
+17.7% of the patients achieved a best complete response (week 15 data), and the disease control
+rate is 97.9% (week 24 data). The efficacy results from our registration trial for sintilimab are
+summarized in the following table.
+
+Efficacy analysis of sintilimab in relapsed/refractory classical Hodgkin’s lymphoma
+
+24 weeks after initiation of therapy
+
+Patients, N (%)
+
+Parameter
+
+CR
+
+PR
+
+SD
+
+PD
+
+IRRC 
+Review
+
+17 (17.7%)
+
+59 (61.5%)
+
+18 (18.8%)
+
+2 (2.1%)
+
+Investigator 
+
+Review
+
+17 (17.7%)
+
+60 (62.5%)
+
+19 (19.8%)
+
+0 (0%)
+
+ORR (CR+PR) (95% CI)
+
+79.2% (69.7-86.8%)
+
+80.2% (70.8-87.6%)
+
+DCR (CR+PR+SD) (95% CI)
+
+97.9% (92.7-99.7%)
+
+100% (96.2-100%)
+
+Abbreviations: N = sample size (96 patients); IRRC = independent radiological review committee; IWG 2007
+= International Working Group 2007; CR = complete response rate; PR = partial response rate; SD = stable
+disease; PD = progressive disease; ORR = objective response rate; DCR = disease control rate; CI = confidence
+interval.
+
+Note: The 24-week response measurement does not include PET scans. Hence, IWG complete response cannot
+be assessed at this time point and the complete response rate (CR) in the table is week 15 data. Partial
+responses increased at 24 weeks due to four patients with stable disease achieving partial response. The
+objective response rate therefore increased to 79.2%.
+
+These important clinical parameters achieved from treatment with sintilimab are
+numerically similar to the results achieved from treatment with nivolumab or pembrolizumab,
+as shown in the table below. Although the patient populations are all relapsed/refractory
+classical Hodgkin’s lymphoma,
+identical.
+Brentuximab vedotin is not available in China and autologous stem cell transplantation is less
+common in China than in the United States and the European Union. In addition, the timing of
+response measurements is different across studies.
+
+the standard of care across geographies is not
+
+– 235 –
+
+

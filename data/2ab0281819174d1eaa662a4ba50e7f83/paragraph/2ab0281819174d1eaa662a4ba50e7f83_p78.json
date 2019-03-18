@@ -1,0 +1,80 @@
+[
+    {
+        "line_height": 0,
+        "font_family": "ff1",
+        "bottom": 790.32,
+        "text": "美的集团股份有限公司  2017  年年度报告78内部控制审计报告中的审议意见段内部控制审计机构认为，美的集团股份有限公司于  2017  年12 月31  日按照《企业内部控制基本规范》和相关规定在所有重大方面保持了有效的财务报告内部控制。内控审计报告披露情况已于巨潮资讯网披露内部控制审计报告全文披露日期2018  年 3月31  日内部控制审计报告全文披露索引详见披露于巨潮资讯网的《 2017年度内部控制审计报告》内控审计报告意见类型标准无保留意见非财务报告是否存在重大缺陷否",
+        "font_size": 36.0,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "left": 381.07,
+        "data_offset_end": 267,
+        "data_offset_start": 6,
+        "level": "BTitle_9999",
+        "height": 33.66
+    },
+    {
+        "line_height": 0,
+        "font_family": "ff1",
+        "bottom": 595.42,
+        "text": "会计师事务所是 否出具非标准意 见的内部控制 审计报告",
+        "font_size": 42.24,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "left": 57.031,
+        "data_offset_end": 293,
+        "data_offset_start": 268,
+        "level": "ATitle_9999",
+        "height": 35.145
+    },
+    {
+        "line_height": 0,
+        "font_family": "ff1",
+        "bottom": 573.79,
+        "text": "□  是  √  否",
+        "font_size": 42.24,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "left": 57.031,
+        "data_offset_end": 303,
+        "data_offset_start": 294,
+        "level": "ATitle_9999",
+        "height": 35.145
+    },
+    {
+        "line_height": 0,
+        "font_family": "ff1",
+        "bottom": 552.19,
+        "text": "会计师事务所出 具的内部控制审 计报告与董事 会的自我评价报 告意见是否一 致",
+        "font_size": 42.24,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "left": 57.031,
+        "data_offset_end": 339,
+        "data_offset_start": 304,
+        "level": "ATitle_9999",
+        "height": 35.145
+    },
+    {
+        "line_height": 0,
+        "font_family": "ff1",
+        "bottom": 530.59,
+        "text": "√  是  □  否",
+        "font_size": 42.24,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "left": 57.031,
+        "data_offset_end": 349,
+        "data_offset_start": 340,
+        "level": "ATitle_9999",
+        "height": 35.145
+    },
+    {
+        "line_height": 0,
+        "font_family": "ff4",
+        "bottom": 499.87,
+        "text": "",
+        "font_size": 42.24,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "left": 57.031,
+        "data_offset_end": 350,
+        "data_offset_start": 350,
+        "level": "ATitle_9999",
+        "height": 39.4944
+    }
+]

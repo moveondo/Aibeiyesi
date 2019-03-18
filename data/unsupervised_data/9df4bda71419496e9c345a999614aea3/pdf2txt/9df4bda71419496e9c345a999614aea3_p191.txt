@@ -1,0 +1,91 @@
+BUSINESS
+
+An anti-PD-1 monoclonal antibody is designed to prevent PD-1 from binding PD-L1/PD-
+
+L2, which leads to a recovery of the function of the T cell.
+
+PD-1
+
+ 
+
+Antibody inhibitors 
+
+ 
+
+T cell  
+
+TCR 
+
+PD-1 
+
+Ag 
+
+MHC-
+Ag 
+
+PD-L1 
+PD-L2
+ 
+
+Cancer  
+
+APC 
+
+PD-L1
+PD-L2
+
+ 
+ 
+
+ 
+PD-L2
+ 
+
+PD-1 
+
+Treg 
+
+PD-1/PD-L1
+
+Antibody inhibitors 
+
+ 
+
+ 
+
+• Antigen(Ag) is capable of stimulating 
+
+an immune response. Antigen-
+presenting cells (APCs) can bind to Ag
+to activate T-cell receptor (TCR) and
+major histocompatibility complex(MHC)
+binding.
+
+• Regulatory T cells create a highly
+
+immunosuppressive tumor
+environment by maintaining the
+expression of PD-1 on its surface.
+
+Source: Frost & Sullivan.
+
+Features of JS001
+
+High affinity
+
+The following graph illustrate(s) the binding affinity of JS001 for PD-1 as measured by Biacore T200. Such
+KD measure of the affinity of JS001 was approximately 0.3 nM. The result shows high binding affinity of JS001,
+which enables it to bind more firmly to its specific antigen PD-1 receptor and to better compete against the binding
+of PD-L1 and PD-L2 on tumor cells.
+
+Affinity of JS001 binding with PD-1 (Biacore)
+
+JS001 KD = 0.3 nM
+
+Source: CSCO 2017
+
+RU = resonance units. S = seconds. The slow dissociation rate (KD) means high affinity of JS001 to PD-1.
+
+– 185 –
+
+

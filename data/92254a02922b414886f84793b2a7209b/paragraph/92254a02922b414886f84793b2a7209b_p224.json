@@ -1,0 +1,80 @@
+[
+    {
+        "font_family": "ff1",
+        "text": "欧菲科技股份有限公司  2017  年年度报告全文",
+        "bottom": 790.32,
+        "data_offset_end": 30,
+        "font_size": 36.0,
+        "left": 363.16,
+        "line_height": 0,
+        "data_offset_start": 6,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "BTitle_9999"
+    },
+    {
+        "font_family": "ff2",
+        "text": "224上海华汽上海上海技术服务、研发100.00%非同一控制下企业合并南京天擎南京南京技术服务、研发100.00%非同一控制下企业合并融创上海上海上海技术服务、研发100.00%同一控制合并融创新技术深圳深圳技术服务、研发100.00%设立融创厦门厦门厦门技术服务、研发100.00%同一控制合并福建星光智联福州福州技术服务、研发81.00%设立香港欧菲香港香港代理、贸易100.00%设立台湾欧菲台湾台湾研发、制造、贸易100.00%设立南昌多媒体南昌南昌制造业100.00%设立日本欧菲日本日本贸易、 技术服务、研发100.00%设立美国欧菲美国美国贸易、 技术服务、研发100.00%设立芬兰公司芬兰芬兰贸易、 技术服务、研发100.00%非同一控制下企业合并韩国欧菲韩国韩国代理、贸易100.00%设立在子公司的持股比例不同于表决权比例的说明：持有半数或以下表决权但仍控制被投资单位、以及持有半数以上表决权但不控制被投资单位的依据：对于纳入合并范围的重要的结构化主体，控制的依据：确定公司是代理人还是委托人的依据：其他说明：",
+        "bottom": 51.72,
+        "data_offset_end": 681,
+        "font_size": 36.0,
+        "left": 525.18,
+        "line_height": 0,
+        "data_offset_start": 31,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "BTitle_9999"
+    },
+    {
+        "font_family": "ff1",
+        "text": "（ 2 ）重要的非全资子公司",
+        "bottom": 299.96,
+        "data_offset_end": 695,
+        "font_size": 42.0,
+        "left": 56.94,
+        "line_height": 0,
+        "data_offset_start": 682,
+        "text_shadow": "-0.015em 0 rgb(0,0,0),0 0.015em rgb(0,0,0),0.015em 0 rgb(0,0,0),0 -0.015em rgb(0,0,0)",
+        "height": 39.27,
+        "level": "ATitle_9999"
+    },
+    {
+        "font_family": "ff1",
+        "text": "单位：  元子公司名称少数股东持股比例本期归属于少数股东的损益本期向少数股东宣告分派的股利期末少数股东权益余额子公司少数股东的持股比例不同于表决权比例的说明：其他说明：",
+        "bottom": 269.72,
+        "data_offset_end": 796,
+        "font_size": 36.0,
+        "left": 498.18,
+        "line_height": 0,
+        "data_offset_start": 696,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "BTitle_9999"
+    },
+    {
+        "font_family": "ff1",
+        "text": "（ 3 ）重要非全资子公司的主要财务信息",
+        "bottom": 162.8,
+        "data_offset_end": 816,
+        "font_size": 42.0,
+        "left": 56.94,
+        "line_height": 0,
+        "data_offset_start": 797,
+        "text_shadow": "-0.015em 0 rgb(0,0,0),0 0.015em rgb(0,0,0),0.015em 0 rgb(0,0,0),0 -0.015em rgb(0,0,0)",
+        "height": 39.27,
+        "level": "ATitle_9999"
+    },
+    {
+        "font_family": "ff1",
+        "text": "单位：  元子公司名称期末余额期初余额流动资非流动资产合流动负非流动负债合流动资非流动资产合流动负非流动负债合",
+        "bottom": 132.54,
+        "data_offset_end": 891,
+        "font_size": 36.0,
+        "left": 498.18,
+        "line_height": 0,
+        "data_offset_start": 817,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "BTitle_9999"
+    }
+]

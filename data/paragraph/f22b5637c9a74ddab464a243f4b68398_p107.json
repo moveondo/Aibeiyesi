@@ -1,0 +1,86 @@
+[
+    {
+        "data-offset-end": 8,
+        "pageid": 107,
+        "top": 153,
+        "font-id": "f8",
+        "level": "Level",
+        "left": 1292,
+        "text": "綜合權益變動表",
+        "font-size": 51,
+        "color": "rgba(222,129,14,1)",
+        "data-offset-start": 2
+    },
+    {
+        "data-offset-end": 17,
+        "pageid": 107,
+        "top": 362,
+        "font-id": "f10",
+        "level": "Level",
+        "left": 846,
+        "text": "本公司擁有人應佔",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 10
+    },
+    {
+        "data-offset-end": 100,
+        "pageid": 107,
+        "top": 506,
+        "font-id": "f12",
+        "level": "Level",
+        "left": 560,
+        "text": "附註人民幣千元人民幣千元人民幣千元人民幣千元人民幣千元人民幣千元人民幣千元",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 57
+    },
+    {
+        "data-offset-end": 294,
+        "pageid": 107,
+        "top": 948,
+        "font-id": "f12",
+        "level": "Level",
+        "left": 144,
+        "text": "僱員購股權計劃：",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 287
+    },
+    {
+        "data-offset-end": 730,
+        "pageid": 107,
+        "top": 1245,
+        "font-id": "f13",
+        "level": "Level",
+        "left": 704,
+        "text": "40,0792,632,761(887,110)1,785,7309,654,2781,612,61613,052,624",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 664
+    },
+    {
+        "data-offset-end": 833,
+        "pageid": 107,
+        "top": 2303,
+        "font-id": "f8",
+        "level": "Level",
+        "left": 1412,
+        "text": "融創中國控股有限公司105",
+        "font-size": 24,
+        "color": "rgba(222,129,14,1)",
+        "data-offset-start": 820
+    },
+    {
+        "data-offset-end": 842,
+        "pageid": 107,
+        "top": 2330,
+        "font-id": "f9",
+        "level": "Level",
+        "left": 1504,
+        "text": "2017年度報告",
+        "font-size": 24,
+        "color": "rgba(101,98,98,1)",
+        "data-offset-start": 835
+    }
+]

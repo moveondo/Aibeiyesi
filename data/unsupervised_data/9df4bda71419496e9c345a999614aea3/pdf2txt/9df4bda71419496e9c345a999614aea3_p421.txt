@@ -1,0 +1,81 @@
+APPENDIX I
+
+ACCOUNTANTS’ REPORT
+
+On derecognition of a financial asset measured at amortised cost, the difference between the asset’s carrying
+amount and the sum of the consideration received and receivable is recognised in profit or loss. In addition, on
+derecognition of an investment in a debt instrument classified as at FVTOCI, the cumulative gain or loss previously
+accumulated in the investments revaluation reserve is reclassified to profit or loss.
+
+Financial liabilities and equity instruments
+
+Classification as debt or equity
+
+Debt and equity instruments issued by a group entity are classified as either financial liabilities or as equity
+in accordance with substance of the contractual arrangements and the definitions of a financial liability and an equity
+instrument.
+
+Equity instruments
+
+An equity instrument is any contract that evidences a residual interest in the assets of an entity after deducting
+all of its liabilities. Equity instruments issued by a group entity are recognised at the proceeds received, net of direct
+issue costs.
+
+Financial liabilities
+
+All financial liabilities are subsequently measured at amortised cost using the effective interest method or at
+
+FVTPL.
+
+Financial liabilities at FVTPL
+
+Financial liabilities are classified as at FVTPL when the financial liability is designated as at FVTPL.
+
+A financial liability may be designated as at FVTPL upon initial recognition if:
+
+(cid:129)
+
+(cid:129)
+
+(cid:129)
+
+such designation eliminates or significantly reduces a measurement or recognition inconsistency that
+would otherwise arise; or
+
+the financial liability forms part of a group of financial assets or financial liabilities or both, which is
+managed and its performance is evaluated on a fair value basis, in accordance with the Group’s
+documented risk management or investment strategy, and information about the grouping is provided
+internally on that basis; or
+
+it forms part of a contract containing one or more embedded derivatives, and IFRS 9 permits the entire
+combined contract to be designated as at FVTPL.
+
+Financial liabilities at FVTPL are stated at fair value with any gains or losses arising on changes in fair value
+recognised in profit or loss to the extent that they are not part of a designated hedging relationship. The net gain or
+loss recognised in profit or loss incorporates any interest paid on the financial liabilities and is included in the ‘other
+gains and losses’ line item.
+
+liability that
+
+is attributable to changes in the credit risk of that
+
+However, for financial liabilities that are designated as at FVTPL, the amount of change in the fair value of
+the financial
+liability is recognised in other
+comprehensive income, unless the recognition of the effects of changes in the liability’s credit risk in other
+comprehensive income would create or enlarge an accounting mismatch in profit or loss. The remaining amount of
+change in the fair value of liability is recognised in profit or loss. Changes in fair value attributable to a financial
+liability’s credit risk that are recognised in other comprehensive income are not subsequently reclassified to profit
+or loss; instead, they are transferred to accumulated losses upon derecognition of the financial liability.
+
+Convertible loan notes
+
+A conversion option that will be settled other than by exchange of a fixed amount of cash or another financial
+asset for a fixed number of the Group’s own equity instruments is a conversion option derivative. The Group
+designated the convertible loan notes as at FVTPL upon initial recognition because the convertible loan notes contract
+contains one or more embedded derivatives, and IFRS 9 permits the entire combined contract to be designated as at
+FVTPL (see the accounting policy above).
+
+– I-28 –
+
+

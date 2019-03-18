@@ -1,0 +1,52 @@
+FINANCIAL INFORMATION
+
+Revenue Recognition
+
+Product Revenue
+
+We recognize revenue when our customers obtain control of promised goods or services, in an
+amount that reflects the consideration that the entity expects to receive in exchange for those goods
+or services. Product sales are typically recognized at a point in time upon the delivery and transfer of
+the title of the product and associated risk of loss to the customer. Product sales are recorded net of
+estimated rebates, estimated product returns and other deductions. Provisions for estimated reductions
+to revenue are provided for in the same period the related sales are recorded and are based on the sales
+terms, historical experience and trend analysis.
+
+Rebates are offered to distributors, consistent with pharmaceutical industry practices. We record
+a provision for rebates at the time of sale based on contracted rates and historical redemption rates.
+Assumptions used to establish the provision include the level of distributor inventories, sales volumes
+and contract pricing and estimated acceptance of government pricing or reimbursement amounts (such
+as provincial acceptance of the NRDL pricing in the PRC). We regularly review the information
+related to these estimates and adjust the provision accordingly.
+
+We base our sales returns allowance on estimated distributor inventories, customer demand as
+reported by third-party sources, and actual returns history, as well as other factors, as appropriate. If
+the historical data we use to calculate these estimates do not properly reflect future returns, then a
+change in the allowance would be made in the period in which such a determination is made and
+revenues in that period could be materially affected. Any changes from the historical trend rates are
+considered in determining the current sales return allowance.
+
+Collaboration Revenue
+
+We recognize revenue from collaboration arrangements in accordance with ASC 606: Revenue
+from Contracts with Customers, which require us to perform the following five steps: (i) identify the
+contract(s) with a customer; (ii) identify the performance obligations in the contract; (iii) determine
+the transaction price; (iv) allocate the transaction price to the performance obligations in the contract;
+and (v) recognize revenue when (or as) the entity satisfies a performance obligation. We only apply
+the five-step model to contracts when it is probable that we will collect the consideration it is entitled
+to in exchange for the goods or services it transfers to the customer.
+
+Once the contract is determined to be within the scope of ASC 606 at inception, we assesses the
+goods or services promised within each contract and determines those that are separate and distinct,
+and therefore represent a separate performance obligation. We allocate the non-contingent
+arrangement consideration to each identified performance obligation based on the relative standalone
+selling price of each performance obligation. We then recognize as revenue the amount of the
+arrangement consideration allocated to the respective performance obligation when (or as) the
+performance obligation is satisfied, either at a point in time or over time depending on how the
+respective performance obligation is satisfied. Typically, our collaboration agreements consist of two
+performance obligations, which are license and research and development services. Upfront fee
+allocated to the license is recognized at a point in time, upon the transfer of license, and upfront fee
+
+— 297 —
+
+

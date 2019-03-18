@@ -1,0 +1,36 @@
+BUSINESS
+
+The PK profiles of IBI-305 and Avastin in cynomolgus monkeys are highly similar
+
+We conducted additional toxicology studies in cynomolgus monkey to determine the
+potential for harmful antibody responses to IBI-305 or other toxic effects in comparison with
+Avastin. We found no differences between IBI-305 and Avastin in terms of potentially harmful
+antibody responses or other toxicities.
+
+Step 3: Clinical Pharmacology Study
+
+Our IND application for IBI-305 was approved by the NMPA in May 2016 to follow the
+biosimilar regulatory development pathway based on the demonstrated similarity to the
+reference product in the CMC and pre-clinical studies. Since then, we have completed a
+randomized double-blind parallel controlled clinical trial in China to assess the PK/PD, safety,
+tolerance and immunogenicity of a single 3 mg/kg dose of IBI-305 compared to Avastin in 100
+healthy volunteers. Similar to bevacizumab (Avastin), no serious adverse events were observed
+in the study for IBI-305. The primary endpoints of AUC0-inf (extrapolated total area under
+plasma curve to time infinity) and AUC0-t (area under the plasma concentration-time curve),
+as well as Cmax (the peak serum concentration that a drug achieves in a test area of the body
+after drug administration), t½ (half-life), drug clearance and volume of distribution, were
+similar for IBI-305 and bevacizumab (Avastin) at a 3 mg/kg dose level. For each of AUC0-inf
+and AUC0-t, the 90% confidence intervals (90% CI) for the ratio of IBI-305 to bevacizumab
+(Avastin) were fully contained within 80% to 125%, confirming the bioequivalence between
+IBI-305 and bevacizumab (Avastin). As shown in the following graph, the PK profile plots
+demonstrated substantial overlap for the profile of IBI-305 and bevacizumab (Avastin) out to
+2,000 hours after a single dose administration in normal volunteers.
+
+We have not seen unexpected adverse events with IBI-305 in this study. Safety data from
+these small and short clinical pharmacology studies aimed at establishing bioequivalence are
+not useful, representative or material. The useful or material safety data set only comes from
+the large and lengthy clinical confirmation studies at Step 4.
+
+– 249 –
+
+

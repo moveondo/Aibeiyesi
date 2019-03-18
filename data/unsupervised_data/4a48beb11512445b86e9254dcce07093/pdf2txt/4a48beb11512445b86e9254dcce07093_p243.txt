@@ -1,0 +1,107 @@
+BUSINESS
+
+Fortunately, with sintilimab, this does not appear to be the case. 567 patients have been treated
+with sintilimab as of the Latest Practicable Date and the results from our clinical studies, albeit
+not head-to-head comparisons, have demonstrated that the safety profile of sintilimab is similar
+to that of pembrolizumab with no unexpected adverse events. In most of these clinical studies,
+the dose level and frequency of administration of sintilimab is identical
+to that of
+pembrolizumab, i.e., 200 mg flat dose given intravenously every three weeks. As shown in the
+following tables, in all categories of adverse events collected in our ongoing trials in 371
+patients, sintilimab has numerically lower frequency of adverse events than reported in the
+pembrolizumab reference safety dataset.
+
+Adverse events in the sintilimab safety data set (371 patients) in comparison
+
+to pembrolizumab safety data set.
+
+Adverse events in the sintilimab safety data set
+
+Index
+
+Adverse Events (AE)
+
+Treatment emerged adverse events (TEAE)
+
+TEAEs related to IBI308 (TRAE)
+
+≥ grade 3 TEAE
+
+≥ grade 3 Treatment related AE (TRAE)
+
+Serious adverse events (SAE) during treatment
+
+SAE related to drug
+
+AE leading to permanent withdrawal
+
+Sintilimab
+
+N=371
+
+88.1%
+
+85.2%
+
+80.9%
+
+24.3%
+
+21.8%
+
+17.3%
+
+6.5%
+
+6.2%
+
+Adverse events in the pembrolizumab safety data set
+
+Index
+
+Adverse Events (AE)
+
+Treatment emerged adverse events (TEAE)
+
+TEAEs related to drug (TRAE)
+
+≥ grade 3 TEAE
+
+≥ grade 3 Treatment related AE (TRAE)
+
+Serious adverse events (SAE) during treatment
+
+SAE related to drug
+
+AE leading to permanent withdrawal
+
+Pembrolizumab
+
+N=2799*
+
+97.4%
+
+97.4%
+
+73.7%
+
+45.5%
+
+13.8%
+
+37.2%
+
+10.0%
+
+11.9%
+
+*
+
+Pooled data from reference safety data set for Pembrolizumab. Pembrolizumab safety profile is
+presently based on 2,799 patients, including 1,232 NSCLC patients from studies KEYNOTE-001 and
+KEYNOTE-010 and 1,567 melanoma patients from studies KEYNOTE-001, KEYNOTE-002 and
+KEYNOTE-006.
+
+– 234 –
+
+

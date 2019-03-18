@@ -1,0 +1,51 @@
+APPENDIX I
+
+ACCOUNTANTS’ REPORT
+
+Key features of the Shareholder Loan
+
+The Shareholder Loan bears simple interest at a fixed rate of 8% per annum. No interest payment
+is due or payable prior to the repayment of the principal or the debt-to-equity conversion. The term
+of the Shareholder Loan is 72 months, commencing from the actual drawdown date of April 14, 2017
+and ending on April 13, 2023, unless converted earlier.
+
+The Shareholder Loan may be repaid or converted, either partially or in full, to an additional
+mid-single digit percentage equity interest in BeiGene Biologics prior to its maturity date, pursuant
+to the terms of the JV Agreement. BeiGene Biologics has the right to make early repayment at any
+time; provided, however, that if repayment is to occur before the debt-to-equity conversion it would
+require written approval of both BeiGene Biologics and GET. Upon conversion of the Shareholder
+Loan, GET will receive an additional equity interest in BeiGene Biologics, which will be based on the
+formula outlined in the JV Agreement.
+
+The Shareholder Loan can only be used by BeiGene Biologics, including the construction and
+operation of the biologics manufacturing facility and research and development and clinical trials to
+be carried out by BeiGene Biologics. If BeiGene Biologics does not use the Shareholder Loan
+proceeds for the specified purposes, GET may be entitled to certain liquidated damages. In the event
+of an early termination of the JV Agreement, the Shareholder Loan will become due and payable at
+the time of termination of the JV Agreement.
+
+Accounting for the Shareholder Loan
+
+The Shareholder Loan is classified as a long-term liability and initially measured at the principal
+of RMB900,000,000. Interest will be accrued based on the interest rate of 8% per annum. As the
+Shareholder Loan may be share-settled by a number of shares with a fair value equal to a fixed
+settlement amount, the settlement is not viewed as a conversion feature, but as a redemption feature
+because the settlement amount does not vary with the share price. This in-substance redemption
+feature does not require bifurcation because it is clearly and closely related to the debt host that does
+not involves a substantial premium or discount. Since there is no conversion feature embedded in the
+Shareholder Loan, no beneficial conversion feature was recorded. There are no other embedded
+derivatives that are required to be bifurcated.
+
+The portion of interest accrued on the Shareholder Loan related to borrowings used to construct
+Interest —
+
+the factory in Guangzhou is being capitalized in accordance with ASC 835-20,
+Capitalization of Interest.
+
+For the year ended December 31, 2017 and the three months ended March 31, 2017 and 2018,
+total interest expense generated from the Shareholder Loan was US$7,649,000, nil and US$3,280,000,
+among which, US$614,000, nil and US$815,000 was capitalized.
+
+— I-57 —
+
+

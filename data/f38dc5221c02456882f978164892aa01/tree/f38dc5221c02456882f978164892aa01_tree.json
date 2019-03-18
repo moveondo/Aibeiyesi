@@ -1,0 +1,115 @@
+{
+    "root": true,
+    "children": [
+        {
+            "left": 327,
+            "top": 623,
+            "text": "一、本激励计划的有效期",
+            "pageid": 17,
+            "font-size": 36,
+            "font-id": "f2",
+            "data-offset-start": 57,
+            "data-offset-end": 67,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 327,
+            "top": 904,
+            "text": "二、本激励计划的授权日",
+            "pageid": 17,
+            "font-size": 36,
+            "font-id": "f2",
+            "data-offset-start": 121,
+            "data-offset-end": 131,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 327,
+            "top": 1255,
+            "text": "三、本激励计划的等待期",
+            "pageid": 17,
+            "font-size": 36,
+            "font-id": "f2",
+            "data-offset-start": 240,
+            "data-offset-end": 250,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 327,
+            "top": 1535,
+            "text": "四、本激励计划的可行权日",
+            "pageid": 17,
+            "font-size": 36,
+            "font-id": "f2",
+            "data-offset-start": 297,
+            "data-offset-end": 308,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 327,
+            "top": 1957,
+            "level": "Level_0",
+            "text": "五、本激励计划的限售规定",
+            "pageid": 17,
+            "font-size": 36,
+            "font-id": "f2",
+            "data-offset-start": 404,
+            "children": [
+                {
+                    "left": 327,
+                    "top": 2167,
+                    "text": "1、激励对象为公司董事和高级管理人员的，其在任职期间每年转让的股份不",
+                    "pageid": 17,
+                    "font-size": 36,
+                    "font-id": "f1",
+                    "data-offset-start": 476,
+                    "data-offset-end": 509,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                }
+            ],
+            "color": "rgba(0,0,0,1)",
+            "data-offset-end": 415
+        },
+        {
+            "left": 327,
+            "top": 529,
+            "text": "一、本激励计划由公司董事会薪酬与考核委员会拟订，董事会审议通过，并经股东大会批准之日起生效。",
+            "pageid": 35,
+            "font-size": 36,
+            "font-id": "f2",
+            "data-offset-start": 34,
+            "data-offset-end": 80,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 327,
+            "top": 670,
+            "text": "二、激励对象违反本激励计划、《公司章程》或国家有关法律、法规及规范性文件，出售按照本激励计划所获得的股票，其收益归公司所有，由公司董事会负责执行。",
+            "pageid": 35,
+            "font-size": 36,
+            "font-id": "f2",
+            "data-offset-start": 82,
+            "data-offset-end": 156,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 327,
+            "top": 880,
+            "text": "三、公司实施本激励计划的财务、会计处理及其税收等问题，按有关法律法规、财务制度、会计准则、税务制度规定执行。公司股东大会授权董事会负责本激励计划的后续管理，本激励计划由公司董事会负责解释。",
+            "pageid": 35,
+            "font-size": 36,
+            "font-id": "f2",
+            "data-offset-start": 158,
+            "data-offset-end": 253,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_0"
+        }
+    ]
+}

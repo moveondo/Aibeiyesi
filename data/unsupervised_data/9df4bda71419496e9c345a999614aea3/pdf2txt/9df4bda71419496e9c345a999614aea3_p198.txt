@@ -1,0 +1,69 @@
+BUSINESS
+
+Lung image of a soft tissue sarcoma patient
+treated with JS001 in Phase I clinical trial
+
+Safety. Among the 12 patients, TEAEs were reported in 12 (100%). No DLT was observed
+and no MTD was reached in the study. Grade 3 TEAEs occurred in 2 patients (16.7%). No
+Grade 4 or 5 TEAEs were observed. One (8.3%) subject terminated due to TEAE and no
+subject terminated due to TRAE.
+
+The following table sets out an overview of the adverse events.
+
+N (%)
+
+3 mg/kg
+N=10
+
+10 mg/kg
+N=2
+
+Total
+N=12
+
+Any treatment emergent adverse
+
+events
+
+Any treatment serious adverse events
+Any treatment related TEAE
+Any treatment related serious TEAE
+Any grade ⱖ 3 TEAE(Note)
+
+10 (100)
+1 (10.0)
+10 (100)
+0
+2 (20.0)
+
+2 (100)
+0
+2 (100)
+0
+0
+
+12 (100)
+1 (8.3)
+12 (100)
+0
+2 (16.7)
+
+Note: including one grade 3 fatigue and one grade 3 creatinine kinase CK-MB elevation.
+
+3.
+
+Advanced or Metastatic Urothelial Carcinoma (Phase II)
+
+Design. In the Phase II single-arm clinical
+
+in advanced recurrent metastatic
+urothelial cancer treated with JS001, patients received a 3 mg/kg JS001 infusion every two
+weeks and were evaluated by the independent evaluation committee every eight weeks in the
+first year in accordance with the RECIST v1.1 assessment criteria. As of February 2018, 33
+patients with advanced urothelial cancer were enrolled.
+
+trial
+
+– 192 –
+
+

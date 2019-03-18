@@ -1,0 +1,301 @@
+{
+    "root": true,
+    "children": [
+        {
+            "left": 1157,
+            "top": 798,
+            "text": "1、《固定收益定期：期限利差缩窄是在走向“熊平”吗？》2018-09-24",
+            "pageid": 1,
+            "font-size": 22,
+            "font-id": "f3",
+            "data-offset-start": 1132,
+            "data-offset-end": 1169,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_1"
+        },
+        {
+            "left": 1157,
+            "top": 891,
+            "text": "2、《固定收益定期：信用负面跟踪20180921》",
+            "pageid": 1,
+            "font-size": 22,
+            "font-id": "f3",
+            "data-offset-start": 1171,
+            "data-offset-end": 1211,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_1"
+        },
+        {
+            "left": 1157,
+            "top": 985,
+            "text": "3、《行业高频数据跟踪20180923》2018-09-23",
+            "pageid": 1,
+            "font-size": 22,
+            "font-id": "f3",
+            "data-offset-start": 1224,
+            "data-offset-end": 1254,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_1"
+        },
+        {
+            "left": 1157,
+            "top": 1032,
+            "text": "4、《固定收益定期：信用负面跟踪20180920》",
+            "pageid": 1,
+            "font-size": 22,
+            "font-id": "f3",
+            "data-offset-start": 1256,
+            "data-offset-end": 1296,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_1"
+        },
+        {
+            "left": 1157,
+            "top": 1125,
+            "text": "5、《固定收益专题：农业战线“国家队”，农垦集团了",
+            "pageid": 1,
+            "font-size": 22,
+            "font-id": "f3",
+            "data-offset-start": 1309,
+            "data-offset-end": 1333,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_1"
+        },
+        {
+            "left": 101,
+            "top": 324,
+            "text": "一、资金是房企“血液”，土地储备则为“造血”原料.....................................................................................................3",
+            "pageid": 2,
+            "font-size": 29,
+            "font-id": "f2",
+            "data-offset-start": 24,
+            "data-offset-end": 150,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 101,
+            "top": 371,
+            "level": "Level_0",
+            "text": "二、土地储备规模是把“双刃剑”...............................................................................................................................4",
+            "pageid": 2,
+            "font-size": 29,
+            "font-id": "f2",
+            "data-offset-start": 152,
+            "children": [
+                {
+                    "left": 162,
+                    "top": 417,
+                    "text": "1、房企土地储备规模集中度较高，分化明显.....................................................................................................4",
+                    "pageid": 2,
+                    "font-size": 29,
+                    "font-id": "f1",
+                    "data-offset-start": 297,
+                    "data-offset-end": 419,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 162,
+                    "top": 464,
+                    "text": "2、土地储备并非多多益善，是把“双刃剑”.........................................................................................................4",
+                    "pageid": 2,
+                    "font-size": 29,
+                    "font-id": "f1",
+                    "data-offset-start": 421,
+                    "data-offset-end": 547,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                }
+            ],
+            "color": "rgba(0,0,0,1)",
+            "data-offset-end": 295
+        },
+        {
+            "left": 101,
+            "top": 511,
+            "level": "Level_0",
+            "text": "三、房企土地储备分布和拿地策略迥异.....................................................................................................................5",
+            "pageid": 2,
+            "font-size": 29,
+            "font-id": "f2",
+            "data-offset-start": 549,
+            "children": [
+                {
+                    "left": 162,
+                    "top": 558,
+                    "text": "1、一二线城市仍为房企战略布局的主战场.........................................................................................................6",
+                    "pageid": 2,
+                    "font-size": 29,
+                    "font-id": "f1",
+                    "data-offset-start": 686,
+                    "data-offset-end": 811,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 162,
+                    "top": 605,
+                    "text": "2、城市群时代，房企积极参与核心城市辐射经济圈建设.....................................................................................9",
+                    "pageid": 2,
+                    "font-size": 29,
+                    "font-id": "f1",
+                    "data-offset-start": 813,
+                    "data-offset-end": 925,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 162,
+                    "top": 651,
+                    "text": "3、全国布局亦或深耕局部，与本身规模息息相关.............................................................................................13",
+                    "pageid": 2,
+                    "font-size": 29,
+                    "font-id": "f1",
+                    "data-offset-start": 927,
+                    "data-offset-end": 1045,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                }
+            ],
+            "color": "rgba(0,0,0,1)",
+            "data-offset-end": 684
+        },
+        {
+            "left": 101,
+            "top": 698,
+            "text": "三、总结..............................................................................................................................................................16",
+            "pageid": 2,
+            "font-size": 29,
+            "font-id": "f2",
+            "data-offset-start": 1047,
+            "data-offset-end": 1212,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 484,
+            "top": 242,
+            "text": "一、资金是房企“血液”，土地储备则为“造血”原料",
+            "pageid": 3,
+            "font-size": 45,
+            "font-id": "f2",
+            "data-offset-start": 19,
+            "data-offset-end": 42,
+            "color": "rgba(0,64,151,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 484,
+            "top": 155,
+            "level": "Level_0",
+            "text": "二、土地储备规模是把“双刃剑”",
+            "pageid": 4,
+            "font-size": 45,
+            "font-id": "f2",
+            "data-offset-start": 2,
+            "children": [
+                {
+                    "left": 484,
+                    "top": 2045,
+                    "text": "2、土地储备并非多多益善，是把“双刃剑”",
+                    "pageid": 4,
+                    "font-size": 36,
+                    "font-id": "f3",
+                    "data-offset-start": 720,
+                    "data-offset-end": 739,
+                    "color": "rgba(0,64,151,1)",
+                    "level": "Level_1"
+                }
+            ],
+            "color": "rgba(0,64,151,1)",
+            "data-offset-end": 16
+        },
+        {
+            "left": 484,
+            "top": 1911,
+            "level": "Level_0",
+            "text": "三、房企土地储备分布和拿地策略迥异",
+            "pageid": 5,
+            "font-size": 45,
+            "font-id": "f2",
+            "data-offset-start": 803,
+            "children": [
+                {
+                    "left": 484,
+                    "top": 293,
+                    "text": "1、一二线城市仍为房企战略布局的主战场",
+                    "pageid": 6,
+                    "font-size": 36,
+                    "font-id": "f3",
+                    "data-offset-start": 31,
+                    "data-offset-end": 49,
+                    "color": "rgba(0,64,151,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 484,
+                    "top": 1452,
+                    "text": "2、城市群时代，房企积极参与核心城市辐射经济圈建设",
+                    "pageid": 9,
+                    "font-size": 36,
+                    "font-id": "f3",
+                    "data-offset-start": 380,
+                    "data-offset-end": 404,
+                    "color": "rgba(0,64,151,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 484,
+                    "top": 1499,
+                    "text": "3、全国布局亦或深耕局部，与本身规模息息相关",
+                    "pageid": 13,
+                    "font-size": 36,
+                    "font-id": "f3",
+                    "data-offset-start": 449,
+                    "data-offset-end": 470,
+                    "color": "rgba(0,64,151,1)",
+                    "level": "Level_1"
+                }
+            ],
+            "color": "rgba(0,64,151,1)",
+            "data-offset-end": 819
+        },
+        {
+            "left": 484,
+            "top": 1990,
+            "text": "一、二线城市占比63%。目前，公司全国布局过的城市已达92个。",
+            "pageid": 13,
+            "font-size": 31,
+            "font-id": "f2",
+            "data-offset-start": 794,
+            "data-offset-end": 827,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 288,
+            "top": 453,
+            "text": "一、二、三、四线是均衡布局，三四线是主战场，所有拿的土地都是按照当地政府的限价反推土地成本，",
+            "pageid": 16,
+            "font-size": 29,
+            "font-id": "f2",
+            "data-offset-start": 217,
+            "data-offset-end": 262,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 484,
+            "top": 1875,
+            "text": "三、总结",
+            "pageid": 16,
+            "font-size": 45,
+            "font-id": "f2",
+            "data-offset-start": 1311,
+            "data-offset-end": 1314,
+            "color": "rgba(0,64,151,1)",
+            "level": "Level_0"
+        }
+    ]
+}

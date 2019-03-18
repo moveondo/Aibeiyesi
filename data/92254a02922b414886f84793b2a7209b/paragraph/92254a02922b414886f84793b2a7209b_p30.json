@@ -1,0 +1,93 @@
+[
+    {
+        "font_family": "ff1",
+        "text": "欧菲科技股份有限公司  2017  年年度报告全文",
+        "bottom": 790.32,
+        "data_offset_end": 30,
+        "font_size": 36.0,
+        "left": 363.16,
+        "line_height": 0,
+        "data_offset_start": 6,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "BTitle_9999"
+    },
+    {
+        "font_family": "ff2",
+        "text": "30产品分类项目2017  年2016  年同比增减金额占营业成本比重金额占营业成本比重触控显示类产品触控显示类产品9,610,899,985.4332.98%9,932,305,985.2341.95%-8.97%光学产品摄像通讯类产品14,474,286,980.4349.67%7,055,716,253.3529.80%19.87%传感器类产品传感器类产品4,579,893,354.8815.72%6,207,098,073.3226.22%-10.50%智能汽车类产品智能汽车类产品237,050,571.000.81%84,877,567.310.36%0.45%其他其他40,362,329.1 10.14%143,726,562.710.61%-0.47%其他业务成本其他业务成本197,674,714.010.68%252,735,130.061.07%-0.39%说明产品分类项目2017 年2016 年2015 年金额占营业成本比重金额占营业成本比重金额占营业成本比重光学、光电子元器件制造直接材料25,393,134,385.9987.14%20,788,352,148.2889.78%13,772,033,934.7586.49%直接人工2,380,545,509.008.17%1,473,929,670.356.37%1,564,186,856.999.82%折旧835,342,38 6.502.87%442,774,623 .021.91%277,960,368 .071.75%能源359,056,75 3.351.23%301,032,796 .231.30%187,276,081 .631.18%其他制造费用172,088,90 0.060.59%147,635,204 .040.64%122,420,526 .270.77%合计29,140,167,934.91100.00%23,153,724,441.92100.00%15,923,877,767.71100.00%",
+        "bottom": 51.72,
+        "data_offset_end": 1183,
+        "font_size": 36.0,
+        "left": 529.68,
+        "line_height": 0,
+        "data_offset_start": 31,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "BTitle_9999"
+    },
+    {
+        "font_family": "ff1",
+        "text": "（ 6 ）报告期内合并范围是否发生变动",
+        "bottom": 326.9,
+        "data_offset_end": 1202,
+        "font_size": 42.0,
+        "left": 55.92,
+        "line_height": 0,
+        "data_offset_start": 1184,
+        "text_shadow": "-0.015em 0 rgb(0,0,0),0 0.015em rgb(0,0,0),0.015em 0 rgb(0,0,0),0 -0.015em rgb(0,0,0)",
+        "height": 39.27,
+        "level": "ATitle_9999"
+    },
+    {
+        "font_family": "ff4",
+        "text": "√  是   □ 否",
+        "bottom": 296.72,
+        "data_offset_end": 1211,
+        "font_size": 36.0,
+        "left": 55.92,
+        "line_height": 0,
+        "data_offset_start": 1203,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "BTitle_9999"
+    },
+    {
+        "font_family": "ff2",
+        "text": "",
+        "bottom": 185.42,
+        "data_offset_end": 1212,
+        "font_size": 36.0,
+        "left": 371.02,
+        "line_height": 0,
+        "data_offset_start": 1212,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "BTitle_9999"
+    },
+    {
+        "font_family": "ff1",
+        "text": "（ 7 ）公司报告期内业务、产品或服务发生重大变化或调整有关情况",
+        "bottom": 154.46,
+        "data_offset_end": 1244,
+        "font_size": 42.0,
+        "left": 55.92,
+        "line_height": 0,
+        "data_offset_start": 1213,
+        "text_shadow": "-0.015em 0 rgb(0,0,0),0 0.015em rgb(0,0,0),0.015em 0 rgb(0,0,0),0 -0.015em rgb(0,0,0)",
+        "height": 39.27,
+        "level": "ATitle_9999"
+    },
+    {
+        "font_family": "ff4",
+        "text": "□  适用   √ 不适用",
+        "bottom": 124.26,
+        "data_offset_end": 1256,
+        "font_size": 36.0,
+        "left": 55.92,
+        "line_height": 0,
+        "data_offset_start": 1245,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "BTitle_9999"
+    }
+]

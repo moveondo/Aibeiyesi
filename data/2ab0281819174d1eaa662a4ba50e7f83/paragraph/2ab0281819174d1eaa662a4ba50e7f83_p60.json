@@ -1,0 +1,54 @@
+[
+    {
+        "line_height": 0,
+        "font_family": "ff1",
+        "bottom": 790.32,
+        "text": "美的集团股份有限公司  2017  年年度报告60",
+        "font_size": 36.0,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "left": 381.07,
+        "data_offset_end": 32,
+        "data_offset_start": 6,
+        "level": "Text_9999",
+        "height": 33.66
+    },
+    {
+        "line_height": 0,
+        "font_family": "ff1",
+        "bottom": 754.44,
+        "text": "公司在完成了交 割前需履行的全 部法定的决策 和审批程序后， 于  2017  年1月6 日完成交割，库卡集团 32,233,536  股股份已过户至 MECCA，MECCA 已支付全部交易价款 3,706,856,640 欧元。",
+        "font_size": 42.24,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "left": 77.664,
+        "data_offset_end": 141,
+        "data_offset_start": 33,
+        "level": "BTitle_9999",
+        "height": 39.4944
+    },
+    {
+        "line_height": 0,
+        "font_family": "ff1",
+        "bottom": 695.98,
+        "text": "二十、公司子 公司重大事项",
+        "font_size": 48.0,
+        "text_shadow": "-0.015em 0 rgb(0,0,0),0 0.015em rgb(0,0,0),0.015em 0 rgb(0,0,0),0 -0.015em rgb(0,0,0)",
+        "left": 56.664,
+        "data_offset_end": 155,
+        "data_offset_start": 142,
+        "level": "ATitle_9999",
+        "height": 44.88
+    },
+    {
+        "line_height": 0,
+        "font_family": "ff1",
+        "bottom": 661.9,
+        "text": "□   适用 √  不适用",
+        "font_size": 42.24,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "left": 56.664,
+        "data_offset_end": 167,
+        "data_offset_start": 156,
+        "level": "BTitle_9999",
+        "height": 39.4944
+    }
+]

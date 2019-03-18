@@ -1,0 +1,45 @@
+BUSINESS
+
+In addition to developing our pipeline drug candidates in China, we have obtained FDA
+approval for our IND applications for sintilimab (IBI-308) and IBI-188 and plan to initiate a
+multi-center Phase 1b/2 clinical trial for sintilimab (IBI-308) in the U.S.
+
+Subject to applicable legal and contractual obligations, we consciously prioritize, and
+from time to time re-prioritize, our pipeline drug candidates for development based on
+numerous commercial considerations such as existing resources, changing epidemiology and
+estimated commercialization prospects.
+
+Our Most Advanced Drug Candidate: sintilimab (IBI-308)
+
+Sintilimab (IBI-308) is an innovative fully human PD-1 monoclonal antibody against the
+programmed death-1 molecule (PD-1). We are developing sintilimab as a monotherapy in
+relapsed/refractory classical Hodgkin’s lymphoma,
+first-line and second-line melanoma,
+gastrointestinal cancers, NSCLC, second-line esophageal cancer, second-line squamous
+NSCLC, and NK/T-cell lymphoma. We are also developing sintilimab in combination with
+chemotherapy for first-line non-squamous NSCLC, first-line squamous NSCLC, and first-line
+gastric cancer.
+
+Mechanism of Action
+
+PD-1 is a protein on the surface of T-cells and is one of the proteins referred to as an
+“immune checkpoint” inhibitor. The normal function of PD-1 is to turn off the T-cell mediated
+immune response as part of the process that stops a healthy immune system from attacking
+other cells in the body. When PD-1 attaches to certain proteins called the PD-1 ligand 1
+(PD-L1) or the PD-1 ligand 2 (PD-L2) on the surface of a normal cell or a cancer cell, the T-cell
+turns off its ability to kill the cell. Some cancer cells produce large amounts of PD-L1 and
+PD-L2 to help these cancer cells evade T-cell attacks. Sintilimab binds to PD-1 and blocks it
+from binding to both PD-L1 and PD-L2, which allows the T-cells to kill cancer cells. The
+following diagram illustrates the mechanism of action of sintilimab.
+
+In the diagram below, a T-cell interacts with a tumor cell via an antigen on the surface of
+the tumor cell. Under normal conditions, the T-cell would recognize the tumor antigen as being
+foreign and kill the tumor cell. In the top panel of the diagram, however, the tumor cell also
+expresses PD-L1 on its surface. PD-L1 can bind to the checkpoint receptor, PD-1, and in doing
+so, turn off the T-cell. In this manner the tumor cell can evade the immune system. As shown
+in the lower panel of the diagram, sintilimab binds to PD-1 on the surface of the T-cell and
+blocks the ability of PD-L1 to activate the checkpoint. The T-cell then initiates cell killing.
+
+– 226 –
+
+

@@ -1,0 +1,58 @@
+REGULATIONS
+
+Market exclusivity provisions under the FDCA can also delay the submission or the approval of
+certain applications. The FDCA provides a five-year period of non-patent marketing exclusivity within
+the United States to the first applicant to gain approval of an NDA for a new chemical entity. A drug
+is a new chemical entity if the FDA has not previously approved any other new drug containing the
+same active moiety, which is the molecule or ion responsible for the action of the drug substance.
+During the exclusivity period, the FDA may not accept for review an abbreviated NDA, or ANDA, or
+a 505(b)(2) NDA submitted by another company for another version of such drug where the applicant
+does not own or have a legal right of reference to all the data required for approval. However, such
+an application may be submitted after four years if it contains a certification of patent invalidity or
+non-infringement. The FDCA also provides three years of marketing exclusivity for an NDA,
+505(b)(2) NDA or supplement
+than
+bioavailability studies, that were conducted or sponsored by the applicant are deemed by the FDA to
+be essential to the approval of the application, for example, for new indications, dosages or strengths
+of an existing drug. This three-year exclusivity covers only the conditions of use associated with the
+new clinical
+the FDA from approving ANDAs for drugs
+containing the original active agent. Five-year and three-year exclusivity will not delay the submission
+or approval of a full NDA. However, an applicant submitting a full NDA would be required to conduct
+or obtain a right of reference to all of the preclinical studies and adequate and well-controlled clinical
+trials necessary to demonstrate safety and effectiveness.
+
+to an existing NDA if new clinical
+
+investigations, other
+
+investigations and does not prohibit
+
+Pediatric exclusivity is another type of exclusivity in the United States. Pediatric exclusivity, if
+granted, provides an additional six months of exclusivity, which runs from the end of other exclusivity
+or patent periods.
+
+Biosimilars and Exclusivity
+
+The PHSA includes an abbreviated approval pathway for biological products shown to be similar
+to, or interchangeable with, an FDA-licensed reference biological product. Biosimilarity, which
+requires that there be no clinically meaningful differences between the biological product and the
+reference product in terms of safety, purity and potency, can be shown through analytical studies,
+animal studies, and a clinical trial or trials. Interchangeability requires that a product is biosimilar to
+the reference product and the product must demonstrate that it can be expected to produce the same
+clinical results as the reference product and, for products administered multiple times, the biologic and
+the reference biologic may be switched after one has been previously administered without increasing
+safety risks or risks of diminished efficacy relative to exclusive use of the reference biologic.
+
+A reference biologic is granted twelve years of exclusivity from the time of first licensure of the
+reference product. The first biologic product submitted under the abbreviated approval pathway that
+is determined to be interchangeable with the reference product has exclusivity against other biologics
+submitting under the abbreviated approval pathway for the lesser of (i) one year after the first
+commercial marketing, (ii) 18 months after approval if there is no legal challenge, (iii) 18 months after
+the resolution in the applicant’s favor of a lawsuit challenging the biologic’s patents if an application
+has been submitted, or (iv) 42 months after the application has been approved if a lawsuit is ongoing
+within the 42-month period.
+
+— 173 —
+
+

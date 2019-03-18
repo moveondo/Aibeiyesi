@@ -1,0 +1,32 @@
+BUSINESS
+
+Cell based activity of IBI-302 compared with standards
+
+We also assessed IBI-302 in a Mouse Choroidal Neovascularization model (the Mouse
+CNV model). Choroidal neovascularization (CNV) is a non-specific response to specific
+damage of Bruch’s membrane (the middle layer of the retina) and is the pathobiology behind
+wet and dry AMD. The results of the study indicated that IBI-302 was more potent than each
+of VEGF Inhibitory Domain (VID) and Complement Inhibitory Domain (CID) alone in
+blocking murine CNV and in reducing both the concentration of VEGF and the concentration
+of complement proteins. These results indicate an additive effect for VID and CID and
+demonstrate that IBI-302 is capable of blocking both the complement and the angiogenesis (the
+growth of blood vessels) pathways in the eye.
+
+In the following figure,
+
+the green fluorescent circular lesions represent
+
+the MACs
+(membrane attack complexes) that form in the retina of mice as a result of laser-induced
+activation of the complement system, and treatment with IBI-302 decreased the dimensions of
+the MAC more significantly, indicating stronger efficacy, as compared to treatment with either
+VID or CID alone or to treatment with PBS (phosphate buffer saline) which is used as a
+control.
+
+Abbreviations: MAC = membrane attack complex; PBS = phosphate buffer saline;
+
+VID = VEGF inhibitory domain; CID = complement inhibitory domain.
+
+– 273 –
+
+

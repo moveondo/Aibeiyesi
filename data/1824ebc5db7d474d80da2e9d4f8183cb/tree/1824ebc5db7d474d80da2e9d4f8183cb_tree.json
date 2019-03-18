@@ -1,0 +1,139 @@
+{
+    "root": true,
+    "children": [
+        {
+            "left": 108,
+            "top": 118,
+            "text": "1、博彩业预计19-20年无法突破13年高位，中长期难以预测：（1）美国博彩业微增长，不适合类比目前的",
+            "pageid": 1,
+            "font-size": 33,
+            "font-id": "f1",
+            "data-offset-start": 2,
+            "data-offset-end": 56,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 107,
+            "top": 328,
+            "text": "2、预计银河19年表现垫底、但20年EBITDA可能创新高：（1）19年受博彩下行影响大于行业（公司博彩",
+            "pageid": 1,
+            "font-size": 33,
+            "font-id": "f1",
+            "data-offset-start": 244,
+            "data-offset-end": 302,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 124,
+            "top": 633,
+            "level": "Level_0",
+            "text": "1、拉斯维加斯博彩收入波动较小，不适合类比目前的澳门",
+            "pageid": 1,
+            "font-size": 36,
+            "font-id": "f1",
+            "data-offset-start": 489,
+            "children": [
+                {
+                    "left": 124,
+                    "top": 908,
+                    "text": "（1）预计2019澳门贵宾博彩收入增速-2%，公司贵宾博彩占博彩收入58%受影响较大；",
+                    "pageid": 2,
+                    "font-size": 29,
+                    "font-id": "f5",
+                    "data-offset-start": 301,
+                    "data-offset-end": 346,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 124,
+                    "top": 955,
+                    "text": "（2）全面禁烟令：2019年1月1日实施，要求2015前建成物业的贵宾区全面实行禁烟，而2015后建成物业因为没有吸烟室、受影响较小，公司2015前建成物业贡献的博彩收入占比59%、受影响较大；",
+                    "pageid": 2,
+                    "font-size": 29,
+                    "font-id": "f5",
+                    "data-offset-start": 348,
+                    "data-offset-end": 457,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 124,
+                    "top": 1049,
+                    "text": "（3）近期表现：近几个季度盈利环比表现在同业公司中处于最差水平、预计19年继续弱于行业；",
+                    "pageid": 2,
+                    "font-size": 29,
+                    "font-id": "f5",
+                    "data-offset-start": 459,
+                    "data-offset-end": 504,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 124,
+                    "top": 1144,
+                    "text": "（4）2020H1及以后可能新增最多数量的客房和博彩桌：公司为路氹城地区拥有土地储备最为充足的博彩公司；",
+                    "pageid": 2,
+                    "font-size": 29,
+                    "font-id": "f5",
+                    "data-offset-start": 528,
+                    "data-offset-end": 580,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 124,
+                    "top": 1191,
+                    "text": "（5）长期看银河份额持续提升，上一个行业上行期（17-18H1）公司表现较好、行业第2、仅次于永利",
+                    "pageid": 2,
+                    "font-size": 29,
+                    "font-id": "f5",
+                    "data-offset-start": 582,
+                    "data-offset-end": 631,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 124,
+                    "top": 1568,
+                    "text": "（6）公司13-17年股息率0.6%-1.6%",
+                    "pageid": 2,
+                    "font-size": 29,
+                    "font-id": "f5",
+                    "data-offset-start": 637,
+                    "data-offset-end": 662,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                }
+            ],
+            "color": "rgba(0,0,0,1)",
+            "data-offset-end": 514
+        },
+        {
+            "left": 124,
+            "top": 1637,
+            "text": "3、银河娱乐的收入及EBITDA预测（中金，百万港币）",
+            "pageid": 2,
+            "font-size": 36,
+            "font-id": "f3",
+            "data-offset-start": 664,
+            "data-offset-end": 692,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 124,
+            "top": 2368,
+            "text": "4、预计银河19年表现差于行业",
+            "pageid": 2,
+            "font-size": 36,
+            "font-id": "f3",
+            "data-offset-start": 926,
+            "data-offset-end": 942,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_0"
+        }
+    ]
+}

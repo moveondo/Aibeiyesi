@@ -1,0 +1,81 @@
+APPENDIX I
+
+ACCOUNTANTS’ REPORT
+
+Fair value of other financial liabilities
+
+The Company has issued Preferred Shares and has written put options over a subsidiary’s ordinary shares to
+a group of investors during the Relevant Period as set out in note 28. The Group classified these financial instruments
+as other financial liabilities at FVTPL in which no quoted prices in an active market exist. The fair value of the
+financial instruments is established by using valuation techniques. These techniques include back-solve method and
+adopted equity allocation model. Valuation techniques are certified by an independent and recognized international
+business valuer before being implemented for valuation and are calibrated to ensure that outputs reflect market
+conditions. Valuation models established by the valuer make the maximum use of market inputs and rely as little as
+possible on the Group’s specific data. However, it should be noted that some inputs, such as fair value of the ordinary
+shares of the Company, possibilities under different scenarios such as initial public offering,
+liquidation and
+redemption, and discount for lack of marketability, require management estimates. Management estimates and
+assumptions are reviewed periodically and are adjusted if necessary. Should any of the estimates and assumptions
+changed, it may lead to a change in the fair value of the other financial liabilities at FVTPL. The fair value of the
+other financial liabilities at FVTPL as at 31 December 2016 and 2017 and 30 June 2018 are RMB2,896 million,
+RMB3,051 million and RMB3,550 million, respectively.
+
+6.
+
+REVENUE AND SEGMENT INFORMATION
+
+Collaboration with Eli Lilly and Company (“Eli Lilly”)
+
+(collectively,
+
+In March 2015,
+
+the Group entered into Exclusive License and Collaboration Agreement for China and
+the “Lilly China Agreement”) with Eli Lilly, which governs the
+Co-Development Agreement
+development and commercialization activities concerning (1) IBI-301, a Rituxan biosimilar, and (2) sintilimab
+(IBI-308), a Programmer Death 1 monoclonal antibody (collectively, the “China Products”) in the People’s Republic
+of China (“PRC”), including Hong Kong and Macau, but excluding Taiwan. Under the Lilly China Agreement, the
+Group will be responsible for developing and manufacturing each of the China Products and received an upfront
+payment of US$36 million (approximately RMB223,855,000). The Group will own all
+intellectual properties
+generated in connection with the development of (i) the China Products and (ii) the unique cell lines for the China
+Products.
+
+The Group granted Eli Lilly an exclusive license (with the right to sublicense) under certain patents, know-how
+and regulatory approvals to commercialize the China Products in the PRC. The Group also provided Eli Lilly a
+non-exclusive license to certain trademarks in connection with Eli Lilly’s commercialization of the China Products
+in the PRC and similarly received a non-exclusive license to Eli Lilly trademarks with the right to sublicense in
+connection with possible commercialization of the China Products. The Group will co-promote IBI-301 and
+sintilimab (IBI-308) in China per the agreement with Eli Lilly and will share profits and losses pertaining to
+commercialization of IBI-301 and sintilimab (IBI-308) equally.
+
+Under the Lilly China Agreement, a joint steering committee was established with equal representation from
+each party to coordinate and oversee development and commercialization activities and decisions for the China
+Products. In general, the Group have final decision-making authority concerning the development of the China
+Products and Eli Lilly has final decision-making authority on commercialization decisions following regulatory
+approval of the China Products except certain decisions over downsizing of development plan or increase the
+development activities for sintilimab (IBI-308) require unanimous consent.
+
+Revenue will be commenced to recognise over time upon the customer receives and consumes the benefits
+during the commercialization stage. During each of the years ended 31 December 2016 and 2017 and the six months
+ended 30 June 2017 and 2018, the Group received collaboration fee on development cost sharing of approximately
+RMB28.9 million, RMB24.3 million, nil (unaudited) and RMB74.2 million, respectively. Since the periods between
+the transfer of license and customer’s payments are, at contract inception, expected to be more than one year, the
+Group concluded that the contract contains a significant financing component and 11% was used in adjusting for the
+effect of time value of money over the promised amount of consideration and interest expenses recognised during
+each of the years ended 31 December 2016 and 2017 and the six months ended 30 June 2017 and 2018, amounting
+to RMB27.3 million, RMB32.3 million, RMB16.1 million (unaudited) and RMB20.5 million, respectively (note 9).
+Both consideration received and interest expenses recognised are recorded under contract liabilities (note 25) at the
+end of each reporting period.
+
+License and research and development agreements with a customer
+
+In January 2017, the Group entered into an agreement with a customer for licensing of patented technology
+to them for development and up-front license fee of RMB10 million was received and upon the Group transfer the
+control of rights to use of the patented technology to customer, the Group recorded up-front license fee as revenue
+in 2017.
+
+– I-26 –
+
+

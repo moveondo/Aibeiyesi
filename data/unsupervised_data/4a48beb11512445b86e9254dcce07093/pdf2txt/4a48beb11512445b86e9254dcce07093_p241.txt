@@ -1,0 +1,53 @@
+BUSINESS
+
+Another measure of the improvement in immune status induced by PD-1 blockage is the
+shrinkage of tumors in animal models. In our case, mice studies we conducted using the H292
+humanized Winn mouse model. As illustrated in the following diagram, sintilimab was shown
+to
+in
+immunocompromised mice that are injected with human NSCLC cells. Notably, at the highest
+dose level of 10 mg/kg which is the standard dose level for nivolumab,
+treatment with
+sintilimab led to complete regression of tumors.
+
+100-fold more
+
+shrinkage
+
+nivolumab
+
+in
+
+terms
+
+of
+
+tumor
+
+be
+
+potent
+
+than
+
+Winn model demonstrating immune-based efficacy of sintilimab
+
+Abbreviations: h-IgG = human immunoglobulin G; PBMC = peripheral blood mononuclear cells.
+
+PD-1 antibodies function by binding to PD-1 on the surface of T lymphocytes and
+blocking PD-1 binding to PD-L1 and PD-L2 on the surface of cancer cells. The binding of PD-1
+antibodies to PD-1 is called receptor occupancy and is a measure of the fraction of PD-1 that
+is blocked on the surface of T lymphocytes which can be measured using standard flow
+cytometry methodology. A higher fraction of occupied receptor for a longer period of time may
+potentially result in better clinical efficacy. We compared the receptor occupancy of PD-1 in
+patients during and after they are given sintilimab to the published receptor occupancy for
+nivolumab. As shown in the left panel of the following figure, sintilimab had greater than 95%
+receptor occupancy for the full duration of a cycle of therapy at the 3 mg/kg dose level. In
+comparison, published data show that, at the same 3 mg/kg dose level, nivolumab (indicated
+in the figure by its former name MDX-1106) had a receptor occupancy that falls within the
+range of approximately 75% to 80% throughout the cycle of therapy, as shown in the right
+panel of the following figure.
+
+– 232 –
+
+

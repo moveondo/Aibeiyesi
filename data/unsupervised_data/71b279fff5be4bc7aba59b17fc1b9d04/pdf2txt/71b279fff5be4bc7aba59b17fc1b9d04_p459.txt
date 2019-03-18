@@ -1,0 +1,76 @@
+APPENDIX I
+
+Fair value of options
+
+ACCOUNTANTS’ REPORT
+
+The binomial option-pricing model was applied in determining the estimated fair value of the
+options granted. The model
+requires the input of highly subjective assumptions including the
+estimated expected stock price volatility and, the exercise multiple for which employees are likely to
+exercise share options. For expected volatilities, the trading history and observation period of the
+Company’s own share price movement have not been long enough to match the life of the share option.
+Therefore, the Company has made reference to the historical price volatilities of ordinary shares of
+several comparable companies in the same industry as the Company. For the exercise multiple, the
+Company was not able to develop an exercise pattern as reference, and thus the exercise multiple is
+based on management’s estimation, which the Company believes is representative of the future
+exercise pattern of the options. The risk-free rate for periods within the contractual life of the option
+is based on the U.S. Treasury Bills yield curve in effect at the time of grant. Prior to the completion
+of the Company’s US IPO, the estimated fair value of the ordinary shares, at the option grant dates,
+was determined with assistance from an independent third-party valuation firm, and the Company’s
+management was ultimately responsible for the determination of the estimated fair value of its
+ordinary shares. With the completion of the Company’s initial public offering, a public trading market
+for the ADSs has been established, and it is no longer necessary for the Company to estimate the fair
+value of ordinary shares at the option grant dates.
+
+The following table presents the assumptions used to estimate the fair values of the share options
+
+granted in the years/periods presented:
+
+Year ended December 31,
+
+Three months ended March 31,
+
+2016
+
+2017
+
+2017
+
+2018
+
+(Unaudited)
+
+1.85 ~ 2.84
+
+2.39 ~ 8.71
+
+Fair value of ordinary shares (US$) .
+2.37 ~ 3.11 7.58 ~ 12.92
+Risk-free interest rate ...................... 1.5% ~ 2.6% 2.2% ~ 2.6% 2.3% ~ 2.6% 2.5% ~ 2.9%
+Expected exercise multiple...............
+2.8
+Expected volatility ........................... 98% ~ 102% 99% ~ 100% 99% ~ 100% 60% ~ 63%
+Expected dividend yield ...................
+0%
+10 years
+Contractual life ................................
+
+0%
+10 years
+
+0%
+10 years
+
+0%
+10 years
+
+2.2 ~ 2.8
+
+2.2 ~ 2.8
+
+2.2 ~ 2.8
+
+— I-71 —
+
+

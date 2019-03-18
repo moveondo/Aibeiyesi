@@ -1,0 +1,93 @@
+[
+    {
+        "line_height": 0,
+        "font_family": "ff1",
+        "bottom": 790.32,
+        "text": "美的集团股份有限公司  2017  年年度报告72",
+        "font_size": 36.0,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "left": 381.07,
+        "data_offset_end": 32,
+        "data_offset_start": 6,
+        "level": "BTitle_9999",
+        "height": 33.66
+    },
+    {
+        "line_height": 0,
+        "font_family": "ff1",
+        "bottom": 758.28,
+        "text": "公司董事、高级 管理人员报告期 内被授予的股 权激励情况",
+        "font_size": 42.24,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "left": 56.664,
+        "data_offset_end": 59,
+        "data_offset_start": 33,
+        "level": "BTitle_9999",
+        "height": 35.145
+    },
+    {
+        "line_height": 0,
+        "font_family": "ff1",
+        "bottom": 736.66,
+        "text": "√   适用  □  不适用",
+        "font_size": 42.24,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "left": 56.664,
+        "data_offset_end": 71,
+        "data_offset_start": 60,
+        "level": "BTitle_9999",
+        "height": 35.145
+    },
+    {
+        "line_height": 0,
+        "font_family": "ff1",
+        "bottom": 715.78,
+        "text": "单位：股姓名职务报告期内可行权股数报告期内已行权股数报告期内已行权股数行权价格 （元 /股）报告期末市价（元 /股）期初持有限制性股票数量本期已解锁股份数量报告期新授予限制性股票数量限制性股票的授予价格（元 /股）期末持有限制性股票数量李飞德董事、副总裁375,000375,00010.0155.4300210,00015.86210,000胡自强副总裁00-55.4300300,00015.86300,000肖明光财务总监105,0000-55.4300150,00027.99150,000江鹏董事会秘书375,000375,00010.0155.430000090,00090,00018.5655.4300000合计--945,000840,000----0066 0,000--66 0,000备注（如有）李飞德先生本报告期解锁的第一期股票期权数量为  37.5  万份，已无未解锁期权；江鹏先生本报告期解锁的第一期股票期权数量为  18.75  万份，第一期已无未解锁期权、第二期解锁的股票期权数量为 9 万份，第二期剩余 9万份未解锁；肖明光先生本报告期获授  15  万股限制性股票，限制性股票上市日期为  2018  年2月7 日。",
+        "font_size": 36.0,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "left": 502.68,
+        "data_offset_end": 761,
+        "data_offset_start": 72,
+        "level": "BTitle_9999",
+        "height": 33.66
+    },
+    {
+        "line_height": 0,
+        "font_family": "ff1",
+        "bottom": 427.03,
+        "text": "五、公司员工 情况",
+        "font_size": 48.0,
+        "text_shadow": "-0.015em 0 rgb(0,0,0),0 0.015em rgb(0,0,0),0.015em 0 rgb(0,0,0),0 -0.015em rgb(0,0,0)",
+        "left": 56.664,
+        "data_offset_end": 771,
+        "data_offset_start": 762,
+        "level": "ATitle_9999",
+        "height": 44.88
+    },
+    {
+        "line_height": 0,
+        "font_family": "ff4",
+        "bottom": 396.91,
+        "text": "1 、员工数量、专业构成及教育程度",
+        "font_size": 42.24,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "left": 56.664,
+        "data_offset_end": 789,
+        "data_offset_start": 772,
+        "level": "BTitle_9999",
+        "height": 39.4944
+    },
+    {
+        "line_height": 0,
+        "font_family": "ff1",
+        "bottom": 6.6,
+        "text": "母公司在职员工的数量（人）1,172主要子公司在职员工的数量（人）100,654在职员工的数量合计（人）101,826当期领取薪酬员工总人数（人）101,826母公司及主要子公司需承担费用的离退休职工人数（人）1,660专业构成专业构成类别专业构成人数（人）生产人员84,889销售人员4,250技术人员 /研发人员10,520财务人员1,31 1行政人员856合计101,826教育程度教育程度类别数量（人）",
+        "font_size": 36.0,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "left": 1.32,
+        "data_offset_end": 1048,
+        "data_offset_start": 790,
+        "level": "BTitle_9999",
+        "height": 33.66
+    }
+]

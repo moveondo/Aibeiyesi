@@ -1,0 +1,46 @@
+BUSINESS
+
+Abbreviation: NRDL = national reimbursement drug list of China; PRDL = provincial reimbursement drug list;
+
+“No” means that the drug is not list in the NRDL or the PRDL even though it is marketed;
+
+“N.A.” means, with respect to retail price, not available, and with respect to NRDL/PDRL, not applicable because
+the drug candidate is not marketed yet.
+
+*
+
+for a marketed product, it refers to the NMPA approval date; for a clinical stage product, it refers to the date
+when the information about clinical trials is published for the first time (首次公示日期); for a product with
+NDA submitted and the NDA result pending, it refers to the date of NDA submission.
+
+Current Development Status and Data
+
+Step 1: CMC and Analytical Characterization
+
+We have developed, manufactured and characterized a master cell bank and demonstrated
+its quality and stability in accordance with the ICH guidelines. We have also completed
+development of a stable and controllable production process for IBI-303 and demonstrated
+through comprehensive studies that the stability of drug substance and drug product comply
+with the requirements of clinical research.
+
+We completed extensive analytical characterization and in vitro studies comparing
+
+IBI-303 to the reference product Humira.
+
+We have confirmed through Lys-C peptide mapping that the amino acid sequence of
+IBI-303 is identical
+to that of the reference product Humira, which is required for the
+biosimilar pathway under NMPA regulations. The graph below shows the peptide fingerprint
+of IBI-303 compared with Humira (adalimumab). IBI-303 and adalimumab were fragmented by
+endoproteinase Lys-C degradation and the peptides were separated by liquid chromatography-
+mass spectroscopy/mass spectroscopy (LC-MS/MS). This technology creates a peptide
+fragment-based fingerprint for proteins. If the fingerprints are identical it can be inferred that
+two proteins have identical amino acid primary structure.
+
+Peptide fingerprint for IBI-303 and Humira are highly similar
+
+Abbreviation: mAU = mAnson Unit (a unit of measurement for enzyme activity)
+
+– 260 –
+
+

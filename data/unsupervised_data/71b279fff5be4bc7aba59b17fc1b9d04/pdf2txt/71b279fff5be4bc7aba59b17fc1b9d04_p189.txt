@@ -1,0 +1,58 @@
+REGULATIONS
+
+April 2018 the CDA published a draft on Implementing Regulations for Pharmaceutical Study Data
+Protection (藥品試驗數據保護實施辦法（暫行）) for public comment that would set regulatory data
+protection for innovative small molecule drugs at six years and for innovative therapeutic biologics
+at 12 years. Included in the proposals were reduced protection periods of one to five years if an NDA
+is filed first outside of China (but no more than six years later) in reliance on international
+multi-center clinical trials conducted in China, or is filed in China based solely on overseas clinical
+data with no Chinese subjects (75% reduction) or based on supplemental “China clinical trial data”
+(50% reduction). Information about the exclusivity term will be included in an “orange book” at the
+time of approval, similar to the United States. Some mechanics of these proposed rules are not yet
+clear, and it is not certain when the proposed rules will be finalized. The PRC government has also
+stated that it will explore ways to expand access to reimbursement under the state health plans for
+innovative drugs (particularly for urgently needed oncology drugs).
+
+Acceptance of Foreign Clinical Trial Studies
+
+On July 10, 2018, the CDA issued the Technical Guidance Principles on Accepting Foreign Drug
+Clinical Trial Data (接受藥品境外臨床試驗數據的技術指導原則), or the Guidance Principles, as one
+of the implementing rules for the Innovation Opinion. According to the Guidance Principles, sponsors
+may use the data of foreign clinical trials to support drug registration in China, provided that sponsors
+must ensure the authenticity, completeness and accuracy of foreign clinical trial data and such data
+must be obtained consistent with the relevant requirements under the Good Clinical Trial Practice
+(GCP) of the International Conference on Harmonisation of Technical Requirements for Registration
+of Pharmaceuticals for Human Use (ICH). Sponsors must also comply with other relevant sections of
+the Drug Registration Regulation (藥品註冊管理辦法) when applying for drug registrations in China
+using foreign clinical trial data.
+
+Manufacturing and Distribution
+
+According to the Drug Administration Law (藥品管理法), all facilities that make drugs in China
+should receive a drug manufacturing license with an appropriate “scope of manufacturing” from the
+local PFDA. This license must be renewed every five years. A separate certification of compliance
+with GMP is also required.
+
+Similarly,
+
+to conduct sales,
+
+importation, shipping and storage (“distribution activities”) a
+company must obtain a Drug Distribution License from the local PFDA, subject to renewal every five
+years. Like with GMPs, a separate certification of compliance with CDA’s drug good supply practice,
+or GSP, is required.
+
+On January 9, 2017, eight central government agencies jointly promulgated the Notice on the
+Distribution of the Opinions on the Implementation of the “Two-Invoice System” in Drug Procurement
+by Public Medical Institutions (for Trial Implementation) (關於在公立醫療機構藥品採購中推行”兩票
+制”的實施意見（試行）的通知). The “Two-Invoice System” generally requires that at most
+two
+invoices may be issued throughout
+the distribution chain, with one from the manufacturer to a
+distributor and another from the distributor to the end-user hospital. This excludes the sale of products
+invoiced from the manufacturer to its wholly owned or controlled distributors, or for imported drugs,
+to their exclusive distributor, or from a distributor to its wholly owned or controlled subsidiary (or
+
+— 183 —
+
+

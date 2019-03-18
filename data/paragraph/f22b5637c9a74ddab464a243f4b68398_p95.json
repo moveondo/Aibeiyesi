@@ -1,0 +1,86 @@
+[
+    {
+        "data-offset-end": 11,
+        "pageid": 95,
+        "top": 153,
+        "font-id": "f8",
+        "level": "Level",
+        "left": 1135,
+        "text": "環境、社會及管治報告",
+        "font-size": 51,
+        "color": "rgba(190,146,91,1)",
+        "data-offset-start": 2
+    },
+    {
+        "data-offset-end": 19,
+        "pageid": 95,
+        "top": 345,
+        "font-id": "f10",
+        "level": "Level",
+        "left": 127,
+        "text": "4.鄰里計劃",
+        "font-size": 33,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 13
+    },
+    {
+        "data-offset-end": 164,
+        "pageid": 95,
+        "top": 440,
+        "font-id": "f12",
+        "level": "Level",
+        "left": 127,
+        "text": "本集團亦組織「鄰里計劃」，該計劃包括在各項目社區內開展的形式多樣的系列活動，旨在鄰里之間建立和睦的友誼，營造愉悅、睦鄰的融創社區文化。於二零一七年，本集團為各年齡段的業主準備了多項活動，包括觀影日、採摘遊、百家宴、趣味運動會、健康體檢等，共有來自全國的三萬多名業主參與了「鄰里計劃」。",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 21
+    },
+    {
+        "data-offset-end": 169,
+        "pageid": 95,
+        "top": 1071,
+        "font-id": "f11",
+        "level": "Level",
+        "left": 127,
+        "text": "社會捐助",
+        "font-size": 39,
+        "color": "rgba(190,146,91,1)",
+        "data-offset-start": 166
+    },
+    {
+        "data-offset-end": 354,
+        "pageid": 95,
+        "top": 1169,
+        "font-id": "f12",
+        "level": "Level",
+        "left": 127,
+        "text": "二零一七年八月八日晚，四川省阿壩州九寨溝縣發生7.0級地震，地震造成眾多人員傷亡和財產損失。在獲知地震訊息後，本集團於八月九日上午，通過天津市慈善總會向九寨溝縣地震災區捐款人民幣1,000萬元，專項用於救治受災群眾，幫助災區群眾重建家園。本集團希望通過捐助救災專項款，可以改善受災群眾的處境，並給予他們更多克服困難、重建家園的信心和勇氣。",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 183
+    },
+    {
+        "data-offset-end": 368,
+        "pageid": 95,
+        "top": 2303,
+        "font-id": "f8",
+        "level": "Level",
+        "left": 1412,
+        "text": "融創中國控股有限公司93",
+        "font-size": 24,
+        "color": "rgba(190,146,91,1)",
+        "data-offset-start": 356
+    },
+    {
+        "data-offset-end": 377,
+        "pageid": 95,
+        "top": 2330,
+        "font-id": "f9",
+        "level": "Level",
+        "left": 1504,
+        "text": "2017年度報告",
+        "font-size": 24,
+        "color": "rgba(101,98,98,1)",
+        "data-offset-start": 370
+    }
+]

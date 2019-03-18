@@ -1,0 +1,155 @@
+BUSINESS
+
+Efficacy analysis of nivolumab and pembrolizumab in relapsed/refractory
+
+classical Hodgkin’s lymphoma
+
+Parameter
+
+Nivolumab1
+ASCT+BV
+
+(N=80)
+
+Pembrolizumab2
+
+Cohort A: 
+ASCT+BV 
+(N=69)
+
+Cohort B: 
+BV 
+(N=81)
+
+Cohort C: 
+ASCT 
+(N=60)
+
+Total 
+(N=210)
+
+CR
+
+PR
+
+SD
+
+PD
+
+7 (8.8%)
+
+15 (21.7%)
+
+20 (24.7%)
+
+12 (20.0%)
+
+47 (22.4%)
+
+46 (57.5%)
+
+36 (52.2%)
+
+32 (39.5%)
+
+30 (50.0%)
+
+98 (46.7%)
+
+18 (22.5%)
+
+11 (15.9%)
+
+10 (12.3%)
+
+10 (16.7%)
+
+31 (14.8%)
+
+6 (7.5%)
+
+5 (7.2%)
+
+17 (21.0%)
+
+8 (13.3%)
+
+30 (14.3%)
+
+IWG 2007 
+Standard
+
+unreadable
+
+3 (3.8%)
+
+2 (2.9%)
+
+2 (2.5%)
+
+0
+
+4 (1.9%)
+
+ORR 
+
+(CR+PR)
+
+DCR 
+
+(CR+PR+SD)
+
+66.3%
+
+73.9%
+
+65.2%
+
+70.0%
+
+69.1%
+
+88.8%
+
+89.8%
+
+76.5%
+
+86.7%
+
+83.9%
+
+Abbreviations: IWG 2007 = International Working Group 2007; ASCT = autologous stem cell transplantation;
+BV = brentuximab vedotin; CR = complete response rate; PR = partial response rate; SD = stable disease; PD
+= progressive disease; ORR = objective response rate; DCR = disease control rate.
+
+1.
+
+2.
+
+Younes et al, Lancet Oncol., 17(9) 1283-94, 2016. “Best overall response was defined as the best
+response designation recorded between the date of the first dose and the date of initial objectively
+documented progression per the 2007 International Working Group criteria or the date of subsequent
+therapy, whichever occurred first.”
+
+Chen et al, JCO., 35(19) 2125-2132, 2017. “ORR was defined as the proportion of patients who achieved
+CR or partial response using RRC criteria17 at any time during the study. Best overall response was
+defined as best ORR during the period between the first dose and the first documented PD, death, or,
+in the absence of PD, last efficacy assessment before subsequent therapy.”
+
+Summary of Registration Trial Results
+
+We have completed a multi-center, single arm, open-label, registration trial in China to
+evaluate the efficacy and safety of sintilimab in 96 patients with relapsed/refractory classical
+Hodgkin’s lymphoma, which is the largest clinical study in China for this indication. The
+primary endpoint is objective response rate (ORR) and the secondary endpoint is complete
+response rate (CR). Trial response data was assessed and confirmed by an independent
+radiological review committee (IRRC) according to IWG 2007 criteria. Patients were evaluated
+by PET after completing a 15-week course of treatment with sintilimab at the dose level of 200
+mg every three weeks. As confirmed by the IRRC, for patients in the trial, the best objective
+response rate was 79.2% (week 24 data), the best complete response rate was 17.7% (week 15
+data), and the disease control rate was 97.9% (week 24 data).
+
+– 236 –
+
+

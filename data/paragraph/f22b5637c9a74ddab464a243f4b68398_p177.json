@@ -1,0 +1,98 @@
+[
+    {
+        "data-offset-end": 54,
+        "pageid": 177,
+        "top": 993,
+        "font-id": "f13",
+        "level": "Level",
+        "left": 212,
+        "text": "無抵押",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 52
+    },
+    {
+        "data-offset-end": 116,
+        "pageid": 177,
+        "top": 1458,
+        "font-id": "f12",
+        "level": "Level",
+        "left": 212,
+        "text": "即期",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 115
+    },
+    {
+        "data-offset-end": 120,
+        "pageid": 177,
+        "top": 1506,
+        "font-id": "f13",
+        "level": "Level",
+        "left": 212,
+        "text": "有抵押",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 118
+    },
+    {
+        "data-offset-end": 151,
+        "pageid": 177,
+        "top": 1764,
+        "font-id": "f13",
+        "level": "Level",
+        "left": 212,
+        "text": "無抵押",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 149
+    },
+    {
+        "data-offset-end": 191,
+        "pageid": 177,
+        "top": 153,
+        "font-id": "f8",
+        "level": "Level",
+        "left": 1240,
+        "text": "綜合財務報表附註",
+        "font-size": 51,
+        "color": "rgba(222,129,14,1)",
+        "data-offset-start": 184
+    },
+    {
+        "data-offset-end": 209,
+        "pageid": 177,
+        "top": 215,
+        "font-id": "f10",
+        "level": "Level",
+        "left": 1187,
+        "text": "截至二零一七年十二月三十一日止年度",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 193
+    },
+    {
+        "data-offset-end": 704,
+        "pageid": 177,
+        "top": 2303,
+        "font-id": "f8",
+        "level": "Level",
+        "left": 1412,
+        "text": "融創中國控股有限公司175",
+        "font-size": 24,
+        "color": "rgba(222,129,14,1)",
+        "data-offset-start": 691
+    },
+    {
+        "data-offset-end": 713,
+        "pageid": 177,
+        "top": 2330,
+        "font-id": "f9",
+        "level": "Level",
+        "left": 1504,
+        "text": "2017年度報告",
+        "font-size": 24,
+        "color": "rgba(101,98,98,1)",
+        "data-offset-start": 706
+    }
+]

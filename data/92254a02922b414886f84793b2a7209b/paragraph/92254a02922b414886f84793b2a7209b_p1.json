@@ -1,0 +1,93 @@
+[
+    {
+        "font_family": "ff1",
+        "text": "欧菲科技股份有限公司  2017  年年度报告全文",
+        "bottom": 796.86,
+        "data_offset_end": 30,
+        "font_size": 36.0,
+        "left": 363.16,
+        "line_height": 0,
+        "data_offset_start": 6,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "Text_9999"
+    },
+    {
+        "font_family": "ff2",
+        "text": "1",
+        "bottom": 38.16,
+        "data_offset_end": 33,
+        "font_size": 36.0,
+        "left": 534.18,
+        "line_height": 0,
+        "data_offset_start": 31,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "Text_9999"
+    },
+    {
+        "font_family": "ff1",
+        "text": "欧菲科技股份有限公司",
+        "bottom": 679.84,
+        "data_offset_end": 45,
+        "font_size": 79.92,
+        "left": 197.24,
+        "line_height": 0,
+        "data_offset_start": 34,
+        "text_shadow": "-0.015em 0 rgb(0,0,0),0 0.015em rgb(0,0,0),0.015em 0 rgb(0,0,0),0 -0.015em rgb(0,0,0)",
+        "height": 74.7252,
+        "level": "ATitle_9999"
+    },
+    {
+        "font_family": "ff3",
+        "text": "2017  年年度报告",
+        "bottom": 635.86,
+        "data_offset_end": 57,
+        "font_size": 72.0,
+        "left": 232.28,
+        "line_height": 0,
+        "data_offset_start": 46,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 67.32,
+        "level": "BTitle_9999"
+    },
+    {
+        "font_family": "ff1",
+        "text": "（更正后）",
+        "bottom": 594.58,
+        "data_offset_end": 64,
+        "font_size": 64.08,
+        "left": 257.56,
+        "line_height": 0,
+        "data_offset_start": 58,
+        "text_shadow": "-0.015em 0 rgb(0,0,0),0 0.015em rgb(0,0,0),0.015em 0 rgb(0,0,0),0 -0.015em rgb(0,0,0)",
+        "height": 59.9148,
+        "level": "BTitle_9999"
+    },
+    {
+        "font_family": "ff3",
+        "text": "",
+        "bottom": 554.98,
+        "data_offset_end": 65,
+        "font_size": 64.08,
+        "left": 297.7,
+        "line_height": 0,
+        "data_offset_start": 65,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 59.9148,
+        "level": "BTitle_9999"
+    },
+    {
+        "font_family": "ff3",
+        "text": "2018  年 04  月",
+        "bottom": 462.22,
+        "data_offset_end": 78,
+        "font_size": 64.08,
+        "left": 361.24,
+        "line_height": 0,
+        "data_offset_start": 66,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 59.9148,
+        "level": "BTitle_9999"
+    }
+]

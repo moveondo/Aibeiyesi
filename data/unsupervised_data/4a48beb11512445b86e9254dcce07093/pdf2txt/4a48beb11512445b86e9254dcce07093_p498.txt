@@ -1,0 +1,62 @@
+APPENDIX I
+
+Interest rate risk
+
+ACCOUNTANTS’ REPORT
+
+The Group is exposed to fair value interest rate risk in relation to other loans (note 19) and other
+financial liabilities (note 28) and cash flow interest rate risk in relation to variable-rate bank borrowings (note
+26) and bank balances (note 22). The Company currently does not enter into any hedging instrument for both
+of the fair value interest rate risk and cash flow interest rate risk.
+
+Sensitivity analysis
+
+The sensitivity analyses below have been determined based on the exposure to interest rates for bank
+borrowings at the end of the reporting period. The analysis is prepared assuming the amounts of these financial
+instruments outstanding at the end of the relevant periods were outstanding for the whole year. A 50 basis point
+increase or decrease in the prevailing rates of relevant banks is used when reporting interest rate risk internally
+to key management personnel and represents management’s assessment of the reasonably possible change in
+interest rates.
+
+If interest rates had been 50 basis points higher/lower for variables rate bank borrowings, with all other
+variables held constant, the Group’s post-tax loss for the years ended 31 December 2016 and 2017 and six
+months ended 30 June 2017 and 2018 would increase/decrease by RMB2,500,000, RMB2,550,000,
+RMB1,250,000 (unaudited) and RMB1,742,500, respectively.
+
+Bank balances are excluded from sensitivity analysis as the directors of the Company consider that the
+exposure of cash flow interest rate risk arising from variable-rate bank balances is insignificant because the
+current market interest rates are relatively low and stable.
+
+Other price risk
+
+The Group is exposed to other price risk through Preferred Shares classified as other financial liabilities.
+
+Sensitivity analysis
+
+The sensitivity analyses below have been determined based on the exposure to equity price risk at end
+
+of the reporting period for financial liabilities at FVTPL.
+
+If the equity value of the Company had been changed based on the 5% higher/lower:
+
+(cid:129)
+
+(cid:129)
+
+(cid:129)
+
+the post-tax loss of the Group for the year ended 31 December 2016 would increase by
+RMB139,018,000 and decrease by RMB133,511,000, as a result of the changes in fair value of
+the Company’s equity value;
+
+the post-tax loss of the Group for the year ended 31 December 2017 would increase by
+RMB142,031,000 and decrease by RMB136,585,000, as a result of the changes in fair value of
+the Company’s equity value;
+
+the post-tax loss of the Group for the six months ended 30 June 2018 would increase by
+RMB166,724,000 and decrease by RMB161,921,000, as a result of the changes in fair value of
+the Company’s equity value.
+
+– I-61 –
+
+

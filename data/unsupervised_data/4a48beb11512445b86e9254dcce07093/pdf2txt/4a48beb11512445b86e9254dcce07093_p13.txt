@@ -1,0 +1,64 @@
+SUMMARY
+
+Sintilimab is an innovative fully human PD-1 monoclonal antibody and one of the first
+PD-1 monoclonal antibodies to have a new drug application (NDA) accepted in China with
+priority review status. The indication for this NDA is r/r Hodgkin’s lymphoma. PD-1/PD-L1
+antibodies and other immuno-oncology drugs have revolutionized treatment of many cancers
+and demonstrated significant clinical benefits over chemotherapy and other therapies in many
+types of cancers. According to the Frost & Sullivan Report, PD-1/PD-L1 antibodies had sales
+of US$10.1 billion worldwide in 2017; however, in China, there are only two approved PD-1
+antibodies, Bristol-Myers Squibb’s Opdivo (nivolumab), which was approved by the NMPA on
+June 15, 2018 for the treatment of locally advanced or metastatic NSCLC after prior
+platinum-based chemotherapy in adult patients without EGFR or ALK genomic tumor
+aberration, and Merck’s Keytruda (pembrolizumab), which was approved by the NMPA on July
+26, 2018 for the treatment of adult patients with unresectable or metastatic melanoma
+following failure of one prior line of therapy; there is no PD-L1 antibody approved in China
+yet. We are developing sintilimab to treat multiple types of cancers and are currently
+conducting clinical trials with sintilimab both as a monotherapy and in combination with other
+therapies. In particular, part of sintilimab forms the anti-PD-1 portion of three bi-specific
+antibody drug candidates currently under our pre-clinical development, including IBI-318,
+IBI-319 and IBI-315. Besides us, several companies also have anti-PD-1/PD-L1 drug
+candidates with an NDA application under review by the NMPA for the first indications or
+otherwise in late-stage clinical development
+including Roche’s Tecentriq
+(atezolizumab), BeiGene’s BGB-A317 (tislelizumab), Hengrui’s SHR-1210 (camrelizumab),
+CStone’s
+Junshi’s
+KN035,
+AstraZeneca/MedImmune’s
+(durvalumab) and Merck KGaA/Pfizer’s Bavencio
+(avelumab).
+
+CS1001, Alphamab/3DMed’s
+
+in China,
+
+JS-001
+
+(toripalimab),
+
+Imfinzi
+
+Sintilimab has demonstrated an objective response rate (ORR) of 79.2% (week 24 data)
+and a complete response (CR) rate of 17.7% (week 15 data) in our registration clinical trial in
+96 patients in China with relapsed/refractory classical Hodgkin’s lymphoma and a safety and
+toxicity profile comparable to existing approved PD-1 antibodies. We believe that sintilimab
+has the potential to be a best-in-class PD-1 antibody given its biochemical and biological
+properties. For example, based on biochemical assays, sintilimab binds 10-fold and 50-fold
+more tightly to its target (referred to as high affinity) than pembrolizumab (sold under the trade
+name Keytruda by Merck) and nivolumab (sold under the trade name Opdivo by Bristol-Myers
+Squibb), respectively, and, based on in vivo pharmacodynamic comparison data, sintilimab also
+occupies more of the available PD-1 binding sites at a given drug concentration (referred to as
+target occupancy) than nivolumab. In our clinical trials, sintilimab demonstrated greater than
+95% receptor occupancy for the full duration of a cycle of therapy at the 3 mg/kg dose level.
+In comparison, published data show that, at the same 3 mg/kg dose level, nivolumab had a
+receptor occupancy that falls within the range of approximately 75% to 80% throughout the
+cycle of therapy. We believe that these characteristics of sintilimab would lead to better clinical
+efficacy at the same or lower dosage level and at the same or lower frequency of administration
+in comparison with existing approved PD-1 antibodies. We will co-promote and co-brand
+sintilimab per the agreement with Eli Lilly in China and, subject to receipt of NMPA approval,
+we plan to launch sintilimab in 2019.
+
+– 4 –
+
+

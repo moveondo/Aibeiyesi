@@ -1,0 +1,110 @@
+[
+    {
+        "data-offset-end": 48,
+        "pageid": 194,
+        "top": 579,
+        "font-id": "f12",
+        "level": "Level",
+        "left": 212,
+        "text": "貸款及應收款項",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 42
+    },
+    {
+        "data-offset-end": 113,
+        "pageid": 194,
+        "top": 981,
+        "font-id": "f13",
+        "level": "Level",
+        "left": 212,
+        "text": "按公允價值透過損益列賬的金融資產",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 98
+    },
+    {
+        "data-offset-end": 133,
+        "pageid": 194,
+        "top": 1294,
+        "font-id": "f12",
+        "level": "Level",
+        "left": 212,
+        "text": "按攤銷成本列賬的金融負債",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 122
+    },
+    {
+        "data-offset-end": 172,
+        "pageid": 194,
+        "top": 1565,
+        "font-id": "f12",
+        "level": "Level",
+        "left": 212,
+        "text": "按公允價值透過損益列賬的金融負債",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 157
+    },
+    {
+        "data-offset-end": 214,
+        "pageid": 194,
+        "top": 1716,
+        "font-id": "f13",
+        "level": "Level",
+        "left": 195,
+        "text": "附註：此分析的貿易及其他應付款項並不包括應付稅項及應付工資及福利。",
+        "font-size": 22,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 181
+    },
+    {
+        "data-offset-end": 242,
+        "pageid": 194,
+        "top": 468,
+        "font-id": "f12",
+        "level": "Level",
+        "left": 1235,
+        "text": "十二月三十一日十二月三十一日",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 228
+    },
+    {
+        "data-offset-end": 434,
+        "pageid": 194,
+        "top": 1183,
+        "font-id": "f12",
+        "level": "Level",
+        "left": 1235,
+        "text": "十二月三十一日十二月三十一日",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 420
+    },
+    {
+        "data-offset-end": 569,
+        "pageid": 194,
+        "top": 2303,
+        "font-id": "f7",
+        "level": "Level",
+        "left": 39,
+        "text": "192融創中國控股有限公司",
+        "font-size": 33,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 556
+    },
+    {
+        "data-offset-end": 578,
+        "pageid": 194,
+        "top": 2330,
+        "font-id": "f9",
+        "level": "Level",
+        "left": 127,
+        "text": "2017年度報告",
+        "font-size": 24,
+        "color": "rgba(101,98,98,1)",
+        "data-offset-start": 571
+    }
+]

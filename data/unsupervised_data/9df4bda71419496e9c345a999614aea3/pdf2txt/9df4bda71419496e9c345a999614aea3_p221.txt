@@ -1,0 +1,245 @@
+BUSINESS
+
+Generic
+Name
+
+Brand
+Name
+
+Company
+
+China
+Filing
+Status
+
+Key
+MOA
+
+Proposed
+Indications
+
+Retail Price
+
+(RMB)
+
+IND
+
+NDA
+
+Approved
+
+Submitted
+
+Time
+
+Time
+
+NDA
+
+Application
+
+Number
+
+Evolocumab
+
+Repatha
+
+Amgen
+
+NDA
+
+Approved
+
+Anti-PCSK9
+
+Alirocumab
+
+Praluent
+
+Sanofi-
+Aventis.
+
+Phase III
+
+Anti-PCSK9
+
+Homozygous
+Familial
+Hypercholestero
+lemia
+
+Hypercholestero
+lemia
+
+N.A.*
+
+2015.1
+
+2017.10
+
+JXSS1700014
+
+N.A.
+
+2015.12
+
+N.A.
+
+N.A.
+
+JS002
+
+Junshi
+
+Phase I
+
+Anti-PCSK9 Hypercholestero
+
+lemia
+
+N.A.
+
+2017.8
+
+N.A.
+
+N.A.
+
+IBI306
+
+Innovent
+
+Phase I
+
+Anti-PCSK9
+
+Hypercholestero
+lemia
+
+N.A.
+
+2017.9
+
+N.A.
+
+N.A.
+
+AK-102
+
+Akeso,
+
+Dawnrays
+
+Phase I
+
+Anti-PCSK9
+
+Hypercholestero
+lemia
+
+N.A.
+
+2018.4
+
+N.A.
+
+N.A.
+
+SHR-1209
+
+Hengrui
+
+Phase I
+
+Anti-PCSK9
+
+CVI-LM001
+
+Pharmaceuticals Phase I
+
+Anti-PCSK9
+
+CVI
+
+Hypercholestero
+lemia
+
+Hypercholestero
+lemia
+
+Category
+
+Imported
+therapeutic
+biologics
+
+Imported
+therapeutic
+biologics
+
+Therapeutic
+
+biologics
+category 1
+
+Therapeutic
+biologics
+category 1
+
+Therapeutic
+biologics
+category 1
+
+Therapeutic
+biologics
+category 1
+
+N.A.
+
+2018.6
+
+N.A.
+
+N.A.
+
+N.A.
+
+2016.3
+
+N.A.
+
+N.A.
+
+Chemical drug
+category 1.1
+
+Source: Frost & Sullivan.
+
+Note: All of the products are not included in the NRDL or PRDL.
+
+Regulatory Progress and Next Steps
+
+JS002 obtained IND approval from the NMPA in August 2017, being the first anti-PCSK9
+monoclonal antibody to receive IND approval in the PRC. As of the Latest Practicable Date,
+JS002 was under Phase I clinical trial. We plan to complete Phase I clinical trial and commence
+Phase II clinical trial for primary hypercholesterolemia and mixed dyslipidemia in December
+2018.
+
+UBP1213 (anti-BLyS mAb)
+
+UBP1213 is a recombinant humanized anti-BLyS monoclonal antibody injection, which
+is being developed for the treatment of systemic lupus erythematosus (“SLE”) and other
+autoimmune diseases. We received IND approval from the NMPA in October 2016.
+
+Mechanism of Action
+
+BLyS is produced by macrophages, neutrophils and monocytes. It is required for the
+survival of B cells. Excessive level of BLyS induces abnormally high survival of autoreactive
+B cells and differentiation of B cells into antibody-producing plasma cells, which causes SLE
+and other autoimmune diseases. The FDA approved BLyS inhibitor for the treatment of SLE
+has shown statistically significant, albeit modest, efficacy, representing a step forward in
+treating SLE.
+
+– 215 –
+
+

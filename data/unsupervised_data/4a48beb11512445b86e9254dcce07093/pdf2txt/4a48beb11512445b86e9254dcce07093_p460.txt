@@ -1,0 +1,79 @@
+APPENDIX I
+
+ACCOUNTANTS’ REPORT
+
+For financial assets, the ECL is estimated as the difference between all contractual cash flows that are due to
+the Group in accordance with the contract and all the cash flows that the Group expects to receive, discounted at the
+original effective interest rate.
+
+Where lifetime ECL is measured on a collective basis to cater for cases where evidence of significant increases
+in credit risk at the individual instrument level may not yet be available, the financial instruments are grouped on
+the following basis:
+
+(cid:129)
+
+(cid:129)
+
+(cid:129)
+
+(cid:129)
+
+Nature of financial instruments (i.e. the Group’s trade and other receivables are each assessed as a
+separate group);
+
+Past-due status;
+
+Nature, size and industry of debtors; and
+
+External credit ratings where available.
+
+The grouping is regularly reviewed by management to ensure the constituents of each group continue to share
+
+similar credit risk characteristics.
+
+If the Group has measured the loss allowance for a financial instrument at an amount equal to lifetime ECL
+in the previous reporting period, but determines at the current reporting date that the conditions for lifetime ECL are
+no longer met, the Group measures the loss allowance at an amount equal to twelve-months ECL at the current
+reporting date.
+
+The Group recognises an impairment gain or loss in profit or loss for all financial instruments with a
+corresponding adjustment to their carrying amount through a loss allowance account and does not reduce the carrying
+amount of the financial asset in the statements of financial position.
+
+Derecognition of financial assets
+
+The Group derecognises a financial asset only when the contractual rights to the cash flows from the asset
+expire, or when it transfers the financial asset and substantially all the risks and rewards of ownership of the asset
+to another party.
+
+On derecognition of a financial asset measured at amortised cost, the difference between the asset’s carrying
+
+amount and the sum of the consideration received and receivable is recognised in profit or loss.
+
+Financial liabilities and equity instruments
+
+Classification as debt or equity
+
+Debt and equity instruments issued by a group entity are classified as either financial liabilities or as equity
+in accordance with the substance of the contractual arrangements and the definitions of a financial liability and an
+equity instrument.
+
+Equity instruments
+
+An equity instrument is any contract that evidences a residual interest in the assets of an entity after deducting
+all of its liabilities. Equity instruments issued by a group entity are recognised at the proceeds received, net of direct
+issue costs.
+
+Repurchase of the Company’s own equity instruments is recognised and deducted directly in equity. No gain
+or loss is recognised in profit or loss on the purchase, sale, issue or cancellation of the Company’s own equity
+instruments.
+
+Financial liabilities
+
+All financial liabilities are subsequently measured at amortised cost using the effective interest method or at
+
+FVTPL.
+
+– I-23 –
+
+

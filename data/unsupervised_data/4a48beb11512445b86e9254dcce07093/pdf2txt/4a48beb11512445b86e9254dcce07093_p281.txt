@@ -1,0 +1,51 @@
+BUSINESS
+
+Current Treatments and Limitations
+
+The current standard of care for the treatment of wet AMD is administration by
+intravitreal
+injection of anti-VEGF drugs as a standalone therapy. The anti-VEGF drugs
+approved for the treatment of wet AMD in China include Lucentis, Langmu and Eylea. In
+addition, Lucentis and Eylea were approved for the treatment of wet AMD in U.S., while
+Avastin is also used off-label for this disease.
+
+According to the American Academy of Ophthalmology, the use of anti-VEGF agents will
+likely reduce the odds of blindness from wet AMD and could theoretically reduce the rate of
+blindness by up to 70% over two years. However, longer-term follow-up studies from the
+population originally treated with regular anti-VEGF agents suggest that these gains in visual
+acuity are largely lost in two-thirds of patients followed for over seven years.
+
+Advantages
+
+We believe that IBI-302 has the following potential competitive advantages:
+
+Inhibition of two pathways leading to wet AMD
+
+All currently approved anti-VEGF antibody drugs are mono-specific antibodies and they
+may only be able to relieve the symptoms of wet AMD but may not tackle the root cause of
+the disease. In comparison, IBI-302 targets both VEGF and complement proteins and,
+therefore, is potentially capable of curing the disease in addition to relieving the symptoms. In
+addition, we believe that IBI-302 also has the potential for meeting the unmet medical needs
+for the treatment of certain other ocular disease indications such as dry AMD, for which the
+root cause is also believed to be complement proteins. Furthermore, we believe that IBI-302’s
+bi-specificity allows it to achieve comparable clinical results with a single treatment that would
+otherwise require two separate treatments (two vitreal injections) with combination therapies
+that block the same two targets.
+
+We completed in vitro studies comparing the cell-based bioactivity of IBI-302 to that of
+anti-VEGF blockers aflibercept (Zaltrap) and bevacizumab (Avastin) and to complement
+receptor 1 (CR1). The results of these studies are shown in the following figure. These studies
+demonstrate two aspects of cell based bioactivity of IBI-302. In the left panel of the following
+figure, the ability of IBI-302 to inhibit the VEGF induced proliferation of human umbilical
+vein endothelial cells is shown. The antiproliferative effect induced by VEGF binding is
+similar to that of Zaltrap, a VEGF receptor trap, and is greater than that of Avastin (a VEGF
+antibody). In the middle and right panels of the following figure, the ability of IBI-302 to block
+both the classical and the alternative complement pathway is shown. The potency of IBI-302
+in blocking complement cascade induced destruction of red blood cells is as potent as that of
+native complement receptor 1 (CR1). IBI-301 (anti-CD20 antibody) is used as a negative
+control in these studies demonstrating that an unrelated immunoglobin does not block red cell
+destruction.
+
+– 272 –
+
+

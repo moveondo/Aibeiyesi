@@ -1,0 +1,62 @@
+[
+    {
+        "data-offset-end": 9,
+        "pageid": 23,
+        "top": 153,
+        "font-id": "f8",
+        "level": "Level",
+        "left": 1240,
+        "text": "管理層討論與分析",
+        "font-size": 51,
+        "color": "rgba(190,146,91,1)",
+        "data-offset-start": 2
+    },
+    {
+        "data-offset-end": 183,
+        "pageid": 23,
+        "top": 362,
+        "font-id": "f10",
+        "level": "Level",
+        "left": 1475,
+        "text": "估計可銷售╱",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 178
+    },
+    {
+        "data-offset-end": 465,
+        "pageid": 23,
+        "top": 1282,
+        "font-id": "f11",
+        "level": "Level",
+        "left": 127,
+        "text": "於二零一八年三月二十八日，本集團正在開發的物業項目總佔地面積約7,586.21萬平方米，估計總建築面積約1.88億平方米，及估計可銷售或可出租的建築面積約1.57億平方米。",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 379
+    },
+    {
+        "data-offset-end": 479,
+        "pageid": 23,
+        "top": 2303,
+        "font-id": "f8",
+        "level": "Level",
+        "left": 1412,
+        "text": "融創中國控股有限公司21",
+        "font-size": 24,
+        "color": "rgba(190,146,91,1)",
+        "data-offset-start": 467
+    },
+    {
+        "data-offset-end": 488,
+        "pageid": 23,
+        "top": 2330,
+        "font-id": "f9",
+        "level": "Level",
+        "left": 1504,
+        "text": "2017年度報告",
+        "font-size": 24,
+        "color": "rgba(101,98,98,1)",
+        "data-offset-start": 481
+    }
+]

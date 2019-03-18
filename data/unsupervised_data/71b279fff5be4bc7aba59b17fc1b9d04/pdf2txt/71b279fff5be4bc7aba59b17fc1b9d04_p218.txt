@@ -1,0 +1,53 @@
+BUSINESS
+
+Clinical Trial Data Show Sustained Full BTK Occupancy
+
+Peripheral Blood Mononuclear Cell
+
+Lymph Node
+
+Note:
+Data from 20 patients.
+W1D1 stands for week 1 day 1;
+W1D2 stands for week 1 day 2;
+W1D3 stands for week 1 day 3;
+W2D1 stands for week 2 day 1;
+Pre stands for pre-dose
+
+Waldenstrom’s Macroglobulinemia
+
+Note:
+QD means once daily,
+BID means twice daily.
+Paired lymph node biopsies were
+collected during screening or pre-dose
+on day 3.
+
+On June 15, 2018, we presented data from our Phase 1 trial in patients with WM at the 23rd
+Congress of the EHA in Stockholm, Sweden. As of the data cutoff of November 3, 2017, 67 WM
+patients were enrolled in the study. At the time of the data cutoff, 59 patients remained on study
+treatment. Responses were determined according to the modified Sixth International Workshop on WM
+Criteria.
+
+Zanubrutinib was observed to be generally well-tolerated with no discontinuation for
+zanubrutinib-related toxicity. AEs were generally mild in severity and self-limited. The most frequent
+AEs (>15%, all grade 1-2 but one) of any attribution among 67 patients evaluable for safety were
+petechia/purpura/contusion (37%), upper respiratory tract infection (34%), constipation (18%) and
+diarrhea (18%). Grade 3-4 AEs of any attribution reported in two or more patients included anemia
+(7%), neutropenia (6%), basal cell carcinoma (3%), hypertension (3%), squamous cell carcinoma
+(3%), pyrexia (3%), pneumonia (3%), major hemorrhage (3%), and actinic keratosis (3%). Serious
+AEs, or SAEs, were seen in 22 patients (33%), with events in five patients (7%) considered possibly
+related to zanubrutinib treatment:
+fibrillation, hemothorax
+(spontaneous) and headache. Among AEs of special interest, four patients (6%) experienced atrial
+fibrillation (all grade 1 or 2) and two patients experienced major hemorrhage. Four patients (6%)
+discontinued study treatment due to AEs, including fatal worsening bronchiectasis, prostate cancer,
+gastric adenocarcinoma, and acute myeloid leukemia. Two patients (3%) disticontinued study
+treatment due to disease progression as assessed by investigator and one patient remains on treatment
+post disease progression.
+
+febrile neutropenia, colitis, atrial
+
+— 212 —
+
+

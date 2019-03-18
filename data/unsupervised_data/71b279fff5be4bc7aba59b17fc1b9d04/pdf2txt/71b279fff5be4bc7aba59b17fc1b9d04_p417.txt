@@ -1,0 +1,64 @@
+APPENDIX I
+
+Modification of awards
+
+ACCOUNTANTS’ REPORT
+
+A change in any of the terms or conditions of the awards is accounted for as a modification of
+the award. Incremental compensation cost is measured as the excess, if any, of the fair value of the
+modified award over the fair value of the original award immediately before its terms are modified,
+measured based on the fair value of the awards and other pertinent factors at the modification date.
+For vested awards, the Group recognizes incremental compensation cost in the period the modification
+occurs. For unvested awards, the Group recognizes over the remaining requisite service period, the
+sum of the incremental compensation cost and the remaining unrecognized compensation cost for the
+original award on the modification date. If the fair value of the modified award is lower than the fair
+value of the original award immediately before modification, the minimum compensation cost the
+Group recognizes is the cost of the original award.
+
+Income taxes
+
+The Group uses the liability method of accounting for income taxes. Under this method, deferred
+tax assets and liabilities are determined based on the differences between the financial reporting and
+the tax bases of assets and liabilities and are measured using enacted tax rates that will be in effect
+when the differences are expected to reverse. A valuation allowance is provided when it is more likely
+than not that some portion or all of a deferred tax asset will not be realized.
+
+In accordance with Accounting Standards Update (“ASU”) 2015-17, all deferred income tax
+
+assets and liabilities are classified as non-current on the consolidated balance sheets.
+
+The Group evaluates its uncertain tax positions using the provisions of ASC 740, Income Taxes,
+which prescribes a recognition threshold that a tax position is required to meet before being
+recognized in the financial statements. The Group recognizes in the financial statements the benefit
+of a tax position which is “more likely than not” to be sustained under examination based solely on
+the technical merits of
+relevant
+the recognition threshold are measured using a cumulative
+information. Tax positions that meet
+probability approach, at
+that has a greater than fifty percent
+likelihood of being realized upon settlement. It
+is the Group’s policy to recognize interest and
+penalties related to unrecognized tax benefits, if any, as a component of income tax expense.
+
+the position assuming a review by tax authorities having all
+
+the largest amount of tax benefit
+
+In October 2016, the FASB issued ASU No. 2016-16, Income Taxes (Topic 740): Intra-Entity
+Transfers of Assets Other Than Inventory, which requires the recognition of
+the income tax
+consequences of an intra-entity transfer of an asset, other than inventory, when the transfer occurs.
+The Group early adopted ASU 2016-16 in preparing the Historical Financial Information. ASU No.
+2016-16 is effective for annual periods and interim periods within annual periods beginning after
+December 15, 2017 for public business entities.
+
+Loss per share
+
+Loss per share is calculated in accordance with ASC 260, Earnings per Share. Basic loss per
+ordinary share is computed by dividing net loss attributable to ordinary shareholders by the weighted
+average number of ordinary shares outstanding during the period using the two-class method. Under
+
+— I-29 —
+
+

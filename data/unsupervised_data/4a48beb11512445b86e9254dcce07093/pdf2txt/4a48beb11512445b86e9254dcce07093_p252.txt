@@ -1,0 +1,68 @@
+BUSINESS
+
+analytical studies for functional and structural characterization at various stages of the
+manufacturing process, (2) pre-clinical animal studies, (3) a clinical pharmacology study (a
+human pharmacokinetic/pharmacodynamic equivalence study), and (4) a confirmatory
+comparative pivotal clinical study in a representative indication evaluating safety, efficacy and
+immunogenicity. Consistent with this approach, we apply our integrated platform to the
+following four key steps of biosimilar development that are designed to provide the analytical,
+pre-clinical and clinical basis to establish biosimilarity and support regulatory approvals for
+our biosimilar drug candidates:
+
+Step 1: CMC and Analytical Characterization. The amino acid sequence of a biosimilar
+drug candidate must precisely match that of its reference product. We validate the amino acid
+sequence of all biosimilar drug candidates through enzymatic digestion and peptide mapping
+using liquid chromatography-mass
+spectroscopy (LC-MS/MS). We
+establish master cell banks and working cell banks for our biosimilar drug candidates and
+demonstrate their quality and stability in accordance with the ICH guidelines. We develop,
+scale up and implement a process to manufacture our biosimilar drug candidates in our GMP
+facility in order to ensure the manufactured products are suitable for use in clinical trials.
+
+spectroscopy/mass
+
+Once a biosimilar drug candidate has been manufactured, we use a variety of analytical
+characterization techniques and in vitro studies comparing our biosimilar drug candidate with
+its reference product to ensure that our biosimilar drug candidate closely matches the primary
+structure, higher order
+structure, product purity and impurities, charge and glycan
+heterogeneity, biological activity, Fc functions and other general properties of the reference
+product, as the results from such comparisons may be predictive of clinically relevant
+differences in PK, PD, efficacy, safety and immunogenicity between our biosimilar drug
+candidate and its reference product. These techniques and studies include but are not limited
+to differential scanning calorimetry (DSC), cation-exchange chromatography (CEX-HPLC),
+high performance liquid chromatography with fluorescence detection (UHPLC-FLD), size
+exclusion chromatography (SEC-HPLC), capillary electrophoresis sodium dodecyl sulfate
+(CE-SDS), cell-based potency, ELISA blinding potency, and Bio-layer Interferometry (BLI).
+
+Step 2: Pre-clinical Studies. After we demonstrate the in vitro biosimilarity, we compare
+our biosimilar drug candidate with the reference product in relevant animal models using the
+intended dosage form and route of administration prior to performing human clinical trials,
+since PK, PD and safety observations from these studies may be predictive of the human
+clinical trial experience. In general, two studies are required in relevant animal models to
+provide sufficient pre-clinical rationale to advance to the clinical pharmacology study.
+
+Step 3: Clinical Pharmacology Study. An essential
+
+is the
+completion of a clinical study in a sufficient number of human subjects directly comparing our
+biosimilar drug candidate and its
+to establish PK/PD similarity.
+Bioequivalence is generally measured by three defined parameters as follows:
+
+regulatory requirement
+
+reference product
+
+(cid:129)
+
+(cid:129)
+
+Cmax: maximum measured serum concentration;
+
+AUC0-t: area under the concentration-time curve from the first time point measured
+(0) to the last time point measured (t); and
+
+– 243 –
+
+

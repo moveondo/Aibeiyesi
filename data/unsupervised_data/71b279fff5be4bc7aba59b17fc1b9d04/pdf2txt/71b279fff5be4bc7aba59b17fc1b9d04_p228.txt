@@ -1,0 +1,59 @@
+BUSINESS
+
+Summary of Clinical Results
+
+As of July 5, 2018, we have enrolled over an aggregate of 1,500 patients in clinical trials of
+tislelizumab, including combination trials. Preliminary data from our monotherapy Phase 1 trials
+suggested that tislelizumab was generally well-tolerated and exhibited anti-tumor activity in a variety
+of tumor types. There is no guarantee that these results will be reproduced in pivotal trials.
+
+A multi-center, open-label Phase 1 trial of tislelizumab as monotherapy in advanced solid tumors
+is being conducted in Australia, New Zealand, the United States, Taiwan and South Korea and consists
+of dose
+and indication expansion in
+disease-specific cohorts. On November 11, 2016, we presented updated data from the dose escalation
+phase of our Phase 1 trial for a total of 103 patients with advanced solid tumors at the Society for
+Immunotherapy of Cancer, or SITC, 31st Annual Meeting.
+
+schedule-expansion,
+
+escalation,
+
+fixed-dose
+
+expansion,
+
+A mixed patient population of 27 different tumor types was included in this data analyses, in
+which patients with melanoma, NSCLC or HNSCC were not enrolled, and patients with renal cell
+cancer and urothelial carcinoma together represented close to 15% of the enrolled patients. Among 99
+patients evaluable for efficacy as of September 30, 2016, anti-tumor activities were observed in 15
+patients with a PR and 23 patients with SD. The PRs include three PRs in nine renal cell carcinoma
+patients; three in six urothelial cancer patients; two in four gastric cancer patients; two in two Merkel
+cell carcinoma patients; one in four nasopharyngeal patients; one in one penis squamous cell
+carcinoma patient; one in one duodenal carcinoma patient; two in two MSI-high patients, one with
+colorectal cancer among a total of 13 colorectal cancer patients, and one with pancreatic cancer among
+a total of two pancreatic cancer patients. At the time of the data cutoff for the safety analysis, the most
+common treatment-related AEs (≥5%) were fatigue (19%), diarrhea (13%), rash (11%), pruritus (11%),
+nausea (8%), hypothyroidism (7%), and infusion related reactions (6%). Treatment-related SAEs
+included four cases of colitis, two cases of hypotension, and one case each of diarrhea, diabetes
+mellitus, diabetic ketoacidosis, dyspnea, hypoxia, infusion-related reaction, and pneumonitis. Among
+these, grade 3 or above treatment-related SAEs included the two cases of hypotension and one case
+each of colitis, diabetes mellitus, diabetic ketoacidosis, dyspnea, hypoxia, and pneumonitis. Other
+treatment-related grade 3 or above AEs included two cases each of fatigue and hyperglycemia, and one
+case each of back pain, elevated alanine aminotransferase, or ALT, and elevated gamma-glutamyl
+transferase, or GGT.
+
+From 2017 to date, we have presented preliminary data from multiple disease-specific subgroups
+in the ongoing Phase 1 trial of tislelizumab in advanced solid tumors, including patients with HCC,
+GC, esophageal cancer, or EC, HNSCC, OC and UC.
+
+Hepatocellular (Liver) Cancer
+
+The data presented on HCC are from 40 patients treated with tislelizumab at a dose of 5 mg/kg
+every three weeks, or Q3W. The majority of the enrolled patients (34/40 patients) had a hepatitis B
+virus infection. At the time of the data cutoff on April 28, 2017, the median treatment duration was
+64 days (range of 1 to 471 days).
+
+— 222 —
+
+

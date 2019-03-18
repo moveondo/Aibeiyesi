@@ -1,0 +1,60 @@
+APPENDIX I
+
+ACCOUNTANTS’ REPORT
+
+meet this threshold are included in the transaction price using the most likely amount method, which
+is the single most likely outcome of the contract (the Group either achieves a milestone or does not),
+whereas amounts that do not meet this threshold are considered constrained and excluded from the
+transaction price until they meet this threshold. The Group re-evaluates the probability of a significant
+reversal of the cumulative revenue recognized for the Group’s milestones at each reporting period,
+and, if necessary, adjusts the Group’s estimate of the overall arrangement consideration. Any such
+adjustments are recorded on a cumulative catch-up basis, which would affect
+revenues from
+collaborators and profit/loss in the period of adjustment.
+
+In determining the appropriate amount of revenue to be recognized as the Group fulfills its
+obligations under its collaboration agreements, the Group uses judgement to determine : (a) whether
+the promised goods and services are performance obligations including whether they are distinct in the
+context of the contracts; (b) the measurement of the transaction price, including the constraint on
+variable consideration; (c) the estimate of the best selling price of each performance obligation; and
+(d) the recognition of revenue when (or as) the Group satisfies each performance obligation.
+
+such arrangements
+
+For the purpose of preparing the Historical Financial Information for the accounting periods
+beginning prior to December 15, 2016, the Group recognizes revenues from research and development
+collaborative arrangements when persuasive evidence of an arrangement exists, delivery has occurred
+or services have been rendered, the fee is fixed or determinable, and there is reasonable assurance that
+the related amounts are collectible in accordance with ASC 605, Revenue Recognition (“ASC 605”).
+The Group’s collaborative arrangements may contain multiple elements, including grants of licenses
+to intellectual property rights, agreement to provide research and development services and other
+deliverables. The deliverables under
+evaluated under ASC 605-25,
+Multiple-Element Arrangements. Pursuant to ASC 605-25, each required deliverable is evaluated to
+determine whether it qualifies as a separate unit of accounting based on whether the deliverable has
+“stand-alone value” to the customer. The collaborative arrangements do not include a right of return
+for any deliverable. The arrangement’s consideration that
+is fixed or determinable, excluding
+contingent payments, is then allocated to each separate unit of accounting based on the relative selling
+price of each deliverable. The relative selling price for each deliverable is determined using vendor
+specific objective evidence (“VSOE”) of selling price or third-party evidence (“TPE”) of selling price
+if VSOE does not exist. If neither VSOE nor TPE exists, the Group uses the best estimate of the selling
+price (“BESP”) for the deliverable. In general, the consideration allocated to each unit of accounting
+is recognized as the related goods or services are delivered, limited to the consideration that is not
+contingent upon future deliverables. Non-refundable payments received before all of the relevant
+criteria for revenue recognition are satisfied are recorded as advances from customers.
+
+are
+
+Upfront non-refundable payments for licensing the Group’s intellectual property are evaluated to
+determine if the licensee can obtain stand-alone value from the license separate from the value of the
+research and development services and other deliverables in the arrangement to be provided by the
+Group. The Group acts as the principal under its arrangements and licensing intellectual property is
+part of its ongoing major or central operations. The license right is not contingent upon the delivery
+of additional items or meeting other specified performance conditions. Therefore, when stand-alone
+value of the license is determinable, the allocated consideration is recognized as collaboration revenue
+upon delivery of the license rights.
+
+— I-25 —
+
+

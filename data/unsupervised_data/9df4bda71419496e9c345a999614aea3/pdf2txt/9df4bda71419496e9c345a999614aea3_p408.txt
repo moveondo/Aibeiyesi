@@ -1,0 +1,83 @@
+APPENDIX I
+
+ACCOUNTANTS’ REPORT
+
+Historical cost is generally based on the fair value of the consideration given in exchange for goods and
+
+services.
+
+Fair value is the price that would be received to sell an asset or paid to transfer a liability in an orderly
+transaction between market participants at
+the measurement date, regardless of whether that price is directly
+observable or estimated using another valuation technique. In estimating the fair value of an asset or a liability, the
+Group takes into account
+the characteristics of the asset or liability if market participants would take those
+characteristics into account when pricing the asset or liability at the measurement date. Fair value for measurement
+and/or disclosure purposes in the Historical Financial Information is determined on such a basis, except for
+share-based payment transactions that are within the scope of IFRS 2 Share-based Payment, leasing transactions that
+are within the scope of IAS 17 Leases, and measurements that have some similarities to fair value but are not fair
+value, such as net realisable value in IAS 2 Inventories or value in use in IAS 36 Impairment of Assets.
+
+In addition, for financial reporting purposes, fair value measurements are categorised into Level 1, 2 or 3 based
+on the degree to which the inputs to the fair value measurements are observable and the significance of the inputs
+to the fair value measurement in its entirety, which are described as follows:
+
+(cid:129)
+
+(cid:129)
+
+(cid:129)
+
+Level 1 inputs are quoted prices (unadjusted) in active markets for identical assets or liabilities that the
+entity can access at the measurement date;
+
+Level 2 inputs are inputs other than quoted prices included within Level 1, that are observable for the
+asset or liability, either directly or indirectly; and
+
+Level 3 inputs are unobservable inputs for the asset or liability.
+
+The principal accounting policies are set out below.
+
+Basis of consolidation
+
+The Historical Financial Information incorporates the financial statements of the Company and the entities
+
+controlled by the Company and its subsidiaries. Control is achieved when the Company:
+
+(cid:129)
+
+(cid:129)
+
+(cid:129)
+
+has power over the investee;
+
+is exposed, or has rights, to variable returns from its involvement with the investee; and
+
+has the ability to use its power to affect its returns.
+
+The Group reassesses whether or not it controls an investee if facts and circumstances indicate that there are
+
+changes to one or more of the three elements of control listed above.
+
+Consolidation of a subsidiary begins when the Group obtains control over the subsidiary and ceases when the
+Group loses control of the subsidiary. Specifically, income and expenses of a subsidiary acquired or disposed of
+during the Track Record Period are included in the consolidated statements of profit or loss and other comprehensive
+income from the date the Group gains controls until the date when the Group ceases to control the subsidiary.
+
+Profit or loss and each item of other comprehensive income are attributed to the owners of the Company and
+to the non-controlling interests. Total comprehensive income of subsidiaries is attributed to the owners of the
+Company and to the non-controlling interests even if this results in the non-controlling interests having a deficit
+balance.
+
+When necessary, adjustments are made to the financial statements of subsidiaries to bring their accounting
+
+policies into line with the Group’s accounting policies.
+
+All intragroup assets and liabilities, equity, income, expenses and cash flows relating to transactions between
+
+members of the Group are eliminated in full on consolidation.
+
+– I-15 –
+
+

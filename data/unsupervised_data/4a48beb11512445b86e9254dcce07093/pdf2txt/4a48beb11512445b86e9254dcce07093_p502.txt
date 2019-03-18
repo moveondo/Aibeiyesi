@@ -1,0 +1,191 @@
+APPENDIX I
+
+ACCOUNTANTS’ REPORT
+
+Financial assets and
+financial liabilities
+
+Fair value as at
+
+31 December
+
+2016
+RMB’000
+
+2017
+RMB’000
+
+Valuation
+techniques and
+key inputs
+
+Significant
+unobservable
+inputs
+
+Relationship of
+unobservable
+inputs to fair
+value
+
+Fair value
+hierarchy
+
+30 June
+2018
+RMB’000
+
+The Group
+(1)
+
+Other financial assets
+
+782,250
+
+809,484
+
+181,408 Level 2
+
+(2)
+
+Preferred Shares
+
+1,560,226
+
+1,607,998
+
+3,550,116 Level 3
+
+(3)
+
+Gross obligation
+from Share Purchase
+Options written
+
+1,335,606
+
+1,443,094
+
+– Level 3
+
+The Company
+(1)
+
+Share Purchase
+Options
+
+620,397
+
+680,838
+
+– Level 3
+
+N/A
+
+N/A
+
+Time to liquidity
+2016: 2.5 years
+2017: 2 years
+2018: 2.5 years
+
+The longer the time
+
+to liquidity, the
+higher the fair
+value (note a)
+
+Time to liquidity
+2016: 2.5 years
+2017: 2 years
+2018: N/A
+
+The longer the time
+
+to liquidity, the
+higher the fair
+value (note b)
+
+Time to liquidity
+2016: 2.5 years
+2017: 2 years
+2018: N/A
+
+The longer the time
+
+to liquidity, the
+higher the fair
+value (note c)
+
+Income approach –
+in this approach,
+the discounted
+cash flow method
+was used to
+estimate the
+return from the
+underlying assets.
+
+Back-solve Model
+and OPM Model
+– the key inputs
+are: time to
+liquidity, risk-
+free interest rate,
+volatility and
+dividend yield
+
+Back-solve Model
+and OPM Model
+– the key inputs
+are: time to
+liquidity, risk-
+free interest rate,
+volatility and
+dividend yield
+
+Back-solve Model
+and OPM Model
+– the key inputs
+are: time to
+liquidity, risk-
+free interest rate,
+volatility and
+dividend yield
+
+Notes:
+
+(a)
+
+(b)
+
+(c)
+
+A 0.5 years increase/decrease in the time to liquidity, while all other variables keep constant, would
+increase the carrying amount of Preferred Shares as at 31 December 2016 and 2017 and 30 June 2018
+by RMB100,941,000, RMB130,756,000 and RMB157,249,000, decrease the carrying amount as at 31
+December 2016 and 2017 and 30 June 2018 by RMB59,972,000, RMB172,039,000 and
+RMB180,793,000, respectively.
+
+A 0.5 years increase/decrease in the time to liquidity, while all other variables keep constant, would
+increase the carrying amount of gross obligation from Share Purchase Options written as at 31
+December 2016 and 2017 and 30 June 2018 by RMB8,496,000, RMB27,512,000 and nil, respectively
+or decrease the carrying amount as at 31 December 2016 and 2017 and 30 June 2018 by RMB5,288,000,
+RMB45,798,000 and nil, respectively.
+
+A 0.5 years increase/decrease in the time to liquidity, while all other variables keep constant, would
+increase the carrying amount of Share Purchase Options as at 31 December 2016 and 2017 and 30 June
+2018 by RMB8,496,000, RMB27,512,000 and nil, respectively or decrease the carrying amount as at 31
+December 2016 and 2017 and 30 June 2018 by RMB5,288,000, RMB45,798,000 and nil, respectively.
+
+(ii)
+
+Reconciliation of Level 3 fair value measurements
+
+Details of reconciliation of Level 3 fair value measurement for Preferred Shares, gross obligation from
+
+Share Purchase Options written over subsidiary and Share Purchase Options are set out in note 28.
+
+– I-65 –
+
+

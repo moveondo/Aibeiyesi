@@ -1,0 +1,28 @@
+[
+    {
+        "font_family": "ff1",
+        "text": "欧菲科技股份有限公司  2017  年年度报告全文",
+        "bottom": 790.32,
+        "data_offset_end": 30,
+        "font_size": 36.0,
+        "left": 363.16,
+        "line_height": 0,
+        "data_offset_start": 6,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "ATitle_9999"
+    },
+    {
+        "font_family": "ff2",
+        "text": "193TCTF  柔性技术开发1,741,358.481,792,656.673,534,015.150.00SAIC ZS12（ BC04）BCM71 1,899.622,815,473.052,727,839.33799,533.340.00BJEV C1 1CBBCM2,454,533.42252,307.702,706,841.120.00事业部-SAICNetW ork T estPlatform1,781,985.001,638.061,783,623.060.00事业部-CANSpy1,767,583.3462,953.011,698,818.54131,717.810.00SGMWCN180S/CN180M/CN210M Gateway566,417.64105,754.06672,171.700.00JAC M6Gateway664,203.78-14,758.79649,444.990.00SMCV SV91MSM316,287.36304,487.361 1,800.000.00SMCV SV91DCDC39,568.35159,323.09198,891.440.00BAIC C40DBCM81,212.7492,960.21174,172.950.00JAC S7Gateway140,252.6824,947.97165,200.650.00BAIC C40DGateway157,404.01157,404.010.00O-FilmAround V iewModule1,071,794.29804,865.261,876,659.550.00SMTC SK81RLS56,531.3012,175.8768,707.170.00CHA  F4BBCM262,449.90262,449.900.00INALF A  CBSCU180,172.96180,172.960.00INALF A  H33964,399.84964,399.840.00",
+        "bottom": 51.72,
+        "data_offset_end": 1139,
+        "font_size": 36.0,
+        "left": 525.18,
+        "line_height": 0,
+        "data_offset_start": 31,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "ATitle_9999"
+    }
+]

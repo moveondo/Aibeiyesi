@@ -1,0 +1,152 @@
+BUSINESS
+
+8.
+
+Advanced Melanoma (Phase II, pivotal)
+
+Design. Patients who have failed systemic treatment received a 3 mg/kg JS001 infusion
+every two weeks and were evaluated for clinical efficacy every eight weeks by the independent
+review committee in accordance with the RECIST v1.1 assessment criteria. This trial recruited
+128 advanced melanoma patients who had failed systemic treatment from December 2016 to
+September 2017. All patients had at least six months’ follow-up. As of the latest data cut-off
+date, 121 patients had received at least one efficacy evaluation.
+
+Results. Among the 121 evaluable patients, 1 CR, 24 PR and 48 SD were observed with
+the ORR of 20.7% (25/121) and the DCR of 60.3% (73/128). Our ORR would be reduced from
+20.7% (25/121) to 17.2% (22/128) if we divide the aggregate of CR and PR cases (without
+counting three of PR cases doubted by PI) by the number of all patients (instead of evaluable
+patients). As of the latest date for data collection, 20 patients with objective response were still
+having ongoing responses and therefore the mDOR had not been reached.
+
+Efficacy results of clinical trial of JS001 in the treatment of advanced melanoma
+
+Chronic sun
+
+damage
+
+Melanoma
+
+subtype
+
+Non-chronic
+sun damage
+Mucosal
+
+Acral
+
+Total
+
+N (%)
+
+Evaluable
+
+CR+PR
+
+18 (14.1)
+
+38 (29.7)
+
+21 (16.4)
+
+51 (39.8)
+
+128
+
+17
+
+36
+
+19
+
+49
+
+121
+
+6
+
+12
+
+0
+
+7
+
+25
+
+SD
+
+5
+
+16
+
+8
+
+19
+
+48
+
+ORR %
+
+95% CI
+
+DCR %
+
+95% CI
+
+35.3
+
+33.3
+
+0
+
+14.3
+
+20.7
+
+14.2-61.7
+
+18.6-51.0
+
+0.0-17.6
+
+5.9-27.2
+
+13.8-29.0
+
+64.7
+
+77.8
+
+42.1
+
+53.1
+
+60.3
+
+38.3-85.8
+
+60.8-89.9
+
+20.3-66.5
+
+38.3-67.5
+
+51.0-69.1
+
+Source:
+
+ASCO 2018
+
+As shown in the following figure, among the four subtypes of melanoma, chronic sun
+damage (CSD) and non-chronic sun damage (non-CSD) are the main types in America (94%),
+while Acral and Mucosal are the major melanoma types (73%) in China, reflecting the
+epidemiological differences between ethnic groups in different regions. The accumulation of
+DNA mutations caused by UV exposure is the main cause of the onset of CSD and Non-CSD
+types. In comparison, Acral and Mucosal subtypes harbor limited DNA mutations and thus have
+divergent underlying tumorigenesis mechanism. As shown in the clinical results above, CSD
+(ORR 35.3%, DCR 64.7%) and Non-CSD (ORR 33.3%, DCR 77.8%) subtype patients had a
+better response to PD-1 antibody monotherapy than the Acral (ORR 14.3%, DCR 53.1%) and
+Mucosal (ORR 0%, DCR 42.1%) subtype patients.
+
+– 199 –
+
+

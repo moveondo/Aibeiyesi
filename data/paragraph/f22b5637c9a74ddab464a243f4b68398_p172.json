@@ -1,0 +1,122 @@
+[
+    {
+        "data-offset-end": 247,
+        "pageid": 172,
+        "top": 445,
+        "font-id": "f12",
+        "level": "Level",
+        "left": 1418,
+        "text": "股本",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 246
+    },
+    {
+        "data-offset-end": 373,
+        "pageid": 172,
+        "top": 1144,
+        "font-id": "f14",
+        "level": "Level",
+        "left": 195,
+        "text": "附註：",
+        "font-size": 22,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 371
+    },
+    {
+        "data-offset-end": 527,
+        "pageid": 172,
+        "top": 1222,
+        "font-id": "f13",
+        "level": "Level",
+        "left": 195,
+        "text": "(i)本公司分別於二零一一年四月二十九日採納首次公開發售後購股權計劃（「二零一一年購股權計劃」）（附註21(i))及於二零一四年五月十九日採納新購股權計劃（「二零一四年購股權計劃」）（附註21(ii))。於二零一七年十二月二十二日，本公司根據二零一四年購股權計劃授出合共59,920,246份購股權。",
+        "font-size": 22,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 375
+    },
+    {
+        "data-offset-end": 593,
+        "pageid": 172,
+        "top": 1378,
+        "font-id": "f13",
+        "level": "Level",
+        "left": 195,
+        "text": "(ii)於二零一七年七月二十四日及二零一七年十二月十五日，本公司與本公司控股股東融創國際投資控股有限公司（「融創國際」）訂立兩份",
+        "font-size": 22,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 529
+    },
+    {
+        "data-offset-end": 739,
+        "pageid": 172,
+        "top": 1417,
+        "font-id": "f14",
+        "level": "Level",
+        "left": 263,
+        "text": "配售及認購協議，據此，本公司分別以價格每股18.33港元及每股31.1港元配發及發行220,000,000股及251,500,000股配售股份。該兩項認購事項所得款項經扣除相關費用後分別約為3,998百萬港元及7,764百萬港元（相等於約人民幣3,446百萬元及人民幣6,565百萬元）。",
+        "font-size": 22,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 595
+    },
+    {
+        "data-offset-end": 748,
+        "pageid": 172,
+        "top": 1537,
+        "font-id": "f11",
+        "level": "Level",
+        "left": 127,
+        "text": "21購股權計劃",
+        "font-size": 39,
+        "color": "rgba(222,129,14,1)",
+        "data-offset-start": 741
+    },
+    {
+        "data-offset-end": 763,
+        "pageid": 172,
+        "top": 1631,
+        "font-id": "f11",
+        "level": "Level",
+        "left": 195,
+        "text": "(I)二零一一年購股權計劃",
+        "font-size": 33,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 750
+    },
+    {
+        "data-offset-end": 959,
+        "pageid": 172,
+        "top": 1726,
+        "font-id": "f14",
+        "level": "Level",
+        "left": 263,
+        "text": "二零一一年購股權計劃經全體股東於本公司在二零一一年四月二十九日（「二零一一年購股權計劃採納日期」）舉行的股東週年大會上批准及採納。於二零一四年十二月三十一日，所有購股權均已根據二零一一年購股權計劃授出。購股權毋須於一份購股權獲行使前符合僱員的表現目標方有效。一經歸屬後，二零一一年購股權將於二零一一年購股權計劃採納日期或二零一一年購股權計劃採納日期的最近週年日起計六年期間內可獲行使。",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 765
+    },
+    {
+        "data-offset-end": 974,
+        "pageid": 172,
+        "top": 2303,
+        "font-id": "f7",
+        "level": "Level",
+        "left": 39,
+        "text": "170融創中國控股有限公司",
+        "font-size": 33,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 961
+    },
+    {
+        "data-offset-end": 983,
+        "pageid": 172,
+        "top": 2330,
+        "font-id": "f9",
+        "level": "Level",
+        "left": 127,
+        "text": "2017年度報告",
+        "font-size": 24,
+        "color": "rgba(101,98,98,1)",
+        "data-offset-start": 976
+    }
+]

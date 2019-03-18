@@ -1,0 +1,122 @@
+APPENDIX I
+
+ACCOUNTANTS’ REPORT
+
+The Preferred Shares, gross obligations from Share Purchase Option written and Shares Purchase Options were
+valued by the directors of the Company with reference to valuation reports carried out by an independent qualified
+professional valuer, Solium Analytics LLC, which has appropriate qualifications and experiences in valuation of
+similar instruments. The address of Solium Analytics LLC is Suite 780, 221 Main Street, San Francisco, California
+94105.
+
+The Company used the back-solve method to determine the underlying share value of the Company and
+performed an equity allocation based on a Black-Scholes Option Pricing model (“OPM model”) to arrive the fair
+value of the Preferred Shares as of the dates of issuance and at the end of each reporting period.
+
+In addition to the underlying share value of the Company determined by back-solve method, other key
+
+valuation assumptions used in OPM model to determine the fair value of the Preferred Shares are as follows:
+
+Time to liquidity
+Risk-free interest rate
+Volatility
+Dividend Yield
+Possibilities under liquidation scenario
+Possibilities under IPO scenario
+
+At 31 December
+
+2016
+
+2.5 years
+1.34%
+58%
+0%
+100%
+0%
+
+2017
+
+2 years
+1.89%
+63.5%
+0%
+100%
+0%
+
+At 30 June
+2018
+
+2.5 years
+2.58%
+65.9%
+0%
+90%
+10%
+
+The directors of the Company estimated the risk-free interest rate based on the yield of U.S. Treasury Bonds
+with a maturity life closed to period from the respective valuation dates to the expected liquidation dates. Volatility
+was estimated on each valuation date based on average of historical volatilities of the comparable companies in the
+same industry for a period from the respective valuation dates to expected liquidation dates.
+
+Changes in fair value of the other financial liabilities were recorded in “(loss) gain on fair value changes of
+other financial liabilities measured at FVTPL”. Management considered that fair value change in the Preferred Shares
+that are attributable to changes of credit risk of this liability being not significant.
+
+As at 31 December 2016 and 2017 and 30 June 2018, other financial liabilities shall be redeemed by the
+Company at an amount equal to the issue price per share, plus an 11% compounded annual interest and any declared
+but unpaid dividends, within a period of more than two years but not exceeding five years.
+
+29.
+
+SHARE CAPITAL
+
+The Group and the Company
+
+Ordinary shares
+Ordinary of USD0.0001 each
+
+Authorised
+At 1 January 2016
+Reclassification and re-designation on issuance of series D
+
+Preferred Shares (note a)
+
+At 31 December 2016 and 2017
+Reclassification and re-designation on issuance of Series E
+
+Preferred Shares (note b)
+Share subdivision (note c)
+
+At 30 June 2018
+
+– I-52 –
+
+Number of
+ordinary shares
+
+Amount
+USD’000
+
+465,474,186
+
+(21,475,179)
+
+443,999,007
+
+(11,177,348)
+3,895,394,941
+
+4,328,216,600
+
+46
+
+(2)
+
+44
+
+(1)
+–
+
+43
+
+

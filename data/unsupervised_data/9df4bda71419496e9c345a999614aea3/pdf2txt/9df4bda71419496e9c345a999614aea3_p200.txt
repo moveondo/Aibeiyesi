@@ -1,0 +1,49 @@
+BUSINESS
+
+The following table sets out an overview of the adverse events.
+
+At least one AE
+At least one drug related AE
+At least one SAE
+At least one Serious drug related AE
+At least one G3-G5 AE
+At least one G3-G5 drug related AE
+At least one AE leading to treatment discontinuation
+At least one infusion related AE
+At least one irAE
+
+Esophageal
+Cancer N=59
+(n, %)
+
+56 (94.9)
+37 (62.7)
+15 (25.4)
+3 (5.1)
+22 (37.3)
+5 (8.5)
+10 (16.9)
+2 (3.4)
+6 (10.2)
+
+Abbreviation:
+AE, adverse event; G3, grade 3; G5, grade 5; irAE, immune-related adverse event; SAE, serious adverse event
+
+5.
+
+Advanced Gastric Adenocarcinoma (Phase Ib/II)
+
+Design. Patients received a 3 mg/kg JS001 infusion every two weeks and were evaluated
+by investigators for clinical efficacy every eight weeks in accordance with the RECIST v1.1
+assessment criteria. 58 advanced gastric adenocarcinoma patients were enrolled into the study.
+As of December 30, 2017, 43 patients underwent at least one efficacy evaluation.
+
+Results. Of the 43 patients evaluated, 8 patients had PR and 9 patients had SD with the
+ORR of 18.6% (8/43) and the DCR of 39.5% (17/43). Efficacy in PD-L1 positive gastric
+adenocarcinoma patients was better than in negative patients. The PR of 6 PD-L1 positive
+tumor patients and 36 PD-L1 negative tumor patients were 50.0% (3/6) and 13.9% (5/36),
+respectively.
+
+– 194 –
+
+

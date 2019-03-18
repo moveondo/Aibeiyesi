@@ -1,0 +1,86 @@
+GLOSSARY OF TECHNICAL TERMS
+
+“monotherapy”
+
+therapy that uses a single drug to treat a disease or
+condition.
+
+“Mouse CNV model”
+
+Mouse Choroidal Neovascularization model, used in
+studies of wet AMD
+
+“myasthenia gravis”
+
+a weakness and rapid fatigue of muscles under voluntary
+control
+
+“NCCR”
+
+“NDA”
+
+“NK cells”
+
+National Central Cancer Registry of China
+
+new drug application
+
+natural killer cells, a type of cytotoxic lymphocyte
+
+“NK/T cell lymphoma”
+
+a type of lymphoma that occurs commonly in the nasal
+and upper aerodigestive region
+
+“non-Hodgkin’s lymphoma”
+
+a type of lymphoma
+
+“non-squamous NSCLC”
+
+non-squamous non-small cell lung cancer
+
+“NSCLC”
+
+“off-rate”
+
+“on-rate”
+
+“ORR”
+
+“OX40”
+
+“PBMCs”
+
+“PBS”
+
+“PCSK9”
+
+non-small cell lung cancer
+
+the rate at which the antibody releases an antigen
+
+the rate at which the antibody binds to an antigen
+
+objective response rate
+
+receptor
+
+expressed
+
+surface
+following
+stimulation by foreign antigens and provides a survival
+signal to antigen specific T cells
+
+on T cells
+
+peripheral blood mononuclear cells
+
+phosphate buffered saline
+
+proprotein convertase substilisin/kexin type 9 enzyme
+
+– 45 –
+
+

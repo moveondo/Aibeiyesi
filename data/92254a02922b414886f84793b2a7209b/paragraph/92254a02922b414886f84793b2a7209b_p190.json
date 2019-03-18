@@ -1,0 +1,28 @@
+[
+    {
+        "font_family": "ff1",
+        "text": "欧菲科技股份有限公司  2017  年年度报告全文",
+        "bottom": 790.32,
+        "data_offset_end": 30,
+        "font_size": 36.0,
+        "left": 363.16,
+        "line_height": 0,
+        "data_offset_start": 6,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "ATitle_9999"
+    },
+    {
+        "font_family": "ff2",
+        "text": "190一种带震动反馈的  3D 边缘滑动触摸屏的研发4,471,1 16.534,471,1 16.53T -Lens  镜头和 holder（支撑体） 分体式的内部导通结构3,558,306.223,558,306.22超窄边框专案开发2,576,654.242,576,654.24INALF A  CBSCU1,290,715.171,290,715.17窄边框喷阀涂胶技术设计方案2,847,760.781,813,769.981,033,990.80SAG HD10G3 Gateway651,931.62147,696.53799,628.15BAIC C51ECluster437,594.04437,594.04BAICC40D/C53FCluster394,620.53394,620.53事业部 -上汽A 架构 -基础软件352,907.57352,907.57SGM K2XXPF AF332,996.82332,996.82事业部-SAIC EQVDS/AFS  维护329,593.66329,593.66事业部 -江淮汽车售后自主诊断系统项目295,249.85295,249.85SAIC IS21Major R VC267,124.34267,124.34BAIC C51EA VM222,905.87222,905.87",
+        "bottom": 51.72,
+        "data_offset_end": 797,
+        "font_size": 36.0,
+        "left": 525.18,
+        "line_height": 0,
+        "data_offset_start": 31,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "ATitle_9999"
+    }
+]

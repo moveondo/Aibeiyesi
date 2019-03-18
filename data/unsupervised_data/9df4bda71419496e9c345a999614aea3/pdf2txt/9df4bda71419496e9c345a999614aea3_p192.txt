@@ -1,0 +1,32 @@
+BUSINESS
+
+Strong internalization induction
+
+Upon binding with its specific antigen PD-1 receptor, JS001 blocks the interaction of
+PD-1 and its ligand and simultaneously induces the internalization of PD-1 receptor and
+decreases the expression of PD-1 on the cell membrane surface. Immunofluorescence assay
+results below show that JS001 induced strong internalization induction.
+
+Immunofluorescence assay results show that JS001 induced strong internalization
+
+Source: Internal technical report
+
+JS001-induced PD-1 internalization was directly visualized by microscopy using 293T.hPD1 cells. 293T.hPD1
+cells were incubated at 37°C with 0.3 µg/mL of CypHer5E-labeled JS001. Upon internalization, the endosomes
+containing the labeled antibody are acidified, rendering CypHer5E fluorescent and visualized. Shown are
+pictures of an individual cell taken at 30 min and 6 hours. By 6 hours, punctate fluorescence and the
+accumulation of fluorescent vesicles (dots or small circles of fluorescence) can clearly be visualized in the
+large cytoplasmic region of the 293T.hPD1 cell.
+
+The following graphs show a decrease in PD-1 expression on the cell surface during
+internalization of JS001 by simultaneously staining the JS001 non-competitive anti-PD-1
+monoclonal antibody (clone MIH4). A decrease in PD-1 expression can improve the reactivity
+of T cells to the antigen. This mechanism does not rely on PD-1 ligand (PD-L1) expression.
+
+Flow cytometry results show that JS001 induced internalization and
+
+reduced the expression of PD-1 on the membrane surface concurrently
+
+– 186 –
+
+

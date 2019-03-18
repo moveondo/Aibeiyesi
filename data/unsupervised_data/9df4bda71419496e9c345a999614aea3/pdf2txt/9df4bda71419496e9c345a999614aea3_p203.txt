@@ -1,0 +1,49 @@
+BUSINESS
+
+The following table sets out an overview of the adverse events.
+
+Number of patients with AE, n (%)
+
+NPC N=54
+
+Any TEAE-all causality
+Any Serious TEAE-all causality
+Any Grade 3/4 TEAE-all causality
+Any TEAE leading to permanent discontinuation of
+
+study medication
+
+Any TEAE leading to death
+Any infusion reaction
+
+50 (92.6)
+7 (13.0)
+13 (24.1)
+
+4 (7.4)
+1 (1.9)
+1 (1.9)
+
+7. Metastatic Mucosal Melanoma (Phase Ib, +Axitinib)
+
+The clinical results of JS001 in the treatment of advanced melanoma registration show
+that there is room for improvement in the response of mucosal melanoma subtype to PD-1
+antibody monotherapy. One of the poor indicators of the prognosis of mucosal melanoma is the
+formation of microvessels within the tumor and an increase in the number of microvessels is
+associated with a shortened survival. The combination of an anti-angiogenic tyrosine kinase
+inhibitor (TKI) and a PD-1 inhibitor has initially shown superiority over single agents in the
+field of advanced kidney carcinoma and such result was published in Lancet Oncology in 2018.
+
+Design. We conducted a Phase Ib clinical trial of JS001 combined with axitinib in the
+treatment of metastatic mucosal melanoma from April 2017 to April 2018. A total of 33 patients
+with mucosal melanoma were enrolled, including esophagus, nasopharynx, rectal and vaginal
+melanoma. As of May 20, 2018, all 33 patients had received at least one efficacy evaluation.
+
+Results. Of the 33 patients evaluated, 20 patients achieved PR and 9 achieved SD, with
+the ORR of 60.6% and the DCR of 87.9%. Since 16 of the 20 patients continued to have
+response, the mDOR had not yet been reached. The following waterfall plot shows the optimal
+tumor shrinkage rate in mucosal melanoma patients after the combined therapy.
+
+– 197 –
+
+

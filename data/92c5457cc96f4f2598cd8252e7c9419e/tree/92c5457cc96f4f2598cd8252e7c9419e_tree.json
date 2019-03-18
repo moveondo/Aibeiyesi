@@ -1,0 +1,237 @@
+{
+    "root": true,
+    "children": [
+        {
+            "left": 765,
+            "top": 853,
+            "text": "J.P.MorganSecurities(FarEast)Limited",
+            "pageid": 137,
+            "font-size": 33,
+            "font-id": "f13",
+            "data-offset-start": 154,
+            "data-offset-end": 194,
+            "color": "rgba(35,31,31,1)",
+            "level": "Level_1"
+        },
+        {
+            "left": 850,
+            "top": 273,
+            "text": "P.O.Box2075,#31TheStrand",
+            "pageid": 141,
+            "font-size": 32,
+            "font-id": "f10",
+            "data-offset-start": 128,
+            "data-offset-end": 156,
+            "color": "rgba(35,31,31,1)",
+            "level": "Level_1"
+        },
+        {
+            "left": 340,
+            "top": 1814,
+            "text": "a.貴集團收到有關廠房及機器產生的資本開支的政府補貼。該等款項於有關資產的估計使用",
+            "pageid": 422,
+            "font-size": 27,
+            "font-id": "f13",
+            "data-offset-start": 420,
+            "data-offset-end": 461,
+            "color": "rgba(35,31,31,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 340,
+            "top": 1940,
+            "text": "b.其他補貼通常乃就有關貴集團的研發活動而提供。",
+            "pageid": 422,
+            "font-size": 27,
+            "font-id": "f13",
+            "data-offset-start": 473,
+            "data-offset-end": 498,
+            "color": "rgba(35,31,31,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 340,
+            "top": 1392,
+            "text": "a.於2018年1月至6月期間，　貴集團已自現有銀行融資提取總計約人民幣187百萬元。",
+            "pageid": 441,
+            "font-size": 27,
+            "font-id": "f13",
+            "data-offset-start": 597,
+            "data-offset-end": 640,
+            "color": "rgba(35,31,31,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 340,
+            "top": 1470,
+            "text": "b.自2018年1月至本報告日期，　貴集團向若干董事、僱員及獨立顧問授出3,921,904份購股權。",
+            "pageid": 441,
+            "font-size": 27,
+            "font-id": "f13",
+            "data-offset-start": 642,
+            "data-offset-end": 692,
+            "color": "rgba(35,31,31,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 340,
+            "top": 1548,
+            "text": "c.自2018年1月至4月，　貴公司以收取總代價約150百萬美元（約相當於人民幣948百萬元）發",
+            "pageid": 441,
+            "font-size": 27,
+            "font-id": "f13",
+            "data-offset-start": 694,
+            "data-offset-end": 742,
+            "color": "rgba(35,31,31,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 340,
+            "top": 1665,
+            "text": "d.2018年4月，　貴公司出售違反借款協議契諾的若干質押設備，隨後，　貴公司於2018年6",
+            "pageid": 441,
+            "font-size": 27,
+            "font-id": "f13",
+            "data-offset-start": 777,
+            "data-offset-end": 823,
+            "color": "rgba(35,31,31,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 340,
+            "top": 1782,
+            "text": "e.2018年4月，Innovent(HK)與各境內中國投資者就向境內中國投資者授出的股份購買期權",
+            "pageid": 441,
+            "font-size": 27,
+            "font-id": "f13",
+            "data-offset-start": 836,
+            "data-offset-end": 886,
+            "color": "rgba(35,31,31,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 340,
+            "top": 1977,
+            "text": "f.2018年6月4日，　貴公司股東通過一項普通決議案，批准將每股0.0001美元的已發行及未發",
+            "pageid": 441,
+            "font-size": 27,
+            "font-id": "f13",
+            "data-offset-start": 1028,
+            "data-offset-end": 1076,
+            "color": "rgba(35,31,31,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 340,
+            "top": 217,
+            "level": "Level_0",
+            "text": "g.2018年6月4日，　貴公司股東通過一項普通決議案，有條件批准及採納[編纂]後僱員持股計",
+            "pageid": 442,
+            "font-size": 27,
+            "font-id": "f10",
+            "data-offset-start": 65,
+            "children": [
+                {
+                    "left": 255,
+                    "top": 583,
+                    "text": "A.本公司擁有人應佔本集團未經審核備考經調整綜合有形資產淨值報表",
+                    "pageid": 443,
+                    "font-size": 36,
+                    "font-id": "f14",
+                    "data-offset-start": 245,
+                    "data-offset-end": 277,
+                    "color": "rgba(35,31,31,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 255,
+                    "top": 218,
+                    "text": "A.有關本公司及其附屬公司的進一步資料",
+                    "pageid": 473,
+                    "font-size": 36,
+                    "font-id": "f10",
+                    "data-offset-start": 67,
+                    "data-offset-end": 86,
+                    "color": "rgba(35,31,31,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 255,
+                    "top": 864,
+                    "text": "B.有關我們業務的進一步資料",
+                    "pageid": 482,
+                    "font-size": 36,
+                    "font-id": "f12",
+                    "data-offset-start": 366,
+                    "data-offset-end": 380,
+                    "color": "rgba(35,31,31,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 255,
+                    "top": 1375,
+                    "text": "C.有關我們董事的進一步資料",
+                    "pageid": 486,
+                    "font-size": 36,
+                    "font-id": "f13",
+                    "data-offset-start": 377,
+                    "data-offset-end": 391,
+                    "color": "rgba(35,31,31,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 255,
+                    "top": 1080,
+                    "text": "D.購股權計劃",
+                    "pageid": 490,
+                    "font-size": 36,
+                    "font-id": "f13",
+                    "data-offset-start": 529,
+                    "data-offset-end": 536,
+                    "color": "rgba(35,31,31,1)",
+                    "level": "Level_1"
+                }
+            ],
+            "color": "rgba(35,31,31,1)",
+            "data-offset-end": 111
+        },
+        {
+            "left": 425,
+            "top": 1894,
+            "text": "i.釐定成為參與者及接收獎勵的資格；",
+            "pageid": 491,
+            "font-size": 32,
+            "font-id": "f10",
+            "data-offset-start": 748,
+            "data-offset-end": 766,
+            "color": "rgba(35,31,31,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 425,
+            "top": 812,
+            "level": "Level_0",
+            "text": "v.制定、修訂及撤銷有關管理[編纂]前股份獎勵計劃或獎勵的規則及規",
+            "pageid": 492,
+            "font-size": 32,
+            "font-id": "f10",
+            "data-offset-start": 293,
+            "children": [
+                {
+                    "left": 255,
+                    "top": 1741,
+                    "text": "E.其他資料",
+                    "pageid": 507,
+                    "font-size": 36,
+                    "font-id": "f13",
+                    "data-offset-start": 838,
+                    "data-offset-end": 844,
+                    "color": "rgba(35,31,31,1)",
+                    "level": "Level_1"
+                }
+            ],
+            "color": "rgba(35,31,31,1)",
+            "data-offset-end": 326
+        }
+    ]
+}

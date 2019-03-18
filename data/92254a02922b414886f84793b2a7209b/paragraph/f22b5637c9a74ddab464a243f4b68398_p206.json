@@ -1,0 +1,110 @@
+[
+    {
+        "data-offset-end": 9,
+        "pageid": 206,
+        "top": 153,
+        "font-id": "f8",
+        "level": "Level",
+        "left": 127,
+        "text": "綜合財務報表附註",
+        "font-size": 51,
+        "color": "rgba(222,129,14,1)",
+        "data-offset-start": 2
+    },
+    {
+        "data-offset-end": 84,
+        "pageid": 206,
+        "top": 843,
+        "font-id": "f12",
+        "level": "Level",
+        "left": 195,
+        "text": "於英屬維爾京群島註冊成立：",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 72
+    },
+    {
+        "data-offset-end": 210,
+        "pageid": 206,
+        "top": 1275,
+        "font-id": "f12",
+        "level": "Level",
+        "left": 195,
+        "text": "於香港註冊成立：",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 203
+    },
+    {
+        "data-offset-end": 232,
+        "pageid": 206,
+        "top": 1392,
+        "font-id": "f12",
+        "level": "Level",
+        "left": 195,
+        "text": "於中國註冊成立：",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 225
+    },
+    {
+        "data-offset-end": 341,
+        "pageid": 206,
+        "top": 535,
+        "font-id": "f12",
+        "level": "Level",
+        "left": 878,
+        "text": "已發行及繳足",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 336
+    },
+    {
+        "data-offset-end": 347,
+        "pageid": 206,
+        "top": 580,
+        "font-id": "f12",
+        "level": "Level",
+        "left": 898,
+        "text": "股本╱註冊",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 343
+    },
+    {
+        "data-offset-end": 1027,
+        "pageid": 206,
+        "top": 1779,
+        "font-id": "f13",
+        "level": "Level",
+        "left": 1505,
+        "text": "文化及旅遊項目經營",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 1018
+    },
+    {
+        "data-offset-end": 1042,
+        "pageid": 206,
+        "top": 2303,
+        "font-id": "f7",
+        "level": "Level",
+        "left": 39,
+        "text": "204融創中國控股有限公司",
+        "font-size": 33,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 1029
+    },
+    {
+        "data-offset-end": 1051,
+        "pageid": 206,
+        "top": 2330,
+        "font-id": "f9",
+        "level": "Level",
+        "left": 127,
+        "text": "2017年度報告",
+        "font-size": 24,
+        "color": "rgba(101,98,98,1)",
+        "data-offset-start": 1044
+    }
+]

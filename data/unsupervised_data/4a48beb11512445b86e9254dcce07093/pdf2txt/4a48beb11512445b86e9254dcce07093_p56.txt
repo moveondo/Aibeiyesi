@@ -1,0 +1,79 @@
+GLOSSARY OF TECHNICAL TERMS
+
+“plasmacytoid dendritic cells”
+
+a rare type of immune cell that are known to secrete large
+quantities of type 1 interferon (IFNs) in response to a
+viral infection. They circulate in the blood and are found
+in peripheral lymphoid organs
+
+“PR”
+
+partial response or partial response rate
+
+“pre-clinical study(ies)”
+
+pre-clinical studies testing a drug on non-human subjects,
+to gather efficacy, toxicity, pharmacokinetic and safety
+information and to decide whether the drug is ready for
+clinical trials
+
+“progression free survival” or
+
+“PFS”
+
+“psoriasis”
+
+“psoriatic arthritis”
+
+the length of time during and after the treatment of a
+lives with the
+disease, such as cancer,
+disease but
+trial,
+measuring the progression-free survival is one way to see
+how well a new treatment works
+
+it does not get worse. In a clinical
+
+that a patient
+
+a condition in which skin cells build up and form scales
+and itchy, dry patches
+
+a form of arthritis that affects some people who have the
+skin condition psoriasis. Symptoms include joint pain,
+stiffness, and swelling, which may flare and subside.
+Many people with the condition are affected by morning
+stiffness. Even mild skin psoriasis can have a significant
+degree of arthritis
+
+“Q2W”
+
+“Q3W”
+
+“RA”
+
+every two weeks
+
+every three weeks
+
+rheumatoid arthritis
+
+“RANKL”
+
+Receptor activator of nuclear factor kappa-〉 ligand
+
+“receptor occupancy” or “RO”
+
+the binding of PD-1 antibodies to PD-1, which is a
+measure of the fraction of PD-1 that is blocked on the
+surface of T lymphocytes. By repeatedly measuring the
+receptor occupancy over time, the duration of receptor
+blockade can be directly observed. A higher fraction of
+occupied receptor for a longer period of time could result
+in better clinical efficacy
+
+– 47 –
+
+

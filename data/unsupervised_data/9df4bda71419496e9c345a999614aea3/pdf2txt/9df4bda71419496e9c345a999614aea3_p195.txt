@@ -1,0 +1,132 @@
+BUSINESS
+
+We encountered and expect to continue to encounter AEs in our clinical trials. All AEs are
+followed until they are resolved, patient is deceased or patient is out of trial for 90 days. All
+AEs are managed and treated according to the clinical protocol and investigator’s brochure.
+The clinical protocol, investigator’s brochure and SAE case report of each clinical study on
+JS001 as disclosed in this prospectus have been communicated to and confirmed with the
+relevant ethical committees of clinical trial sites. Based on data from our clinical trials,
+publicly available information of competitor drugs and consultation with Frost & Sullivan, we
+are of the view that the AE, SAE, irAE and TRAE profiles of JS001 for the indications set out
+below are generally in line with those of competitor drugs.
+
+1.
+
+Recurrent Metastatic Lymphoma (Phase I)
+
+Design. In the Phase I clinical trial of recurrent metastatic lymphoma, a total of 24
+patients (17 HL and seven NHL) received a JS001 infusion every two weeks and were
+evaluated by investigators for clinical efficacy every six weeks in accordance with the IWG
+International lymphoma assessment criteria.
+
+Results. As of June 28, 2018, all patients underwent at
+
+least a half-year follow-up
+evaluation. The following table sets forth the results of Phase I clinical trial of JS001 in the
+treatment of recurrent metastatic lymphoma.
+
+Efficacy results of Phase I clinical trial in recurrent metastatic lymphoma
+
+treated with JS001
+
+3 mg/kg
+(n = 9)
+
+10 mg/kg
+(n = 9)
+
+Sub-total
+
+CR %
+
+ORR % DCR %
+
+1 mg/kg
+(n = 6)
+
+1CR, 2PR,
+
+1SD
+
+Type
+
+HL
+
+NHL
+
+Total
+
+No.
+
+17
+
+7
+
+24
+
+2CR, 4PR
+
+4CR, 2PR,
+
+7CR, 8PR,
+
+1SD
+
+2SD
+
+1PR, 1PD
+
+1SD, 2PD
+
+1CR, 1PR
+
+1CR, 3PR,
+1SD, 1PD
+
+2CR, 4PR,
+1SD, 2PD
+
+5CR, 3PR,
+
+1SD
+
+1CR, 2PR,
+1SD, 3PD
+
+8CR,
+10PR,
+
+3SD, 3PD
+
+41.2
+
+14.3
+
+33.3
+
+88.2
+
+42.9
+
+75.0
+
+100.0
+
+57.1
+
+87.5
+
+Source: Clinical trial result summary
+
+Of the three SD patients observed, two had unconfirmed partial response. The mTTR was
+42 days with the range of 42 to 210 days. As at the cut-off date for data collection, 14 out of
+18 patients with objective response were still in sustained response, and the mDOR and mPFS
+had not been reached. JS001 shows long-lasting efficacy in recurrent metastatic lymphoma.
+
+The following diagrams are a waterfall plot showing the optimal tumor shrinkage rate and
+
+a spider plot showing the patients tumor load changed over time.
+
+– 189 –
+
+

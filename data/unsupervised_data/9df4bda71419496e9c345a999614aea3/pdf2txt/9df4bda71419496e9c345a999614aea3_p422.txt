@@ -1,0 +1,69 @@
+APPENDIX I
+
+ACCOUNTANTS’ REPORT
+
+Transaction costs relating to the issue of the convertible loan notes are recognised immediately in profit or loss.
+
+The Group issued the convertible loan notes for specific purpose for construction of a new biologics
+manufacturing facility. Therefore, the effective interest relating to the debt component of the convertible loan notes
+is eligible for capitalisation and is deducted from the fair value changes of convertible loan notes designated at
+FVTPL.
+
+Financial liabilities subsequently measured at amortised cost
+
+Financial liabilities that are not designated as at FVTPL are subsequently measured at amortised cost using the
+
+effective interest method.
+
+The effective interest method is a method of calculating the amortised cost of a financial liability and of
+allocating interest expense over the relevant period. The effective interest rate is the rate that exactly discounts
+estimated future cash payments (including all fees and points paid or received that form an integral part of the
+effective interest rate, transaction costs and other premiums or discounts) through the expected life of the financial
+liability, or (where appropriate) a shorter period, to the amortised cost of a financial liability.
+
+Foreign exchange gains and losses
+
+For financial liabilities that are denominated in a foreign currency and are measured at amortised cost at the
+end of each reporting period, the foreign exchange gains and losses are determined based on the amortised cost of
+the instruments. These foreign exchange gains and losses are recognised in profit or loss in the ‘other gains and
+losses’ line item for financial liabilities that are not part of a designated hedging relationship.
+
+The fair value of financial liabilities denominated in a foreign currency is determined in that foreign currency
+and translated at the spot rate at the end of the reporting period. For financial liabilities that are measured as at
+FVTPL, the foreign exchange component forms part of the fair value gains or losses and is recognised in profit or
+loss.
+
+Derivative financial instruments
+
+The Group enters into foreign exchange forward contracts to manage its exposure to foreign exchange rate
+
+risks. Further details of derivative instruments are disclosed in Note 23.
+
+Derivatives are initially recognised at fair value at the date when derivative contracts are entered into and are
+subsequently remeasured to their fair value at the end of the reporting period. The resulting gain or loss is recognised
+in profit or loss immediately.
+
+Derecognition of financial liabilities
+
+The Group derecognises financial liabilities when, and only when, the Group’s obligations are discharged,
+cancelled or expire. The difference between the carrying amount of the financial liability derecognised and the
+consideration paid and payable, including any non-cash assets transferred or liabilities assumed, is recognised in
+profit or loss.
+
+5.
+
+CRITICAL ACCOUNTING JUDGEMENT AND KEY SOURCE OF ESTIMATION UNCERTAINTY
+
+In the application of the Group’s accounting policies, which are described in Note 4, the directors of the
+Company are required to make judgements, estimates and assumptions about the carrying amounts of assets and
+liabilities that are not readily apparent from other sources. The estimates and underlying assumptions are based on
+historical experience and other factors that are considered to be relevant. Actual results may differ from these
+estimates.
+
+The estimates and underlying assumptions are reviewed on an on-going basis. Revisions to accounting
+estimates are recognised in the period in which the estimate is revised if the revision affects only that period, or in
+the period of the revision and future periods if the revision affects both current and future periods.
+
+– I-29 –
+
+

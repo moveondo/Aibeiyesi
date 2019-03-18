@@ -1,0 +1,61 @@
+REGULATIONS
+
+The Innovation Opinion also introduces a notification system for new drug clinical
+
+trial
+approval. In other words, trials can proceed if after certain fixed period of time (possibly 60 days),
+the applicant has not received any objections from the CDE, as opposed to the lengthier current
+clinical trial pre-approval process in which the applicant must wait for affirmative approval. The
+Innovation Opinion also promises to expand the number of trial sites by truncating the timeline for
+accreditation by converting it from a pre-approval procedure into a notification procedure. These
+reforms will require implementing law and regulations in order to proceed in practice. The CDA
+proposed implementing legislation in 2017 but it has not yet been finalized.
+
+Human Genetic Resources Approval
+
+According to the Interim Measures for the Administration of Human Genetic Resources (人類遺
+傳資源管理暫行辦法), an additional approval
+is required for any foreign companies or foreign
+affiliates that conduct trials in China. Prior to entering into a clinical trial agreement and beginning
+a trial, the parties to a clinical trial (i.e., the foreign sponsor and the Chinese clinical trial site) are
+required to obtain a human genetic resources, or HGR, approval to collect any biological samples that
+contain the genetic material of Chinese human subjects from the Ministry of Science and Technology,
+and any cross-border
+the samples or associated data requires additional approval.
+Furthermore, one of the key review points for the HGR review and approval process is the IP sharing
+arrangement between Chinese and foreign parties. The parties are required to share patent rights to
+inventions arising from the samples. Conducting a clinical
+in China without obtaining the
+relevant HGR preapproval will subject the sponsor and trial site to administrative liability, including
+confiscation of HGR (samples and associated data), and administrative fines.
+
+transfer of
+
+trial
+
+Clinical Trial Process and Good Clinical Practices
+
+Typically drug clinical trials in China have three phases. Phase 1 refers to the initial clinical
+pharmacology and human safety evaluation studies. Phase 2 refers to the preliminary evaluation of a
+drug candidate’s therapeutic efficacy and safety for target indication(s) in patients. Phase 3 (often the
+pivotal study) refers to clinical trials to further verify the drug candidate’s therapeutic efficacy and
+safety on patients with target indication(s) and ultimately provide sufficient evidence for the review
+of drug registration application. The CDA requires that the different phases of clinical trials in China
+receive ethics committee approval prior to approval of the CTA and comply with GCP. The CDA
+conducts inspections to assess GCP compliance and will cancel the CTA if it finds substantial issues.
+
+The CDA may reduce requirements for trials and data, depending on the drug and the existing
+data. The CDA has granted waivers for all or part of trials, but it is now planning to take a more
+official position on the acceptance of foreign data to support an application. The foreign data must
+meet the CDA’s requirements, including, for drugs that have never been approved before in China,
+having sufficient Chinese ethnic data. The precise requirements are not yet clear.
+
+Unlike innovative drugs, generic small molecule drugs are required to conduct a bioequivalence
+trial to demonstrate therapeutic equivalence to an originator drug marketed either in China or abroad
+or an internationally accepted generic drug. The CDA has released catalogues of reference products,
+and it released a first installment of a “marketed drug list” (China’s “Orange Book”) with information
+about drugs that may serve as reference products.
+
+— 181 —
+
+

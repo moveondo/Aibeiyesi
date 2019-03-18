@@ -1,0 +1,60 @@
+REGULATIONS
+
+To implement the regulatory reform introduced by the Innovation Opinion, the CDA is currently
+revising the fundamental
+laws, regulations and rules regulating pharmaceutical products and the
+industry, which include the framework law known as the PRC Drug Administration Law (藥品管理法),
+or DAL. The DAL is also generally implemented by a set of regulations issued by the State Council
+referred to as the DAL Implementing Regulation (藥品管理法實施條例). The CDA has its own set of
+regulations implementing the DAL; the primary one governing clinical trial applications, marketing
+approval, and license renewal and amendment is known as the Drug Registration Regulation (藥品註
+冊管理辦法). However, as of April 2018 the implementing regulations for many of the reforms in the
+Innovation Opinion had not been announced, and therefore, the details in the implementation of the
+regulatory changes remained uncertain in some respects.
+
+Regulatory Authorities and Recent Government Reorganization
+
+the key stages of
+
+In the PRC, the CDA is the primary regulator for pharmaceutical products and businesses. It
+regulates almost all of
+including
+nonclinical studies, clinical trials, marketing approvals, manufacturing, advertising and promotion,
+distribution, and pharmacovigilance (i.e., post-marketing safety reporting obligations). The Center for
+Drug Evaluation, or CDE, which is under the CDA, conducts the technical evaluation of each drug and
+biologic application for safety and effectiveness.
+
+the life-cycle of pharmaceutical products,
+
+The National Health and Family Planning Commission, or NHFPC, formerly known as the
+Ministry of Health, or MOH, is China’s chief healthcare regulator. It is primarily responsible for
+overseeing the operation of medical institutions, which also serve as clinical trial sites, and regulating
+the licensure of hospitals and other medical personnel. NHFPC plays a significant role in drug
+reimbursement. Furthermore, the NHFPC and its local counterparts at or below the provincial-level of
+local government also oversee and organize public medical
+institutions’ centralized bidding and
+procurement process for pharmaceutical products. This is the chief way that public hospitals and their
+internal pharmacies acquire drugs.
+
+China has recently reorganized the agencies that regulate drugs, healthcare, and the state health
+is still not entirely clear what effect on policy these changes will
+insurance plans, although it
+ultimately have in terms of making the drug approval process more efficient. The drug regulatory
+agency, CFDA, is merged into a State Administration on Market Regulation, or SAMR, along with
+other agencies that regulate consumer protection, product quality and anti-monopoly. The drug, device
+and cosmetic regulatory functions of CFDA is put under the CDA, which is subordinate to the SAMR.
+The National Health Commission, or the NHC, will be the healthcare regulator replacing the NHFPC,
+and a new, separate State Medical Insurance Bureau will focus on regulating reimbursement under the
+state-sponsored insurance plans.
+
+Pre-Clinical and Clinical Development
+
+The CDA requires both pre-clinical and clinical data to support registration applications for
+imported and domestic drugs. Pre-clinical work, including pharmacology and toxicology studies, must
+meet the GLP, issued in July 2017. The CDA accredits GLP labs and requires that nonclinical studies
+on chemical drug substances and preparations and biologics that are not yet marketed in China be
+conducted there. There are no approvals required from the CDA to conduct pre-clinical studies.
+
+— 178 —
+
+

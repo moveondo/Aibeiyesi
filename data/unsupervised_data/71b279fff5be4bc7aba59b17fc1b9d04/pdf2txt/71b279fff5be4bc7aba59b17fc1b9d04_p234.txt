@@ -1,0 +1,44 @@
+BUSINESS
+
+Another potential therapeutic utility of PARP inhibitors is combination therapy that has strong
+scientific rational. PARP proteins are key factors in base-excision-repair, which is critical for the
+repair of DNA lesions caused by some chemotherapeutic agents and by radiation. PARP inhibitors are
+hypothesized to potentiate cytotoxicity of DNA-alkylating agents such as platinum compounds,
+temozolomide and ionizing radiation and may be used in combination with these agents in treating
+various cancers.
+
+Role of PARP and BRCA in DNA Repair
+
+PARP
+
+SSB in tumor 
+
+DNA
+
+SSB = single-strand DNA breaks, BRCA=breast cancer gene, PARPi=poly (ADP-ribose) polymerase inhibitor.
+McLornan et al. N Engl J Med. 2014;371(18):1725-1735, 2. Hoeijm akers et al. Nature. 2001;411:366-374.
+
+PARP inhibitors are also considered good potential combination partners with checkpoint
+inhibitors in part due to increased mutations in tumor cells as a result of the blockade of DNA repair
+by PARP inhibitors as a higher mutational load of cancers has been shown in clinical studies to
+correlate with improved response to checkpoint inhibitors. In addition, preclinical data suggest that
+BRCA mutant
+tumors which are sensitive to PARP inhibition are likely to be immunogenic and
+responsive to PD-1 or PD-L1 antibodies.
+
+Market Opportunity and Competition
+
+We believe that the market opportunity for PARP inhibitors is large and expanding in various
+tumor histologies, settings and patient segments. Many tumor types have been shown to be responsive
+to PARP inhibitors,
+including OC, breast cancer, prostate cancer and GC. PARP inhibitors have
+demonstrated encouraging activities both in relapsed and refractory patients as well as in the
+maintenance setting. In the United States, each year there are approximately 22,440 new cases of OC,
+252,710 new cases of breast cancer, 161,360 new cases of prostate cancer, and 28,000 new cases of
+GC, according to the U.S. National Cancer Institute. In China, each year there are approximately
+52,000 new cases of OC, 272,000 new cases of breast cancer, 60,000 new cases of prostate cancer, and
+680,000 new cases of GC according to Chen et al. 2016.
+
+— 228 —
+
+

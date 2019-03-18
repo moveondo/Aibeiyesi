@@ -1,0 +1,115 @@
+{
+    "root": true,
+    "children": [
+        {
+            "left": 238,
+            "top": 1084,
+            "text": "1、中国运动服饰子行业增速领先全球，市场规模潜力大",
+            "pageid": 1,
+            "font-size": 33,
+            "font-id": "f3",
+            "data-offset-start": 65,
+            "data-offset-end": 89,
+            "color": "rgba(13,13,13,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 238,
+            "top": 1393,
+            "text": "2、中小企业在行业调整期被洗出，集中度向头部品牌集中：主品牌anta保持小幅稳定上升的市场份额，FILA增长夺取份额增量",
+            "pageid": 1,
+            "font-size": 33,
+            "font-id": "f3",
+            "data-offset-start": 292,
+            "data-offset-end": 355,
+            "color": "rgba(13,13,13,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 238,
+            "top": 1804,
+            "level": "Level_0",
+            "text": "3、多品牌运营能力很强，期待新品牌贡献新的增长力量",
+            "pageid": 1,
+            "font-size": 33,
+            "font-id": "f3",
+            "data-offset-start": 595,
+            "children": [
+                {
+                    "left": 301,
+                    "top": 1856,
+                    "text": "（1）FILA经典案例：安踏于2010年从百丽收购FILA的中国区经营权，收购时FILA中国业务亏损3917.8万元。经过重新调整，FILA回到中高端时尚化定位，并在营销端增加投入，运营上采取直营模式。2014年FILA中国业务成功扭亏、18年收入80+亿。",
+                    "pageid": 1,
+                    "font-size": 33,
+                    "font-id": "f1",
+                    "data-offset-start": 621,
+                    "data-offset-end": 765,
+                    "color": "rgba(13,13,13,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 301,
+                    "top": 2010,
+                    "text": "（2）2016年安踏集团提出多品牌运营战略，目前除安踏、FILA品牌，仍储备着多个运动品牌，包括健步鞋品牌Sprandi、日本高端运动品牌DESCENTE、韩国户外品牌KOLONSPORT、香港童装品牌KINGKOW。管理层表示2019年将在一二线城市加大DESCENTE的渗透，该品牌很有希望实现扭亏。",
+                    "pageid": 1,
+                    "font-size": 33,
+                    "font-id": "f1",
+                    "data-offset-start": 767,
+                    "data-offset-end": 931,
+                    "color": "rgba(13,13,13,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 301,
+                    "top": 2216,
+                    "text": "（3）2018年对Amer提出要约收购，近日即将披露收购结果。",
+                    "pageid": 1,
+                    "font-size": 33,
+                    "font-id": "f1",
+                    "data-offset-start": 933,
+                    "data-offset-end": 966,
+                    "color": "rgba(13,13,13,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 238,
+                    "top": 265,
+                    "text": "（1）终端消费下行超预期；",
+                    "pageid": 2,
+                    "font-size": 33,
+                    "font-id": "f1",
+                    "data-offset-start": 8,
+                    "data-offset-end": 20,
+                    "color": "rgba(13,13,13,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 238,
+                    "top": 367,
+                    "text": "（3）新品牌发展不及预期，增长动力不足；",
+                    "pageid": 2,
+                    "font-size": 33,
+                    "font-id": "f1",
+                    "data-offset-start": 43,
+                    "data-offset-end": 62,
+                    "color": "rgba(13,13,13,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 238,
+                    "top": 419,
+                    "text": "（4）因AmerSports收购案导致财务杠杆上升，18年派息率从17年的70.2%下调至44.9%，目前看只是短期行为。",
+                    "pageid": 2,
+                    "font-size": 33,
+                    "font-id": "f1",
+                    "data-offset-start": 64,
+                    "data-offset-end": 133,
+                    "color": "rgba(13,13,13,1)",
+                    "level": "Level_1"
+                }
+            ],
+            "color": "rgba(13,13,13,1)",
+            "data-offset-end": 619
+        }
+    ]
+}

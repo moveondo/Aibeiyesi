@@ -1,0 +1,57 @@
+BUSINESS
+
+73%,
+including 50% complete response, and the frequency and severity of adverse events was
+generally consistent with the previously reported data for tislelizumab, or, in the case of certain
+immune-related events such as hypothyroidism and fever, consistent with previous reports of other
+PD-1 antibodies for the treatment of cHL. We expect to include these data, along with additional
+follow-up data from the study, in the NDA that we plan to file with the CDA in China later this year,
+subject to the successful completion and satisfactory results of the trials.
+
+If approved, we plan to commercialize tislelizumab shortly after approval.
+
+WE MAY NOT BE ABLE TO ULTIMATELY DEVELOP AND MARKET TISLELIZUMAB
+
+SUCCESSFULLY.
+
+Pamiparib (BGB-290), a PARP Inhibitor
+
+Pamiparib is an investigational small molecule inhibitor of PARP1 and PARP2 that is being
+evaluated as a potential monotherapy and in combinations for the treatment of various solid tumors.
+We believe pamiparib has the potential to be differentiated from other PARP inhibitors because of its
+potential brain penetration, greater
+strong DNA-trapping activity, and good oral
+bioavailability. Pamiparib has demonstrated pharmacological properties such as brain penetration and
+PARP—DNA complex trapping in preclinical models.
+
+selectivity,
+
+Mechanism of Action
+
+PARP family members PARP1 and PARP2 play essential roles in cell survival in response to
+DNA damage. PARP1 and PARP2 are key base-excision-repair proteins that function as DNA damage
+sensors by binding rapidly to the site of damaged DNA and modulating a variety of proteins in DNA
+repair processes. Inhibition of PARPs prevents the repair of common single-strand DNA breaks which
+leads to formation of double-strand breaks during DNA replication. Double-strand DNA breaks in
+normal cells are repaired by homologous recombination, and normal cells are relatively tolerant of
+PARP inhibition. On the other hand, cancer cells with mutations in breast cancer susceptibility gene,
+or BRCA1/2 genes, which are key players in homologous recombination, are highly sensitive to PARP
+inhibition. This phenomenon is called “synthetic lethality” and is the foundation of the therapeutic
+utility of PARP inhibitors as a monotherapy for BRCA mutant cancers. In addition to hereditary
+BRCA1/2 mutations, the synthetic lethality concept has been broadened to include sporadic tumors
+that display homologous recombination deficiency, or HRD, a gene expression profile that resembles
+that of a BRCA deficient
+tumor. HRD can stem from somatic mutation of BRCA1/2, epigenetic
+silencing of BRCA genes or genetic or epigenetic loss of function of other genes in homologous
+recombination DNA damage repair pathways. Third-party clinical studies have published results
+demonstrating that
+sensitivity to PARP
+inhibitors in OC as well. Thus, the application of PARP inhibitors is likely broader than BRCA or HRD
+mutations, and there is additional possibility to identify and enrich patient populations for PARP
+inhibition.
+
+sensitivity to platinum-based chemotherapies confers
+
+— 227 —
+
+

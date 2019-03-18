@@ -1,0 +1,65 @@
+BUSINESS
+
+We believe that the following four technical platforms are critically important to the R&D
+
+of protein drugs:
+
+1.
+
+2.
+
+3.
+
+4.
+
+Automated high-efficiency screening platform for antibody selection and functional
+assays, which enables us to obtain the specific and high-affinity targeted monoclonal
+antibodies recognizing multiple genera (human, monkey, mouse) antigens with
+desired physiochemical properties. This platform greatly broadens the initial range
+of clinical drug candidate screening, helps us find the optimal candidates, and
+provides us with a basis for our R&D of innovative monoclonal antibodies and
+functional screening in vitro and in vivo.
+
+identify
+
+functionally
+
+important
+
+systemically
+
+Human transmembrane receptor protein array and high-throughput screening
+platform encompasses close to 5,000 human cell membrane proteins. We utilize this
+system to
+protein-to-protein
+interactions on cell surface and examine antibody binding on the cell surface. We
+utilize the Operetta High-Content Imaging System from Perkin Elmer, Inc., which
+yields a high signal-to-noise ratio and allows us to perform high-throughput
+screening using 384-or 1536-well microplate. High expression of individual protein
+on cell surface by transient
+transfection also greatly increases the avidity of
+ligand-receptor interactions. Combining increased avidity and a highly-sensitive
+detection system, our transmembrane receptor array system enables us to identify
+even weak receptor-ligand interactions. We utilize the membrane receptor protein
+array high throughput screening platform to continuously expand the monoclonal
+antibody product line for cell surface receptors and soluble proteins.
+
+High-yielding stable expression cell lines screening and establishment platform
+based on the internationally leading GS Expression System from Lonza, which
+enables us to complete the establishment of high expression cell
+lines with
+significantly faster speed and higher yielding than using the traditional DHFR
+technology.
+
+Antibody quality research, control and assurance platform covering the quality
+assurance regarding suppliers, inputs, process, outputs and customers, including our
+PAT system comprised of GMP quality control management, cell culture, separation
+and purification of biopharmaceutics and lyophilization and packaging of biologics
+to ensure our compliance with GMP standards, so that our drugs could meet the
+clinical use and marketing approval
+requirements of various drug regulatory
+authorities in the world such as the NMPA, FDA and EMA.
+
+– 223 –
+
+

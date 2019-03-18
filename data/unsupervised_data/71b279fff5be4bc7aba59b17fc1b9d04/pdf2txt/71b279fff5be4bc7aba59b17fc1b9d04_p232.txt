@@ -1,0 +1,63 @@
+BUSINESS
+
+least
+
+two patients
+
+Grade 3 or 4 non-immune AEs assessed by the investigator to be related to the treatment regimen
+and reported in more than one patient
+included anemia (12%), nausea (4%) and fatigue (4%).
+Immune-related AEs of any grade regardless of causality occurred in 23 patients (47%); those reported
+in at
+included elevated alanine aminotransferase, or ALT, elevated AST,
+hypothyroidism, auto-immune hepatitis / hepatitis, diarrhea, elevated gamma-glutamyl transferase, or
+GGT, hyperthyroidism and pruritus. Grade 3 and 4 liver-related AEs regardless of causality were
+reported in nine patients, including five patients with hepatitis and four patients with ALT, AST and/or
+GGT elevations. Together, liver-related AEs of any grade regardless of causality were observed in 13
+patients; all events were manageable and reversible with corticosteroid treatment. The trial protocol
+was amended to increase real-time hepatic safety monitoring consistent with new European Society for
+Medical Oncology, or ESMO, guidance for immune-related treatment-emergent AEs. Certain IRAEs
+may be associated with checkpoint inhibition and the combination of checkpoint inhibitors with other
+drugs.
+
+At the data cutoff of July 31, 2017, 49 patients were evaluable for efficacy. Best responses
+included two confirmed CRs, five confirmed PRs, and seven unconfirmed PRs. The clinical benefit
+rate including CRs, PRs and durable SDs with at least 24 weeks was 31%. With longer follow-up, as
+of January 4, 2018, among the 49 evaluable patients, best responses included two confirmed CRs,
+eight confirmed PRs, and four unconfirmed PRs. The clinical benefit rate was 39%. As of the July 31,
+2017 cutoff, 11 patients remained on treatment, the median duration of response was 168.5 days
+(range: 64-508 days), and duration of treatment was over 200 days in 10 patients.
+
+The trial is currently planned to further evaluate the combination’s activity in expansion cohorts
+lung, gastric or
+
+triple-negative breast, castration-resistant prostate,
+
+of patients with ovarian,
+gastro-esophageal junction, urothelial and pancreatic cancers.
+
+Clinical Development Plan
+
+We are running a broad development program with Celgene including global pivotal trials in
+Asia-prevalent cancers, such as NSCLC, EC and HCC, which are intended to support regulatory
+submissions globally and in China. We have initiated Phase 3 trials to evaluate tislelizumab as a
+potential second- or third-line treatment compared to docetaxel in patients with NSCLC; as a potential
+first
+line treatment compared to sorafenib in patients with HCC; and as a potential second-line
+treatment compared to investigator-chosen chemotherapy in patients with ESCC. We have also
+recently initiated a global Phase 2 trial in patients with previously treated advanced HCC, as well as
+a global Phase 2 trial in patients with relapsed or refractory mature T- and NK-cell lymphomas, with
+the first patient in both trials dosed in April 2018. We and Celgene expect to commence additional
+pivotal trials in 2018 and 2019, such as a pivotal trial in gastric cancer.
+
+We have three additional China pivotal trials ongoing, including two Phase 2 trials in patients
+with R/R cHL and in patients with PD-L1 positive urothelial cancer and a Phase 3 trial in combination
+with chemotherapy in patients with non-squamous NSCLC. We expect to file for regulatory approvals
+in China for tislelizumab in these indications based on the results of these Phase 2 trials. If we receive
+conditional approval instead of full approval, we will be required to conduct one or more confirmatory
+studies after such conditional approvals. We received preliminary topline results from the independent
+review of the Phase 2 pivotal trial in Chinese patients with R/R cHL. The overall response rate was
+
+— 226 —
+
+

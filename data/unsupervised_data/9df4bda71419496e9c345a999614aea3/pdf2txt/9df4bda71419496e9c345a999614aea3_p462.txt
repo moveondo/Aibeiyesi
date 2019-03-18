@@ -1,0 +1,71 @@
+APPENDIX I
+
+ACCOUNTANTS’ REPORT
+
+(ii)
+
+Interest rate risk
+
+The Group is exposed to fair value interest rate risk in related to fixed-rate borrowings (Note 26),
+convertible loan notes (Note 27) and debt instrument classified as FVTOCI. The Group interest rate risk is
+mainly concentrated in the fluctuation of interest rates on convertible loan notes.
+
+The Group and the Company are exposed to cash flow interest rate risk in relation to variable-rate
+pledged bank deposits (Note 24) and bank balances (Note 24). The Group and the Company cash flow interest
+rate risk is mainly concentrated on the fluctuation of interest rates on bank balances and pledged bank deposits.
+The Group and the Company currently do not have interest rate risk hedging policy. However, the directors
+of the Company closely monitor the exposure to future cash flow interest rate risk as a result of change on
+market interest rate and will consider hedging changes in market interest rates should the need arise.
+
+Sensitivity analysis
+
+The sensitivity analyzes below have been determined based on the exposure to discount rate for
+convertible loan notes at the end of the reporting period. A 50 basis point increase or decrease in interest rate
+of convertible loan notes is used which represents management’s assessment of the reasonably possible change
+in discount rate. The directors of the Company consider that the exposure of cash flow interest rate risk arising
+from variable-rate pledged bank deposits and bank balances is insignificant, therefore no sensitivity analysis
+on such risk has been prepared.
+
+If the discount rate had been 50 basis points higher/lower as at June 30, 2018 and all other variables
+were held constant, the Group’s loss for the six months ended June 30, 2018 would decrease by RMB1,715,000
+or increase by RMB4,795,000.
+
+(iii) Other price risk
+
+The Group is exposed to price risk through its debt instrument classified as FVTOCI, unlisted equity
+investment including in other financial assets and convertible loan notes as disclosed in Note 23 and Note 27
+to the Historical Financial Information. The management of the Group monitors the price risk and will consider
+hedging the risk exposure should the need arises.
+
+Sensitivity analysis
+
+The sensitivity analyses below have been determined based on the exposure to equity price risk at June
+30, 2018 for its convertible loan notes. The directors of the Company consider that the exposure to market price
+risk arising from debt instrument measured at FVTOCI and other financial assets is insignificant. Therefore
+no sensitivity analysis on such risk has been prepared.
+
+If the equity price of the Company had been changed based on the 5% higher/lower:
+
+(cid:129)
+
+the post-tax loss of the Group for the six months ended June 30, 2018 would increase by
+RMB7,051,000 or decrease by RMB3,543,000, as a result of the changes in fair value of the
+Company’s equity price.
+
+Credit risk
+
+Credit risk refers to the risk that a counterparty will default on its contractual obligations resulting in
+financial loss to the Group. Management uses publicly available financial information and the Group’s own
+historical repayment records to rate other debtors.
+
+The Group determines the ECL on these items based on the financial quality of debtors and historical
+credit loss experience based on the past due status of the debtors, adjusted as appropriate to reflect current
+conditions and estimates of future economic conditions.
+
+The credit risk on liquid funds and its debt instrument classified as at FVTOCI of the Group is limited
+because the counterparties are banks, asset management companies and securities companies and listed
+company with high credit ratings assigned by international credit-rating agencies.
+
+– I-69 –
+
+

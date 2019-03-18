@@ -1,0 +1,76 @@
+APPENDIX I
+
+Revenue recognition
+
+ACCOUNTANTS’ REPORT
+
+Revenue is measured based on the consideration specified in a contract with a customer and excludes amounts
+collected on behalf of third parties. The Group recognises revenue when it transfers control of a product or service
+to a customer.
+
+The Group recognises revenue from the following major sources:
+
+(a)
+
+License fee income
+
+The Group provides license of its patented intellectual property (“IP”) or commercialisation license to
+customers and revenue is recognised when the customers obtain rights to use the underlying IP or license. The
+consideration for licence comprises a fixed element (the upfront payment) and variable elements (including but
+not limited to development milestones and royalties). The upfront fee is recognised as revenue when customers
+have ability to use the underlying IP of the licence. Development milestones is recognised as revenue when
+the Group can conclude that it is highly probable that there will not be a subsequent reversal of a significant
+amount of revenue. Sales based royalties are not included in the transaction price until customers makes sales.
+
+A promised amount of consideration is adjusted for the effects of the time value of money if the timing
+of payments agreed by the parties of the contract provides the customer or the entity with a significant benefit
+of financing the transfer of services to the customers.
+
+(b)
+
+Research and development service fee income
+
+The Group primarily earns revenues by providing research services to its customers through
+fee-for-service contracts. Contract duration ranges from a few months to years. Upfront payments received by
+the Group is initially recognised as a contract liability. Services revenue are recognised as a performance
+obligation satisfied over time as the Group’s performance creates or enhances an asset that the customer
+controls as the asset is created or enhanced. The Group using cost incurred to date as an input method to
+measure progress towards complete satisfaction of these performance obligations under IFRS 15. Payment for
+services is not due from the customer until the development are completed and therefore a contract asset is
+recognised over the period in which the services are performed.
+
+Leasing
+
+Leases are classified as finance leases whenever the terms of the lease transfer substantially all the risks and
+
+rewards of ownership to the lessee. All other leases are classified as operating leases.
+
+The Group as lessee
+
+Operating lease payments, including the cost of acquiring land held under operating leases, are recognised as
+
+an expenses on a straight-line basis over the lease term.
+
+Foreign currencies
+
+In preparing the financial statements of each individual group entity, transactions in currencies other than the
+functional currency of that entity (foreign currencies) are recognised at the rates of exchanges prevailing at the dates
+of the transactions. At the end of the reporting period, monetary items denominated in foreign currencies are
+retranslated at the rates prevailing at that date. Non-monetary items that are measured in terms of historical cost in
+a foreign currency are not retranslated.
+
+Exchange differences arising on the settlement of monetary items, and on the retranslation of monetary items,
+
+are recognised in profit or loss in the period in which they arise.
+
+Borrowing costs
+
+Borrowing costs directly attributable to the acquisition, construction or production of qualifying assets, which
+are assets that necessarily take a substantial period of time to get ready for their intended use or sale, are added to
+the cost of those assets until such time as the assets are substantially ready for their intended use or sale.
+
+Borrowing costs are recognised in profit or loss for the period in which they are incurred.
+
+– I-15 –
+
+

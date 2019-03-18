@@ -1,0 +1,1201 @@
+{
+    "root": true,
+    "children": [
+        {
+            "left": 110,
+            "top": 783,
+            "text": "1、周期规律：房地产小周期呈现诸多反常，产业链对GDP贡献发生变化，但稳经济下政策判断也异中有同",
+            "pageid": 1,
+            "font-size": 31,
+            "font-id": "f4",
+            "data-offset-start": 153,
+            "data-offset-end": 202,
+            "color": "rgba(3,58,123,1)",
+            "level": "Level_5"
+        },
+        {
+            "left": 110,
+            "top": 1094,
+            "text": "2、领先指标：销量和GDP信号领先股价底和政策底1-2Q，18M9已同时出现，预判目前板块已在底部区域",
+            "pageid": 1,
+            "font-size": 31,
+            "font-id": "f4",
+            "data-offset-start": 639,
+            "data-offset-end": 693,
+            "color": "rgba(3,58,123,1)",
+            "level": "Level_5"
+        },
+        {
+            "left": 110,
+            "top": 1402,
+            "text": "3、政策推演：预计19Q2前中央层面楼市政策放松，包括供需两端同松、更灵活因城施策、支持刚改需求等",
+            "pageid": 1,
+            "font-size": 31,
+            "font-id": "f4",
+            "data-offset-start": 1155,
+            "data-offset-end": 1205,
+            "color": "rgba(3,58,123,1)",
+            "level": "Level_5"
+        },
+        {
+            "left": 110,
+            "top": 1720,
+            "text": "4、收益分析：基本面底部，政策驱动估值提升、主导股价上涨，销量与业绩区间错位致业绩不弱、锦上添花",
+            "pageid": 1,
+            "font-size": 31,
+            "font-id": "f4",
+            "data-offset-start": 1647,
+            "data-offset-end": 1700,
+            "color": "rgba(3,58,123,1)",
+            "level": "Level_5"
+        },
+        {
+            "left": 110,
+            "top": 2031,
+            "text": "5、投资建议：周期轮回，踏雪寻梅，维持行业推荐、并重申看多龙头",
+            "pageid": 1,
+            "font-size": 31,
+            "font-id": "f4",
+            "data-offset-start": 2182,
+            "data-offset-end": 2217,
+            "color": "rgba(3,58,123,1)",
+            "level": "Level_5"
+        },
+        {
+            "left": 110,
+            "top": 2324,
+            "text": "6、风险提示：房地产市场下行风险、房地产政策继续超预期收紧。",
+            "pageid": 1,
+            "font-size": 31,
+            "font-id": "f4",
+            "data-offset-start": 2640,
+            "data-offset-end": 2674,
+            "color": "rgba(3,58,123,1)",
+            "level": "Level_5"
+        },
+        {
+            "left": 110,
+            "top": 445,
+            "level": "Level_0",
+            "text": "一、小周期回顾：过往行业遵循3年小周期规律，但本轮小周期呈现较多反常现象...............................................7",
+            "pageid": 2,
+            "font-size": 31,
+            "font-id": "f2",
+            "data-offset-start": 192,
+            "children": [
+                {
+                    "left": 173,
+                    "top": 506,
+                    "level": "Level_1",
+                    "text": "（一）小周期基本面规律：过往行业遵循3年小周期规律，但本轮则呈现为周期延长、波动缩窄...................7",
+                    "pageid": 2,
+                    "font-size": 31,
+                    "font-id": "f2",
+                    "data-offset-start": 279,
+                    "data-offset-end": 342,
+                    "color": "rgba(3,58,123,1)",
+                    "children": [
+                        {
+                            "left": 204,
+                            "top": 567,
+                            "text": "1、过往小周期中，我国房地产行业各项基本面指标均呈现3年小周期规律.................................................7",
+                            "pageid": 2,
+                            "font-size": 31,
+                            "font-id": "f1",
+                            "data-offset-start": 344,
+                            "data-offset-end": 428,
+                            "color": "rgba(3,58,123,1)",
+                            "level": "Level_5"
+                        },
+                        {
+                            "left": 204,
+                            "top": 628,
+                            "text": "2、本轮小周期中，房地产各项基本面指标均呈现周期延长、波动缩窄的特性...........................................11",
+                            "pageid": 2,
+                            "font-size": 31,
+                            "font-id": "f1",
+                            "data-offset-start": 430,
+                            "data-offset-end": 510,
+                            "color": "rgba(3,58,123,1)",
+                            "level": "Level_5"
+                        }
+                    ]
+                },
+                {
+                    "left": 173,
+                    "top": 686,
+                    "level": "Level_1",
+                    "text": "（二）小周期政策面规律：过往政策遵循固有小周期规律，但本轮政策周期呈现较多反常现象....................12",
+                    "pageid": 2,
+                    "font-size": 31,
+                    "font-id": "f2",
+                    "data-offset-start": 512,
+                    "data-offset-end": 576,
+                    "color": "rgba(3,58,123,1)",
+                    "children": [
+                        {
+                            "left": 204,
+                            "top": 749,
+                            "text": "1、过往政策呈现3年小周期规律，中央与地方、宏观与行业同步性较强，政策调控偏需求端...................12",
+                            "pageid": 2,
+                            "font-size": 31,
+                            "font-id": "f1",
+                            "data-offset-start": 578,
+                            "data-offset-end": 642,
+                            "color": "rgba(3,58,123,1)",
+                            "level": "Level_5"
+                        },
+                        {
+                            "left": 204,
+                            "top": 810,
+                            "text": "2、本轮政策周期有所延长，宏观与行业政策不同步，各城市间因城施策，政策需兼顾供需两端...............13",
+                            "pageid": 2,
+                            "font-size": 31,
+                            "font-id": "f1",
+                            "data-offset-start": 644,
+                            "data-offset-end": 703,
+                            "color": "rgba(3,58,123,1)",
+                            "level": "Level_5"
+                        }
+                    ]
+                }
+            ],
+            "color": "rgba(3,58,123,1)",
+            "data-offset-end": 277
+        },
+        {
+            "left": 110,
+            "top": 871,
+            "level": "Level_0",
+            "text": "二、过往小周期复盘：梳理历次房地产行业政策调控与销量、房价、投资的关系................................................14",
+            "pageid": 2,
+            "font-size": 31,
+            "font-id": "f2",
+            "data-offset-start": 705,
+            "children": [
+                {
+                    "left": 173,
+                    "top": 932,
+                    "level": "Level_1",
+                    "text": "（一）2005-2008年小周期：销量增速于08年1月转负、11月见底，政策于08年10月全面转松................14",
+                    "pageid": 2,
+                    "font-size": 31,
+                    "font-id": "f2",
+                    "data-offset-start": 793,
+                    "data-offset-end": 870,
+                    "color": "rgba(3,58,123,1)",
+                    "children": [
+                        {
+                            "left": 204,
+                            "top": 993,
+                            "text": "1、基本面回顾：08年1月销量增速转负，08年11月销量增速见底，经历11个月..................................15",
+                            "pageid": 2,
+                            "font-size": 31,
+                            "font-id": "f1",
+                            "data-offset-start": 872,
+                            "data-offset-end": 956,
+                            "color": "rgba(3,58,123,1)",
+                            "level": "Level_5"
+                        },
+                        {
+                            "left": 204,
+                            "top": 1053,
+                            "text": "2、政策面回顾：08年10月四万亿并降准降息、12月“国三条”标志调控政策全面转向..........................15",
+                            "pageid": 2,
+                            "font-size": 31,
+                            "font-id": "f1",
+                            "data-offset-start": 958,
+                            "data-offset-end": 1031,
+                            "color": "rgba(3,58,123,1)",
+                            "level": "Level_5"
+                        }
+                    ]
+                },
+                {
+                    "left": 173,
+                    "top": 1236,
+                    "level": "Level_1",
+                    "text": "（二）2009-2011年小周期：销量增速于11年10月转负、12年1月见底，政策于12年6月全面转松.........17",
+                    "pageid": 2,
+                    "font-size": 31,
+                    "font-id": "f2",
+                    "data-offset-start": 1165,
+                    "data-offset-end": 1239,
+                    "color": "rgba(3,58,123,1)",
+                    "children": [
+                        {
+                            "left": 204,
+                            "top": 1297,
+                            "text": "1、基本面回顾：11年10月销量增速转负，12年1月销量增速见底，经历4个月....................................18",
+                            "pageid": 2,
+                            "font-size": 31,
+                            "font-id": "f1",
+                            "data-offset-start": 1241,
+                            "data-offset-end": 1326,
+                            "color": "rgba(3,58,123,1)",
+                            "level": "Level_5"
+                        },
+                        {
+                            "left": 204,
+                            "top": 1357,
+                            "text": "2、政策面回顾：11年12月住建部表示支持刚需并降准、12年6月央行降息，调控政策转松...................18",
+                            "pageid": 2,
+                            "font-size": 31,
+                            "font-id": "f1",
+                            "data-offset-start": 1328,
+                            "data-offset-end": 1398,
+                            "color": "rgba(3,58,123,1)",
+                            "level": "Level_5"
+                        }
+                    ]
+                },
+                {
+                    "left": 173,
+                    "top": 1540,
+                    "level": "Level_1",
+                    "text": "（三）2012-2014年小周期：销量增速于14年1月转负、15年1月见底，政策于14年9月全面转松..........21",
+                    "pageid": 2,
+                    "font-size": 31,
+                    "font-id": "f2",
+                    "data-offset-start": 1534,
+                    "data-offset-end": 1609,
+                    "color": "rgba(3,58,123,1)",
+                    "children": [
+                        {
+                            "left": 204,
+                            "top": 1601,
+                            "text": "1、2012-2014年小周期：14年1月销量增速转负，15年1月销量增速见底，经历13个月........................21",
+                            "pageid": 2,
+                            "font-size": 31,
+                            "font-id": "f1",
+                            "data-offset-start": 1611,
+                            "data-offset-end": 1692,
+                            "color": "rgba(3,58,123,1)",
+                            "level": "Level_5"
+                        },
+                        {
+                            "left": 204,
+                            "top": 1661,
+                            "text": "2、政策面回顾：14年5月央行提出支持首套房贷、14年930新政、14年11月降息，调控政策转松.......22",
+                            "pageid": 2,
+                            "font-size": 31,
+                            "font-id": "f1",
+                            "data-offset-start": 1694,
+                            "data-offset-end": 1761,
+                            "color": "rgba(3,58,123,1)",
+                            "level": "Level_5"
+                        }
+                    ]
+                },
+                {
+                    "left": 173,
+                    "top": 1844,
+                    "level": "Level_1",
+                    "text": "（四）2015年至今小周期：销量增速于18年9月转负、目前仍未见底，政策地方略有松动、中央仍未转向24",
+                    "pageid": 2,
+                    "font-size": 31,
+                    "font-id": "f2",
+                    "data-offset-start": 1909,
+                    "data-offset-end": 1965,
+                    "color": "rgba(3,58,123,1)",
+                    "children": [
+                        {
+                            "left": 204,
+                            "top": 1905,
+                            "text": "1、基本面展望：18年9月销量增速转负、目前仍未见底，预计19Q2开工、投资增速将大幅下行...........24",
+                            "pageid": 2,
+                            "font-size": 31,
+                            "font-id": "f1",
+                            "data-offset-start": 1967,
+                            "data-offset-end": 2031,
+                            "color": "rgba(3,58,123,1)",
+                            "level": "Level_5"
+                        },
+                        {
+                            "left": 204,
+                            "top": 1965,
+                            "text": "2、政策面展望：18年12月政治局再次强调稳定、未提房地产，地方政策略有松动，政策环境逐步改善..25",
+                            "pageid": 2,
+                            "font-size": 31,
+                            "font-id": "f1",
+                            "data-offset-start": 2033,
+                            "data-offset-end": 2087,
+                            "color": "rgba(3,58,123,1)",
+                            "level": "Level_5"
+                        }
+                    ]
+                }
+            ],
+            "color": "rgba(3,58,123,1)",
+            "data-offset-end": 791
+        },
+        {
+            "left": 110,
+            "top": 2026,
+            "level": "Level_0",
+            "text": "三、探寻领先指标：销量增速转负、GDP连续2Q低于24M移动平均为政策放松领先信号................................34",
+            "pageid": 2,
+            "font-size": 31,
+            "font-id": "f2",
+            "data-offset-start": 2089,
+            "children": [
+                {
+                    "left": 173,
+                    "top": 2085,
+                    "text": "（一）行业指标：销量增速转负、开工增速转负与投资增速大幅下行为先行指标，股价见底逐渐领先政策...34",
+                    "pageid": 2,
+                    "font-size": 31,
+                    "font-id": "f2",
+                    "data-offset-start": 2172,
+                    "data-offset-end": 2223,
+                    "color": "rgba(3,58,123,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 173,
+                    "top": 2148,
+                    "text": "（二）宏观指标：GDP连续2Q低于24M移动平均为政策放松领先信号，18年9月已出现........................36",
+                    "pageid": 2,
+                    "font-size": 31,
+                    "font-id": "f2",
+                    "data-offset-start": 2225,
+                    "data-offset-end": 2302,
+                    "color": "rgba(3,58,123,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 173,
+                    "top": 2206,
+                    "text": "（三）政策规律：每轮小周期末期，地方调控政策松动先频出、中央总量政策宽松略滞后...........................42",
+                    "pageid": 2,
+                    "font-size": 31,
+                    "font-id": "f2",
+                    "data-offset-start": 2304,
+                    "data-offset-end": 2373,
+                    "color": "rgba(3,58,123,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 173,
+                    "top": 2267,
+                    "level": "Level_1",
+                    "text": "（四）股价规律：万科、保利股价反转领先于行业，集中度提升或导致下一轮反转龙头仍抢先....................44",
+                    "pageid": 2,
+                    "font-size": 31,
+                    "font-id": "f2",
+                    "data-offset-start": 2375,
+                    "data-offset-end": 2439,
+                    "color": "rgba(3,58,123,1)",
+                    "children": [
+                        {
+                            "left": 204,
+                            "top": 292,
+                            "text": "1、万科、保利股价反转领先于行业，集中度提升或导致下一轮反转龙头仍抢先........................................44",
+                            "pageid": 3,
+                            "font-size": 31,
+                            "font-id": "f1",
+                            "data-offset-start": 18,
+                            "data-offset-end": 95,
+                            "color": "rgba(3,58,123,1)",
+                            "level": "Level_5"
+                        },
+                        {
+                            "left": 204,
+                            "top": 353,
+                            "text": "2、按揭利率与股价强相关、本轮按揭利率下行预计50-120bp、股价上行空间或小于11年水平................46",
+                            "pageid": 3,
+                            "font-size": 31,
+                            "font-id": "f1",
+                            "data-offset-start": 97,
+                            "data-offset-end": 165,
+                            "color": "rgba(3,58,123,1)",
+                            "level": "Level_5"
+                        }
+                    ]
+                }
+            ],
+            "color": "rgba(3,58,123,1)",
+            "data-offset-end": 2170
+        },
+        {
+            "left": 110,
+            "top": 414,
+            "level": "Level_0",
+            "text": "四、收益复盘及分析：先行信号出现、基本面拐点已近，板块相对优势、绝对优势凸显......................................47",
+            "pageid": 3,
+            "font-size": 31,
+            "font-id": "f2",
+            "data-offset-start": 167,
+            "children": [
+                {
+                    "left": 173,
+                    "top": 475,
+                    "text": "（一）行业指数历史走势回顾：按月度来看，12个区间板块同时具有绝对收益和相对收益..........................47",
+                    "pageid": 3,
+                    "font-size": 31,
+                    "font-id": "f2",
+                    "data-offset-start": 247,
+                    "data-offset-end": 317,
+                    "color": "rgba(3,58,123,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 173,
+                    "top": 533,
+                    "text": "（二）按季度来看，行业基本面和政策面转向前后，板块具有一定相对优势和绝对优势...............................50",
+                    "pageid": 3,
+                    "font-size": 31,
+                    "font-id": "f2",
+                    "data-offset-start": 319,
+                    "data-offset-end": 390,
+                    "color": "rgba(3,58,123,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 173,
+                    "top": 596,
+                    "text": "（三）按信号来看，销量增速转负、GDP信号出现后房地产板块具有相对和绝对收益.................................51",
+                    "pageid": 3,
+                    "font-size": 31,
+                    "font-id": "f2",
+                    "data-offset-start": 392,
+                    "data-offset-end": 467,
+                    "color": "rgba(3,58,123,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 173,
+                    "top": 657,
+                    "level": "Level_1",
+                    "text": "（四）拐点后表现：基本面见底于政策放松预期、量价回升预示后续业绩高增、拐点后相对&amp;绝对优势突出52",
+                    "pageid": 3,
+                    "font-size": 31,
+                    "font-id": "f2",
+                    "data-offset-start": 469,
+                    "data-offset-end": 522,
+                    "color": "rgba(3,58,123,1)",
+                    "children": [
+                        {
+                            "left": 204,
+                            "top": 718,
+                            "text": "1、2006.2-2007.10，持续时间20个月，累计绝对收益为593%，累计相对收益为181%............................53",
+                            "pageid": 3,
+                            "font-size": 31,
+                            "font-id": "f1",
+                            "data-offset-start": 524,
+                            "data-offset-end": 608,
+                            "color": "rgba(3,58,123,1)",
+                            "level": "Level_5"
+                        },
+                        {
+                            "left": 204,
+                            "top": 779,
+                            "text": "2、2008.12-2009.11，持续时间11个月，累计绝对收益为137%，累计相对收益为37%............................54",
+                            "pageid": 3,
+                            "font-size": 31,
+                            "font-id": "f1",
+                            "data-offset-start": 610,
+                            "data-offset-end": 694,
+                            "color": "rgba(3,58,123,1)",
+                            "level": "Level_5"
+                        },
+                        {
+                            "left": 204,
+                            "top": 839,
+                            "text": "3、2012.2-2013.2，持续时间12个月，累计绝对收益为15%，累计相对收益为15%.................................56",
+                            "pageid": 3,
+                            "font-size": 31,
+                            "font-id": "f1",
+                            "data-offset-start": 696,
+                            "data-offset-end": 782,
+                            "color": "rgba(3,58,123,1)",
+                            "level": "Level_5"
+                        },
+                        {
+                            "left": 204,
+                            "top": 900,
+                            "text": "4、2015.2-2016.4，持续时间14个月，累计绝对收益为13%，累计相对收益为10%.................................57",
+                            "pageid": 3,
+                            "font-size": 31,
+                            "font-id": "f1",
+                            "data-offset-start": 784,
+                            "data-offset-end": 870,
+                            "color": "rgba(3,58,123,1)",
+                            "level": "Level_5"
+                        }
+                    ]
+                }
+            ],
+            "color": "rgba(3,58,123,1)",
+            "data-offset-end": 245
+        },
+        {
+            "left": 110,
+            "top": 961,
+            "level": "Level_0",
+            "text": "五、本轮周期的推演：低库存、上下游错位、地方财政走弱，供需两端需同时放松，板块底部区域....................59",
+            "pageid": 3,
+            "font-size": 31,
+            "font-id": "f2",
+            "data-offset-start": 872,
+            "children": [
+                {
+                    "left": 173,
+                    "top": 1020,
+                    "level": "Level_1",
+                    "text": "（一）本轮周期反常之处：库存持续低位、上下游错位、地方财政收入走弱................................................59",
+                    "pageid": 3,
+                    "font-size": 31,
+                    "font-id": "f2",
+                    "data-offset-start": 939,
+                    "data-offset-end": 1023,
+                    "color": "rgba(3,58,123,1)",
+                    "children": [
+                        {
+                            "left": 204,
+                            "top": 1083,
+                            "text": "1、反常之处1：低库存之下，导致行业价格下行空间有限、但同时需求政策放松也会受限.......................59",
+                            "pageid": 3,
+                            "font-size": 31,
+                            "font-id": "f1",
+                            "data-offset-start": 1025,
+                            "data-offset-end": 1091,
+                            "color": "rgba(3,58,123,1)",
+                            "level": "Level_5"
+                        },
+                        {
+                            "left": 204,
+                            "top": 1143,
+                            "text": "2、反常之处2：房地产与上下游之间错位，导致房地产稳定对于上下游经济较以往更为重要...................61",
+                            "pageid": 3,
+                            "font-size": 31,
+                            "font-id": "f1",
+                            "data-offset-start": 1093,
+                            "data-offset-end": 1157,
+                            "color": "rgba(3,58,123,1)",
+                            "level": "Level_5"
+                        },
+                        {
+                            "left": 204,
+                            "top": 1204,
+                            "text": "3、反常之处3：全国地方财政收入走低，土地市场继续走弱，19年经济下行压力或将更大......................65",
+                            "pageid": 3,
+                            "font-size": 31,
+                            "font-id": "f1",
+                            "data-offset-start": 1159,
+                            "data-offset-end": 1227,
+                            "color": "rgba(3,58,123,1)",
+                            "level": "Level_5"
+                        }
+                    ]
+                },
+                {
+                    "left": 173,
+                    "top": 1263,
+                    "text": "（二）对于本轮政策判断：低库存下供应和需求两端需同时放松、预计一二线宽松、三四线保持平稳..........68",
+                    "pageid": 3,
+                    "font-size": 31,
+                    "font-id": "f2",
+                    "data-offset-start": 1229,
+                    "data-offset-end": 1285,
+                    "color": "rgba(3,58,123,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 173,
+                    "top": 1324,
+                    "text": "（三）对于本轮指数判断：预计板块底部已近、保利万科股价已处于底部、基本面下行有限或平滑市场底...70",
+                    "pageid": 3,
+                    "font-size": 31,
+                    "font-id": "f2",
+                    "data-offset-start": 1287,
+                    "data-offset-end": 1338,
+                    "color": "rgba(3,58,123,1)",
+                    "level": "Level_1"
+                }
+            ],
+            "color": "rgba(3,58,123,1)",
+            "data-offset-end": 937
+        },
+        {
+            "left": 110,
+            "top": 1387,
+            "text": "六、投资建议：周期轮回、踏雪寻梅，维持行业推荐、并重申看多龙头..............................................................72",
+            "pageid": 3,
+            "font-size": 31,
+            "font-id": "f2",
+            "data-offset-start": 1340,
+            "data-offset-end": 1436,
+            "color": "rgba(3,58,123,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 110,
+            "top": 1448,
+            "text": "七、风险提示：房地产市场下行风险、房地产政策继续超预期收紧.....................................................................72",
+            "pageid": 3,
+            "font-size": 31,
+            "font-id": "f2",
+            "data-offset-start": 1438,
+            "data-offset-end": 1539,
+            "color": "rgba(3,58,123,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 110,
+            "top": 1227,
+            "level": "Level_0",
+            "text": "一、小周期回顾：过往行业遵循3年小周期规律，但本轮小周期呈现较多反常现象",
+            "pageid": 7,
+            "font-size": 36,
+            "font-id": "f2",
+            "data-offset-start": 769,
+            "children": [
+                {
+                    "left": 110,
+                    "top": 1324,
+                    "level": "Level_1",
+                    "text": "（一）小周期基本面规律：过往行业遵循3年小周期规律，但本轮则呈现为周期延长、波动缩窄",
+                    "pageid": 7,
+                    "font-size": 31,
+                    "font-id": "f2",
+                    "data-offset-start": 808,
+                    "data-offset-end": 851,
+                    "color": "rgba(3,58,123,1)",
+                    "children": [
+                        {
+                            "left": 110,
+                            "top": 1416,
+                            "text": "1、过往小周期中，我国房地产行业各项基本面指标均呈现3年小周期规律",
+                            "pageid": 7,
+                            "font-size": 31,
+                            "font-id": "f1",
+                            "data-offset-start": 853,
+                            "data-offset-end": 887,
+                            "color": "rgba(3,58,123,1)",
+                            "level": "Level_5"
+                        }
+                    ]
+                },
+                {
+                    "left": 110,
+                    "top": 637,
+                    "level": "Level_1",
+                    "text": "（二）小周期政策面规律：过往政策遵循固有小周期规律，但本轮政策周期呈现较多反常现象",
+                    "pageid": 12,
+                    "font-size": 31,
+                    "font-id": "f2",
+                    "data-offset-start": 199,
+                    "data-offset-end": 244,
+                    "color": "rgba(3,58,123,1)",
+                    "children": [
+                        {
+                            "left": 110,
+                            "top": 731,
+                            "text": "1、过往政策呈现3年小周期规律，中央与地方、宏观与行业同步性较强，政策调控偏需求端",
+                            "pageid": 12,
+                            "font-size": 31,
+                            "font-id": "f1",
+                            "data-offset-start": 246,
+                            "data-offset-end": 288,
+                            "color": "rgba(3,58,123,1)",
+                            "level": "Level_5"
+                        },
+                        {
+                            "left": 110,
+                            "top": 1517,
+                            "text": "2、本轮政策周期有所延长，宏观与行业政策不同步，各城市间因城施策，政策需兼顾供需两端",
+                            "pageid": 13,
+                            "font-size": 31,
+                            "font-id": "f1",
+                            "data-offset-start": 354,
+                            "data-offset-end": 400,
+                            "color": "rgba(3,58,123,1)",
+                            "level": "Level_5"
+                        }
+                    ]
+                }
+            ],
+            "color": "rgba(3,58,123,1)",
+            "data-offset-end": 806
+        },
+        {
+            "left": 110,
+            "top": 2076,
+            "level": "Level_0",
+            "text": "二、过往小周期复盘：梳理历次房地产行业政策调控与销量、房价、投资的关系",
+            "pageid": 14,
+            "font-size": 36,
+            "font-id": "f2",
+            "data-offset-start": 753,
+            "children": [
+                {
+                    "left": 110,
+                    "top": 2173,
+                    "level": "Level_1",
+                    "text": "（一）2005-2008年小周期：销量增速于08年1月转负、11月见底，政策于08年10月全面转松",
+                    "pageid": 14,
+                    "font-size": 31,
+                    "font-id": "f2",
+                    "data-offset-start": 789,
+                    "data-offset-end": 847,
+                    "color": "rgba(3,58,123,1)",
+                    "children": [
+                        {
+                            "left": 110,
+                            "top": 2152,
+                            "text": "2、政策面回顾：08年10月四万亿并降准降息、12月“国三条”标志调控政策全面转向",
+                            "pageid": 15,
+                            "font-size": 31,
+                            "font-id": "f1",
+                            "data-offset-start": 1436,
+                            "data-offset-end": 1480,
+                            "color": "rgba(3,58,123,1)",
+                            "level": "Level_5"
+                        }
+                    ]
+                },
+                {
+                    "left": 110,
+                    "top": 2110,
+                    "level": "Level_1",
+                    "text": "（二）2009-2011年小周期：销量增速于11年10月转负、12年1月见底，政策于12年6月全面转松",
+                    "pageid": 17,
+                    "font-size": 31,
+                    "font-id": "f2",
+                    "data-offset-start": 992,
+                    "data-offset-end": 1054,
+                    "color": "rgba(3,58,123,1)",
+                    "children": [
+                        {
+                            "left": 110,
+                            "top": 596,
+                            "text": "1、基本面回顾：11年10月销量增速转负，12年1月销量增速见底，经历4个月",
+                            "pageid": 18,
+                            "font-size": 31,
+                            "font-id": "f1",
+                            "data-offset-start": 208,
+                            "data-offset-end": 253,
+                            "color": "rgba(3,58,123,1)",
+                            "level": "Level_5"
+                        },
+                        {
+                            "left": 110,
+                            "top": 2105,
+                            "text": "2、政策面回顾：11年12月住建部表示支持刚需并降准、12年6月央行降息，调控政策转松",
+                            "pageid": 18,
+                            "font-size": 31,
+                            "font-id": "f1",
+                            "data-offset-start": 1336,
+                            "data-offset-end": 1384,
+                            "color": "rgba(3,58,123,1)",
+                            "level": "Level_5"
+                        }
+                    ]
+                },
+                {
+                    "left": 110,
+                    "top": 1159,
+                    "level": "Level_1",
+                    "text": "（三）2012-2014年小周期：销量增速于14年1月转负、15年1月见底，政策于14年9月全面转松",
+                    "pageid": 21,
+                    "font-size": 31,
+                    "font-id": "f2",
+                    "data-offset-start": 485,
+                    "data-offset-end": 546,
+                    "color": "rgba(3,58,123,1)",
+                    "children": [
+                        {
+                            "left": 110,
+                            "top": 1628,
+                            "text": "1、2012-2014年小周期：14年1月销量增速转负，15年1月销量增速见底，经历13个月",
+                            "pageid": 21,
+                            "font-size": 31,
+                            "font-id": "f1",
+                            "data-offset-start": 855,
+                            "data-offset-end": 909,
+                            "color": "rgba(3,58,123,1)",
+                            "level": "Level_5"
+                        },
+                        {
+                            "left": 110,
+                            "top": 1146,
+                            "text": "2、政策面回顾：14年5月央行提出支持首套房贷、14年930新政、14年11月降息，调控政策转松",
+                            "pageid": 22,
+                            "font-size": 31,
+                            "font-id": "f1",
+                            "data-offset-start": 429,
+                            "data-offset-end": 485,
+                            "color": "rgba(3,58,123,1)",
+                            "level": "Level_5"
+                        }
+                    ]
+                },
+                {
+                    "left": 110,
+                    "top": 292,
+                    "level": "Level_1",
+                    "text": "（四）2015年至今小周期：销量增速于18年9月转负、目前仍未见底，政策地方略有松动、中央仍未转向",
+                    "pageid": 24,
+                    "font-size": 31,
+                    "font-id": "f2",
+                    "data-offset-start": 18,
+                    "data-offset-end": 71,
+                    "color": "rgba(3,58,123,1)",
+                    "children": [
+                        {
+                            "left": 110,
+                            "top": 855,
+                            "text": "1、基本面展望：18年9月销量增速转负、目前仍未见底，预计19Q2开工、投资增速或将大幅下行",
+                            "pageid": 24,
+                            "font-size": 31,
+                            "font-id": "f1",
+                            "data-offset-start": 469,
+                            "data-offset-end": 519,
+                            "color": "rgba(3,58,123,1)",
+                            "level": "Level_5"
+                        },
+                        {
+                            "left": 110,
+                            "top": 292,
+                            "text": "2、政策面展望：18年12月政治局再次强调稳定、未提房地产，地方政策略有松动，政策环境逐步改善",
+                            "pageid": 25,
+                            "font-size": 31,
+                            "font-id": "f1",
+                            "data-offset-start": 18,
+                            "data-offset-end": 67,
+                            "color": "rgba(3,58,123,1)",
+                            "level": "Level_5"
+                        }
+                    ]
+                }
+            ],
+            "color": "rgba(3,58,123,1)",
+            "data-offset-end": 787
+        },
+        {
+            "left": 241,
+            "top": 1260,
+            "text": "一、二线城市再出台人才新深圳及厦门、杭州等热点城市陆续",
+            "pageid": 29,
+            "font-size": 27,
+            "font-id": "f2",
+            "data-offset-start": 403,
+            "data-offset-end": 430,
+            "color": "rgba(3,58,123,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 110,
+            "top": 1833,
+            "level": "Level_0",
+            "text": "三、探寻领先指标：销量增速转负、GDP连续2Q低于24M移动平均为政策放松领先信号",
+            "pageid": 34,
+            "font-size": 36,
+            "font-id": "f2",
+            "data-offset-start": 1320,
+            "children": [
+                {
+                    "left": 110,
+                    "top": 1929,
+                    "text": "（一）行业指标：销量增速转负、开工增速转负与投资增速大幅下行为先行指标，股价见底逐渐领先政策",
+                    "pageid": 34,
+                    "font-size": 31,
+                    "font-id": "f2",
+                    "data-offset-start": 1367,
+                    "data-offset-end": 1418,
+                    "color": "rgba(3,58,123,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 110,
+                    "top": 2177,
+                    "text": "（二）宏观指标：GDP连续2Q低于24M移动平均为政策放松领先信号，18年9月已出现",
+                    "pageid": 36,
+                    "font-size": 31,
+                    "font-id": "f2",
+                    "data-offset-start": 308,
+                    "data-offset-end": 357,
+                    "color": "rgba(3,58,123,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 110,
+                    "top": 788,
+                    "text": "（三）政策规律：每轮小周期末期，地方调控政策松动先频出、中央总量政策宽松略滞后",
+                    "pageid": 42,
+                    "font-size": 31,
+                    "font-id": "f2",
+                    "data-offset-start": 228,
+                    "data-offset-end": 271,
+                    "color": "rgba(3,58,123,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 110,
+                    "top": 1758,
+                    "level": "Level_1",
+                    "text": "（四）股价规律：万科、保利股价反转领先于行业，集中度提升或导致下一轮反转龙头仍抢先",
+                    "pageid": 44,
+                    "font-size": 31,
+                    "font-id": "f2",
+                    "data-offset-start": 903,
+                    "data-offset-end": 948,
+                    "color": "rgba(3,58,123,1)",
+                    "children": [
+                        {
+                            "left": 110,
+                            "top": 1855,
+                            "text": "1、万科、保利股价反转领先于行业，集中度提升或导致下一轮反转龙头仍抢先",
+                            "pageid": 44,
+                            "font-size": 31,
+                            "font-id": "f1",
+                            "data-offset-start": 950,
+                            "data-offset-end": 989,
+                            "color": "rgba(3,58,123,1)",
+                            "level": "Level_5"
+                        },
+                        {
+                            "left": 110,
+                            "top": 292,
+                            "text": "2、按揭利率与股价强相关、本轮按揭利率下行预计50-120bp、股价上行空间或小于11年水平",
+                            "pageid": 46,
+                            "font-size": 31,
+                            "font-id": "f1",
+                            "data-offset-start": 18,
+                            "data-offset-end": 66,
+                            "color": "rgba(3,58,123,1)",
+                            "level": "Level_5"
+                        }
+                    ]
+                }
+            ],
+            "color": "rgba(3,58,123,1)",
+            "data-offset-end": 1365
+        },
+        {
+            "left": 110,
+            "top": 1989,
+            "level": "Level_0",
+            "text": "四、收益复盘及分析：先行信号出现、基本面拐点已近，板块相对优势、绝对优势凸显",
+            "pageid": 47,
+            "font-size": 36,
+            "font-id": "f2",
+            "data-offset-start": 409,
+            "children": [
+                {
+                    "left": 110,
+                    "top": 2085,
+                    "text": "（一）行业指数历史走势回顾：按月度来看，12个区间板块同时具有绝对收益和相对收益",
+                    "pageid": 47,
+                    "font-size": 31,
+                    "font-id": "f2",
+                    "data-offset-start": 448,
+                    "data-offset-end": 488,
+                    "color": "rgba(3,58,123,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 110,
+                    "top": 1326,
+                    "text": "（二）按季度来看，行业基本面和政策面转向前后，板块具有一定相对优势和绝对优势",
+                    "pageid": 50,
+                    "font-size": 31,
+                    "font-id": "f2",
+                    "data-offset-start": 177,
+                    "data-offset-end": 219,
+                    "color": "rgba(3,58,123,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 110,
+                    "top": 1702,
+                    "text": "（三）按信号来看，销量增速转负、GDP信号出现后房地产板块具有相对和绝对收益",
+                    "pageid": 51,
+                    "font-size": 31,
+                    "font-id": "f2",
+                    "data-offset-start": 1104,
+                    "data-offset-end": 1142,
+                    "color": "rgba(3,58,123,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 110,
+                    "top": 1878,
+                    "level": "Level_1",
+                    "text": "（四）拐点后表现：基本面见底于政策放松预期、量价回升预示后续业绩高增、拐点后相对&amp;绝对优势突出",
+                    "pageid": 52,
+                    "font-size": 31,
+                    "font-id": "f2",
+                    "data-offset-start": 647,
+                    "data-offset-end": 702,
+                    "color": "rgba(3,58,123,1)",
+                    "children": [
+                        {
+                            "left": 110,
+                            "top": 1540,
+                            "text": "1、2006.2-2007.10，持续时间20个月，累计绝对收益为593%，累计相对收益为181%",
+                            "pageid": 53,
+                            "font-size": 31,
+                            "font-id": "f1",
+                            "data-offset-start": 574,
+                            "data-offset-end": 626,
+                            "color": "rgba(3,58,123,1)",
+                            "level": "Level_5"
+                        },
+                        {
+                            "left": 110,
+                            "top": 2083,
+                            "text": "2、2008.12-2009.11，持续时间11个月，累计绝对收益为137%，累计相对收益为37%",
+                            "pageid": 54,
+                            "font-size": 31,
+                            "font-id": "f1",
+                            "data-offset-start": 1141,
+                            "data-offset-end": 1193,
+                            "color": "rgba(3,58,123,1)",
+                            "level": "Level_5"
+                        },
+                        {
+                            "left": 110,
+                            "top": 294,
+                            "text": "3、2012.2-2013.2，持续时间12个月，累计绝对收益为15%，累计相对收益为15%",
+                            "pageid": 56,
+                            "font-size": 31,
+                            "font-id": "f1",
+                            "data-offset-start": 18,
+                            "data-offset-end": 67,
+                            "color": "rgba(3,58,123,1)",
+                            "level": "Level_5"
+                        },
+                        {
+                            "left": 110,
+                            "top": 1754,
+                            "text": "4、2015.2-2016.4，持续时间14个月，累计绝对收益为13%，累计相对收益为10%",
+                            "pageid": 57,
+                            "font-size": 31,
+                            "font-id": "f1",
+                            "data-offset-start": 812,
+                            "data-offset-end": 861,
+                            "color": "rgba(3,58,123,1)",
+                            "level": "Level_5"
+                        }
+                    ]
+                }
+            ],
+            "color": "rgba(3,58,123,1)",
+            "data-offset-end": 446
+        },
+        {
+            "left": 110,
+            "top": 1072,
+            "level": "Level_0",
+            "text": "五、本轮周期的推演：低库存、上下游错位、地方财政走弱，供需两端需同时放松，板块底部区域",
+            "pageid": 59,
+            "font-size": 36,
+            "font-id": "f2",
+            "data-offset-start": 287,
+            "children": [
+                {
+                    "left": 110,
+                    "top": 1166,
+                    "level": "Level_1",
+                    "text": "（一）本轮周期反常之处：库存持续低位、上下游错位、地方财政收入走弱",
+                    "pageid": 59,
+                    "font-size": 31,
+                    "font-id": "f2",
+                    "data-offset-start": 331,
+                    "data-offset-end": 368,
+                    "color": "rgba(3,58,123,1)",
+                    "children": [
+                        {
+                            "left": 110,
+                            "top": 1263,
+                            "text": "1、反常之处1：低库存之下，导致行业价格下行空间有限、但同时需求政策放松也会受限",
+                            "pageid": 59,
+                            "font-size": 31,
+                            "font-id": "f1",
+                            "data-offset-start": 370,
+                            "data-offset-end": 410,
+                            "color": "rgba(3,58,123,1)",
+                            "level": "Level_5"
+                        },
+                        {
+                            "left": 110,
+                            "top": 1261,
+                            "text": "2、反常之处2：房地产与上下游之间错位，导致房地产稳定对于上下游经济较以往更为重要",
+                            "pageid": 61,
+                            "font-size": 31,
+                            "font-id": "f1",
+                            "data-offset-start": 411,
+                            "data-offset-end": 452,
+                            "color": "rgba(3,58,123,1)",
+                            "level": "Level_5"
+                        },
+                        {
+                            "left": 110,
+                            "top": 1121,
+                            "text": "3、反常之处3：全国地方财政收入走低，土地市场继续走弱，19年经济下行压力或将更大",
+                            "pageid": 65,
+                            "font-size": 31,
+                            "font-id": "f1",
+                            "data-offset-start": 280,
+                            "data-offset-end": 322,
+                            "color": "rgba(3,58,123,1)",
+                            "level": "Level_5"
+                        }
+                    ]
+                },
+                {
+                    "left": 110,
+                    "top": 2146,
+                    "text": "（二）对于本轮政策判断：低库存下供应和需求两端需同时放松、预计一二线宽松、三四线保持平稳",
+                    "pageid": 68,
+                    "font-size": 31,
+                    "font-id": "f2",
+                    "data-offset-start": 1156,
+                    "data-offset-end": 1205,
+                    "color": "rgba(3,58,123,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 110,
+                    "top": 1833,
+                    "text": "（三）对于本轮指数判断：预计板块底部已近、保利万科股价已处于底部、基本面下行有限或平滑市场底",
+                    "pageid": 70,
+                    "font-size": 31,
+                    "font-id": "f2",
+                    "data-offset-start": 730,
+                    "data-offset-end": 781,
+                    "color": "rgba(3,58,123,1)",
+                    "level": "Level_1"
+                }
+            ],
+            "color": "rgba(3,58,123,1)",
+            "data-offset-end": 329
+        },
+        {
+            "left": 110,
+            "top": 291,
+            "text": "六、投资建议：周期轮回、踏雪寻梅，维持行业推荐、并重申看多龙头",
+            "pageid": 72,
+            "font-size": 36,
+            "font-id": "f2",
+            "data-offset-start": 18,
+            "data-offset-end": 48,
+            "color": "rgba(3,58,123,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 110,
+            "top": 829,
+            "text": "七、风险提示：房地产市场下行风险、房地产政策继续超预期收紧",
+            "pageid": 72,
+            "font-size": 36,
+            "font-id": "f2",
+            "data-offset-start": 471,
+            "data-offset-end": 499,
+            "color": "rgba(3,58,123,1)",
+            "level": "Level_0"
+        }
+    ]
+}

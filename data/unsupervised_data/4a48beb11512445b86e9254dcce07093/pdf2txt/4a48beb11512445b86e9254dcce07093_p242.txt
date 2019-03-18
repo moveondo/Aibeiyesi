@@ -1,0 +1,29 @@
+BUSINESS
+
+Receptor occupancy in patients after a single dose of anti-PD-1 antibodies
+
+Note: MDX-1106 is the original name for nivolumab.
+Source for nivolumab (MDX-1106) data: Julie R. et al. JCO 2010: 3167-3174.
+
+In addition to achieving a higher level of PD-1 receptor occupancy, sintilimab also proved
+to be able to maintain that level for a long period of time. Indeed, in Hodgkin’s lymphoma
+patients given multiple cycles of sintilimab at 200 mg flat dose level, the PD-1 receptor
+occupancy in peripheral blood lymphocytes is greater than 95% for at least 180 days, as shown
+in the graph below.
+
+PD-1 receptor occupancy by sintilimab after multiple doses in patients
+
+Abbreviations: PD-1 RO = PD-1 receptor occupancy; IV = intravenous.
+
+Safety profile consistent with pembrolizumab with no unexpected adverse events
+
+Longer and more robust
+
+receptor occupancy prolongs PD-1 blockade in patient
+lymphocytes and could allow for stronger efficacy. One concern could be that better PD-1
+blockade could result
+in a higher frequency and intensity of adverse events in patients.
+
+– 233 –
+
+

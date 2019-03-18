@@ -1,0 +1,87 @@
+“PD-1”
+
+“PD-L1”
+
+“PD-L2”
+
+GLOSSARY OF TECHNICAL TERMS
+
+programmed cell death protein 1, an immune checkpoint
+receptor expressed on T cells, B cells and macrophages.
+The normal function of PD-1 is to turn off the T cell
+mediated immune response as part of the process that
+stops a healthy immune system from attacking other
+pathogenic cells in the body. When PD-1 on the surface
+of a T cell attaches to certain proteins on the surface of a
+normal cell or a cancer cell, the T cell turns off its ability
+to kill the cell
+
+PD-1 ligand 1, which is a protein on the surface of a
+normal cell or a cancer cell
+that attaches to certain
+proteins on the surface of the T cell that causes the T cell
+to turn off its ability to kill the cancer cell
+
+PD-1 ligand 2, which is a protein on the surface of a
+normal cell or a cancer cell
+that attaches to certain
+proteins on the surface of the T cell that causes the T cell
+to turn off its ability to kill the cancer cell
+
+“pemphigus vulgaris”
+
+a rare autoimmune disease that causes painful blistering
+on the skin and mucous membranes
+
+“PET”
+
+positron emission tomography,
+functional imaging technique
+
+a nuclear medicine
+
+“phagocyting”/“phagocytosis”
+
+the process by which a cell – often a phagocyte or a
+protist – engulfs a solid particle to form an internal
+compartment known as a phagosome. Phagocytes are
+particle
+are microscopic
+organisms that have cells with nuclei and are not animal,
+plant or fungi
+
+and protists
+
+eating cells
+
+“pharmacodynamics” or “PD”
+
+the study of how a drug affects an organism, which,
+together with pharmacokinetics,
+influences dosing,
+benefit, and adverse effects of the drug
+
+“pharmacokinetics” or “PK”
+
+study
+
+of
+
+the
+
+bodily
+
+the
+distribution,
+metabolism, and excretion of drugs, which, together with
+pharmacodynamics,
+and
+adverse effects of the drug
+
+influences dosing, benefit,
+
+absorption,
+
+– 46 –
+
+

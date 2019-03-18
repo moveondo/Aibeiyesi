@@ -1,0 +1,3805 @@
+{
+    "root": true,
+    "children": [
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 46,
+            "data_offset_start": 36
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 65,
+            "data_offset_start": 47
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 75,
+            "data_offset_start": 66
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 86,
+            "data_offset_start": 76
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 91,
+            "data_offset_start": 87
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 96,
+            "data_offset_start": 92
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 101,
+            "data_offset_start": 97
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 106,
+            "data_offset_start": 102
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 111,
+            "data_offset_start": 107
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 116,
+            "data_offset_start": 112
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 120,
+            "data_offset_start": 117
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 125,
+            "data_offset_start": 121
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 130,
+            "data_offset_start": 126
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 135,
+            "data_offset_start": 131
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 140,
+            "data_offset_start": 136
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 145,
+            "data_offset_start": 141
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 149,
+            "data_offset_start": 146
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 154,
+            "data_offset_start": 150
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 159,
+            "data_offset_start": 155
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 164,
+            "data_offset_start": 160
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 169,
+            "data_offset_start": 165
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 174,
+            "data_offset_start": 170
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 179,
+            "data_offset_start": 175
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 184,
+            "data_offset_start": 180
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 190,
+            "data_offset_start": 185
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 220,
+            "data_offset_start": 191
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 250,
+            "data_offset_start": 221
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 280,
+            "data_offset_start": 251
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 307,
+            "data_offset_start": 281
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 334,
+            "data_offset_start": 308
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 364,
+            "data_offset_start": 335
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 398,
+            "data_offset_start": 365
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 428,
+            "data_offset_start": 399
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 457,
+            "data_offset_start": 429
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 479,
+            "data_offset_start": 458
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 488,
+            "data_offset_start": 480
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 518,
+            "data_offset_start": 489
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 544,
+            "data_offset_start": 519
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 573,
+            "data_offset_start": 545
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 594,
+            "data_offset_start": 574
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 597,
+            "data_offset_start": 595
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 606,
+            "data_offset_start": 598
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 616,
+            "data_offset_start": 607
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 628,
+            "data_offset_start": 617
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 634,
+            "data_offset_start": 629
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 661,
+            "data_offset_start": 635
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 688,
+            "data_offset_start": 662
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 718,
+            "data_offset_start": 689
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 745,
+            "data_offset_start": 719
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 775,
+            "data_offset_start": 746
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 792,
+            "data_offset_start": 776
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 795,
+            "data_offset_start": 793
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 800,
+            "data_offset_start": 796
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 806,
+            "data_offset_start": 801
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 811,
+            "data_offset_start": 807
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 840,
+            "data_offset_start": 812
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 867,
+            "data_offset_start": 841
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 882,
+            "data_offset_start": 868
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 885,
+            "data_offset_start": 883
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 890,
+            "data_offset_start": 886
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 895,
+            "data_offset_start": 891
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 899,
+            "data_offset_start": 896
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 926,
+            "data_offset_start": 900
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 953,
+            "data_offset_start": 927
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 980,
+            "data_offset_start": 954
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 1009,
+            "data_offset_start": 981
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 1027,
+            "data_offset_start": 1010
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 1036,
+            "data_offset_start": 1028
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 1063,
+            "data_offset_start": 1037
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 1090,
+            "data_offset_start": 1064
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 1119,
+            "data_offset_start": 1091
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 1146,
+            "data_offset_start": 1120
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 1152,
+            "data_offset_start": 1147
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 1186,
+            "data_offset_start": 1153
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 1204,
+            "data_offset_start": 1187
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 1251,
+            "data_offset_start": 1205
+        },
+        {
+            "level": "Text",
+            "pageid": 1,
+            "data_offset_end": 1272,
+            "data_offset_start": 1252
+        },
+        {
+            "level": "Text",
+            "pageid": 2,
+            "data_offset_end": 71,
+            "data_offset_start": 36
+        },
+        {
+            "level": "Text",
+            "pageid": 2,
+            "data_offset_end": 107,
+            "data_offset_start": 72
+        },
+        {
+            "level": "Text",
+            "pageid": 2,
+            "data_offset_end": 143,
+            "data_offset_start": 108
+        },
+        {
+            "level": "Text",
+            "pageid": 2,
+            "data_offset_end": 179,
+            "data_offset_start": 144
+        },
+        {
+            "level": "Text",
+            "pageid": 2,
+            "data_offset_end": 215,
+            "data_offset_start": 180
+        },
+        {
+            "level": "Text",
+            "pageid": 2,
+            "data_offset_end": 250,
+            "data_offset_start": 216
+        },
+        {
+            "level": "Text",
+            "pageid": 2,
+            "data_offset_end": 254,
+            "data_offset_start": 251,
+            "children": [
+                {
+                    "level": "Level_1",
+                    "text": "（3）公司获得和保持内销、外销客户的主要方式",
+                    "data_offset_start": 255,
+                    "children": [
+                        {
+                            "level": "Text",
+                            "pageid": 2,
+                            "data_offset_end": 311,
+                            "data_offset_start": 279
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 2,
+                            "data_offset_end": 346,
+                            "data_offset_start": 312
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 2,
+                            "data_offset_end": 368,
+                            "data_offset_start": 347
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 2,
+                            "data_offset_end": 401,
+                            "data_offset_start": 369
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 2,
+                            "data_offset_end": 436,
+                            "data_offset_start": 402
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 2,
+                            "data_offset_end": 471,
+                            "data_offset_start": 437
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 2,
+                            "data_offset_end": 501,
+                            "data_offset_start": 472
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 2,
+                            "data_offset_end": 534,
+                            "data_offset_start": 502
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 2,
+                            "data_offset_end": 569,
+                            "data_offset_start": 535
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 2,
+                            "data_offset_end": 604,
+                            "data_offset_start": 570
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 2,
+                            "data_offset_end": 639,
+                            "data_offset_start": 605
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 2,
+                            "data_offset_end": 660,
+                            "data_offset_start": 640
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 2,
+                            "data_offset_end": 693,
+                            "data_offset_start": 661
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 2,
+                            "data_offset_end": 728,
+                            "data_offset_start": 694
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 2,
+                            "data_offset_end": 763,
+                            "data_offset_start": 729
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 2,
+                            "data_offset_end": 787,
+                            "data_offset_start": 764
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 2,
+                            "data_offset_end": 820,
+                            "data_offset_start": 788
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 2,
+                            "data_offset_end": 855,
+                            "data_offset_start": 821
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 2,
+                            "data_offset_end": 890,
+                            "data_offset_start": 856
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 3,
+                            "data_offset_end": 57,
+                            "data_offset_start": 36
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 3,
+                            "data_offset_end": 90,
+                            "data_offset_start": 58
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 3,
+                            "data_offset_end": 125,
+                            "data_offset_start": 91
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 3,
+                            "data_offset_end": 160,
+                            "data_offset_start": 126
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 3,
+                            "data_offset_end": 195,
+                            "data_offset_start": 161
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 3,
+                            "data_offset_end": 223,
+                            "data_offset_start": 196
+                        }
+                    ],
+                    "pageid": 2,
+                    "data_offset_end": 278
+                },
+                {
+                    "level": "Level_1",
+                    "text": "（4）公司退换货情况",
+                    "data_offset_start": 224,
+                    "children": [
+                        {
+                            "level": "Text",
+                            "pageid": 3,
+                            "data_offset_end": 268,
+                            "data_offset_start": 236
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 3,
+                            "data_offset_end": 301,
+                            "data_offset_start": 269
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 3,
+                            "data_offset_end": 321,
+                            "data_offset_start": 302
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 3,
+                            "data_offset_end": 328,
+                            "data_offset_start": 322
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 3,
+                            "data_offset_end": 353,
+                            "data_offset_start": 329
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 3,
+                            "data_offset_end": 359,
+                            "data_offset_start": 354
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 3,
+                            "data_offset_end": 392,
+                            "data_offset_start": 360
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 3,
+                            "data_offset_end": 426,
+                            "data_offset_start": 393
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 3,
+                            "data_offset_end": 460,
+                            "data_offset_start": 427
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 3,
+                            "data_offset_end": 500,
+                            "data_offset_start": 461
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 3,
+                            "data_offset_end": 540,
+                            "data_offset_start": 501
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 3,
+                            "data_offset_end": 575,
+                            "data_offset_start": 541
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 3,
+                            "data_offset_end": 610,
+                            "data_offset_start": 576
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 3,
+                            "data_offset_end": 647,
+                            "data_offset_start": 611
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 3,
+                            "data_offset_end": 651,
+                            "data_offset_start": 648
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 3,
+                            "data_offset_end": 671,
+                            "data_offset_start": 652
+                        }
+                    ],
+                    "pageid": 3,
+                    "data_offset_end": 235
+                }
+            ]
+        },
+        {
+            "level": "Level_0",
+            "text": "1、主要产品的产能、产量和销量情况",
+            "data_offset_start": 672,
+            "children": [
+                {
+                    "level": "Text",
+                    "pageid": 3,
+                    "data_offset_end": 720,
+                    "data_offset_start": 691
+                },
+                {
+                    "level": "Text",
+                    "pageid": 3,
+                    "data_offset_end": 733,
+                    "data_offset_start": 721
+                },
+                {
+                    "level": "Text",
+                    "pageid": 3,
+                    "data_offset_end": 737,
+                    "data_offset_start": 734
+                },
+                {
+                    "level": "Text",
+                    "pageid": 3,
+                    "data_offset_end": 747,
+                    "data_offset_start": 738
+                },
+                {
+                    "level": "Text",
+                    "pageid": 3,
+                    "data_offset_end": 752,
+                    "data_offset_start": 748
+                },
+                {
+                    "level": "Text",
+                    "pageid": 3,
+                    "data_offset_end": 758,
+                    "data_offset_start": 753
+                },
+                {
+                    "level": "Text",
+                    "pageid": 3,
+                    "data_offset_end": 762,
+                    "data_offset_start": 759
+                },
+                {
+                    "level": "Text",
+                    "pageid": 3,
+                    "data_offset_end": 766,
+                    "data_offset_start": 763
+                },
+                {
+                    "level": "Text",
+                    "pageid": 3,
+                    "data_offset_end": 770,
+                    "data_offset_start": 767
+                },
+                {
+                    "level": "Text",
+                    "pageid": 3,
+                    "data_offset_end": 791,
+                    "data_offset_start": 771
+                },
+                {
+                    "level": "Text",
+                    "pageid": 3,
+                    "data_offset_end": 851,
+                    "data_offset_start": 792
+                },
+                {
+                    "level": "Text",
+                    "pageid": 4,
+                    "data_offset_end": 89,
+                    "data_offset_start": 36
+                },
+                {
+                    "level": "Text",
+                    "pageid": 4,
+                    "data_offset_end": 137,
+                    "data_offset_start": 90
+                },
+                {
+                    "level": "Text",
+                    "pageid": 4,
+                    "data_offset_end": 144,
+                    "data_offset_start": 138
+                },
+                {
+                    "level": "Text",
+                    "pageid": 4,
+                    "data_offset_end": 147,
+                    "data_offset_start": 145
+                },
+                {
+                    "level": "Text",
+                    "pageid": 4,
+                    "data_offset_end": 200,
+                    "data_offset_start": 148
+                },
+                {
+                    "level": "Text",
+                    "pageid": 4,
+                    "data_offset_end": 254,
+                    "data_offset_start": 201
+                },
+                {
+                    "level": "Text",
+                    "pageid": 4,
+                    "data_offset_end": 301,
+                    "data_offset_start": 255
+                },
+                {
+                    "level": "Text",
+                    "pageid": 4,
+                    "data_offset_end": 308,
+                    "data_offset_start": 302
+                },
+                {
+                    "level": "Text",
+                    "pageid": 4,
+                    "data_offset_end": 311,
+                    "data_offset_start": 309
+                },
+                {
+                    "level": "Text",
+                    "pageid": 4,
+                    "data_offset_end": 363,
+                    "data_offset_start": 312
+                },
+                {
+                    "level": "Text",
+                    "pageid": 4,
+                    "data_offset_end": 412,
+                    "data_offset_start": 364
+                },
+                {
+                    "level": "Text",
+                    "pageid": 4,
+                    "data_offset_end": 456,
+                    "data_offset_start": 413
+                },
+                {
+                    "level": "Text",
+                    "pageid": 4,
+                    "data_offset_end": 490,
+                    "data_offset_start": 457
+                },
+                {
+                    "level": "Text",
+                    "pageid": 4,
+                    "data_offset_end": 496,
+                    "data_offset_start": 491
+                }
+            ],
+            "pageid": 3,
+            "data_offset_end": 690
+        },
+        {
+            "level": "Level_0",
+            "text": "2、报告期内公司主要产品销售收入情况",
+            "data_offset_start": 497,
+            "children": [
+                {
+                    "level": "Text",
+                    "pageid": 4,
+                    "data_offset_end": 549,
+                    "data_offset_start": 517
+                },
+                {
+                    "level": "Text",
+                    "pageid": 4,
+                    "data_offset_end": 571,
+                    "data_offset_start": 550
+                },
+                {
+                    "level": "Text",
+                    "pageid": 4,
+                    "data_offset_end": 603,
+                    "data_offset_start": 572
+                },
+                {
+                    "level": "Text",
+                    "pageid": 4,
+                    "data_offset_end": 641,
+                    "data_offset_start": 604
+                },
+                {
+                    "level": "Text",
+                    "pageid": 4,
+                    "data_offset_end": 677,
+                    "data_offset_start": 642
+                },
+                {
+                    "level": "Text",
+                    "pageid": 4,
+                    "data_offset_end": 711,
+                    "data_offset_start": 678
+                },
+                {
+                    "level": "Text",
+                    "pageid": 4,
+                    "data_offset_end": 747,
+                    "data_offset_start": 712
+                },
+                {
+                    "level": "Text",
+                    "pageid": 4,
+                    "data_offset_end": 761,
+                    "data_offset_start": 748
+                },
+                {
+                    "level": "Text",
+                    "pageid": 4,
+                    "data_offset_end": 781,
+                    "data_offset_start": 762
+                },
+                {
+                    "level": "Text",
+                    "pageid": 4,
+                    "data_offset_end": 805,
+                    "data_offset_start": 782
+                },
+                {
+                    "level": "Text",
+                    "pageid": 4,
+                    "data_offset_end": 827,
+                    "data_offset_start": 806
+                },
+                {
+                    "level": "Text",
+                    "pageid": 4,
+                    "data_offset_end": 849,
+                    "data_offset_start": 828
+                },
+                {
+                    "level": "Text",
+                    "pageid": 4,
+                    "data_offset_end": 871,
+                    "data_offset_start": 850
+                }
+            ],
+            "pageid": 4,
+            "data_offset_end": 516
+        },
+        {
+            "level": "Level_0",
+            "text": "3、主要产品销售价格的变动情况",
+            "data_offset_start": 872,
+            "children": [
+                {
+                    "level": "Text",
+                    "pageid": 4,
+                    "data_offset_end": 914,
+                    "data_offset_start": 889
+                },
+                {
+                    "level": "Text",
+                    "pageid": 4,
+                    "data_offset_end": 922,
+                    "data_offset_start": 915
+                },
+                {
+                    "level": "Text",
+                    "pageid": 4,
+                    "data_offset_end": 953,
+                    "data_offset_start": 923
+                },
+                {
+                    "level": "Text",
+                    "pageid": 4,
+                    "data_offset_end": 982,
+                    "data_offset_start": 954
+                },
+                {
+                    "level": "Text",
+                    "pageid": 5,
+                    "data_offset_end": 62,
+                    "data_offset_start": 36
+                },
+                {
+                    "level": "Text",
+                    "pageid": 5,
+                    "data_offset_end": 91,
+                    "data_offset_start": 63
+                },
+                {
+                    "level": "Level_1",
+                    "text": "（1）纸质载带价格变动原因",
+                    "data_offset_start": 92,
+                    "children": [
+                        {
+                            "level": "Text",
+                            "pageid": 5,
+                            "data_offset_end": 123,
+                            "data_offset_start": 107
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 5,
+                            "data_offset_end": 157,
+                            "data_offset_start": 124
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 5,
+                            "data_offset_end": 199,
+                            "data_offset_start": 158
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 5,
+                            "data_offset_end": 246,
+                            "data_offset_start": 200
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 5,
+                            "data_offset_end": 295,
+                            "data_offset_start": 247
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 5,
+                            "data_offset_end": 335,
+                            "data_offset_start": 296
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 5,
+                            "data_offset_end": 344,
+                            "data_offset_start": 336
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 5,
+                            "data_offset_end": 387,
+                            "data_offset_start": 345
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 5,
+                            "data_offset_end": 433,
+                            "data_offset_start": 388
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 5,
+                            "data_offset_end": 437,
+                            "data_offset_start": 434
+                        }
+                    ],
+                    "pageid": 5,
+                    "data_offset_end": 106
+                },
+                {
+                    "level": "Level_1",
+                    "text": "（2）塑料载带价格变动原因",
+                    "data_offset_start": 438,
+                    "children": [
+                        {
+                            "level": "Text",
+                            "pageid": 5,
+                            "data_offset_end": 492,
+                            "data_offset_start": 453
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 5,
+                            "data_offset_end": 528,
+                            "data_offset_start": 493
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 5,
+                            "data_offset_end": 570,
+                            "data_offset_start": 529
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 5,
+                            "data_offset_end": 612,
+                            "data_offset_start": 571
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 5,
+                            "data_offset_end": 645,
+                            "data_offset_start": 613
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 5,
+                            "data_offset_end": 682,
+                            "data_offset_start": 646
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 5,
+                            "data_offset_end": 710,
+                            "data_offset_start": 683
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 5,
+                            "data_offset_end": 744,
+                            "data_offset_start": 711
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 5,
+                            "data_offset_end": 780,
+                            "data_offset_start": 745
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 5,
+                            "data_offset_end": 816,
+                            "data_offset_start": 781
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 5,
+                            "data_offset_end": 823,
+                            "data_offset_start": 817
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 5,
+                            "data_offset_end": 837,
+                            "data_offset_start": 824
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 6,
+                            "data_offset_end": 43,
+                            "data_offset_start": 36
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 6,
+                            "data_offset_end": 53,
+                            "data_offset_start": 44
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 6,
+                            "data_offset_end": 61,
+                            "data_offset_start": 54
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 6,
+                            "data_offset_end": 69,
+                            "data_offset_start": 62
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 6,
+                            "data_offset_end": 77,
+                            "data_offset_start": 70
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 6,
+                            "data_offset_end": 88,
+                            "data_offset_start": 78
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 6,
+                            "data_offset_end": 98,
+                            "data_offset_start": 89
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 6,
+                            "data_offset_end": 104,
+                            "data_offset_start": 99
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 6,
+                            "data_offset_end": 136,
+                            "data_offset_start": 105
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 6,
+                            "data_offset_end": 169,
+                            "data_offset_start": 137
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 6,
+                            "data_offset_end": 202,
+                            "data_offset_start": 170
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 6,
+                            "data_offset_end": 233,
+                            "data_offset_start": 203
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 6,
+                            "data_offset_end": 264,
+                            "data_offset_start": 234
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 6,
+                            "data_offset_end": 271,
+                            "data_offset_start": 265
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 6,
+                            "data_offset_end": 277,
+                            "data_offset_start": 272
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 6,
+                            "data_offset_end": 286,
+                            "data_offset_start": 278
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 6,
+                            "data_offset_end": 294,
+                            "data_offset_start": 287
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 6,
+                            "data_offset_end": 304,
+                            "data_offset_start": 295
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 6,
+                            "data_offset_end": 312,
+                            "data_offset_start": 305
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 6,
+                            "data_offset_end": 320,
+                            "data_offset_start": 313
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 6,
+                            "data_offset_end": 328,
+                            "data_offset_start": 321
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 6,
+                            "data_offset_end": 339,
+                            "data_offset_start": 329
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 6,
+                            "data_offset_end": 349,
+                            "data_offset_start": 340
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 6,
+                            "data_offset_end": 355,
+                            "data_offset_start": 350
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 6,
+                            "data_offset_end": 388,
+                            "data_offset_start": 356
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 6,
+                            "data_offset_end": 421,
+                            "data_offset_start": 389
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 6,
+                            "data_offset_end": 454,
+                            "data_offset_start": 422
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 6,
+                            "data_offset_end": 484,
+                            "data_offset_start": 455
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 6,
+                            "data_offset_end": 515,
+                            "data_offset_start": 485
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 6,
+                            "data_offset_end": 522,
+                            "data_offset_start": 516
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 6,
+                            "data_offset_end": 528,
+                            "data_offset_start": 523
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 6,
+                            "data_offset_end": 537,
+                            "data_offset_start": 529
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 6,
+                            "data_offset_end": 545,
+                            "data_offset_start": 538
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 6,
+                            "data_offset_end": 555,
+                            "data_offset_start": 546
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 6,
+                            "data_offset_end": 562,
+                            "data_offset_start": 556
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 6,
+                            "data_offset_end": 570,
+                            "data_offset_start": 563
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 6,
+                            "data_offset_end": 578,
+                            "data_offset_start": 571
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 6,
+                            "data_offset_end": 589,
+                            "data_offset_start": 579
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 6,
+                            "data_offset_end": 599,
+                            "data_offset_start": 590
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 6,
+                            "data_offset_end": 605,
+                            "data_offset_start": 600
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 6,
+                            "data_offset_end": 638,
+                            "data_offset_start": 606
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 6,
+                            "data_offset_end": 671,
+                            "data_offset_start": 639
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 6,
+                            "data_offset_end": 703,
+                            "data_offset_start": 672
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 6,
+                            "data_offset_end": 734,
+                            "data_offset_start": 704
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 6,
+                            "data_offset_end": 765,
+                            "data_offset_start": 735
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 6,
+                            "data_offset_end": 778,
+                            "data_offset_start": 766
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 6,
+                            "data_offset_end": 812,
+                            "data_offset_start": 779
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 6,
+                            "data_offset_end": 848,
+                            "data_offset_start": 813
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 6,
+                            "data_offset_end": 884,
+                            "data_offset_start": 849
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 6,
+                            "data_offset_end": 915,
+                            "data_offset_start": 885
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 6,
+                            "data_offset_end": 923,
+                            "data_offset_start": 916
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 6,
+                            "data_offset_end": 957,
+                            "data_offset_start": 924
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 6,
+                            "data_offset_end": 998,
+                            "data_offset_start": 958
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 6,
+                            "data_offset_end": 1035,
+                            "data_offset_start": 999
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 6,
+                            "data_offset_end": 1091,
+                            "data_offset_start": 1036
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 7,
+                            "data_offset_end": 71,
+                            "data_offset_start": 36
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 7,
+                            "data_offset_end": 77,
+                            "data_offset_start": 72
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 7,
+                            "data_offset_end": 88,
+                            "data_offset_start": 78
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 7,
+                            "data_offset_end": 123,
+                            "data_offset_start": 89
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 7,
+                            "data_offset_end": 147,
+                            "data_offset_start": 124
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 7,
+                            "data_offset_end": 184,
+                            "data_offset_start": 148
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 7,
+                            "data_offset_end": 220,
+                            "data_offset_start": 185
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 7,
+                            "data_offset_end": 240,
+                            "data_offset_start": 221
+                        }
+                    ],
+                    "pageid": 5,
+                    "data_offset_end": 452
+                }
+            ],
+            "pageid": 4,
+            "data_offset_end": 888
+        },
+        {
+            "level": "Level_0",
+            "text": "4、报告期内各期向前五名客户的销售情况",
+            "data_offset_start": 241,
+            "children": [
+                {
+                    "level": "Text",
+                    "pageid": 7,
+                    "data_offset_end": 295,
+                    "data_offset_start": 262
+                },
+                {
+                    "level": "Text",
+                    "pageid": 7,
+                    "data_offset_end": 299,
+                    "data_offset_start": 296
+                },
+                {
+                    "level": "Text",
+                    "pageid": 7,
+                    "data_offset_end": 322,
+                    "data_offset_start": 300
+                },
+                {
+                    "level": "Text",
+                    "pageid": 7,
+                    "data_offset_end": 330,
+                    "data_offset_start": 323
+                },
+                {
+                    "level": "Text",
+                    "pageid": 7,
+                    "data_offset_end": 339,
+                    "data_offset_start": 331
+                },
+                {
+                    "level": "Text",
+                    "pageid": 7,
+                    "data_offset_end": 373,
+                    "data_offset_start": 340
+                },
+                {
+                    "level": "Text",
+                    "pageid": 7,
+                    "data_offset_end": 397,
+                    "data_offset_start": 374
+                },
+                {
+                    "level": "Text",
+                    "pageid": 7,
+                    "data_offset_end": 409,
+                    "data_offset_start": 398
+                },
+                {
+                    "level": "Text",
+                    "pageid": 7,
+                    "data_offset_end": 450,
+                    "data_offset_start": 410
+                },
+                {
+                    "level": "Text",
+                    "pageid": 7,
+                    "data_offset_end": 482,
+                    "data_offset_start": 451
+                },
+                {
+                    "level": "Text",
+                    "pageid": 7,
+                    "data_offset_end": 504,
+                    "data_offset_start": 483
+                },
+                {
+                    "level": "Text",
+                    "pageid": 7,
+                    "data_offset_end": 523,
+                    "data_offset_start": 505
+                },
+                {
+                    "level": "Text",
+                    "pageid": 7,
+                    "data_offset_end": 532,
+                    "data_offset_start": 524
+                },
+                {
+                    "level": "Text",
+                    "pageid": 7,
+                    "data_offset_end": 566,
+                    "data_offset_start": 533
+                },
+                {
+                    "level": "Text",
+                    "pageid": 7,
+                    "data_offset_end": 589,
+                    "data_offset_start": 567
+                },
+                {
+                    "level": "Text",
+                    "pageid": 7,
+                    "data_offset_end": 601,
+                    "data_offset_start": 590
+                },
+                {
+                    "level": "Text",
+                    "pageid": 7,
+                    "data_offset_end": 641,
+                    "data_offset_start": 602
+                },
+                {
+                    "level": "Text",
+                    "pageid": 7,
+                    "data_offset_end": 663,
+                    "data_offset_start": 642
+                },
+                {
+                    "level": "Text",
+                    "pageid": 7,
+                    "data_offset_end": 695,
+                    "data_offset_start": 664
+                },
+                {
+                    "level": "Text",
+                    "pageid": 7,
+                    "data_offset_end": 714,
+                    "data_offset_start": 696
+                },
+                {
+                    "level": "Text",
+                    "pageid": 8,
+                    "data_offset_end": 44,
+                    "data_offset_start": 36
+                },
+                {
+                    "level": "Text",
+                    "pageid": 8,
+                    "data_offset_end": 78,
+                    "data_offset_start": 45
+                },
+                {
+                    "level": "Text",
+                    "pageid": 8,
+                    "data_offset_end": 101,
+                    "data_offset_start": 79
+                },
+                {
+                    "level": "Text",
+                    "pageid": 8,
+                    "data_offset_end": 113,
+                    "data_offset_start": 102
+                },
+                {
+                    "level": "Text",
+                    "pageid": 8,
+                    "data_offset_end": 153,
+                    "data_offset_start": 114
+                },
+                {
+                    "level": "Text",
+                    "pageid": 8,
+                    "data_offset_end": 175,
+                    "data_offset_start": 154
+                },
+                {
+                    "level": "Text",
+                    "pageid": 8,
+                    "data_offset_end": 197,
+                    "data_offset_start": 176
+                },
+                {
+                    "level": "Text",
+                    "pageid": 8,
+                    "data_offset_end": 216,
+                    "data_offset_start": 198
+                },
+                {
+                    "level": "Text",
+                    "pageid": 8,
+                    "data_offset_end": 263,
+                    "data_offset_start": 217
+                },
+                {
+                    "level": "Text",
+                    "pageid": 8,
+                    "data_offset_end": 320,
+                    "data_offset_start": 264
+                },
+                {
+                    "level": "Text",
+                    "pageid": 8,
+                    "data_offset_end": 391,
+                    "data_offset_start": 321
+                },
+                {
+                    "level": "Text",
+                    "pageid": 8,
+                    "data_offset_end": 441,
+                    "data_offset_start": 392
+                },
+                {
+                    "level": "Text",
+                    "pageid": 8,
+                    "data_offset_end": 496,
+                    "data_offset_start": 442
+                },
+                {
+                    "level": "Text",
+                    "pageid": 8,
+                    "data_offset_end": 568,
+                    "data_offset_start": 497
+                },
+                {
+                    "level": "Text",
+                    "pageid": 8,
+                    "data_offset_end": 610,
+                    "data_offset_start": 569
+                },
+                {
+                    "level": "Text",
+                    "pageid": 8,
+                    "data_offset_end": 676,
+                    "data_offset_start": 611
+                },
+                {
+                    "level": "Text",
+                    "pageid": 8,
+                    "data_offset_end": 718,
+                    "data_offset_start": 677
+                },
+                {
+                    "level": "Text",
+                    "pageid": 8,
+                    "data_offset_end": 729,
+                    "data_offset_start": 719
+                },
+                {
+                    "level": "Text",
+                    "pageid": 8,
+                    "data_offset_end": 766,
+                    "data_offset_start": 730
+                },
+                {
+                    "level": "Text",
+                    "pageid": 8,
+                    "data_offset_end": 800,
+                    "data_offset_start": 767
+                },
+                {
+                    "level": "Text",
+                    "pageid": 8,
+                    "data_offset_end": 843,
+                    "data_offset_start": 801
+                },
+                {
+                    "level": "Text",
+                    "pageid": 8,
+                    "data_offset_end": 881,
+                    "data_offset_start": 844
+                },
+                {
+                    "level": "Text",
+                    "pageid": 8,
+                    "data_offset_end": 897,
+                    "data_offset_start": 882
+                },
+                {
+                    "level": "Text",
+                    "pageid": 8,
+                    "data_offset_end": 918,
+                    "data_offset_start": 898
+                },
+                {
+                    "level": "Text",
+                    "pageid": 8,
+                    "data_offset_end": 937,
+                    "data_offset_start": 919
+                },
+                {
+                    "level": "Text",
+                    "pageid": 8,
+                    "data_offset_end": 958,
+                    "data_offset_start": 938
+                },
+                {
+                    "level": "Text",
+                    "pageid": 8,
+                    "data_offset_end": 996,
+                    "data_offset_start": 959
+                },
+                {
+                    "level": "Text",
+                    "pageid": 8,
+                    "data_offset_end": 1038,
+                    "data_offset_start": 997
+                },
+                {
+                    "level": "Text",
+                    "pageid": 8,
+                    "data_offset_end": 1044,
+                    "data_offset_start": 1039
+                },
+                {
+                    "level": "Text",
+                    "pageid": 8,
+                    "data_offset_end": 1081,
+                    "data_offset_start": 1045
+                },
+                {
+                    "level": "Text",
+                    "pageid": 8,
+                    "data_offset_end": 1113,
+                    "data_offset_start": 1082
+                },
+                {
+                    "level": "Text",
+                    "pageid": 8,
+                    "data_offset_end": 1149,
+                    "data_offset_start": 1114
+                },
+                {
+                    "level": "Text",
+                    "pageid": 8,
+                    "data_offset_end": 1181,
+                    "data_offset_start": 1150
+                },
+                {
+                    "level": "Text",
+                    "pageid": 8,
+                    "data_offset_end": 1209,
+                    "data_offset_start": 1182
+                },
+                {
+                    "level": "Text",
+                    "pageid": 8,
+                    "data_offset_end": 1242,
+                    "data_offset_start": 1210
+                },
+                {
+                    "level": "Text",
+                    "pageid": 8,
+                    "data_offset_end": 1278,
+                    "data_offset_start": 1243
+                },
+                {
+                    "level": "Text",
+                    "pageid": 9,
+                    "data_offset_end": 72,
+                    "data_offset_start": 36
+                },
+                {
+                    "level": "Text",
+                    "pageid": 9,
+                    "data_offset_end": 106,
+                    "data_offset_start": 73
+                },
+                {
+                    "level": "Level_1",
+                    "text": "（1）内销和外销前五大客户销售金额及占当期主营业务收入的比例",
+                    "data_offset_start": 107,
+                    "children": [
+                        {
+                            "level": "Text",
+                            "pageid": 9,
+                            "data_offset_end": 143,
+                            "data_offset_start": 139
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 9,
+                            "data_offset_end": 145,
+                            "data_offset_start": 144
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 9,
+                            "data_offset_end": 148,
+                            "data_offset_start": 146
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 9,
+                            "data_offset_end": 165,
+                            "data_offset_start": 149
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 9,
+                            "data_offset_end": 175,
+                            "data_offset_start": 166
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 9,
+                            "data_offset_end": 181,
+                            "data_offset_start": 176
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 9,
+                            "data_offset_end": 186,
+                            "data_offset_start": 182
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 9,
+                            "data_offset_end": 191,
+                            "data_offset_start": 187
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 9,
+                            "data_offset_end": 196,
+                            "data_offset_start": 192
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 9,
+                            "data_offset_end": 206,
+                            "data_offset_start": 197
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 9,
+                            "data_offset_end": 212,
+                            "data_offset_start": 207
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 9,
+                            "data_offset_end": 217,
+                            "data_offset_start": 213
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 9,
+                            "data_offset_end": 222,
+                            "data_offset_start": 218
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 9,
+                            "data_offset_end": 227,
+                            "data_offset_start": 223
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 9,
+                            "data_offset_end": 238,
+                            "data_offset_start": 228
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 9,
+                            "data_offset_end": 292,
+                            "data_offset_start": 239
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 9,
+                            "data_offset_end": 335,
+                            "data_offset_start": 293
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 9,
+                            "data_offset_end": 378,
+                            "data_offset_start": 336
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 9,
+                            "data_offset_end": 390,
+                            "data_offset_start": 379
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 9,
+                            "data_offset_end": 430,
+                            "data_offset_start": 391
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 9,
+                            "data_offset_end": 462,
+                            "data_offset_start": 431
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 9,
+                            "data_offset_end": 482,
+                            "data_offset_start": 463
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 9,
+                            "data_offset_end": 523,
+                            "data_offset_start": 483
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 9,
+                            "data_offset_end": 525,
+                            "data_offset_start": 524
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 9,
+                            "data_offset_end": 528,
+                            "data_offset_start": 526
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 9,
+                            "data_offset_end": 538,
+                            "data_offset_start": 529
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 9,
+                            "data_offset_end": 548,
+                            "data_offset_start": 539
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 9,
+                            "data_offset_end": 554,
+                            "data_offset_start": 549
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 9,
+                            "data_offset_end": 559,
+                            "data_offset_start": 555
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 9,
+                            "data_offset_end": 564,
+                            "data_offset_start": 560
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 9,
+                            "data_offset_end": 569,
+                            "data_offset_start": 565
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 9,
+                            "data_offset_end": 582,
+                            "data_offset_start": 572
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 9,
+                            "data_offset_end": 607,
+                            "data_offset_start": 583
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 9,
+                            "data_offset_end": 634,
+                            "data_offset_start": 608
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 9,
+                            "data_offset_end": 661,
+                            "data_offset_start": 635
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 9,
+                            "data_offset_end": 673,
+                            "data_offset_start": 662
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 9,
+                            "data_offset_end": 695,
+                            "data_offset_start": 674
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 9,
+                            "data_offset_end": 722,
+                            "data_offset_start": 696
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 9,
+                            "data_offset_end": 745,
+                            "data_offset_start": 723
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 9,
+                            "data_offset_end": 783,
+                            "data_offset_start": 746
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 9,
+                            "data_offset_end": 823,
+                            "data_offset_start": 784
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 9,
+                            "data_offset_end": 864,
+                            "data_offset_start": 824
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 9,
+                            "data_offset_end": 906,
+                            "data_offset_start": 865
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 9,
+                            "data_offset_end": 936,
+                            "data_offset_start": 907
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 9,
+                            "data_offset_end": 941,
+                            "data_offset_start": 937
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 9,
+                            "data_offset_end": 959,
+                            "data_offset_start": 942
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 10,
+                            "data_offset_end": 38,
+                            "data_offset_start": 36
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 10,
+                            "data_offset_end": 48,
+                            "data_offset_start": 39
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 10,
+                            "data_offset_end": 54,
+                            "data_offset_start": 49
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 10,
+                            "data_offset_end": 59,
+                            "data_offset_start": 55
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 10,
+                            "data_offset_end": 64,
+                            "data_offset_start": 60
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 10,
+                            "data_offset_end": 69,
+                            "data_offset_start": 65
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 10,
+                            "data_offset_end": 79,
+                            "data_offset_start": 70
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 10,
+                            "data_offset_end": 85,
+                            "data_offset_start": 80
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 10,
+                            "data_offset_end": 90,
+                            "data_offset_start": 86
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 10,
+                            "data_offset_end": 95,
+                            "data_offset_start": 91
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 10,
+                            "data_offset_end": 100,
+                            "data_offset_start": 96
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 10,
+                            "data_offset_end": 115,
+                            "data_offset_start": 101
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 10,
+                            "data_offset_end": 171,
+                            "data_offset_start": 116
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 10,
+                            "data_offset_end": 217,
+                            "data_offset_start": 172
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 10,
+                            "data_offset_end": 220,
+                            "data_offset_start": 218
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 10,
+                            "data_offset_end": 229,
+                            "data_offset_start": 221
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 10,
+                            "data_offset_end": 243,
+                            "data_offset_start": 230
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 10,
+                            "data_offset_end": 256,
+                            "data_offset_start": 244
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 10,
+                            "data_offset_end": 273,
+                            "data_offset_start": 257
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 10,
+                            "data_offset_end": 282,
+                            "data_offset_start": 274
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 10,
+                            "data_offset_end": 298,
+                            "data_offset_start": 283
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 10,
+                            "data_offset_end": 308,
+                            "data_offset_start": 299
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 10,
+                            "data_offset_end": 324,
+                            "data_offset_start": 309
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 10,
+                            "data_offset_end": 334,
+                            "data_offset_start": 325
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 10,
+                            "data_offset_end": 385,
+                            "data_offset_start": 335
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 10,
+                            "data_offset_end": 395,
+                            "data_offset_start": 386
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 10,
+                            "data_offset_end": 442,
+                            "data_offset_start": 396
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 10,
+                            "data_offset_end": 484,
+                            "data_offset_start": 443
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 10,
+                            "data_offset_end": 486,
+                            "data_offset_start": 485
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 10,
+                            "data_offset_end": 489,
+                            "data_offset_start": 487
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 10,
+                            "data_offset_end": 499,
+                            "data_offset_start": 490
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 10,
+                            "data_offset_end": 509,
+                            "data_offset_start": 500
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 10,
+                            "data_offset_end": 515,
+                            "data_offset_start": 510
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 10,
+                            "data_offset_end": 520,
+                            "data_offset_start": 516
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 10,
+                            "data_offset_end": 525,
+                            "data_offset_start": 521
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 10,
+                            "data_offset_end": 530,
+                            "data_offset_start": 526
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 10,
+                            "data_offset_end": 572,
+                            "data_offset_start": 533
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 10,
+                            "data_offset_end": 600,
+                            "data_offset_start": 573
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 10,
+                            "data_offset_end": 603,
+                            "data_offset_start": 601
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 10,
+                            "data_offset_end": 612,
+                            "data_offset_start": 604
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 10,
+                            "data_offset_end": 628,
+                            "data_offset_start": 613
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 10,
+                            "data_offset_end": 638,
+                            "data_offset_start": 629
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 10,
+                            "data_offset_end": 658,
+                            "data_offset_start": 639
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 10,
+                            "data_offset_end": 668,
+                            "data_offset_start": 659
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 10,
+                            "data_offset_end": 692,
+                            "data_offset_start": 669
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 10,
+                            "data_offset_end": 719,
+                            "data_offset_start": 693
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 10,
+                            "data_offset_end": 744,
+                            "data_offset_start": 720
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 10,
+                            "data_offset_end": 790,
+                            "data_offset_start": 745
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 10,
+                            "data_offset_end": 844,
+                            "data_offset_start": 791
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 10,
+                            "data_offset_end": 914,
+                            "data_offset_start": 845
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 10,
+                            "data_offset_end": 967,
+                            "data_offset_start": 915
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 10,
+                            "data_offset_end": 1037,
+                            "data_offset_start": 968
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 10,
+                            "data_offset_end": 1104,
+                            "data_offset_start": 1038
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 10,
+                            "data_offset_end": 1131,
+                            "data_offset_start": 1105
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 10,
+                            "data_offset_end": 1168,
+                            "data_offset_start": 1132
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 10,
+                            "data_offset_end": 1212,
+                            "data_offset_start": 1169
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 10,
+                            "data_offset_end": 1219,
+                            "data_offset_start": 1213
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 10,
+                            "data_offset_end": 1247,
+                            "data_offset_start": 1220
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 10,
+                            "data_offset_end": 1280,
+                            "data_offset_start": 1248
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 10,
+                            "data_offset_end": 1319,
+                            "data_offset_start": 1281
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 73,
+                            "data_offset_start": 36
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 113,
+                            "data_offset_start": 74
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 166,
+                            "data_offset_start": 114
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 200,
+                            "data_offset_start": 167
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 234,
+                            "data_offset_start": 201
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 272,
+                            "data_offset_start": 235
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 305,
+                            "data_offset_start": 273
+                        }
+                    ],
+                    "pageid": 9,
+                    "data_offset_end": 138
+                },
+                {
+                    "level": "Level_1",
+                    "text": "（2）内外销前五大客户名称、所在地、主营业务、公司向其销售的主要产",
+                    "data_offset_start": 306,
+                    "children": [
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 342,
+                            "data_offset_start": 340
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 347,
+                            "data_offset_start": 343
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 349,
+                            "data_offset_start": 348
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 352,
+                            "data_offset_start": 350
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 357,
+                            "data_offset_start": 353
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 388,
+                            "data_offset_start": 358
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 392,
+                            "data_offset_start": 389
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 395,
+                            "data_offset_start": 393
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 411,
+                            "data_offset_start": 396
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 415,
+                            "data_offset_start": 412
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 419,
+                            "data_offset_start": 416
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 422,
+                            "data_offset_start": 420
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 435,
+                            "data_offset_start": 423
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 448,
+                            "data_offset_start": 436
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 459,
+                            "data_offset_start": 449
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 468,
+                            "data_offset_start": 460
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 474,
+                            "data_offset_start": 469
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 478,
+                            "data_offset_start": 475
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 481,
+                            "data_offset_start": 479
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 485,
+                            "data_offset_start": 482
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 488,
+                            "data_offset_start": 486
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 497,
+                            "data_offset_start": 489
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 505,
+                            "data_offset_start": 498
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 512,
+                            "data_offset_start": 506
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 516,
+                            "data_offset_start": 513
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 519,
+                            "data_offset_start": 517
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 532,
+                            "data_offset_start": 520
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 541,
+                            "data_offset_start": 533
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 550,
+                            "data_offset_start": 542
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 562,
+                            "data_offset_start": 551
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 570,
+                            "data_offset_start": 563
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 577,
+                            "data_offset_start": 571
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 581,
+                            "data_offset_start": 578
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 584,
+                            "data_offset_start": 582
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 597,
+                            "data_offset_start": 585
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 605,
+                            "data_offset_start": 598
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 614,
+                            "data_offset_start": 606
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 626,
+                            "data_offset_start": 615
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 635,
+                            "data_offset_start": 627
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 641,
+                            "data_offset_start": 636
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 645,
+                            "data_offset_start": 642
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 681,
+                            "data_offset_start": 646
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 689,
+                            "data_offset_start": 682
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 698,
+                            "data_offset_start": 690
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 702,
+                            "data_offset_start": 699
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 705,
+                            "data_offset_start": 703
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 718,
+                            "data_offset_start": 706
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 726,
+                            "data_offset_start": 719
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 735,
+                            "data_offset_start": 727
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 747,
+                            "data_offset_start": 736
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 756,
+                            "data_offset_start": 748
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 765,
+                            "data_offset_start": 757
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 771,
+                            "data_offset_start": 766
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 775,
+                            "data_offset_start": 772
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 778,
+                            "data_offset_start": 776
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 791,
+                            "data_offset_start": 779
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 797,
+                            "data_offset_start": 792
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 806,
+                            "data_offset_start": 798
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 813,
+                            "data_offset_start": 807
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 821,
+                            "data_offset_start": 814
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 827,
+                            "data_offset_start": 822
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 831,
+                            "data_offset_start": 828
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 855,
+                            "data_offset_start": 832
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 863,
+                            "data_offset_start": 856
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 869,
+                            "data_offset_start": 864
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 873,
+                            "data_offset_start": 870
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 895,
+                            "data_offset_start": 874
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 899,
+                            "data_offset_start": 896
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 902,
+                            "data_offset_start": 900
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 906,
+                            "data_offset_start": 903
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 909,
+                            "data_offset_start": 907
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 917,
+                            "data_offset_start": 910
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 925,
+                            "data_offset_start": 918
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 929,
+                            "data_offset_start": 926
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 932,
+                            "data_offset_start": 930
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 945,
+                            "data_offset_start": 933
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 956,
+                            "data_offset_start": 946
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 964,
+                            "data_offset_start": 957
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 972,
+                            "data_offset_start": 965
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 976,
+                            "data_offset_start": 973
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 979,
+                            "data_offset_start": 977
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 992,
+                            "data_offset_start": 980
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 1000,
+                            "data_offset_start": 993
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 1009,
+                            "data_offset_start": 1001
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 11,
+                            "data_offset_end": 1021,
+                            "data_offset_start": 1010
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 55,
+                            "data_offset_start": 36
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 88,
+                            "data_offset_start": 56
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 97,
+                            "data_offset_start": 89
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 106,
+                            "data_offset_start": 98
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 114,
+                            "data_offset_start": 107
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 118,
+                            "data_offset_start": 115
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 121,
+                            "data_offset_start": 119
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 134,
+                            "data_offset_start": 122
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 148,
+                            "data_offset_start": 135
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 157,
+                            "data_offset_start": 149
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 165,
+                            "data_offset_start": 158
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 169,
+                            "data_offset_start": 166
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 172,
+                            "data_offset_start": 170
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 185,
+                            "data_offset_start": 173
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 199,
+                            "data_offset_start": 186
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 219,
+                            "data_offset_start": 200
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 222,
+                            "data_offset_start": 220
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 235,
+                            "data_offset_start": 223
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 248,
+                            "data_offset_start": 236
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 257,
+                            "data_offset_start": 249
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 266,
+                            "data_offset_start": 258
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 271,
+                            "data_offset_start": 267
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 273,
+                            "data_offset_start": 272
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 308,
+                            "data_offset_start": 274
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 312,
+                            "data_offset_start": 309
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 315,
+                            "data_offset_start": 313
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 325,
+                            "data_offset_start": 316
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 335,
+                            "data_offset_start": 326
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 344,
+                            "data_offset_start": 336
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 371,
+                            "data_offset_start": 345
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 378,
+                            "data_offset_start": 372
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 389,
+                            "data_offset_start": 379
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 399,
+                            "data_offset_start": 390
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 404,
+                            "data_offset_start": 400
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 408,
+                            "data_offset_start": 405
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 411,
+                            "data_offset_start": 409
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 424,
+                            "data_offset_start": 412
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 438,
+                            "data_offset_start": 425
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 445,
+                            "data_offset_start": 439
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 456,
+                            "data_offset_start": 446
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 488,
+                            "data_offset_start": 457
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 513,
+                            "data_offset_start": 489
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 522,
+                            "data_offset_start": 514
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 541,
+                            "data_offset_start": 523
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 559,
+                            "data_offset_start": 542
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 563,
+                            "data_offset_start": 560
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 567,
+                            "data_offset_start": 564
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 585,
+                            "data_offset_start": 568
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 596,
+                            "data_offset_start": 586
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 615,
+                            "data_offset_start": 597
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 655,
+                            "data_offset_start": 616
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 664,
+                            "data_offset_start": 656
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 668,
+                            "data_offset_start": 665
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 672,
+                            "data_offset_start": 669
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 675,
+                            "data_offset_start": 673
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 688,
+                            "data_offset_start": 676
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 699,
+                            "data_offset_start": 689
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 706,
+                            "data_offset_start": 700
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 717,
+                            "data_offset_start": 707
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 720,
+                            "data_offset_start": 718
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 729,
+                            "data_offset_start": 721
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 738,
+                            "data_offset_start": 730
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 747,
+                            "data_offset_start": 739
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 757,
+                            "data_offset_start": 748
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 766,
+                            "data_offset_start": 758
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 770,
+                            "data_offset_start": 767
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 774,
+                            "data_offset_start": 771
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 777,
+                            "data_offset_start": 775
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 789,
+                            "data_offset_start": 778
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 802,
+                            "data_offset_start": 790
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 805,
+                            "data_offset_start": 803
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 812,
+                            "data_offset_start": 806
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 823,
+                            "data_offset_start": 813
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 832,
+                            "data_offset_start": 824
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 865,
+                            "data_offset_start": 833
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 874,
+                            "data_offset_start": 866
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 906,
+                            "data_offset_start": 875
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 915,
+                            "data_offset_start": 907
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 934,
+                            "data_offset_start": 916
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 941,
+                            "data_offset_start": 935
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 945,
+                            "data_offset_start": 942
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 957,
+                            "data_offset_start": 946
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 970,
+                            "data_offset_start": 958
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 973,
+                            "data_offset_start": 971
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 985,
+                            "data_offset_start": 974
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 994,
+                            "data_offset_start": 986
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 1013,
+                            "data_offset_start": 995
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 1026,
+                            "data_offset_start": 1014
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 1031,
+                            "data_offset_start": 1027
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 1043,
+                            "data_offset_start": 1032
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 1056,
+                            "data_offset_start": 1044
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 1059,
+                            "data_offset_start": 1057
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 1066,
+                            "data_offset_start": 1060
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 1077,
+                            "data_offset_start": 1067
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 1086,
+                            "data_offset_start": 1078
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 1105,
+                            "data_offset_start": 1087
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 1117,
+                            "data_offset_start": 1106
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 1122,
+                            "data_offset_start": 1118
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 1134,
+                            "data_offset_start": 1123
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 1147,
+                            "data_offset_start": 1135
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 1150,
+                            "data_offset_start": 1148
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 1157,
+                            "data_offset_start": 1151
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 1178,
+                            "data_offset_start": 1158
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 1181,
+                            "data_offset_start": 1179
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 1194,
+                            "data_offset_start": 1182
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 1208,
+                            "data_offset_start": 1195
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 1215,
+                            "data_offset_start": 1209
+                        },
+                        {
+                            "level": "Text",
+                            "pageid": 12,
+                            "data_offset_end": 1226,
+                            "data_offset_start": 1216
+                        }
+                    ],
+                    "pageid": 11,
+                    "data_offset_end": 339
+                }
+            ],
+            "pageid": 7,
+            "data_offset_end": 261
+        }
+    ]
+}

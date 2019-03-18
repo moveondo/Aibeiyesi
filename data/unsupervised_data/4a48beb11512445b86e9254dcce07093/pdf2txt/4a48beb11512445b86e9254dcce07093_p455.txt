@@ -1,0 +1,82 @@
+APPENDIX I
+
+ACCOUNTANTS’ REPORT
+
+Research and development expenditure
+
+Expenditure on research activities is recognised as an expense in the period in which it is incurred.
+
+An internally-generated intangible asset arising from development activities (or from the development phase
+
+of an internal project) is recognised if, and only if, all of the following have been demonstrated:
+
+(cid:129)
+
+(cid:129)
+
+(cid:129)
+
+(cid:129)
+
+(cid:129)
+
+(cid:129)
+
+the technical feasibility of completing the intangible asset so that it will be available for use or sale;
+
+the intention to complete the intangible asset and use or sell it;
+
+the ability to use or sell the intangible asset;
+
+how the intangible asset will generate probable future economic benefits;
+
+the availability of adequate technical, financial and other resources to complete the development and to
+use or sell the intangible asset; and
+
+the ability to measure reliably the expenditure attributable to the intangible asset during its
+development.
+
+The amount initially recognised for internally-generated intangible asset is the sum of the expenditure incurred
+from the date when the intangible asset first meets the recognition criteria listed above. Where no internally-
+generated intangible asset can be recognised, development expenditure is recognised in profit or loss in the period
+in which it is incurred.
+
+Subsequent to initial recognition, internally-generated intangible assets are reported at cost less accumulated
+amortisation and accumulated impairment losses (if any), on the same basis as intangible assets that are acquired
+separately.
+
+An intangible asset is derecognised on disposal, or when no future economic benefits are expected from use
+or disposal. Gains and losses arising from derecognition of an intangible asset, measured as the difference between
+the net disposal proceeds and the carrying amount of the asset, are recognised in profit or loss when the asset is
+derecognised.
+
+Impairment on tangible and intangible assets
+
+At the end of the reporting period, the Group reviews the carrying amounts of its tangible assets with finite
+useful lives to determine whether there is any indication that those assets have suffered an impairment loss. If any
+such indication exists, the recoverable amount of the relevant asset is estimated in order to determine the extent of
+the impairment loss, if any.
+
+When it is not possible to estimate the recoverable amount of an asset individually, the Group estimates the
+recoverable amount of the cash-generating unit to which the asset belongs. Where a reasonable and consistent basis
+of allocation can be identified, corporate assets are also allocated to individual cash-generating units, or otherwise
+they are allocated to the smallest group of cash-generating units for which a reasonable and consistent allocation basis
+can be identified.
+
+Recoverable amount is the higher of fair value less costs of disposal and value in use. In assessing value in
+use, the estimated future cash flows are discounted to their present value using a pre-tax discount rate that reflects
+current market assessments of the time value of money and the risks specific to the asset (or a cash-generating unit)
+for which the estimates of future cash flows have not been adjusted.
+
+If the recoverable amount of an asset (or a cash-generating unit) is estimated to be less than its carrying
+amount, the carrying amount of the asset (or a cash-generating unit) is reduced to its recoverable amount. In
+allocating the impairment loss, the impairment loss is allocated first to reduce the carrying amount of any goodwill
+(if applicable) and then to the other assets on a pro-rata basis based on the carrying amount of each asset in the unit.
+The carrying amount of an asset is not reduced below the highest of its fair value less costs of disposal (if
+measurable), its value in use (if determinable) and zero. The amount of the impairment loss that would otherwise have
+been allocated to the asset is allocated pro rata to the other assets of the unit. An impairment loss is recognised
+immediately in profit or loss.
+
+– I-18 –
+
+

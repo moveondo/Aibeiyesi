@@ -1,0 +1,74 @@
+BUSINESS
+
+qualified as a dose-limiting toxicity, or DLT. These events were not associated with a positive direct
+antiglobulin test and were resolved with immunosuppressive therapy, but resulted in the decision to
+exclude further enrollment of WM patients in the trial. As of the data cutoff date, this autoimmune
+hemolysis is the only DLT case that was observed.
+
+Among patients with indolent lymphoma, the most common AEs (occurring in ≥ 20% of patients)
+of any attribution were petechiae/purpura/contusion (31%) and thrombocytopenia (23%). Grade 3 and
+4 AEs of any attribution reported in at least two patients included thrombocytopenia, anemia and
+hemolysis (15% each). In addition to the two cases of autoimmune hemolysis, there was one more
+immune-related event, a grade 4 autoimmune encephalitis. The patient was treated with aggressive
+immunosuppressive therapy and gradually improved over time.
+
+Among patients with aggressive lymphoma,
+
+the most common AEs (occurring in ≥ 20% of
+patients) of any attribution were diarrhea, fatigue, pyrexia, upper respiratory tract infection (33%
+each), cough (25%) and nausea (25%). Grade 3 and 4 AEs of any attribution reported in at least two
+patients included pyrexia (17%). There was one patient with multiple occurrences of grade 2 and 3
+pneumonitis.
+
+In addition, certain IRAEs may be associated with checkpoint inhibition and the combination of
+
+checkpoint inhibitors with other drugs.
+
+At the time of data cutoff, the efficacy-evaluable population consisted of 25 patients. Objective
+responses were observed in 10 patients (40%). By tumor type, two PRs were observed out of five
+patients with CLL, one CR and one PR were observed out of five patients with FL, one VGPR and one
+minor response were observed out of two patients with WM, one CR was observed out of five patients
+with DLBCL, and three PRs were observed out of five patients with transformed lymphoma.
+
+Pooled Analysis of Safety Data from Monotherapy Trials
+
+We presented at the 2018 EHA meeting the pooled safety data from patients with various B-cell
+lymphomas in four ongoing zanubrutinib monotherapy studies, totaling 476 patients with a median
+exposure of seven months. Overall, the data suggest that exposure levels of zanubrutinib resulting in
+complete and sustained BTK inhibition can be achieved and that zanubrutinib was generally
+well-tolerated. There are infrequent events of interest with BTK inhibitor therapy, such as atrial
+fibrillation/flutter (2%), major hemorrhage (2%), and grade 3 and above diarrhea (1%). Treatment
+discontinuation due to zanubrutinib-related AEs was uncommon (3%). The majority of patients (94%)
+experienced one or more AE of any attribution, primarily grades 1 or 2. The most common grade 3
+or higher AEs of any attribution were neutropenia/neutrophil count decreased/febrile neutropenia
+(14%), anemia (7%) and thrombocytopenia/platelet count decreased (7%). SAEs were reported in 116
+patients (24%), with 38 patients (8%) assessed by the investigator as related to zanubrutinib. The most
+common SAEs were pneumonia/lung infection (6%), pleural effusion (1%), and febrile neutropenia
+(1%). The only treatment-related SAE reported in greater than 1% of patients was pneumonia/lung
+infection (2%). No cases of pneumocystis jiroveci pneumonia (PJP) or cytomegalovirus (CMV)
+included
+reactivation were
+petechiae/purpura/contusion (26%)
+included
+gastrointestinal hemorrhage/melena (n=3), intraparenchymal CNS hemorrhage grade 5, hematuria,
+
+(11%). Major hemorrhage
+
+observed
+(2%)
+
+and hematuria
+
+reported.
+
+The most
+
+common
+
+bleeding
+
+events
+
+— 217 —
+
+

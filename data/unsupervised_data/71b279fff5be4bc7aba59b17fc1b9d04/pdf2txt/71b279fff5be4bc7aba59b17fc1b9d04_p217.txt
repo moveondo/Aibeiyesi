@@ -1,0 +1,131 @@
+BUSINESS
+
+least one prior
+
+therapy. Since 2013,
+
+The BTK inhibitor ibrutinib was first approved by the FDA in 2013 for the treatment of patients
+with MCL, who have received at
+ibrutinib has received
+supplemental FDA approvals for the treatment of patients with CLL, CLL patients with 17p deletion,
+patients with WM, patients with MZL, who have received at least one prior anti-CD20-based therapy,
+and patients with chronic graft versus host disease after failure of one or more lines of systemic
+therapy. Ibrutinib is also approved by the EMA for the treatment of patients with MCL, CLL or WM.
+Ibrutinib has been approved in over 80 countries and regions, and it was approved and launched in
+China at the end of 2017. In 2017, global revenues for BTK inhibitors were approximately US$3.2
+billion. Another BTK inhibitor, CALQUENCE威 (acalabrutinib) was approved by the FDA in 2017
+under accelerated approval for the treatment of patients with MCL who have received at least one prior
+therapy. The table below summarizes the China competitive landscape of zanubrutinib, according to
+the Frost & Sullivan Report.
+
+BTK Competitive Landscape in China (Late-Stage)
+
+Mechanism: Bruton’s tyrosine kinase plays a role in signaling through the B-cell surface receptors which results in activation of
+pathways necessary for B-cell trafficking, chemotaxis, and adhesion. Nonclinical studies show that BTK inhibition could inhibit
+
+malignant B-cell proliferation and survival.
+
+Products
+
+Products
+
+(generic name)
+
+(brand name)
+
+Company
+
+CDA Status
+
+Lead
+
+Indications
+
+Reimbursement
+
+U.S. Patent
+Exclusivity
+
+Generic
+Versions
+
+ibrutinib
+
+IMBRUVICA威
+
+Pharmacyclics,
+J&J, AbbVie
+
+Approved
+(2017.11)
+
+R/R CLL/SLL
+and R/R MCL
+
+Zhejiang CII
+
+2027
+
+zanubrutinib
+(BGB-3111)
+
+NA
+
+BeiGene
+
+Pivotal PhII
+
+R/R CLL/SLL,
+
+NA
+
+2034
+
+R/R MCL,
+
+WM
+
+acalabrutinib
+
+CALQUENCE威
+
+Acerta,
+
+CTA submitted
+
+AstraZeneca
+
+(2018.6)
+
+Early phase
+
+NA
+
+2032
+
+NA
+
+NA
+
+NA
+
+Abbreviations: CII = Critical Illness Insurance; CTA = Clinical trial application; NA = not applicable
+
+Summary of Clinical Results
+
+As of July 5, 2018, we have enrolled more than an aggregate of 1,200 patients in clinical trials
+of zanubrutinib, including trials of zanubrutinib in combination with other therapies, which we refer
+to as combination trials. A multi-center, open-label Phase 1 trial is being conducted in Australia, New
+Zealand, the United States, South Korea and European countries to assess the safety, tolerability,
+pharmacokinetic properties and preliminary activity of zanubrutinib as a monotherapy in patients with
+different subtypes of B-cell malignancies, such as WM, CLL/SLL, FL, and MCL. The initial results
+of the dose-escalation phase and dose-expansion phase of this trial, as shown in the chart below,
+demonstrated that, consistent with zanubrutinib’s pharmacokinetic profile, complete and sustained
+24-hour BTK occupancy in the blood was observed in all tested patients, starting at the lowest dose
+of 40 mg once daily. In addition, sustained full BTK occupancy was observed in the lymph nodes
+especially for the 160 mg twice daily dosing regimen. There is no guarantee that these results will be
+reproduced in pivotal trials.
+
+— 211 —
+
+

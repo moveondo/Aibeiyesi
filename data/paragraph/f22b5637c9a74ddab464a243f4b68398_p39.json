@@ -1,0 +1,50 @@
+[
+    {
+        "data-offset-end": 7,
+        "pageid": 39,
+        "top": 153,
+        "font-id": "f8",
+        "level": "Level",
+        "left": 1344,
+        "text": "企業管治報告",
+        "font-size": 51,
+        "color": "rgba(190,146,91,1)",
+        "data-offset-start": 2
+    },
+    {
+        "data-offset-end": 215,
+        "pageid": 39,
+        "top": 749,
+        "font-id": "f10",
+        "level": "Level",
+        "left": 297,
+        "text": "權以及樂視影業（北京）有限公司的15%股權",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 195
+    },
+    {
+        "data-offset-end": 755,
+        "pageid": 39,
+        "top": 2303,
+        "font-id": "f8",
+        "level": "Level",
+        "left": 1412,
+        "text": "融創中國控股有限公司37",
+        "font-size": 24,
+        "color": "rgba(190,146,91,1)",
+        "data-offset-start": 743
+    },
+    {
+        "data-offset-end": 764,
+        "pageid": 39,
+        "top": 2330,
+        "font-id": "f9",
+        "level": "Level",
+        "left": 1504,
+        "text": "2017年度報告",
+        "font-size": 24,
+        "color": "rgba(101,98,98,1)",
+        "data-offset-start": 757
+    }
+]

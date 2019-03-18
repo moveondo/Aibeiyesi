@@ -1,0 +1,139 @@
+BUSINESS
+
+IBI-318
+
+IBI-318 is a bi-specific antibody incorporating sintilimab anti-PD-1-binding backbone
+that we are developing in collaboration with Eli Lilly for the treatment of cancers. It
+simultaneously binds to both PD-1 and an undisclosed target.
+
+IBI-319
+
+IBI-319 is a bi-specific antibody incorporating sintilimab anti-PD-1-binding backbone
+that we are developing in collaboration with Eli Lilly for the treatment of cancers. It
+simultaneously binds to both PD-1 and an undisclosed target.
+
+IBI-315
+
+IBI-315 is a bi-specific antibody incorporating sintilimab anti-PD-1-binding backbone
+It
+
+the treatment of cancers.
+
+that we are developing in collaboration with Hanmi
+simultaneously binds to both HER2 and PD-1.
+
+for
+
+IBI-323
+
+IBI-323 is an anti-LAG-3/PD-L1 bi-specific antibody that we are developing for the
+treatment of cancers. IBI-323 simultaneously inhibits LAG-3 binding to MHC Class II and
+PD-L1 binding to PD-1. IBI-323 also has the potential to further enhance the specific killing
+activity of T cells by tethering LAG-3 positive T cells with PD-L1 positive tumor cells. Our
+pre-clinical data show that IBI-323’s in vitro efficacy and in vivo efficacy are both better than
+a combination therapy of an anti-LAG-3 mono-specific antibody and an anti-PD-L1 mono-
+specific antibody.
+
+The table below sets forth a comparison of our PD-L1 drug candidates and their
+competitors drug candidates in China which are approved or in Phase 3 or more advanced
+clinical trial stage:
+
+Generic
+
+(Brand) Name/
+
+Drug Code
+
+IBI-322
+
+Company
+Innovent
+
+Filing
+
+Status in
+China
+pre-clinical
+
+Date*
+
+N.A.
+
+IBI-323
+
+Innovent
+
+pre-clinical
+
+N.A.
+
+Mechanism
+of Action
+Anti-PD-L1/
+
+CD47
+
+Anti-LAG-3/
+
+PD-L1
+
+Atezolizumab
+
+Roche
+
+Phase 3
+
+2018/7/2
+
+Anti-PD-L1
+
+Retail Price
+
+(RMB)
+
+N.A.
+
+NRDL/PRDL
+N.A.
+
+N.A.
+
+N.A.
+
+N.A.
+
+N.A.
+
+Lead/Proposed
+
+Indication
+
+PDL1/CD47
+
+coexpressing
+tumors, M1
+macrophage
+signature tumors
+PDL1+ tumors with
+
+“hot tumor”
+phenotype
+Advanced or
+
+metastatic NSCLC
+Renal cell carcinoma
+
+NSCLC
+
+Advanced or
+
+metastatic urethral
+carcinoma
+
+Muscular-invasion
+
+urethral carcinoma
+
+– 279 –
+
+

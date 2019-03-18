@@ -1,0 +1,80 @@
+[
+    {
+        "line_height": 0,
+        "font_family": "ff1",
+        "bottom": 790.32,
+        "text": "美的集团股份有限公司  2017  年年度报告312017  年末2016  年末比重增减重大变动说明金额占总资产比例金额占总资产比例货币资金48,274,20019.46%27,169,1 1815.93%3.53%应收账款17,528,7177.06%13,454,51 17.89%-0.83%存货29,444,1661 1.87%15,626,8979.16%2.71%投资性房地产420,8020.17%494,1220.29%-0.12%长期股权投资2,633,6981.06%2,21 1,7321.30%-0.24%固定资产22,600,7249.1 1%21,056,79112.34%-3.23%在建工程879,5760.35%580,7290.34%0.01%短期借款2,584,1021.04%3,024,4261.77%-0.73%长期借款32,986,32513.30%2,254,3481.32%1 1.98%",
+        "font_size": 36.0,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "left": 381.07,
+        "data_offset_end": 553,
+        "data_offset_start": 6,
+        "level": "BTitle_9999",
+        "height": 33.66
+    },
+    {
+        "line_height": 0,
+        "font_family": "ff3",
+        "bottom": 521.59,
+        "text": "2 、以公允价值计量的资产和负债",
+        "font_size": 42.24,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "left": 57.031,
+        "data_offset_end": 570,
+        "data_offset_start": 554,
+        "level": "ATitle_9999",
+        "height": 39.4944
+    },
+    {
+        "line_height": 0,
+        "font_family": "ff4",
+        "bottom": 490.99,
+        "text": "√   适用 □ 不适用",
+        "font_size": 42.24,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "left": 57.031,
+        "data_offset_end": 582,
+        "data_offset_start": 571,
+        "level": "ATitle_9999",
+        "height": 38.548125
+    },
+    {
+        "line_height": 0,
+        "font_family": "ff1",
+        "bottom": 470.11,
+        "text": "单位：千元项目期初数本期公允价值变动损益计入权益的累计公允价值变动其他本期增加金额本期减少金额期末数金融资产1. 以公允价值计量且其变动计入当期损益的金融资产（不含衍生金融资产）2. 衍生金融资产424,163-1 19,132349,50859,646714,1853. 可供出售金融资产33,627,760-147,634-10,12826,517,84138,069,68122,213,426金融资产小计34,051,923-1 19,132497,14249,51826,517,84138,069,68122,927,61 1投资性房地产生产性生物资产其他上述合计34,051,923-1 19,132497,14249,51826,517,84138,069,68122,927,61 1金融负债96,102-94,087-4,38794,68092,308",
+        "font_size": 36.0,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "left": 493.66,
+        "data_offset_end": 1099,
+        "data_offset_start": 583,
+        "level": "BTitle_9999",
+        "height": 33.66
+    },
+    {
+        "line_height": 0,
+        "font_family": "ff1",
+        "bottom": 158.18,
+        "text": "报告期内公司主 要资产计量属性 是否发生重大 变化",
+        "font_size": 42.24,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "left": 57.031,
+        "data_offset_end": 1123,
+        "data_offset_start": 1100,
+        "level": "ATitle_9999",
+        "height": 35.145
+    },
+    {
+        "line_height": 0,
+        "font_family": "ff1",
+        "bottom": 136.58,
+        "text": "□  是  √  否",
+        "font_size": 42.24,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "left": 57.031,
+        "data_offset_end": 1133,
+        "data_offset_start": 1124,
+        "level": "ATitle_9999",
+        "height": 35.145
+    }
+]

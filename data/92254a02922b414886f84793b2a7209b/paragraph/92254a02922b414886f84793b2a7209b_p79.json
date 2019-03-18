@@ -1,0 +1,67 @@
+[
+    {
+        "font_family": "ff1",
+        "text": "欧菲科技股份有限公司  2017  年年度报告全文",
+        "bottom": 790.32,
+        "data_offset_end": 30,
+        "font_size": 36.0,
+        "left": 363.16,
+        "line_height": 0,
+        "data_offset_start": 6,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "BTitle_9999"
+    },
+    {
+        "font_family": "ff2",
+        "text": "79苏州欧菲光2017  年07月 12  日101,9202017  年 09 月13日21,353一般保证否否是苏州欧菲光2017  年07月 12  日71,0002017  年 08 月30日42,891一般保证否否是苏州欧菲光2017  年10月 24  日50,0002017  年 12 月08日一般保证否否是苏州欧菲光2017  年03月 21  日30,0002017  年 04 月26日16,025一般保证否否是香港欧菲2016  年04月 19  日19,6032017  年 02 月01日7,556一般保证否否是香港欧菲2016  年01月 08  日6,5342016  年 05 月24日3,698一般保证否否是香港欧菲2016  年12月 24  日19,6032017  年 01 月13日12,108一般保证否否是香港欧菲2017  年04月 21  日83,6382017  年 05 月23日18,172一般保证否否是香港欧菲2017  年10月 24  日24,1772017  年 11 月27日17,810一般保证否否是报告期内审批对子公司担保额度合计（ B1）926,735报告期内对子公司担保实际发生额合计（ B2）508,063报告期末已审批的对子公司担保额度合计（ B3）1,427,475报告期末对子公司实际担保余额合计（ B4）530,717子公司对子公司的担保情况担保对象名称担保额度相关公告披露日期担保额度实际发生日期（协议签署日）实际担保金额担保类型担保期是否履行完毕是否为关联方担保公司担保总额（即前三大项的合计）报告期内审批担保额度合计（ A1+B1+C1）926,735报告期内担保实际发生额合计（ A2+B2+C2）508,063报告期末已审批的担保额度合计（ A3+B3+C3）1,427,475报告期末实际担保余额合计（ A4+B4+C4）530,717实际担保总额（即  A4+B4+C4 ）占公司净资产的比例58.28%采用复合方式担保的具体情况说明",
+        "bottom": 51.72,
+        "data_offset_end": 1096,
+        "font_size": 36.0,
+        "left": 529.68,
+        "line_height": 0,
+        "data_offset_start": 31,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "BTitle_9999"
+    },
+    {
+        "font_family": "ff1",
+        "text": "（ 2 ）违规对外担保情况",
+        "bottom": 149.54,
+        "data_offset_end": 1109,
+        "font_size": 42.0,
+        "left": 56.94,
+        "line_height": 0,
+        "data_offset_start": 1097,
+        "text_shadow": "-0.015em 0 rgb(0,0,0),0 0.015em rgb(0,0,0),0.015em 0 rgb(0,0,0),0 -0.015em rgb(0,0,0)",
+        "height": 39.27,
+        "level": "ATitle_9999"
+    },
+    {
+        "font_family": "ff4",
+        "text": "□  适用   √ 不适用",
+        "bottom": 119.28,
+        "data_offset_end": 1121,
+        "font_size": 36.0,
+        "left": 56.94,
+        "line_height": 0,
+        "data_offset_start": 1110,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "BTitle_9999"
+    },
+    {
+        "font_family": "ff1",
+        "text": "公司报告期无违规对外担保情况。",
+        "bottom": 101.7,
+        "data_offset_end": 1138,
+        "font_size": 36.0,
+        "left": 56.94,
+        "line_height": 0,
+        "data_offset_start": 1122,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "BTitle_9999"
+    }
+]

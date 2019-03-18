@@ -1,0 +1,138 @@
+BUSINESS
+
+The chart below shows the indications for which we are currently evaluating sintilimab
+
+in clinical trials:
+
+NDA
+(Filed)
+
+●
+
+Indication
+
+Mono-/Combo-Therapy
+
+(other components)
+
+IND
+
+(Accepted)
+
+Phase 1
+
+1a
+
+1b
+
+Phase 2
+
+Phase 3
+
+Status
+
+China
+r/r classical Hodgkin’s lymphoma Mono
+Mono
+2L squamous NSCLC
+Combo (pemetrexed and platinum)
+1L non-squamous NSCLC
+Combo (gemcitabine and platinum)
+1L squamous NSCLC
+EGFR+ TKI failure NSCLC
+Combo (IBI-305)
+Combo (IBI-305)
+1L hepatocellular carcinoma
+1L gastric cancer
+Combo (capecitabine and
+
+oxaliplatin)
+
+Combo (paclixel and cisplatin)
+1L esophageal carcinoma
+Mono
+2L ESCC
+Mono
+r/r NK/T-cell lymphoma
+Mono
+2L NSCLC
+1L/2L melanoma
+Mono
+Refractory gastrointestinal cancer Mono
+2L neuroendocrine tumor
+Mono
+Combo (pemetrexed and platinum)
+1L non-squamous NSCLC
+Combo (gemcitabine and cisplatin)
+1L squamous NSCLC
+1L gastric cancer
+Combo (capecitabine and
+
+oxaliplatin)
+
+Refractory solid tumors
+U.S.
+Solid tumors
+Mono
+Late stage endometrial carcinoma Mono
+
+Mono
+
+䊋
+
+䊋
+
+䊋
+
+䊋
+
+䊋
+
+䊋
+
+䊋
+
+䊋
+
+䊋
+
+䊋
+
+䊋
+
+䊋
+
+䊋
+
+Notes:
+
+1.
+
+2.
+
+3.
+
+China
+
+Abbreviations: r/r = relapsed, refractory; 2L = second-line; 1L = first-line; NK/T-cell lymphoma =
+natural killer/T-cell lymphoma; ESCC = esophageal squamous cell carcinoma; NSCLC = non-small cell
+lung cancer; EGFR = epidermal growth factor receptor; TKI = tyrosine kinase inhibitor.
+
+Symbols: ● = completed; 䊋 = in progress;
+
+= to be initiated within next quarter.
+
+Some indications may not require every clinical trial indicated on this chart to be completed prior to the
+filing of an NDA.
+
+We have conducted a multi-center Phase 1a (dose escalation) study in China to evaluate
+the safety and efficacy of sintilimab as a monotherapy in cancer patients with no available
+standard of care therapy. We enrolled 12 patients and studied four Q3W dose strengths: 1
+mg/kg, 3 mg/kg, 200 mg flat dose and 10 mg/kg. Four drug-related SAEs were observed, but
+no dose limiting toxicity was observed. Three patients are still on treatment and two partial
+responses (PRs) have been observed. Based on the results of this study, 200 mg flat dose was
+selected for further study.
+
+– 239 –
+
+

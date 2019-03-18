@@ -1,0 +1,251 @@
+{
+    "root": true,
+    "children": [
+        {
+            "left": 127,
+            "top": 1578,
+            "text": "1、《分众传媒（002027）—生活圈",
+            "pageid": 1,
+            "font-size": 27,
+            "font-id": "f1",
+            "data-offset-start": 354,
+            "data-offset-end": 372,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_6"
+        },
+        {
+            "left": 505,
+            "top": 333,
+            "text": "一、公司概况：龙头回归A股，持续精耕生活圈媒体..................................................5",
+            "pageid": 2,
+            "font-size": 31,
+            "font-id": "f6",
+            "data-offset-start": 12,
+            "data-offset-end": 88,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 505,
+            "top": 610,
+            "text": "二、广告市场：品牌广告预算持续向生活圈媒体转移................................................10",
+            "pageid": 2,
+            "font-size": 31,
+            "font-id": "f6",
+            "data-offset-start": 319,
+            "data-offset-end": 393,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 505,
+            "top": 868,
+            "text": "二、楼宇媒体业务：收入端刊挂率与刊例价均有提升空间，成本端凭借垄断地位有望维持媒体租赁成本的高控制力........................................................................................14",
+            "pageid": 2,
+            "font-size": 31,
+            "font-id": "f6",
+            "data-offset-start": 590,
+            "data-offset-end": 732,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 505,
+            "top": 1177,
+            "text": "二、影院广告业务：市场渗透率有较大提升空间，观影人次回升有望提升单银幕收入....................................................................................................................................18",
+            "pageid": 2,
+            "font-size": 31,
+            "font-id": "f6",
+            "data-offset-start": 961,
+            "data-offset-end": 1133,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 505,
+            "top": 1601,
+            "text": "三、投资并购：打造分众娱乐圈与生态圈..................................................................22",
+            "pageid": 2,
+            "font-size": 31,
+            "font-id": "f6",
+            "data-offset-start": 1511,
+            "data-offset-end": 1598,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 505,
+            "top": 1809,
+            "text": "五、盈利预测及投资评级............................................................................................25",
+            "pageid": 2,
+            "font-size": 31,
+            "font-id": "f6",
+            "data-offset-start": 1757,
+            "data-offset-end": 1863,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 505,
+            "top": 1878,
+            "text": "六、风险因素..............................................................................................................25",
+            "pageid": 2,
+            "font-size": 31,
+            "font-id": "f6",
+            "data-offset-start": 1865,
+            "data-offset-end": 1984,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 505,
+            "top": 246,
+            "level": "Level_0",
+            "text": "一、公司概况：龙头回归A股，持续精耕生活圈媒体",
+            "pageid": 5,
+            "font-size": 47,
+            "font-id": "f13",
+            "data-offset-start": 7,
+            "children": [
+                {
+                    "left": 505,
+                    "top": 344,
+                    "text": "（3）楼宇媒体保持高毛利，影院媒体快速增长。1）楼宇媒体是公司营收占比最大的",
+                    "pageid": 8,
+                    "font-size": 31,
+                    "font-id": "f6",
+                    "data-offset-start": 75,
+                    "data-offset-end": 112,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 505,
+                    "top": 849,
+                    "text": "（4）互联网行业广告客户成为最重要的收入来源。各行业贡献收入结构来看，2016",
+                    "pageid": 8,
+                    "font-size": 31,
+                    "font-id": "f6",
+                    "data-offset-start": 484,
+                    "data-offset-end": 522,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 505,
+                    "top": 2269,
+                    "text": "（5）政府补助有望继续存在。公司自2009年以来，每年均会获得来自政府的补助。政府补助主要包括营业税、所得税等税收返还，系各地地方政府为了鼓励特定行业给予",
+                    "pageid": 9,
+                    "font-size": 31,
+                    "font-id": "f6",
+                    "data-offset-start": 245,
+                    "data-offset-end": 324,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                }
+            ],
+            "color": "rgba(128,0,0,1)",
+            "data-offset-end": 31
+        },
+        {
+            "left": 505,
+            "top": 1400,
+            "text": "二、广告市场：品牌广告预算持续向生活圈媒体转移",
+            "pageid": 10,
+            "font-size": 47,
+            "font-id": "f13",
+            "data-offset-start": 301,
+            "data-offset-end": 323,
+            "color": "rgba(128,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 505,
+            "top": 847,
+            "level": "Level_0",
+            "text": "二、楼宇媒体业务：收入端刊挂率与刊例价均有提升空间，成本端凭借垄断地位有望维持媒体租赁成本的高控制力",
+            "pageid": 14,
+            "font-size": 47,
+            "font-id": "f14",
+            "data-offset-start": 55,
+            "children": [
+                {
+                    "left": 505,
+                    "top": 929,
+                    "text": "（1）刊挂率：通过向三四线城市下沉，框架媒体刊挂率有较大增长空间。",
+                    "pageid": 15,
+                    "font-size": 31,
+                    "font-id": "f6",
+                    "data-offset-start": 93,
+                    "data-offset-end": 125,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                }
+            ],
+            "color": "rgba(128,0,0,1)",
+            "data-offset-end": 105
+        },
+        {
+            "left": 505,
+            "top": 1983,
+            "text": "二、影院广告业务：市场渗透率有较大提升空间，观影人次回升有望提升单银幕收入",
+            "pageid": 18,
+            "font-size": 47,
+            "font-id": "f13",
+            "data-offset-start": 842,
+            "data-offset-end": 879,
+            "color": "rgba(128,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 505,
+            "top": 1925,
+            "level": "Level_0",
+            "text": "三、投资并购：打造分众娱乐圈与生态圈",
+            "pageid": 22,
+            "font-size": 47,
+            "font-id": "f14",
+            "data-offset-start": 723,
+            "children": [
+                {
+                    "left": 505,
+                    "top": 244,
+                    "text": "（1）参投短视频一下科技，布局泛娱乐。公司参与的光控众盈产业基金以6200万美元投资于国内移动视频行业领军企业一下科技，助力其完成总额达5亿美元E轮融资。旗下拥有秒拍、小咖秀、一直播三个产品组成的视频矩阵。",
+                    "pageid": 24,
+                    "font-size": 33,
+                    "font-id": "f6",
+                    "data-offset-start": 7,
+                    "data-offset-end": 116,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 505,
+                    "top": 390,
+                    "text": "（2）投资咕咚、WME、英雄体育，布局体育消费和电竞。1）旗下产业基金分众方源",
+                    "pageid": 24,
+                    "font-size": 31,
+                    "font-id": "f6",
+                    "data-offset-start": 118,
+                    "data-offset-end": 156,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 505,
+                    "top": 904,
+                    "text": "（3）投资金融及O2O，连接人与服务。在互联网金融领域，2016年公司投资数禾科技（拿铁财经）推出“还呗”信用卡代偿产品，经过分众渠道推广后当前AppAnnie免费榜排名金融类前20，极具成长空间。公司出资1亿元完成投资数禾科技（股权占比70%）。数禾科技产品“拿铁财经APP”目标客户与公司现有渠道的覆盖人群相匹配，有助于公司的渠道流量转化为用户;同时也有助于公司获得C端用户行为数据,为精准营销提供支持。2016年8月公司以5000万美元投资设立子公司分众小贷（占比100%）。分众小贷的可以：1）为现有广告主客户提供业务发展和广告推广的资金;2）向广告主的用户提供消费信贷,从而促进广告主产品或服务的销售；3）面向个人用户提供信用卡代偿等信贷服务。",
+                    "pageid": 24,
+                    "font-size": 31,
+                    "font-id": "f6",
+                    "data-offset-start": 620,
+                    "data-offset-end": 971,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                }
+            ],
+            "color": "rgba(128,0,0,1)",
+            "data-offset-end": 740
+        }
+    ]
+}

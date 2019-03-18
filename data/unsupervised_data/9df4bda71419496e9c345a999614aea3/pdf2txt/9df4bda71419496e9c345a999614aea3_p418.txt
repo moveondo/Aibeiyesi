@@ -1,0 +1,80 @@
+APPENDIX I
+
+ACCOUNTANTS’ REPORT
+
+Debt instruments that do not meet the amortised cost criteria or the FVTOCI criteria are classified as at
+FVTPL. In addition, debt instruments that meet either the amortised cost criteria or the FVTOCI criteria may be
+designated as at FVTPL upon initial
+recognition if such designation eliminates or significantly reduces a
+measurement or recognition inconsistency that would arise from measuring assets or liabilities or recognising the
+gains and losses on them on different bases. The Group has not designated any debt instruments as at FVTPL.
+
+Financial assets at FVTPL are measured at fair value, with changes in fair value arising from remeasurement
+recognised in profit or loss. The net gain or loss recognised in profit or loss excludes any dividend or interest earned
+on the financial assets and is included in the ‘other gains and losses’ line item.
+
+Foreign exchange gains and losses
+
+The carrying amount of financial assets that are denominated in a foreign currency is determined in that foreign
+
+currency and translated at the spot rate at the end of each reporting period. Specifically,
+
+(cid:129)
+
+(cid:129)
+
+(cid:129)
+
+for financial assets measured at amortised cost that are not part of a designated hedging relationship,
+exchange differences are recognised in profit or loss in the ‘other gains and losses’ line item;
+
+for debt instruments measured at FVTOCI that are not part of a designated hedging relationship,
+exchange differences on the amortised cost of the debt instrument are recognised in profit or loss in the
+‘other gains and losses’ line item. Other exchange differences are recognised in other comprehensive
+income in the investments revaluation reserve; and
+
+for financial assets measured at FVTPL that are not part of a designated hedging relationship, exchange
+differences are recognised in profit or loss in the ‘other gains and losses’ line item.
+
+Impairment of financial assets
+
+The Group recognises a loss allowance for expected credit losses (“ECL”) on investments in debt instruments
+that are measured at amortised cost or at FVTOCI. The amount of ECL is updated at each reporting date to reflect
+changes in credit risk since initial recognition of the respective financial instrument.
+
+The Group always recognises lifetime ECL for trade receivables. The ECL on these financial assets are
+estimated using a provision matrix based on the Group’s historical credit loss experience, adjusted for factors that
+are specific to the debtors, general economic conditions and an assessment of both the current as well as the forecast
+direction of conditions at the reporting date, including time value of money where appropriate.
+
+increased significantly since initial recognition,
+
+For all other financial instruments, the Group recognises lifetime ECL when there has been a significant
+increase in credit risk since initial recognition. If, on the other hand, the credit risk on the financial instrument has
+not
+the Group measures the loss allowance for that financial
+instrument at an amount equal to twelve-month ECL. The assessment of whether lifetime ECL should be recognised
+is based on significant increases in the likelihood or risk of a default occurring since initial recognition instead of
+on evidence of a financial asset being credit-impaired at the reporting date or an actual default occurring.
+
+Lifetime ECL represents the ECL that will result from all possible default events over the expected life of a
+financial instrument. In contrast, twelve-month ECL represents the portion of lifetime ECL that is expected to result
+from default events on a financial instrument that are possible within twelve months after the reporting date.
+
+Significant increase in credit risk
+
+In assessing whether the credit risk on a financial
+
+instrument has increased significantly since initial
+recognition, the Group compares the risk of a default occurring on the financial instrument as at the reporting date
+with the risk of a default occurring on the financial instrument as at the date of initial recognition. In making this
+assessment, the Group considers both quantitative and qualitative information that is reasonable and supportable,
+including historical experience and forward-looking information that is available without undue cost or effort.
+Forward-looking information considered includes the future prospects of the industries in which the Group’s debtors
+operate, obtained from economic expert reports, financial analysts, governmental bodies, relevant think-tanks and
+other similar organisations, as well as consideration of various external sources of actual and forecast economic
+information that relate to the Group’s core operations.
+
+– I-25 –
+
+

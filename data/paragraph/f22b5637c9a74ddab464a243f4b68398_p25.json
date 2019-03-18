@@ -1,0 +1,38 @@
+[
+    {
+        "data-offset-end": 134,
+        "pageid": 25,
+        "top": 153,
+        "font-id": "f8",
+        "level": "Level",
+        "left": 1240,
+        "text": "管理層討論與分析",
+        "font-size": 51,
+        "color": "rgba(190,146,91,1)",
+        "data-offset-start": 127
+    },
+    {
+        "data-offset-end": 622,
+        "pageid": 25,
+        "top": 2303,
+        "font-id": "f8",
+        "level": "Level",
+        "left": 1412,
+        "text": "融創中國控股有限公司23",
+        "font-size": 24,
+        "color": "rgba(190,146,91,1)",
+        "data-offset-start": 610
+    },
+    {
+        "data-offset-end": 631,
+        "pageid": 25,
+        "top": 2330,
+        "font-id": "f9",
+        "level": "Level",
+        "left": 1504,
+        "text": "2017年度報告",
+        "font-size": 24,
+        "color": "rgba(101,98,98,1)",
+        "data-offset-start": 624
+    }
+]

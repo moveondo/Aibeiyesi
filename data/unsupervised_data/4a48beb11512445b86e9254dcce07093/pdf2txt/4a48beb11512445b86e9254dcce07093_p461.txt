@@ -1,0 +1,86 @@
+APPENDIX I
+
+ACCOUNTANTS’ REPORT
+
+Financial liabilities at FVTPL
+
+Financial liabilities are classified as at FVTPL when the financial liability is designated as at FVTPL.
+
+A financial liability other than a financial liability held for trading or contingent consideration of an acquirer
+
+in a business combination may be designated as at FVTPL upon initial recognition if:
+
+(cid:129)
+
+(cid:129)
+
+(cid:129)
+
+such designation eliminates or significantly reduces a measurement or recognition inconsistency that
+would otherwise arise; or
+
+the financial liability forms part of a group of financial assets or financial liabilities or both, which is
+managed and its performance is evaluated on a fair value basis, in accordance with the Group’s
+documented risk management or investment strategy, and information about the grouping is provided
+internally on that basis; or
+
+it forms part of a contract containing one or more embedded derivatives, and IFRS 9 permits the entire
+combined contract to be designated as at FVTPL.
+
+Preferred Shares, which contained redemption features and other embedded derivatives, are designated as at
+
+financial liabilities at FVTPL.
+
+Financial liabilities at FVTPL are measured at fair value, with any gains or losses arising on remeasurement
+recognized in profit or loss. The net gain or loss recognized in profit or loss includes any interest paid on the financial
+liabilities and is included in the ‘other gains and losses’ line item.
+
+liability that
+
+is attributable to changes in the credit risk of that
+
+However, for financial liabilities that are designated as at FVTPL, the amount of change in the fair value of
+the financial
+liability is recognised in other
+comprehensive income, unless the recognition of the effects of changes in the liability’s credit risk in other
+comprehensive income would create or enlarge an accounting mismatch in profit or loss. The remaining amount of
+change in the fair value of liability is recognised in profit or loss. Changes in fair value attributable to a financial
+liability’s credit risk that are recognised in other comprehensive income are not subsequently reclassified to profit
+or loss; instead, they are transferred to retained earnings upon derecognition of the financial liability.
+
+Financial liabilities subsequently measured at amortised cost
+
+Financial
+
+liabilities that are not 1) contingent consideration of an acquirer in a business combination,
+2) held-for-trading, or 3) designated as at FVTPL, are subsequently measured at amortised cost using the effective
+interest method.
+
+The effective interest method is a method of calculating the amortised cost of a financial liability and of
+allocating interest expense over the relevant periods. The effective interest rate is the rate that exactly discounts
+estimated future cash payments (including all fees and points paid or received that form an integral part of the
+effective interest rate, transaction costs and other premiums or discounts) through the expected life of the financial
+liability, or (where appropriate) a shorter period, to the amortised cost of a financial liability.
+
+Foreign exchange gains and losses
+
+For financial liabilities that are denominated in a foreign currency and are measured at amortised cost at the
+end of each reporting period, the foreign exchange gains and losses are determined based on the amortised cost of
+the instruments. These foreign exchange gains and losses are recognised in the ‘other gains and losses’ line item in
+profit or loss for financial liabilities that are not part of a designated hedging relationship.
+
+The fair value of financial liabilities denominated in a foreign currency is determined in that foreign currency
+and translated at the spot rate at the end of the reporting period. For financial liabilities that are measured as at
+FVTPL, the foreign exchange component forms part of the fair value gains or losses and is recognised in profit or
+loss for financial liabilities that are not part of a designated hedging relationship.
+
+Derecognition of financial liabilities
+
+The Group derecognises financial liabilities when, and only when, the Group’s obligations are discharged,
+cancelled or they expire. The difference between the carrying amount of the financial liability derecognised and the
+consideration paid and payable, including any non-cash assets transferred or liabilities assumed, is recognised in
+profit or loss.
+
+– I-24 –
+
+

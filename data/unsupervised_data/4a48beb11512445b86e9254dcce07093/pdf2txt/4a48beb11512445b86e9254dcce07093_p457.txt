@@ -1,0 +1,67 @@
+APPENDIX I
+
+ACCOUNTANTS’ REPORT
+
+Amortised cost and effective interest method
+
+The effective interest method is a method of calculating the amortised cost of a debt instrument and of
+
+allocating interest income over the relevant periods.
+
+The effective interest rate is the rate that exactly discounts estimated future cash receipts (including all fees
+and points paid or received that form an integral part of the effective interest rate, transaction costs and other
+premiums or discounts) excluding expected credit losses (“ECL”), through the expected life of the debt instrument,
+or, where appropriate, a shorter period, to the gross carrying amount of the debt instrument on initial recognition.
+
+The amortised cost of a financial asset is the amount at which the financial asset is measured at initial
+recognition minus the principal repayments, plus the cumulative amortisation using the effective interest method of
+any difference between that initial amount and the maturity amount, adjusted for any loss allowance. On the other
+hand, the gross carrying amount of a financial asset is the amortised cost of a financial asset before adjusting for any
+loss allowance.
+
+Interest income is recognised using the effective interest method for debt instruments measured subsequently
+at amortised cost and at FVTOCI. Interest income is calculated by applying the effective interest rate to the gross
+carrying amount of a financial asset, except for financial assets that have subsequently become credit-impaired. For
+financial assets that have subsequently become credit-impaired, interest income is recognised by applying the
+effective interest rate to the amortised cost of the financial asset. If, in subsequent reporting periods, the credit risk
+on the credit-impaired financial instrument improves so that the financial asset is no longer credit-impaired, interest
+income is recognised by applying the effective interest rate to the gross carrying amount of the financial asset.
+
+Interest income is recognised in profit or loss and is included in the “other income” line item.
+
+Financial assets at FVTPL
+
+Financial assets that do not meet the criteria for being measured at amortised cost or FVTOCI are measured
+
+at FVTPL. Specifically:
+
+(cid:129)
+
+(cid:129)
+
+Investments in equity instruments are classified as at FVTPL, unless the Group designates an equity
+investment that is neither held for trading nor a contingent consideration arising from a business
+combination as at FVTOCI on initial recognition.
+
+Debt instruments that do not meet the amortised cost criteria or the FVTOCI criteria are classified as
+at FVTPL. In addition, debt instruments that meet either the amortised cost criteria or the FVTOCI
+criteria may be designated as at FVTPL upon initial recognition if such designation eliminates or
+significantly reduces a measurement or recognition inconsistency that would arise from measuring
+assets or liabilities or recognising the gains and losses on them on different bases. The Group has not
+designated any debt instruments as at FVTPL.
+
+Financial assets at FVTPL are measured at fair value at the end of each reporting period, with any fair value
+gains or losses recognised in profit or loss to the extent they are not part of a designated hedging relationship. The
+net gain or loss recognised in profit or loss includes any dividend or interest earned on the financial asset and is
+included in the ‘other gains and losses’ line item.
+
+Foreign exchange gains and losses
+
+The carrying amount of financial assets that are denominated in a foreign currency is determined in that foreign
+currency and translated at the spot rate at the end of each reporting period. Specifically, for financial assets measured
+at amortised cost that are not part of a designated hedging relationship, exchange differences are recognised in profit
+or loss in the ‘other gains and losses’ line item.
+
+– I-20 –
+
+

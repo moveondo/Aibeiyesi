@@ -1,0 +1,67 @@
+[
+    {
+        "font_family": "ff1",
+        "text": "欧菲科技股份有限公司  2017  年年度报告全文",
+        "bottom": 790.32,
+        "data_offset_end": 30,
+        "font_size": 36.0,
+        "left": 363.16,
+        "line_height": 0,
+        "data_offset_start": 6,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "BTitle_9999"
+    },
+    {
+        "font_family": "ff2",
+        "text": "204份有限公司 2015年度第一期中期票据圳欧菲光科技股份有限公司2017  年度第一期中期票据600,000,000.002017/9/1 13 年600,000,000.00600,000,000.0031,620,000.00427,798.95595,822,651.49深圳欧菲光科技股份有限公司 2017年面向合格投资者公开发行公司债券（第一期） （债券代码1 12499)1,000,000,000.002017/2/203 年1,000,000,000.001,000,000,000.0048,000,000.001,098,922.72997,438,545.37深圳欧菲光科技股份有限公司 2017年面向合格投资者公开发行公司债券（第二期） （债券代码1 12580)600,000,000.002017/8/313 年600,000,000.00600,000,000.0033,420,000.00220,923.89598,152,999.41合计------3,900,000,000.001,695,624,059.442,200,000,000.00226,540,000.004,253,063.09900,000,000.002,989,543,673.24",
+        "bottom": 51.72,
+        "data_offset_end": 713,
+        "font_size": 36.0,
+        "left": 525.18,
+        "line_height": 0,
+        "data_offset_start": 31,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "BTitle_9999"
+    },
+    {
+        "font_family": "ff1",
+        "text": "（ 3 ）可转换公司债券的转股条件、转股时间说明",
+        "bottom": 145.1,
+        "data_offset_end": 737,
+        "font_size": 42.0,
+        "left": 56.94,
+        "line_height": 0,
+        "data_offset_start": 714,
+        "text_shadow": "-0.015em 0 rgb(0,0,0),0 0.015em rgb(0,0,0),0.015em 0 rgb(0,0,0),0 -0.015em rgb(0,0,0)",
+        "height": 39.27,
+        "level": "ATitle_9999"
+    },
+    {
+        "font_family": "ff1",
+        "text": "（ 4 ）划分为金融负债的其他金融工具说明",
+        "bottom": 114.42,
+        "data_offset_end": 758,
+        "font_size": 42.0,
+        "left": 56.94,
+        "line_height": 0,
+        "data_offset_start": 738,
+        "text_shadow": "-0.015em 0 rgb(0,0,0),0 0.015em rgb(0,0,0),0.015em 0 rgb(0,0,0),0 -0.015em rgb(0,0,0)",
+        "height": 39.27,
+        "level": "ATitle_9999"
+    },
+    {
+        "font_family": "ff1",
+        "text": "期末发行在外的优先股、永续债等其他金融工具基本情况",
+        "bottom": 84.24,
+        "data_offset_end": 785,
+        "font_size": 36.0,
+        "left": 56.94,
+        "line_height": 0,
+        "data_offset_start": 759,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "BTitle_9999"
+    }
+]

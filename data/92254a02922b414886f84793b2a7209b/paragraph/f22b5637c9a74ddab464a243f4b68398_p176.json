@@ -1,0 +1,98 @@
+[
+    {
+        "data-offset-end": 56,
+        "pageid": 176,
+        "top": 711,
+        "font-id": "f13",
+        "level": "Level",
+        "left": 212,
+        "text": "即期－",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 54
+    },
+    {
+        "data-offset-end": 106,
+        "pageid": 176,
+        "top": 936,
+        "font-id": "f13",
+        "level": "Level",
+        "left": 212,
+        "text": "其他應付款項",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 101
+    },
+    {
+        "data-offset-end": 475,
+        "pageid": 176,
+        "top": 1471,
+        "font-id": "f13",
+        "level": "Level",
+        "left": 195,
+        "text": "附註：",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 473
+    },
+    {
+        "data-offset-end": 530,
+        "pageid": 176,
+        "top": 1543,
+        "font-id": "f14",
+        "level": "Level",
+        "left": 195,
+        "text": "(i)於二零一七年十二月三十一日，貿易應付款項的賬齡分析乃根據負債確認日期按累計基準作出。本集團貿易應付款",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 477
+    },
+    {
+        "data-offset-end": 540,
+        "pageid": 176,
+        "top": 1588,
+        "font-id": "f13",
+        "level": "Level",
+        "left": 263,
+        "text": "項的賬齡分析如下：",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 532
+    },
+    {
+        "data-offset-end": 747,
+        "pageid": 176,
+        "top": 2130,
+        "font-id": "f14",
+        "level": "Level",
+        "left": 195,
+        "text": "(ii)應付非控股權益及其關聯方款項為無抵押、免息及須按要求償還。",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 714
+    },
+    {
+        "data-offset-end": 762,
+        "pageid": 176,
+        "top": 2303,
+        "font-id": "f7",
+        "level": "Level",
+        "left": 39,
+        "text": "174融創中國控股有限公司",
+        "font-size": 33,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 749
+    },
+    {
+        "data-offset-end": 771,
+        "pageid": 176,
+        "top": 2330,
+        "font-id": "f9",
+        "level": "Level",
+        "left": 127,
+        "text": "2017年度報告",
+        "font-size": 24,
+        "color": "rgba(101,98,98,1)",
+        "data-offset-start": 764
+    }
+]

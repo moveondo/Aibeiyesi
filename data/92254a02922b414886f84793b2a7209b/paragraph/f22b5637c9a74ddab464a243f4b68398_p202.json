@@ -1,0 +1,98 @@
+[
+    {
+        "data-offset-end": 9,
+        "pageid": 202,
+        "top": 153,
+        "font-id": "f8",
+        "level": "Level",
+        "left": 127,
+        "text": "綜合財務報表附註",
+        "font-size": 51,
+        "color": "rgba(222,129,14,1)",
+        "data-offset-start": 2
+    },
+    {
+        "data-offset-end": 33,
+        "pageid": 202,
+        "top": 347,
+        "font-id": "f11",
+        "level": "Level",
+        "left": 127,
+        "text": "45股息",
+        "font-size": 39,
+        "color": "rgba(222,129,14,1)",
+        "data-offset-start": 29
+    },
+    {
+        "data-offset-end": 178,
+        "pageid": 202,
+        "top": 445,
+        "font-id": "f13",
+        "level": "Level",
+        "left": 195,
+        "text": "於二零一七年及二零一六年已派付股息分別為人民幣991百萬元（每股人民幣0.257元）及人民幣660百萬元（每股人民幣0.194元）。截至二零一七年十二月三十一日止年度的股息每股人民幣0.501元（股息總額為人民幣2,201百萬元）將於股東週年大會上提呈。本財務報表並未反映此應付股息。",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 35
+    },
+    {
+        "data-offset-end": 229,
+        "pageid": 202,
+        "top": 625,
+        "font-id": "f12",
+        "level": "Level",
+        "left": 1279,
+        "text": "截至十二月三十一日止年度",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 218
+    },
+    {
+        "data-offset-end": 281,
+        "pageid": 202,
+        "top": 904,
+        "font-id": "f11",
+        "level": "Level",
+        "left": 127,
+        "text": "46結算日後事項",
+        "font-size": 39,
+        "color": "rgba(222,129,14,1)",
+        "data-offset-start": 273
+    },
+    {
+        "data-offset-end": 370,
+        "pageid": 202,
+        "top": 1003,
+        "font-id": "f13",
+        "level": "Level",
+        "left": 195,
+        "text": "二零一八年一月二十九日，本集團與大連萬達集團股份有限公司及萬達商業訂立戰略合作協議。根據該協議，本集團計劃出資人民幣95億元或等值港元購買萬達商業股東持有的約3.91%股份。",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 283
+    },
+    {
+        "data-offset-end": 385,
+        "pageid": 202,
+        "top": 2303,
+        "font-id": "f7",
+        "level": "Level",
+        "left": 39,
+        "text": "200融創中國控股有限公司",
+        "font-size": 33,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 372
+    },
+    {
+        "data-offset-end": 394,
+        "pageid": 202,
+        "top": 2330,
+        "font-id": "f9",
+        "level": "Level",
+        "left": 127,
+        "text": "2017年度報告",
+        "font-size": 24,
+        "color": "rgba(101,98,98,1)",
+        "data-offset-start": 387
+    }
+]

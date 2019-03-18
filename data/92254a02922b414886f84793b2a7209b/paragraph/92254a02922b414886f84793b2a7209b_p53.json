@@ -1,0 +1,67 @@
+[
+    {
+        "font_family": "ff1",
+        "text": "欧菲科技股份有限公司  2017  年年度报告全文",
+        "bottom": 790.32,
+        "data_offset_end": 30,
+        "font_size": 36.0,
+        "left": 363.16,
+        "line_height": 0,
+        "data_offset_start": 6,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "Text_9999"
+    },
+    {
+        "font_family": "ff2",
+        "text": "53",
+        "bottom": 51.72,
+        "data_offset_end": 34,
+        "font_size": 36.0,
+        "left": 529.68,
+        "line_height": 0,
+        "data_offset_start": 31,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "Text_9999"
+    },
+    {
+        "font_family": "ff1",
+        "text": "（ 1 ）柔性OLED已成趋势",
+        "bottom": 753.84,
+        "data_offset_end": 49,
+        "font_size": 48.0,
+        "left": 80.7,
+        "line_height": 0,
+        "data_offset_start": 35,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 44.88,
+        "level": "ATitle_9999"
+    },
+    {
+        "font_family": "ff2",
+        "text": "LCD 显示屏为近年来平板显示器件行业主流，出货量占整体出货量（LCD、PDP、OLED）的 85%以上；  OLED产品因性能优越、能耗较低，出货量占比呈现了迅速上升趋势。与LCD显示模组相比， OLED （ Organic Light-emitting Diodes）是一种自发光技术产品，不需要加装背光源，色彩的饱和度和亮度可达 到较高水平。此外， OLED面板驱动电压低、反应快、更轻薄、具有理论上的更低成本。在巨大的市场潜力和逐渐成熟的技术驱 动下，各大光电厂商纷纷加入 OLED竞争行列。",
+        "bottom": 728.52,
+        "data_offset_end": 295,
+        "font_size": 48.0,
+        "left": 80.7,
+        "line_height": 0,
+        "data_offset_start": 50,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 44.88,
+        "level": "ATitle_9999"
+    },
+    {
+        "font_family": "ff2",
+        "text": "根据 HIS统计， 96.2%的 OLED面板都被用在了智能手机 上，由于全球 AMOLED产能尚未进入集中释放期，三星目前仍为 全球手机 OLED屏最主要供货商。据 WitsView 预测，2019年AMOLED 在智能手机的渗透率将有望突破40 ％。（ 2 ）Film方案重回青睐受益 OLED加速渗透， 有稳定良品率和成本优势的 Film方案将重回主流， 市场占有率将不断提升。据行业分析预测， 2018-2019年将有约 2.7亿和 3.5亿部智能手机搭载柔性 OLED屏幕，柔性触控显示将成为业内主要的配置。进入柔性的 AMOLED时代，由于 on-cell技术生产难度大、良率低、成本高，外挂薄膜式触控方案将成为主流配置。3 、智能汽车电子由国家发改委组织研究起草的《智能汽车创新发展战略》（征求意见 稿）于今年  1月5 日",
+        "bottom": 356.84,
+        "data_offset_end": 653,
+        "font_size": 48.0,
+        "left": 504.54,
+        "line_height": 0,
+        "data_offset_start": 296,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 44.88,
+        "level": "ATitle_9999"
+    }
+]

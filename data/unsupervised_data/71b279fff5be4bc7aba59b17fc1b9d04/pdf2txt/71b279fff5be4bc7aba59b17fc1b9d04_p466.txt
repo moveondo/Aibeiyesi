@@ -1,0 +1,53 @@
+APPENDIX I
+
+ACCOUNTANTS’ REPORT
+
+Accounting for Preferred Shares
+
+the Preferred Shares have a liquidation preference and will not
+
+The Preferred Shares are classified as mezzanine equity as these convertible preferred shares are
+redeemable upon the occurrence of a conditional event (i.e. a Liquidation Transaction). The holders
+of
+receive the same form of
+consideration upon the occurrence of the conditional event as the holders of the ordinary shares would.
+The initial carrying amount of the Series A Preferred Shares of US$78,809,000 is the issue price at
+the date of issuance of US$78,889,000 net of issuance costs of US$80,000. The initial carrying amount
+of the Series A-2 Preferred Shares of US$97,275,000 is the issue price at the date of issuance of
+US$97,350,000 net of issuance costs of US$75,000. The holders of the Preferred Shares have the
+ability to convert the instrument into the Company’s ordinary shares. The conversion option of the
+convertible preferred shares do not qualify for bifurcation accounting because the conversion option
+is clearly and closely related to the host instrument and the underlying ordinary shares are not publicly
+traded nor readily convertible into cash. The contingent redemption options of the convertible
+preferred shares do not qualify for bifurcation accounting because the underlying ordinary shares are
+neither publicly traded nor readily convertible into cash. There are no other embedded derivatives that
+are required to be bifurcated.
+
+Beneficial conversion features exist when the conversion price of the convertible preferred
+shares is lower than the fair value of the ordinary shares at the commitment date, which is the issuance
+date in the Company’s case. When a beneficial conversion feature exists as of the commitment date,
+its intrinsic value is bifurcated from the carrying value of the convertible preferred shares as a
+contribution to additional paid-in capital. On the commitment date of Series A Preferred Shares and
+Series A-2 Preferred Shares, the most favorable conversion price used to measure the beneficial
+conversion feature were US$0.68 and US$1.17, respectively. No beneficial conversion feature was
+recognized for the Series A Preferred Shares and Series A-2 Preferred Shares as the fair value per
+ordinary share at the commitment date were US$0.28 and US$0.47, respectively, which was less than
+the most favorable conversion price. The Company determined the fair value of ordinary shares with
+the assistance of an independent third party valuation firm.
+
+The Company concluded that the Preferred Shares are not redeemable currently, and is not
+probable that the Preferred Shares will become redeemable because the likelihood of a Liquidation
+Transaction is remote. Therefore, no adjustment will be made to the initial carrying amount of the
+Preferred Shares until it is probable that they will become redeemable. The liquidation preference
+amount was US$204,375,000 as of December 31, 2015.
+
+Upon completion of
+
+the US IPO, all outstanding preferred shares were converted into
+199,990,641 ordinary shares and the related carrying value of US$176,084,000 was reclassified from
+mezzanine equity to shareholders’ equity. Hence the balance of Preferred Shares became nil as at
+December 31, 2016.
+
+— I-78 —
+
+

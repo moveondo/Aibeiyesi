@@ -1,0 +1,175 @@
+{
+    "root": true,
+    "children": [
+        {
+            "left": 127,
+            "top": 1579,
+            "text": "1、《宝钢股份（600019）—Q3业绩",
+            "pageid": 1,
+            "font-size": 27,
+            "font-id": "f1",
+            "data-offset-start": 383,
+            "data-offset-end": 403,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 127,
+            "top": 1652,
+            "text": "2、《宝钢股份（600019）—年报超预期，上调盈利预测》2018-01-26",
+            "pageid": 1,
+            "font-size": 27,
+            "font-id": "f1",
+            "data-offset-start": 427,
+            "data-offset-end": 466,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 127,
+            "top": 1725,
+            "level": "Level_0",
+            "text": "3、《宝钢股份（600019）—中国钢铁业核心资产，价值有望重估》",
+            "pageid": 1,
+            "font-size": 27,
+            "font-id": "f1",
+            "data-offset-start": 468,
+            "children": [
+                {
+                    "left": 471,
+                    "top": 334,
+                    "text": "一、宝钢湛江项目基本概况..........................................................................................4",
+                    "pageid": 2,
+                    "font-size": 31,
+                    "font-id": "f9",
+                    "data-offset-start": 12,
+                    "data-offset-end": 116,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 471,
+                    "top": 541,
+                    "text": "二、千万级产能放量，产品结构逐渐优化....................................................................6",
+                    "pageid": 2,
+                    "font-size": 31,
+                    "font-id": "f9",
+                    "data-offset-start": 346,
+                    "data-offset-end": 434,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 471,
+                    "top": 748,
+                    "text": "三、区位因素造就湛江核心优势..................................................................................11",
+                    "pageid": 2,
+                    "font-size": 31,
+                    "font-id": "f9",
+                    "data-offset-start": 642,
+                    "data-offset-end": 740,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 471,
+                    "top": 1025,
+                    "text": "四、高环保高技术投入，降本增效.............................................................................14",
+                    "pageid": 2,
+                    "font-size": 31,
+                    "font-id": "f9",
+                    "data-offset-start": 1035,
+                    "data-offset-end": 1130,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 471,
+                    "top": 1232,
+                    "text": "五、盈利预测&amp;投资建议.............................................................................................15",
+                    "pageid": 2,
+                    "font-size": 31,
+                    "font-id": "f9",
+                    "data-offset-start": 1335,
+                    "data-offset-end": 1445,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 471,
+                    "top": 1301,
+                    "text": "六、风险提示..............................................................................................................16",
+                    "pageid": 2,
+                    "font-size": 31,
+                    "font-id": "f9",
+                    "data-offset-start": 1447,
+                    "data-offset-end": 1566,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 471,
+                    "top": 246,
+                    "text": "一、宝钢湛江项目基本概况",
+                    "pageid": 4,
+                    "font-size": 47,
+                    "font-id": "f34",
+                    "data-offset-start": 2,
+                    "data-offset-end": 13,
+                    "color": "rgba(128,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 471,
+                    "top": 1621,
+                    "text": "二、千万级产能放量，产品结构逐渐优化",
+                    "pageid": 6,
+                    "font-size": 47,
+                    "font-id": "f104",
+                    "data-offset-start": 487,
+                    "data-offset-end": 504,
+                    "color": "rgba(128,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 505,
+                    "top": 246,
+                    "text": "三、区位因素造就湛江核心优势",
+                    "pageid": 11,
+                    "font-size": 47,
+                    "font-id": "f33",
+                    "data-offset-start": 2,
+                    "data-offset-end": 15,
+                    "color": "rgba(128,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 471,
+                    "top": 927,
+                    "text": "四、高环保高技术投入，降本增效",
+                    "pageid": 14,
+                    "font-size": 47,
+                    "font-id": "f46",
+                    "data-offset-start": 61,
+                    "data-offset-end": 75,
+                    "color": "rgba(128,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 505,
+                    "top": 1935,
+                    "text": "五、盈利预测&amp;投资建议",
+                    "pageid": 15,
+                    "font-size": 47,
+                    "font-id": "f66",
+                    "data-offset-start": 674,
+                    "data-offset-end": 688,
+                    "color": "rgba(128,0,0,1)",
+                    "level": "Level_1"
+                }
+            ],
+            "color": "rgba(0,0,0,1)",
+            "data-offset-end": 501
+        }
+    ]
+}

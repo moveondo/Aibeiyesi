@@ -1,0 +1,96 @@
+BUSINESS
+
+BTK Inhibitor Mechanism of Action
+
+Antigen
+
+BCR homodimer
+
+Malignant
+Malignant
+
+B cell
+B cell
+
+Cell
+
+membrane
+
+IGα/
+IGβ
+
+BLNK
+
+BTK
+
+Zanubrutinib
+
+CD19
+
+PI3K
+
+LYN
+
+SYK
+
+PIP3
+
+[CA 2+]
+
+PKC
+
+PLCγ2
+
+DAG
+
+PKCβ
+
+IKK
+
+NF- κ B
+
+NFAT
+
+B-cell differentiation
+
+RAP
+
+Leads to proliferation
+
+and transcriptional control
+
+Leads to apoptosis
+and inflammation
+
+BCR=B-cell antigen receptor, BLNK=B cell
+linker, BTK=Bruton’s tyrosine kinase, CA2+=calcium, CD19=cluster of
+differentiation 19, DAG=1,2 di-acyl glycerol, IKK=I kappa B kinase, LYN=LYN proto-oncogene, Src family tyrosine kinase,
+NFkB=nuclear factor kappa B, NFAT=nuclear factor of activated T cells, PI3K=phosphatidylinositol-4,5-bisphosphate 3-kinase,
+PIP3=phosphatidylinositol (3,4,5 trisphosphate, PKC=protein kinase C, PLC=phospholipase C, RAP=Rap GTP-binding protein
+also known as Ras-related protein, SYK=spleen tyrosine kinase. Hendriks RW. Nature Chem Biol. 2011;7(1):4-5.
+
+Market Opportunity and Competition
+
+Lymphomas are blood-borne cancers involving lymphatic cells of the immune system. They can
+be broadly categorized into NHL and HL. Depending on the origin of the cancer cells, lymphomas can
+also be characterized as B-cell or T-cell lymphomas. B-cell lymphomas make up approximately 85%
+of NHLs and comprise a variety of specific diseases involving B-cells at differing stages of maturation
+or differentiation. According to statistics from the SEER program of the U.S. National Cancer
+Institute, there were 72,240 new NHL cases and 20,140 deaths, and 20,110 new CLL, cases and 4,660
+deaths in 2017 in the United States. According to a published study (Chen et al., Cancer Statistics in
+China, 2015, CA Cancer J. Clin. 2016; 66(2):115-32), which we refer to as Chen et al. 2016, and
+GLOBOCAN 2012 analyses on cancer statistics in China, there are an estimated 42,000 to 88,000 new
+lymphoma cases and 26,000 to 53,000 deaths in China each year.
+
+Conventional methods of treating lymphomas vary according to the specific disease or histology,
+but generally include chemotherapy, antibodies directed at CD20, and,
+less frequently, radiation.
+Recently, significant progress has been made in the development of new therapies for lymphomas,
+including BTK inhibitors, PI3K inhibitors, idelalisib, copanlisib and the Bcl-2 inhibitor, venetoclax.
+Most recently, a cell-based therapy, YESCARTA威, was approved for the treatment of diffuse large
+B-cell lymphoma, or DLBCL. YESCARTA威 is a CD 19 directed genetically modified autologous T-cell
+immuno-oncology therapy.
+
+— 210 —
+
+

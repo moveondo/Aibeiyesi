@@ -1,0 +1,50 @@
+BUSINESS
+
+Adverse reactions to the reference drug
+
+According to the prescribing information of Avastin, the most common adverse
+reactions observed in patients receiving Avastin as a single agent or in combination with
+chemotherapy at a rate > 10%, are epistaxis, headache, hypertension, rhinitis, proteinuria,
+taste alteration, dry skin,
+lacrimation disorder, back pain and
+exfoliative dermatitis. Across clinical studies, Avastin was discontinued in 8% to 22% of
+patients because of adverse reactions.
+
+rectal hemorrhage,
+
+The safety of Avastin was evaluated as first-line treatment in 422 patients with
+unresectable NSCLC who received at least one dose of Avastin in an active-controlled,
+open-label, multicenter trial. Only Grade 3-5 non hematologic and Grade 4-5 hematologic
+adverse reactions were collected. Grade 3-5 non hematologic and Grade 4-5 hematologic
+adverse reactions occurring at a higher incidence (ⱖ 2%) in patients receiving Avastin
+with paclitaxel and carboplatin compared with patients receiving chemotherapy alone
+were neutropenia (27% vs. 17%), fatigue (16% vs. 13%), hypertension (8% vs. 0.7%),
+infection without neutropenia (7% vs. 3%), venous thromboembolism (5% vs. 3%),
+febrile neutropenia (5% vs. 2%), pneumonitis/pulmonary infiltrates (5% vs. 3%),
+infection with Grade 3 or 4 neutropenia (4% vs. 2%), hyponatremia (4% vs. 1%),
+headache (3% vs. 1%) and proteinuria (3% vs. 0%).
+
+Licenses, Rights and Obligations
+
+We obtained CHO cell line that expresses IBI-305 from Suzhou-based Alphamab Co.
+Ltd., or Alphamab. We currently have no material further monetary obligations to Alphamab
+with respect to IBI-305.
+
+WE MAY NOT BE ABLE TO ULTIMATELY DEVELOP AND MARKET IBI-305
+SUCCESSFULLY.
+
+IBI-301 is our biosimilar product candidate to rituximab, which is sold under the trade
+
+names MabThera (美羅華) in China and MabThera/Rituxan outside China.
+
+Mechanism of Action
+
+Rituximab is a recombinant chimeric monoclonal antibody that binds to the cell surface
+protein CD20, which is widely expressed on immune system B-cells. Rituximab mediates
+antibody-dependent cellular cytotoxicity (ADCC) and complement-dependent cytotoxicity
+(CDC), and induces programmed cell death, or apoptosis, of CD20 positive cells. These
+activities result in the elimination of B-cells (including the cancerous ones) from the body.
+
+– 251 –
+
+

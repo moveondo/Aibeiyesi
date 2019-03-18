@@ -1,0 +1,46 @@
+BUSINESS
+
+WE MAY NOT BE ABLE TO ULTIMATELY DEVELOP AND MARKET ZANUBRUTINIB
+
+SUCCESSFULLY.
+
+Tislelizumab (BGB-A317), a PD-1 Antibody
+
+Tislelizumab is an investigational humanized monoclonal antibody against
+
+the immune
+checkpoint receptor PD-1 that is currently being evaluated in pivotal clinical trials globally and in
+China and for which we plan to commence additional pivotal
+trials as a monotherapy and in
+combination with standard of care to treat various solid and hematological cancers. Tislelizumab is
+designed to bind to and block downstream activity of PD-1, a cell surface receptor that plays an
+important
+role in downregulating the immune system by preventing the activation of T-cells.
+Tislelizumab has high affinity and specificity for PD-1. It is differentiated from the currently approved
+PD-1 antibodies by an engineered Fc region, which we believe may minimize potentially negative
+interactions with other
+immune cells based on preclinical data. We have a global strategic
+collaboration with Celgene for tislelizumab for solid tumors outside of Asia (other than Japan) as
+further described in “—Collaboration Agreements—Celgene.”
+
+Mechanism of Action
+
+Cells called cytotoxic T-lymphocytes, or CTLs, provide an important self-defense mechanism
+against cancer, patrolling the body, recognizing cancer cells due to immunogenic features that differ
+from normal cells, and killing cancer cells by injecting deleterious proteins into them. T-lymphocytes
+have various mechanisms that prevent them from damaging normal cells, among which is a protein
+called PD-1 receptor, which is expressed on the surface of T-lymphocytes. PD-L1 is an important
+signaling protein that can engage PD-1. PD-L1 binding to PD-1 sends an inhibitory signal inside the
+T-lymphocyte and abrogates its cytotoxic effects. Many types of cancer cells have hijacked the PD-L1
+expression system that normally exists in healthy cells. By expressing PD-L1, cancer cells protect
+themselves from being killed by CTLs. Tislelizumab is a monoclonal antibody designed to specifically
+bind to PD-1, without activating the receptor, thereby blocking engagement of PD-1 by its ligands
+PD-L1 and PD-L2. Therefore, we believe tislelizumab has the potential to restore the ability of CTLs
+to kill cancer cells. In addition, tislelizumab was specifically engineered to minimize binding to Fc␥R
+on macrophages,
+thereby abrogating antibody-dependent phagocytosis, a potential mechanism of
+T-cell clearance.
+
+— 219 —
+
+

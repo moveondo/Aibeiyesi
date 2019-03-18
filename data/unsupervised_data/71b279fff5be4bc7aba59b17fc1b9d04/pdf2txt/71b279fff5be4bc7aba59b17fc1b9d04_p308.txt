@@ -1,0 +1,52 @@
+FINANCIAL INFORMATION
+
+there was US$63.2 million of total unrecognized share-based compensation expense, net of estimated
+forfeitures, related to unvested share-based awards which are expected to be recognized over a
+weighted-average period of 3.43 years. In future periods, our share-based compensation expense is
+expected to increase as a result of recognizing our existing unrecognized share-based compensation
+for awards that will vest and as we issue additional share-based awards to attract and retain our
+employees.
+
+Income Taxes
+
+We use the liability method of accounting for income taxes. Under this method, deferred tax
+assets and liabilities are determined based on the differences between the financial reporting and the
+tax bases of assets and liabilities and are measured using enacted tax rates that will be in effect when
+the differences are expected to reverse. A valuation allowance is provided when it is more likely than
+not that some portion or all of a deferred tax asset will not be realized.
+
+In accordance with ASU 2015-17, all deferred income tax assets and liabilities are classified as
+
+non-current on the consolidated balance sheets.
+
+We evaluate our uncertain tax positions using the provisions of ASC 740, Income Taxes, which
+prescribes a recognition threshold that a tax position is required to meet before being recognized in
+the financial statements. We recognize in the financial statements the benefit of a tax position which
+is “more likely than not” to be sustained under examination based solely on the technical merits of
+the position assuming a review by tax authorities having all relevant information. Tax positions that
+meet the recognition threshold are measured using a cumulative probability approach, at the largest
+amount of tax benefit that has a greater than fifty percent likelihood of being realized upon settlement.
+It is our policy to recognize interest and penalties related to unrecognized tax benefits, if any, as a
+component of income tax expense.
+
+We recognize income tax consequences of intra-entity transfers of assets, other than inventory,
+when the transfers occur. BeiGene HK’s contribution of BeiGene Shanghai to BeiGene Biologics (and
+subsequent receipt of a related government grant) resulted in tax expenses of US$28.6 million. The
+related government subsidy of $10.0 million, which was received in 2017, was reflected as other
+non-operating income. Additionally, we established a deferred tax asset resulting from a previous
+transfer of intellectual property to one of its wholly-owned subsidiaries. This deferred tax asset is
+entirely offset by a corresponding valuation allowance.
+
+Goodwill and other intangible assets
+
+Goodwill is an asset representing the future economic benefits arising from other assets acquired
+in a business combination that are not individually identified and separately recognized. We allocate
+the cost of an acquired entity to the assets acquired and liabilities assumed based on their estimated
+fair values at the date of acquisition. The excess of the purchase price for acquisitions over the fair
+value of the net assets acquired, including other intangible assets, is recorded as goodwill. Goodwill
+is not amortized, but is tested for impairment at least annually or more frequently if events or changes
+in circumstances would indicate a potential impairment.
+
+— 302 —
+
+

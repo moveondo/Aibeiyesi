@@ -1,0 +1,57 @@
+BUSINESS
+
+Our Pre-clinical Candidates
+
+In addition to our clinical-stage drug candidates, we are also developing seven
+pre-clinical-stage drug candidates. Each of these candidates has been approved by our science
+committee, which reviews all proposals for research programs before they enter discovery and
+development. Our drug discovery platform has allowed us to maintain and expand a strong
+pre-clinical-stage drug pipeline
+such as oncology,
+ophthalmology, cardiovascular and autoimmune diseases. We believe we have the opportunity
+to combine our sintilimab (IBI-308) with other clinical-stage and pre-clinical candidates in our
+pipeline to target multiple immuno-oncology checkpoints.
+
+in potentially important
+
+areas,
+
+We have seven innovative pre-clinical drug candidates as of the Latest Practicable Date.
+These include two mono-specific antibody drug candidates with which no competing antibody
+against the same targets has obtained marketing approval anywhere in the world and also
+include five bi-specific antibody drug candidates. We anticipate advancing three of our
+pre-clinical candidates into the clinical stage in the next 12 months.
+
+Mono-specific Antibodies
+
+IBI-110
+
+IBI-110 is a fully human monoclonal antibody drug candidate that we are developing for
+the treatment of cancers. IBI-110 binds to LAG-3, an immune checkpoint expressed on the
+surface of T cells, NK cells, B cells and plasmacytoid dendritic cells. LAG-3 binds to a major
+histocompatibility complex class II (MHC class II) antigen and negatively regulates the
+proliferation, activation and homeostasis of T-cells. LAG-3 is believed to drive cytotoxic T-cell
+tolerance and immune exhaustion. Blocking LAG-3 binding to the MHC class II antigen with
+IBI-110 should restore activities of tumor infiltrating T cells, reverse T-cell exhaustion and
+drive T-cell activation. Our pre-clinical animal study data show that IBI-110 has good in vivo
+anti-tumor efficacy when combined with an anti-PD-1 antibody.
+
+IBI-939
+
+IBI-939 is a fully human monoclonal antibody drug candidate that we are developing for
+the treatment of cancers. IBI-939 binds to TIGIT. TIGIT is a receptor expressed on the surface
+of T cells and NK cells that can inhibit of immune function after binding to CD155 expressed
+on cancer cells or dendritic cells. IBI-939 binds to TIGIT and blocks its interaction with
+CD155, thereby increasing immune activation.
+
+Bi-specific Antibodies
+
+IBI-322
+
+IBI-322 is an anti-CD47/PD-L1 bi-specific antibody that we are developing for the
+treatment of cancers. IBI-322 simultaneously inhibits both CD47 binding to SIRP␣ and PD-L1
+binding to PD-1. Our pre-clinical studies demonstrate that IBI-322 is effective in inducing
+
+– 277 –
+
+

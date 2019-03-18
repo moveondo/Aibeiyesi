@@ -1,0 +1,58 @@
+FINANCIAL INFORMATION
+
+The process of estimating our research and development expenses involves reviewing open
+contracts and purchase orders, communicating with our personnel to identify services that have been
+performed on our behalf and estimating the level of service performed and the associated costs
+incurred for the services when we have not yet been invoiced or otherwise notified of the actual costs.
+The majority of our service providers invoice us in arrears for services performed, on a pre-determined
+schedule or when contractual milestones are met; however, some require advanced payments. We make
+estimates of our expenses as of each balance sheet date in our financial statements based on facts and
+circumstances known to us at that time. Although we do not expect our estimates to be materially
+different from amounts actually incurred, our understanding of the status and timing of services
+performed relative to the actual status and timing of services performed may vary and may result in
+us reporting expenses that are too high or too low in any particular period. To date, we have not made
+any material adjustments to our prior estimates of research and development expenses.
+
+Share-Based Compensation
+
+Awards Granted to Employees
+
+We apply ASC 718, Compensation—Stock Compensation, or ASC 718,
+
+to account for our
+employee share-based payments. In accordance with ASC 718, we determine whether an award should
+be classified and accounted for as a liability award or equity award. All our grants of share-based
+awards to employees were classified as equity awards and are recognized in the financial statements
+based on their grant date fair values. We have elected to recognize compensation expense using the
+straight-line method for all employee equity awards granted with graded vesting based on service
+conditions provided that the amount of compensation cost recognized at any date is at least equal to
+the portion of the grant-date value of the options that are vested at that date. We use the accelerated
+method for all awards granted with graded vesting based on performance conditions. To the extent the
+required vesting conditions are not met
+the share-based awards,
+previously recognized compensation expense relating to those awards are reversed. ASC 718 requires
+forfeitures to be estimated at the time of grant and revised, if necessary, in the subsequent period if
+actual forfeitures differ from initial estimates.
+
+resulting in the forfeiture of
+
+Forfeiture rates are estimated based on historical and future expectations of employee turnover
+rates and are adjusted to reflect future changes in circumstances and facts,
+if any. Share-based
+compensation expense is recorded net of estimated forfeitures such that expense is recorded only for
+those share-based awards that are expected to vest. To the extent we revise these estimates in the
+future, the share-based payments could be materially impacted in the period of revision, as well as in
+following periods. We, with the assistance of an independent third-party valuation firm, determined
+the estimated fair value of the share options granted to employees using a binomial option pricing
+model.
+
+Awards Granted to Non-employees
+
+We have accounted for equity instruments issued to non-employees in accordance with the
+provisions of ASC 718, Share-based payments, and ASC 505, Equity. All transactions in which goods
+or services are received in exchange for equity instruments are accounted for based on the fair value
+of the consideration received or the fair value of the equity instrument issued, whichever is more
+
+— 299 —
+
+

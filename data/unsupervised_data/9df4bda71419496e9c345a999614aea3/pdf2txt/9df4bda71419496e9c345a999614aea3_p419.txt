@@ -1,0 +1,88 @@
+APPENDIX I
+
+ACCOUNTANTS’ REPORT
+
+In particular, the following information is taken into account when assessing whether credit risk has increased
+
+significantly since initial recognition:
+
+(cid:129)
+
+(cid:129)
+
+(cid:129)
+
+(cid:129)
+
+(cid:129)
+
+(cid:129)
+
+an actual or expected significant deterioration in the financial instrument’s external (if available) or
+internal credit rating;
+
+significant deterioration in external market indicators of credit risk for a particular financial instrument,
+e.g. a significant increase in the credit spread, the credit default swap prices for the debtor, or the length
+of time or the extent to which the fair value of a financial asset has been less than its amortised cost;
+
+existing or forecast adverse changes in business, financial or economic conditions that are expected to
+cause a significant decrease in the debtor‘s ability to meet its debt obligations;
+
+an actual or expected significant deterioration in the operating results of the debtor;
+
+significant increases in credit risk on other financial instruments of the same debtor; and
+
+an actual or expected significant adverse change in the regulatory, economic, or technological
+environment of the debtor that results in a significant decrease in the debtor’s ability to meet its debt
+obligations.
+
+Irrespective of the outcome of the above assessment, the Group presumes that the credit risk on a financial
+asset has increased significantly since initial recognition when contractual payments are more than 30 days past due,
+unless the Group has reasonable and supportable information that demonstrates otherwise.
+
+Despite the aforegoing, the Group assumes that the credit risk on a financial instrument has not increased
+significantly since initial recognition if the financial instrument is determined to have low credit risk at the reporting
+date. A financial instrument is determined to have low credit risk if i) the financial instrument has a low risk of
+default, ii) the borrower has a strong capacity to meet its contractual cash flow obligations in the near term and iii)
+adverse changes in economic and business conditions in the longer term may, but will not necessarily, reduce the
+ability of the borrower to fulfil its contractual cash flow obligations. The Group considers a financial asset to have
+low credit risk when it has an internal or external credit rating of ‘investment grade’ as per globally understood
+definition.
+
+The Group regularly monitors the effectiveness of the criteria used to identify whether there has been a
+significant increase in credit risk and revises them as appropriate to ensure that the criteria are capable of identifying
+significant increase in credit risk before the amount becomes past due.
+
+Definition of default
+
+The Group considers the following as constituting an event of default for internal credit risk management
+purposes as historical experience indicates that receivables that meet either of the following criteria are generally not
+recoverable.
+
+(cid:129)
+
+(cid:129)
+
+when there is a breach of financial covenants by the counterparty; or
+
+information developed internally or obtained from external sources indicates that the debtor is unlikely
+to pay its creditors, including the Group, in full (without taking into account any collaterals held by the
+Group).
+
+Irrespective of the above analysis, the Group considers that default has occurred when a financial asset is more
+than 90 days past due unless the Group has reasonable and supportable information to demonstrate that a more
+lagging default criterion is more appropriate.
+
+Credit-impaired financial assets
+
+Financial asset is credit-impaired when one or more events that have a detrimental impact on the estimated
+future cash flows of that financial asset have occurred. Evidence that a financial asset is credit-impaired includes
+observable data about the following events:
+
+(a)
+
+significant financial difficulty of the issuer or the borrower;
+
+– I-26 –
+
+

@@ -1,0 +1,117 @@
+{
+    "root": true,
+    "children": [
+        {
+            "left": 1155,
+            "top": 1462,
+            "text": "1、《钢铁行业事件点评：关注戴南中频炉取缔的投资",
+            "pageid": 1,
+            "font-size": 22,
+            "font-id": "f6",
+            "data-offset-start": 1045,
+            "data-offset-end": 1069,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 1155,
+            "top": 1584,
+            "text": "3、《钢铁行业深度报告：供给与制造业景气周期共振",
+            "pageid": 1,
+            "font-size": 22,
+            "font-id": "f6",
+            "data-offset-start": 1202,
+            "data-offset-end": 1228,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 1155,
+            "top": 1642,
+            "level": "Level_0",
+            "text": "4、《钢铁行业事件点评：从幸存者偏差理解统计数据",
+            "pageid": 1,
+            "font-size": 22,
+            "font-id": "f6",
+            "data-offset-start": 1331,
+            "children": [
+                {
+                    "left": 583,
+                    "top": 1053,
+                    "text": "一、营业总收入",
+                    "pageid": 43,
+                    "font-size": 27,
+                    "font-id": "f7",
+                    "data-offset-start": 196,
+                    "data-offset-end": 202,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 583,
+                    "top": 1100,
+                    "text": "二、营业总成本",
+                    "pageid": 43,
+                    "font-size": 27,
+                    "font-id": "f7",
+                    "data-offset-start": 204,
+                    "data-offset-end": 210,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 597,
+                    "top": 1440,
+                    "text": "三、营业利润",
+                    "pageid": 43,
+                    "font-size": 27,
+                    "font-id": "f7",
+                    "data-offset-start": 247,
+                    "data-offset-end": 252,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 597,
+                    "top": 1487,
+                    "text": "四、利润总额",
+                    "pageid": 43,
+                    "font-size": 27,
+                    "font-id": "f7",
+                    "data-offset-start": 254,
+                    "data-offset-end": 259,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 610,
+                    "top": 1537,
+                    "level": "Level_1",
+                    "text": "五、净利润",
+                    "pageid": 43,
+                    "font-size": 27,
+                    "font-id": "f7",
+                    "data-offset-start": 261,
+                    "data-offset-end": 265,
+                    "color": "rgba(0,0,0,1)",
+                    "children": [
+                        {
+                            "left": 477,
+                            "top": 1808,
+                            "text": "（1）需求不及预期；（2）环保限产效果不及预期。",
+                            "pageid": 49,
+                            "font-size": 31,
+                            "font-id": "f7",
+                            "data-offset-start": 763,
+                            "data-offset-end": 786,
+                            "color": "rgba(0,0,0,1)",
+                            "level": "Level_2"
+                        }
+                    ]
+                }
+            ],
+            "color": "rgba(0,0,0,1)",
+            "data-offset-end": 1357
+        }
+    ]
+}

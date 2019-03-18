@@ -1,0 +1,263 @@
+{
+    "root": true,
+    "children": [
+        {
+            "left": 425,
+            "top": 1221,
+            "text": "一、靶点概述：",
+            "pageid": 3,
+            "font-size": 28,
+            "font-id": "f7",
+            "data-offset-start": 471,
+            "data-offset-end": 477,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 425,
+            "top": 481,
+            "text": "二、相关投资标的：",
+            "pageid": 5,
+            "font-size": 28,
+            "font-id": "f6",
+            "data-offset-start": 124,
+            "data-offset-end": 132,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 425,
+            "top": 381,
+            "text": "一、四大动力助推我国创新药物研发.......................................................................11",
+            "pageid": 6,
+            "font-size": 31,
+            "font-id": "f6",
+            "data-offset-start": 19,
+            "data-offset-end": 110,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 425,
+            "top": 662,
+            "text": "二、抗肿瘤靶向药物市场快速增长...........................................................................14",
+            "pageid": 6,
+            "font-size": 31,
+            "font-id": "f6",
+            "data-offset-start": 517,
+            "data-offset-end": 611,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 425,
+            "top": 999,
+            "text": "三、肿瘤靶向药物研发大热......................................................................................21",
+            "pageid": 6,
+            "font-size": 31,
+            "font-id": "f6",
+            "data-offset-start": 1023,
+            "data-offset-end": 1125,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 425,
+            "top": 1167,
+            "text": "四、靶向药物热门靶点梳理......................................................................................23",
+            "pageid": 6,
+            "font-size": 31,
+            "font-id": "f6",
+            "data-offset-start": 1314,
+            "data-offset-end": 1416,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 425,
+            "top": 1673,
+            "text": "五、相关投资标的：国内研发型药企研发管线一览..................................................73",
+            "pageid": 6,
+            "font-size": 31,
+            "font-id": "f6",
+            "data-offset-start": 2121,
+            "data-offset-end": 2196,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 425,
+            "top": 2066,
+            "text": "六、风险提示............................................................................................................82",
+            "pageid": 6,
+            "font-size": 31,
+            "font-id": "f6",
+            "data-offset-start": 2655,
+            "data-offset-end": 2773,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 425,
+            "top": 261,
+            "text": "一、四大动力助推我国创新药物研发",
+            "pageid": 12,
+            "font-size": 47,
+            "font-id": "f6",
+            "data-offset-start": 14,
+            "data-offset-end": 30,
+            "color": "rgba(234,84,3,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 425,
+            "top": 1792,
+            "level": "Level_0",
+            "text": "二、抗肿瘤靶向药物市场快速增长",
+            "pageid": 15,
+            "font-size": 47,
+            "font-id": "f10",
+            "data-offset-start": 1082,
+            "children": [
+                {
+                    "left": 425,
+                    "top": 980,
+                    "text": "8、9位，占前十销售额40.8%。前十药物中化疗药物占比还很高，未来这部分份额有相当一部分将会被靶向药物替代。",
+                    "pageid": 22,
+                    "font-size": 28,
+                    "font-id": "f2",
+                    "data-offset-start": 138,
+                    "data-offset-end": 195,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                }
+            ],
+            "color": "rgba(234,84,3,1)",
+            "data-offset-end": 1097
+        },
+        {
+            "left": 425,
+            "top": 2029,
+            "text": "三、肿瘤靶向药物研发大热",
+            "pageid": 22,
+            "font-size": 47,
+            "font-id": "f11",
+            "data-offset-start": 829,
+            "data-offset-end": 841,
+            "color": "rgba(234,84,3,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 425,
+            "top": 1300,
+            "level": "Level_0",
+            "text": "四、靶向药物热门靶点梳理",
+            "pageid": 24,
+            "font-size": 47,
+            "font-id": "f10",
+            "data-offset-start": 292,
+            "children": [
+                {
+                    "left": 462,
+                    "top": 754,
+                    "text": "164、",
+                    "pageid": 63,
+                    "font-size": 25,
+                    "font-id": "f7",
+                    "data-offset-start": 135,
+                    "data-offset-end": 139,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 462,
+                    "top": 799,
+                    "text": "012、",
+                    "pageid": 63,
+                    "font-size": 25,
+                    "font-id": "f7",
+                    "data-offset-start": 141,
+                    "data-offset-end": 145,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 462,
+                    "top": 843,
+                    "text": "028、",
+                    "pageid": 63,
+                    "font-size": 25,
+                    "font-id": "f7",
+                    "data-offset-start": 147,
+                    "data-offset-end": 151,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                }
+            ],
+            "color": "rgba(234,84,3,1)",
+            "data-offset-end": 304
+        },
+        {
+            "left": 425,
+            "top": 1339,
+            "text": "五、相关投资标的：国内研发型药企研发管线一览",
+            "pageid": 74,
+            "font-size": 47,
+            "font-id": "f10",
+            "data-offset-start": 676,
+            "data-offset-end": 698,
+            "color": "rgba(234,84,3,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 425,
+            "top": 1317,
+            "level": "Level_0",
+            "text": "六、风险提示",
+            "pageid": 83,
+            "font-size": 47,
+            "font-id": "f11",
+            "data-offset-start": 418,
+            "children": [
+                {
+                    "left": 425,
+                    "top": 1411,
+                    "text": "1、研发失败的风险：",
+                    "pageid": 83,
+                    "font-size": 28,
+                    "font-id": "f10",
+                    "data-offset-start": 426,
+                    "data-offset-end": 436,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 425,
+                    "top": 1869,
+                    "text": "2、产品放量不达预期的风险：",
+                    "pageid": 83,
+                    "font-size": 28,
+                    "font-id": "f10",
+                    "data-offset-start": 864,
+                    "data-offset-end": 878,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 425,
+                    "top": 2161,
+                    "text": "3、海外市场拓展风险：",
+                    "pageid": 83,
+                    "font-size": 28,
+                    "font-id": "f10",
+                    "data-offset-start": 1120,
+                    "data-offset-end": 1131,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                }
+            ],
+            "color": "rgba(234,84,3,1)",
+            "data-offset-end": 424
+        }
+    ]
+}

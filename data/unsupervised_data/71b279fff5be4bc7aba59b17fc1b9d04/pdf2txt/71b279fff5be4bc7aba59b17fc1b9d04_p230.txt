@@ -1,0 +1,50 @@
+BUSINESS
+
+AEs assessed by the investigator to be treatment-related occurred in seven patients (39%). Of
+those, only fatigue (11%, all grade 1 or 2) was reported in more than one patient. One case of grade
+3 nausea was the only treatment-related AE of grade 3 or higher in severity. No patient discontinued
+treatment due to a treatment-related AE, and of the nine deaths reported, none were considered to be
+treatment-related.
+
+The efficacy-evaluable population included 17 HNSCC patients. Despite short median follow-up
+time, three achieved a confirmed PR and six achieved SD. At the time of the data cutoff, three patients
+remained on treatment.
+
+Ovarian Cancer
+
+The OC dataset included 51 patients treated with tislelizumab at different dose levels (0.5 to 10
+mg/kg Q2W in dose escalation, 2 or 5 mg/kg Q2W or Q3W or 200 mg Q3W in dose expansion, or 5
+mg/kg Q3W in indication expansion). At the time of the data cutoff on June 8, 2017, median treatment
+duration was 71 days (range 29—540 days).
+
+AEs assessed by the investigator to be treatment-related occurred in 28 patients (55%). Of those,
+fatigue (18%), pruritus (10%), rash (10%), diarrhea (10%), lethargy (6%), nausea (6%), abdominal
+pain (4%), dry eye (4%), dry skin (4%), onychoclasis (4%) and maculo-papular rash (4%) were
+reported in more than one patient, and all, except one case of grade 3 diarrhea, were grades 1 or 2.
+Two additional treatment-related AEs of grade 3 or higher included one case each of grade 3 pyrexia
+and stomatitis. SAEs considered to be treatment-related occurred in three patients and included one
+case each of pyrexia, colitis and mucosal inflammation.
+
+The efficacy-evaluable population included 50 OC patients. Two achieved a confirmed PR and
+
+20 achieved SD. At the time of the data cutoff, six patients remained on treatment.
+
+Urothelial Cancer
+
+The UC dataset included 16 patients. Of these, 12 had one or more prior systemic anticancer
+treatment for metastatic disease and the remaining four had progressed after receiving platinum-based
+regimen in the neoadjuvant or adjuvant setting. In addition, five patients had prior radiotherapy. At
+the time of the data cutoff on August 28, 2017, median treatment duration was 4.3 months (range of
+0.7 to 18.3 months). A total of six patients remained on treatment.
+
+AEs assessed by the investigator to be treatment-related occurred in 14 patients (88%). Of those,
+fatigue (31%), rash (19%), infusion-related reactions (13%), nausea (13%), pain in extremity (13%)
+and proteinuria (13%) occurred in more than one patient. All of the treatment-related AEs were grade
+1 or 2 except one case each of fatigue, hyperglycemia and diabetes mellitus. One AE of muscle
+weakness, which was associated with disease progression and occurred more than one month after the
+last dose of tislelizumab, had a fatal outcome. This event was considered by the investigator not to
+be treatment-related.
+
+— 224 —
+
+

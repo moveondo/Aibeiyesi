@@ -1,0 +1,75 @@
+APPENDIX I
+
+IFRS 16 Leases
+
+ACCOUNTANTS’ REPORT
+
+IFRS 16 introduces a comprehensive model for the identification of lease arrangements and accounting
+treatments for both lessors and lessees. IFRS 16 will supersede IAS 17 Leases and the related interpretations when
+it becomes effective.
+
+IFRS 16 distinguishes lease and service contracts on the basis of whether an identified asset is controlled by
+a customer. Distinctions of operating leases and finance leases are removed for lessee accounting, and is replaced by
+a model where a right-of-use asset and a corresponding liability have to be recognised for all leases by lessees, except
+for short-term leases and leases of low value assets.
+
+The right-of-use asset is initially measured at cost and subsequently measured at cost (subject to certain
+exceptions) less accumulated depreciation and impairment losses, adjusted for any re-measurement of the lease
+liability. The lease liability is initially measured at the present value of the lease payments that are not paid at that
+date. Subsequently, the lease liability is adjusted for interest and lease payments, as well as the impact of lease
+modifications, amongst others. For the classification of cash flows, the Group currently presents upfront prepaid lease
+payments as investing cash flows in relation to leasehold lands for owned use while other operating lease payments
+are presented as operating cash flows. Upon application of the IFRS 16, lease payments in relation to lease liability
+will be allocated into a principal and an interest portion which will be presented as financing cash flows respectively
+by the Group.
+
+Under IAS 17, the Group has already recognised prepaid lease payments for leasehold lands where the Group
+is a lessee. The application of IFRS 16 may result in potential changes in classification of these assets depending on
+whether the Group presents right-of-use assets separately or within the same line item at which the corresponding
+underlying assets would be presented if they were owned.
+
+In contrast to lessee accounting, IFRS 16 substantially carries forward the lessor accounting requirements in
+
+IAS 17, and continues to require a lessor to classify a lease either as an operating lease or a finance lease.
+
+Furthermore, extensive disclosures are required by IFRS 16.
+
+At
+
+June 30, 2018,
+
+the Group has non-cancellable operating lease commitments of approximately
+RMB14,031,000 as disclosed in Note 34. A preliminary assessment indicates that these arrangements will meet the
+definition of a lease. Upon application of IFRS 16, the Group will recognise a right-of-use asset and a corresponding
+liability in respect of all these leases unless they qualify for low value or short-term leases.
+
+In addition, the Group currently considers refundable rental deposits paid of RMB6,228,000 as at June 30,
+2018 as rights under leases to which IAS 17 applies. Based on the definition of lease payments under IFRS 16, such
+deposits are not payments relating to the right to use the underlying assets, accordingly, the carrying amounts of such
+deposits may be adjusted to amortised cost and such adjustments are considered as additional lease payments.
+Adjustments to refundable rental deposits paid would be included in the carrying amount of right-of-use assets.
+
+Furthermore, the application of new requirements may result changes in measurement, presentation and
+
+disclosure as indicated above.
+
+The directors of the Company assessed that such changes would increase the consolidated assets and
+consolidated liabilities of the Group, but would not result in a significant impact on the financial performance of the
+Group upon adoption of IFRS 16.
+
+4.
+
+SIGNIFICANT ACCOUNTING POLICIES
+
+The Historical Financial Information has been prepared in accordance with the following accounting policies
+which conform with IFRSs issued by the IASB. In addition, the Historical Financial Information includes applicable
+disclosures required by the Rules Governing the Listing of Securities on the Stock Exchange and complied with the
+Hong Kong Companies Ordinance.
+
+The Historical Financial Information has been prepared on the historical cost basis except for certain financial
+instruments that are measured at fair values at the end of each reporting period, as explained in the accounting
+policies set out below.
+
+– I-14 –
+
+

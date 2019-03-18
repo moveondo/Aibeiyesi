@@ -1,0 +1,40 @@
+INDUSTRY OVERVIEW
+
+Overview of PD-1/PD-L1 Inhibitors
+
+Cells called cytotoxic T-lymphocytes, or CTLs, provide an important self-defense mechanism
+against cancer, patrolling the body, recognizing cancer cells due to immunogenic features that differ
+from normal cells, and killing cancer cells. T-lymphocytes have various mechanisms that prevent them
+from damaging normal cells, among which is a protein called PD-1 receptor, which is expressed on
+the surface of T-lymphocytes. PD-L1 is an important signaling protein that can engage PD-1. PD-L1
+binding to PD-1 sends an inhibitory signal inside the T-lymphocyte and abrogates its cytotoxic effects.
+Many types of cancer cells have hijacked the PD-L1 expression system that normally exists in healthy
+cells. By expressing PD-L1, cancer cells protect themselves from being killed by CTLs. A monoclonal
+antibody can prevent PD-L1 from engaging PD-1 by specifically binding to PD-1 without activating
+the receptor, or by binding to PD-L1, and therefore restore the ability of CTLs to kill cancer cells.
+
+A number of PD-1/PD-L1 inhibitors have been approved by the FDA, including two marketed
+PD-1 antibodies, Merck’s KEYTRUDA威 (pembrolizumab) and Bristol-Myers Squibb’s OPDIVO威
+(nivolumab), as well as three marketed PD-L1 antibodies, Roche’s TECENTRIQ威 (atezolizumab),
+AstraZeneca’s IMFINZI威 (durvalumab) and Pfizer and Merck Serono’s BAVENCIO威 (avelumab). In
+the global setting, several PD-1/PD-L1 inhibitors are in clinical development, such as BeiGene Ltd.’s
+tislelizumab, Regeneron’s
+and Pfizer’s
+PF-06801591.
+
+cemiplimab, Novartis’ PDR-001, Tesaro’s TSR042
+
+Both KEYTRUDA威 and OPDIVO威 have been approved for multiple indications,
+
+including
+unresectable or metastatic melanoma, NSCLC, classic HL, or cHL, head and neck squamous cell
+carcinoma, or HNSCC, and urothelial carcinoma, or UC. OPDIVO威 has also been approved for renal
+cell carcinoma, colorectal carcinoma and HCC, and KEYTRUDA威 has also been approved for
+microsatellite instability-high, or MSI-high, cancer and gastric cancer, or GC.
+In addition,
+TECENTRIQ威, IMFINZI威 and BAVENCIO威 have been approved for a total of five indications,
+including three in UC and one each in NSCLC and Merkel cell carcinoma.
+
+— 158 —
+
+

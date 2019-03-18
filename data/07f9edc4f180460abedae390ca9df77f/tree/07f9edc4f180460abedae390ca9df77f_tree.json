@@ -1,0 +1,921 @@
+{
+    "root": true,
+    "children": [
+        {
+            "left": 127,
+            "top": 278,
+            "level": "Level_0",
+            "text": "一、行情回顾及展望：18年权益及大宗表现低迷，19年看好贵金属配置价值",
+            "pageid": 4,
+            "font-size": 47,
+            "font-id": "f8",
+            "data-offset-start": 25,
+            "children": [
+                {
+                    "left": 127,
+                    "top": 1125,
+                    "level": "Level_1",
+                    "text": "（一）大宗商品景气度下行，有色板块整体偏弱运行",
+                    "pageid": 4,
+                    "font-size": 42,
+                    "font-id": "f8",
+                    "data-offset-start": 556,
+                    "data-offset-end": 578,
+                    "color": "rgba(0,0,0,1)",
+                    "children": [
+                        {
+                            "left": 127,
+                            "top": 1209,
+                            "text": "1、宏观需求预期偏悲观，大宗商品偏弱运行",
+                            "pageid": 4,
+                            "font-size": 31,
+                            "font-id": "f9",
+                            "data-offset-start": 580,
+                            "data-offset-end": 599,
+                            "color": "rgba(0,80,149,1)",
+                            "level": "Level_2"
+                        },
+                        {
+                            "left": 127,
+                            "top": 1579,
+                            "text": "2、结构上全年金属行情分化，部分贵金属及小金属表现较好",
+                            "pageid": 5,
+                            "font-size": 31,
+                            "font-id": "f10",
+                            "data-offset-start": 526,
+                            "data-offset-end": 552,
+                            "color": "rgba(0,80,149,1)",
+                            "level": "Level_2"
+                        }
+                    ]
+                },
+                {
+                    "left": 127,
+                    "top": 1429,
+                    "level": "Level_1",
+                    "text": "（二）有色金属二级市场表现低迷",
+                    "pageid": 6,
+                    "font-size": 42,
+                    "font-id": "f8",
+                    "data-offset-start": 1058,
+                    "data-offset-end": 1072,
+                    "color": "rgba(0,0,0,1)",
+                    "children": [
+                        {
+                            "left": 127,
+                            "top": 1514,
+                            "text": "1、有色金属板块估值大幅调整，盈利端小幅上涨",
+                            "pageid": 6,
+                            "font-size": 31,
+                            "font-id": "f10",
+                            "data-offset-start": 1074,
+                            "data-offset-end": 1095,
+                            "color": "rgba(0,80,149,1)",
+                            "level": "Level_2"
+                        },
+                        {
+                            "left": 127,
+                            "top": 996,
+                            "text": "2、行业归母盈利能力修复但净利润增速大幅下滑，基金持仓出现2016年以来低点",
+                            "pageid": 8,
+                            "font-size": 31,
+                            "font-id": "f10",
+                            "data-offset-start": 302,
+                            "data-offset-end": 341,
+                            "color": "rgba(0,80,149,1)",
+                            "level": "Level_2"
+                        }
+                    ]
+                },
+                {
+                    "left": 127,
+                    "top": 2224,
+                    "text": "（三）2019年展望:看好贵金属配置价值，关注宏观预期修复",
+                    "pageid": 9,
+                    "font-size": 42,
+                    "font-id": "f8",
+                    "data-offset-start": 798,
+                    "data-offset-end": 827,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                }
+            ],
+            "color": "rgba(0,80,149,1)",
+            "data-offset-end": 62
+        },
+        {
+            "left": 127,
+            "top": 1670,
+            "level": "Level_0",
+            "text": "二、贵金属：配置价值凸显，建议关注黄金、白银",
+            "pageid": 10,
+            "font-size": 47,
+            "font-id": "f8",
+            "data-offset-start": 929,
+            "children": [
+                {
+                    "left": 127,
+                    "top": 1772,
+                    "level": "Level_1",
+                    "text": "（一）黄金：看好中长期价格走势",
+                    "pageid": 10,
+                    "font-size": 42,
+                    "font-id": "f8",
+                    "data-offset-start": 952,
+                    "data-offset-end": 966,
+                    "color": "rgba(0,0,0,1)",
+                    "children": [
+                        {
+                            "left": 127,
+                            "top": 1857,
+                            "text": "1、加息对金价利空边际效应减弱",
+                            "pageid": 10,
+                            "font-size": 31,
+                            "font-id": "f9",
+                            "data-offset-start": 968,
+                            "data-offset-end": 982,
+                            "color": "rgba(0,80,149,1)",
+                            "level": "Level_2"
+                        },
+                        {
+                            "left": 127,
+                            "top": 1845,
+                            "text": "2、美国经济高速增长预期回落",
+                            "pageid": 11,
+                            "font-size": 31,
+                            "font-id": "f12",
+                            "data-offset-start": 728,
+                            "data-offset-end": 741,
+                            "color": "rgba(0,80,149,1)",
+                            "level": "Level_2"
+                        },
+                        {
+                            "left": 127,
+                            "top": 1522,
+                            "text": "3、实际利率大概率筑顶，料将进入下行通道",
+                            "pageid": 12,
+                            "font-size": 31,
+                            "font-id": "f12",
+                            "data-offset-start": 597,
+                            "data-offset-end": 616,
+                            "color": "rgba(0,80,149,1)",
+                            "level": "Level_2"
+                        },
+                        {
+                            "left": 127,
+                            "top": 961,
+                            "level": "Level_2",
+                            "text": "3、关注标的",
+                            "pageid": 13,
+                            "font-size": 31,
+                            "font-id": "f12",
+                            "data-offset-start": 199,
+                            "children": [
+                                {
+                                    "left": 188,
+                                    "top": 1016,
+                                    "text": "（1）山东黄金",
+                                    "pageid": 13,
+                                    "font-size": 29,
+                                    "font-id": "f8",
+                                    "data-offset-start": 206,
+                                    "data-offset-end": 212,
+                                    "color": "rgba(0,0,0,1)",
+                                    "level": "Level_4"
+                                },
+                                {
+                                    "left": 188,
+                                    "top": 1383,
+                                    "text": "（2）中金黄金",
+                                    "pageid": 13,
+                                    "font-size": 29,
+                                    "font-id": "f8",
+                                    "data-offset-start": 430,
+                                    "data-offset-end": 436,
+                                    "color": "rgba(0,0,0,1)",
+                                    "level": "Level_4"
+                                }
+                            ],
+                            "color": "rgba(0,80,149,1)",
+                            "data-offset-end": 204
+                        }
+                    ]
+                },
+                {
+                    "left": 127,
+                    "top": 283,
+                    "level": "Level_1",
+                    "text": "（二）白银：短端不确定性支撑价格，静待金银比回归",
+                    "pageid": 14,
+                    "font-size": 42,
+                    "font-id": "f8",
+                    "data-offset-start": 25,
+                    "data-offset-end": 48,
+                    "color": "rgba(0,0,0,1)",
+                    "children": [
+                        {
+                            "left": 127,
+                            "top": 1777,
+                            "text": "2、白银的供需预期维持紧平衡",
+                            "pageid": 14,
+                            "font-size": 31,
+                            "font-id": "f9",
+                            "data-offset-start": 792,
+                            "data-offset-end": 805,
+                            "color": "rgba(0,80,149,1)",
+                            "level": "Level_2"
+                        },
+                        {
+                            "left": 127,
+                            "top": 367,
+                            "level": "Level_2",
+                            "text": "3、关注标的",
+                            "pageid": 16,
+                            "font-size": 31,
+                            "font-id": "f9",
+                            "data-offset-start": 33,
+                            "children": [
+                                {
+                                    "left": 186,
+                                    "top": 736,
+                                    "text": "（2）银泰资源",
+                                    "pageid": 16,
+                                    "font-size": 29,
+                                    "font-id": "f8",
+                                    "data-offset-start": 207,
+                                    "data-offset-end": 213,
+                                    "color": "rgba(0,0,0,1)",
+                                    "level": "Level_4"
+                                }
+                            ],
+                            "color": "rgba(0,80,149,1)",
+                            "data-offset-end": 38
+                        }
+                    ]
+                },
+                {
+                    "left": 127,
+                    "top": 1631,
+                    "level": "Level_1",
+                    "text": "（三）钯金：价格连创历史新高，供需缺口或进一步扩大",
+                    "pageid": 16,
+                    "font-size": 42,
+                    "font-id": "f8",
+                    "data-offset-start": 703,
+                    "data-offset-end": 727,
+                    "color": "rgba(0,0,0,1)",
+                    "children": [
+                        {
+                            "left": 127,
+                            "top": 1715,
+                            "text": "1、供需紧张由来已久，缺口震荡扩大助推钯金价格偏强运行",
+                            "pageid": 16,
+                            "font-size": 31,
+                            "font-id": "f9",
+                            "data-offset-start": 729,
+                            "data-offset-end": 755,
+                            "color": "rgba(0,80,149,1)",
+                            "level": "Level_2"
+                        },
+                        {
+                            "left": 143,
+                            "top": 896,
+                            "text": "2、全球供给保持平稳，俄罗斯年产量小幅收缩",
+                            "pageid": 17,
+                            "font-size": 31,
+                            "font-id": "f10",
+                            "data-offset-start": 372,
+                            "data-offset-end": 392,
+                            "color": "rgba(0,80,149,1)",
+                            "level": "Level_2"
+                        },
+                        {
+                            "left": 127,
+                            "top": 929,
+                            "text": "3、需求持续增长，自动催化剂领域领跑需求端",
+                            "pageid": 18,
+                            "font-size": 31,
+                            "font-id": "f10",
+                            "data-offset-start": 275,
+                            "data-offset-end": 295,
+                            "color": "rgba(0,80,149,1)",
+                            "level": "Level_2"
+                        },
+                        {
+                            "left": 127,
+                            "top": 2181,
+                            "level": "Level_2",
+                            "text": "4、关注标的",
+                            "pageid": 19,
+                            "font-size": 31,
+                            "font-id": "f10",
+                            "data-offset-start": 813,
+                            "children": [
+                                {
+                                    "left": 188,
+                                    "top": 2236,
+                                    "text": "（1）贵研铂业",
+                                    "pageid": 19,
+                                    "font-size": 29,
+                                    "font-id": "f8",
+                                    "data-offset-start": 820,
+                                    "data-offset-end": 826,
+                                    "color": "rgba(0,0,0,1)",
+                                    "level": "Level_4"
+                                }
+                            ],
+                            "color": "rgba(0,80,149,1)",
+                            "data-offset-end": 818
+                        }
+                    ]
+                },
+                {
+                    "left": 127,
+                    "top": 811,
+                    "level": "Level_1",
+                    "text": "（一）铜：全球供需仍处紧平衡，需求或将回暖",
+                    "pageid": 20,
+                    "font-size": 42,
+                    "font-id": "f8",
+                    "data-offset-start": 331,
+                    "data-offset-end": 351,
+                    "color": "rgba(0,0,0,1)",
+                    "children": [
+                        {
+                            "left": 127,
+                            "top": 1954,
+                            "text": "1、未来铜新增产能有限，进口废铜降幅显著",
+                            "pageid": 20,
+                            "font-size": 31,
+                            "font-id": "f9",
+                            "data-offset-start": 809,
+                            "data-offset-end": 828,
+                            "color": "rgba(0,80,149,1)",
+                            "level": "Level_2"
+                        },
+                        {
+                            "left": 127,
+                            "top": 1702,
+                            "text": "2、电网建设及新能源汽车有望带动铜需求",
+                            "pageid": 22,
+                            "font-size": 31,
+                            "font-id": "f9",
+                            "data-offset-start": 580,
+                            "data-offset-end": 598,
+                            "color": "rgba(0,80,149,1)",
+                            "level": "Level_2"
+                        },
+                        {
+                            "left": 127,
+                            "top": 1065,
+                            "text": "3、铜供需预期维持紧平衡",
+                            "pageid": 24,
+                            "font-size": 31,
+                            "font-id": "f9",
+                            "data-offset-start": 356,
+                            "data-offset-end": 367,
+                            "color": "rgba(0,80,149,1)",
+                            "level": "Level_2"
+                        },
+                        {
+                            "left": 127,
+                            "top": 933,
+                            "level": "Level_2",
+                            "text": "3、关注标的",
+                            "pageid": 25,
+                            "font-size": 31,
+                            "font-id": "f10",
+                            "data-offset-start": 615,
+                            "children": [
+                                {
+                                    "left": 186,
+                                    "top": 988,
+                                    "text": "（1）紫金矿业",
+                                    "pageid": 25,
+                                    "font-size": 29,
+                                    "font-id": "f8",
+                                    "data-offset-start": 622,
+                                    "data-offset-end": 628,
+                                    "color": "rgba(0,0,0,1)",
+                                    "level": "Level_4"
+                                },
+                                {
+                                    "left": 186,
+                                    "top": 1463,
+                                    "text": "（2）铜陵有色",
+                                    "pageid": 25,
+                                    "font-size": 29,
+                                    "font-id": "f8",
+                                    "data-offset-start": 904,
+                                    "data-offset-end": 910,
+                                    "color": "rgba(0,0,0,1)",
+                                    "level": "Level_4"
+                                }
+                            ],
+                            "color": "rgba(0,80,149,1)",
+                            "data-offset-end": 620
+                        }
+                    ]
+                },
+                {
+                    "left": 127,
+                    "top": 2268,
+                    "level": "Level_1",
+                    "text": "（二）铝：供给结构渐趋优化，关注需求端复苏进程",
+                    "pageid": 25,
+                    "font-size": 42,
+                    "font-id": "f8",
+                    "data-offset-start": 1280,
+                    "data-offset-end": 1302,
+                    "color": "rgba(0,0,0,1)",
+                    "children": [
+                        {
+                            "left": 127,
+                            "top": 2290,
+                            "text": "2、下游需求提振有待宏观预期回暖",
+                            "pageid": 28,
+                            "font-size": 31,
+                            "font-id": "f12",
+                            "data-offset-start": 1236,
+                            "data-offset-end": 1251,
+                            "color": "rgba(0,80,149,1)",
+                            "level": "Level_2"
+                        },
+                        {
+                            "left": 127,
+                            "top": 1378,
+                            "level": "Level_2",
+                            "text": "3、关注标的",
+                            "pageid": 31,
+                            "font-size": 31,
+                            "font-id": "f11",
+                            "data-offset-start": 533,
+                            "children": [
+                                {
+                                    "left": 188,
+                                    "top": 1433,
+                                    "text": "（1）中国铝业（601600）",
+                                    "pageid": 31,
+                                    "font-size": 29,
+                                    "font-id": "f8",
+                                    "data-offset-start": 540,
+                                    "data-offset-end": 554,
+                                    "color": "rgba(0,0,0,1)",
+                                    "level": "Level_4"
+                                }
+                            ],
+                            "color": "rgba(0,80,149,1)",
+                            "data-offset-end": 538
+                        }
+                    ]
+                },
+                {
+                    "left": 127,
+                    "top": 2263,
+                    "level": "Level_1",
+                    "text": "（三）锡：需求稳定增长，供给难有改善",
+                    "pageid": 31,
+                    "font-size": 42,
+                    "font-id": "f8",
+                    "data-offset-start": 844,
+                    "data-offset-end": 861,
+                    "color": "rgba(0,0,0,1)",
+                    "children": [
+                        {
+                            "left": 127,
+                            "top": 292,
+                            "text": "1、锡上游供给出现缩量",
+                            "pageid": 32,
+                            "font-size": 31,
+                            "font-id": "f9",
+                            "data-offset-start": 25,
+                            "data-offset-end": 35,
+                            "color": "rgba(0,80,149,1)",
+                            "level": "Level_2"
+                        },
+                        {
+                            "left": 127,
+                            "top": 1351,
+                            "text": "2、全球锡需求小幅增长",
+                            "pageid": 34,
+                            "font-size": 31,
+                            "font-id": "f9",
+                            "data-offset-start": 309,
+                            "data-offset-end": 319,
+                            "color": "rgba(0,80,149,1)",
+                            "level": "Level_2"
+                        },
+                        {
+                            "left": 127,
+                            "top": 1409,
+                            "level": "Level_2",
+                            "text": "3、关注标的",
+                            "pageid": 35,
+                            "font-size": 31,
+                            "font-id": "f10",
+                            "data-offset-start": 406,
+                            "children": [
+                                {
+                                    "left": 188,
+                                    "top": 1464,
+                                    "text": "（1）锡业股份",
+                                    "pageid": 35,
+                                    "font-size": 29,
+                                    "font-id": "f8",
+                                    "data-offset-start": 413,
+                                    "data-offset-end": 419,
+                                    "color": "rgba(0,0,0,1)",
+                                    "level": "Level_4"
+                                }
+                            ],
+                            "color": "rgba(0,80,149,1)",
+                            "data-offset-end": 411
+                        },
+                        {
+                            "left": 127,
+                            "top": 993,
+                            "text": "1、矿山产量逐步恢复，原料供应增长预期不断升温",
+                            "pageid": 36,
+                            "font-size": 31,
+                            "font-id": "f9",
+                            "data-offset-start": 442,
+                            "data-offset-end": 464,
+                            "color": "rgba(0,80,149,1)",
+                            "level": "Level_2"
+                        },
+                        {
+                            "left": 127,
+                            "top": 1374,
+                            "text": "2、全球锌消费增速或将放缓",
+                            "pageid": 37,
+                            "font-size": 31,
+                            "font-id": "f10",
+                            "data-offset-start": 632,
+                            "data-offset-end": 644,
+                            "color": "rgba(0,80,149,1)",
+                            "level": "Level_2"
+                        },
+                        {
+                            "left": 143,
+                            "top": 1894,
+                            "text": "3、中游冶炼环节景气度有望提升",
+                            "pageid": 38,
+                            "font-size": 31,
+                            "font-id": "f9",
+                            "data-offset-start": 355,
+                            "data-offset-end": 369,
+                            "color": "rgba(0,80,149,1)",
+                            "level": "Level_2"
+                        },
+                        {
+                            "left": 143,
+                            "top": 1955,
+                            "level": "Level_2",
+                            "text": "4、关注标的",
+                            "pageid": 39,
+                            "font-size": 31,
+                            "font-id": "f9",
+                            "data-offset-start": 516,
+                            "children": [
+                                {
+                                    "left": 188,
+                                    "top": 2032,
+                                    "text": "（1）驰宏锌锗",
+                                    "pageid": 39,
+                                    "font-size": 29,
+                                    "font-id": "f8",
+                                    "data-offset-start": 523,
+                                    "data-offset-end": 529,
+                                    "color": "rgba(0,0,0,1)",
+                                    "level": "Level_4"
+                                }
+                            ],
+                            "color": "rgba(0,80,149,1)",
+                            "data-offset-end": 521
+                        }
+                    ]
+                },
+                {
+                    "left": 127,
+                    "top": 767,
+                    "level": "Level_1",
+                    "text": "（五）铅：产能释放叠加弱势需求，中长期景气度或将下行",
+                    "pageid": 40,
+                    "font-size": 42,
+                    "font-id": "f8",
+                    "data-offset-start": 201,
+                    "data-offset-end": 226,
+                    "color": "rgba(0,0,0,1)",
+                    "children": [
+                        {
+                            "left": 127,
+                            "top": 852,
+                            "text": "1、“原生+再生”两端均将逐步放量",
+                            "pageid": 40,
+                            "font-size": 31,
+                            "font-id": "f9",
+                            "data-offset-start": 228,
+                            "data-offset-end": 244,
+                            "color": "rgba(0,80,149,1)",
+                            "level": "Level_2"
+                        }
+                    ]
+                },
+                {
+                    "left": 127,
+                    "top": 1941,
+                    "level": "Level_1",
+                    "text": "（六）镍：短期基本面偏弱，价格具备长期上行动力",
+                    "pageid": 42,
+                    "font-size": 42,
+                    "font-id": "f8",
+                    "data-offset-start": 770,
+                    "data-offset-end": 792,
+                    "color": "rgba(0,0,0,1)",
+                    "children": [
+                        {
+                            "left": 127,
+                            "top": 2025,
+                            "text": "1、镍矿供给总体宽松",
+                            "pageid": 42,
+                            "font-size": 31,
+                            "font-id": "f9",
+                            "data-offset-start": 794,
+                            "data-offset-end": 803,
+                            "color": "rgba(0,80,149,1)",
+                            "level": "Level_2"
+                        },
+                        {
+                            "left": 127,
+                            "top": 982,
+                            "text": "2、中国原生镍需求增速放缓",
+                            "pageid": 45,
+                            "font-size": 31,
+                            "font-id": "f10",
+                            "data-offset-start": 258,
+                            "data-offset-end": 270,
+                            "color": "rgba(0,80,149,1)",
+                            "level": "Level_2"
+                        },
+                        {
+                            "left": 127,
+                            "top": 2169,
+                            "text": "3、短期镍供需基本面偏弱，镍价长期或具备上行动力",
+                            "pageid": 46,
+                            "font-size": 31,
+                            "font-id": "f10",
+                            "data-offset-start": 835,
+                            "data-offset-end": 858,
+                            "color": "rgba(0,80,149,1)",
+                            "level": "Level_2"
+                        }
+                    ]
+                }
+            ],
+            "color": "rgba(0,80,149,1)",
+            "data-offset-end": 950
+        },
+        {
+            "left": 127,
+            "top": 850,
+            "level": "Level_0",
+            "text": "四、小金属：18年能源金属景气回落，19年行情或企稳",
+            "pageid": 47,
+            "font-size": 47,
+            "font-id": "f8",
+            "data-offset-start": 389,
+            "children": [
+                {
+                    "left": 127,
+                    "top": 952,
+                    "level": "Level_1",
+                    "text": "（一）碳酸锂：产量释放，关注需求端变化",
+                    "pageid": 47,
+                    "font-size": 42,
+                    "font-id": "f8",
+                    "data-offset-start": 418,
+                    "data-offset-end": 436,
+                    "color": "rgba(0,0,0,1)",
+                    "children": [
+                        {
+                            "left": 127,
+                            "top": 1036,
+                            "text": "1、全球锂矿产量上涨，盐湖提锂投产提速",
+                            "pageid": 47,
+                            "font-size": 31,
+                            "font-id": "f9",
+                            "data-offset-start": 438,
+                            "data-offset-end": 456,
+                            "color": "rgba(0,80,149,1)",
+                            "level": "Level_2"
+                        },
+                        {
+                            "left": 127,
+                            "top": 2223,
+                            "text": "2、碳酸锂需求处于高景气",
+                            "pageid": 47,
+                            "font-size": 31,
+                            "font-id": "f9",
+                            "data-offset-start": 1041,
+                            "data-offset-end": 1052,
+                            "color": "rgba(0,80,149,1)",
+                            "level": "Level_2"
+                        },
+                        {
+                            "left": 127,
+                            "top": 1349,
+                            "text": "3、新能源车的需求是碳酸锂价格的主要变量",
+                            "pageid": 48,
+                            "font-size": 31,
+                            "font-id": "f9",
+                            "data-offset-start": 551,
+                            "data-offset-end": 570,
+                            "color": "rgba(0,80,149,1)",
+                            "level": "Level_2"
+                        },
+                        {
+                            "left": 127,
+                            "top": 390,
+                            "level": "Level_2",
+                            "text": "4、关注标的",
+                            "pageid": 49,
+                            "font-size": 31,
+                            "font-id": "f9",
+                            "data-offset-start": 51,
+                            "children": [
+                                {
+                                    "left": 188,
+                                    "top": 812,
+                                    "text": "（2）赣锋锂业",
+                                    "pageid": 49,
+                                    "font-size": 29,
+                                    "font-id": "f8",
+                                    "data-offset-start": 285,
+                                    "data-offset-end": 291,
+                                    "color": "rgba(0,0,0,1)",
+                                    "level": "Level_4"
+                                }
+                            ],
+                            "color": "rgba(0,80,149,1)",
+                            "data-offset-end": 56
+                        }
+                    ]
+                },
+                {
+                    "left": 127,
+                    "top": 1650,
+                    "level": "Level_1",
+                    "text": "（二）钴：上游供给将逐步放量，中长期需求前景依旧广阔",
+                    "pageid": 49,
+                    "font-size": 42,
+                    "font-id": "f8",
+                    "data-offset-start": 728,
+                    "data-offset-end": 753,
+                    "color": "rgba(0,0,0,1)",
+                    "children": [
+                        {
+                            "left": 127,
+                            "top": 1734,
+                            "text": "1、若干重要矿山将陆续投产并贡献产量",
+                            "pageid": 49,
+                            "font-size": 31,
+                            "font-id": "f9",
+                            "data-offset-start": 755,
+                            "data-offset-end": 772,
+                            "color": "rgba(0,80,149,1)",
+                            "level": "Level_2"
+                        },
+                        {
+                            "left": 127,
+                            "top": 1239,
+                            "text": "2、下游需求受益于新能源汽车高增速而保持快速增长",
+                            "pageid": 51,
+                            "font-size": 31,
+                            "font-id": "f10",
+                            "data-offset-start": 542,
+                            "data-offset-end": 565,
+                            "color": "rgba(0,80,149,1)",
+                            "level": "Level_2"
+                        }
+                    ]
+                },
+                {
+                    "left": 127,
+                    "top": 292,
+                    "text": "（四）建议关注——华友钴业",
+                    "pageid": 54,
+                    "font-size": 31,
+                    "font-id": "f8",
+                    "data-offset-start": 25,
+                    "data-offset-end": 37,
+                    "color": "rgba(0,80,149,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 127,
+                    "top": 1275,
+                    "level": "Level_1",
+                    "text": "（三）稀土：常态化“环保+打黑”优化供需格局，静待风起之时",
+                    "pageid": 54,
+                    "font-size": 42,
+                    "font-id": "f8",
+                    "data-offset-start": 552,
+                    "data-offset-end": 580,
+                    "color": "rgba(0,0,0,1)",
+                    "children": [
+                        {
+                            "left": 127,
+                            "top": 1360,
+                            "level": "Level_2",
+                            "text": "1、供给侧持续优化，环保趋严或超预期",
+                            "pageid": 54,
+                            "font-size": 31,
+                            "font-id": "f10",
+                            "data-offset-start": 582,
+                            "children": [
+                                {
+                                    "left": 127,
+                                    "top": 1414,
+                                    "text": "（1）中国贡献了全球稀土矿开采量的绝大部分",
+                                    "pageid": 54,
+                                    "font-size": 31,
+                                    "font-id": "f8",
+                                    "data-offset-start": 601,
+                                    "data-offset-end": 621,
+                                    "color": "rgba(0,0,0,1)",
+                                    "level": "Level_4"
+                                }
+                            ],
+                            "color": "rgba(0,80,149,1)",
+                            "data-offset-end": 599
+                        },
+                        {
+                            "left": 127,
+                            "top": 1243,
+                            "text": "2、国内供给侧持续优化，集中度不断提升",
+                            "pageid": 55,
+                            "font-size": 31,
+                            "font-id": "f5",
+                            "data-offset-start": 172,
+                            "data-offset-end": 190,
+                            "color": "rgba(0,0,0,1)",
+                            "level": "Level_2"
+                        },
+                        {
+                            "left": 127,
+                            "top": 346,
+                            "text": "3、环保政策趋严及打黑常态化重塑行业生态",
+                            "pageid": 56,
+                            "font-size": 31,
+                            "font-id": "f5",
+                            "data-offset-start": 25,
+                            "data-offset-end": 44,
+                            "color": "rgba(0,0,0,1)",
+                            "level": "Level_2"
+                        },
+                        {
+                            "left": 127,
+                            "top": 691,
+                            "text": "2、下游新能源车等行业维持高增速，供需紧平衡有望推升稀土价格",
+                            "pageid": 56,
+                            "font-size": 31,
+                            "font-id": "f9",
+                            "data-offset-start": 222,
+                            "data-offset-end": 251,
+                            "color": "rgba(0,80,149,1)",
+                            "level": "Level_2"
+                        },
+                        {
+                            "left": 127,
+                            "top": 1808,
+                            "level": "Level_2",
+                            "text": "3、关注标的",
+                            "pageid": 56,
+                            "font-size": 31,
+                            "font-id": "f9",
+                            "data-offset-start": 646,
+                            "children": [
+                                {
+                                    "left": 188,
+                                    "top": 1864,
+                                    "text": "（1）盛和资源",
+                                    "pageid": 56,
+                                    "font-size": 29,
+                                    "font-id": "f8",
+                                    "data-offset-start": 653,
+                                    "data-offset-end": 659,
+                                    "color": "rgba(0,0,0,1)",
+                                    "level": "Level_4"
+                                }
+                            ],
+                            "color": "rgba(0,80,149,1)",
+                            "data-offset-end": 651
+                        }
+                    ]
+                }
+            ],
+            "color": "rgba(0,80,149,1)",
+            "data-offset-end": 416
+        }
+    ]
+}

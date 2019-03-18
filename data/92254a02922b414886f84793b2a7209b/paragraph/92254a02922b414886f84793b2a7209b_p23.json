@@ -1,0 +1,41 @@
+[
+    {
+        "font_family": "ff1",
+        "text": "欧菲科技股份有限公司  2017  年年度报告全文",
+        "bottom": 790.32,
+        "data_offset_end": 30,
+        "font_size": 36.0,
+        "left": 363.16,
+        "line_height": 0,
+        "data_offset_start": 6,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "Text_9999"
+    },
+    {
+        "font_family": "ff2",
+        "text": "23",
+        "bottom": 51.72,
+        "data_offset_end": 34,
+        "font_size": 36.0,
+        "left": 529.68,
+        "line_height": 0,
+        "data_offset_start": 31,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "Text_9999"
+    },
+    {
+        "font_family": "ff2",
+        "text": "（ 1 ）   光学光电A ．   光学产品：垂直整合摄像头产业链，紧抓技术创新产业机遇公司紧紧抓住摄像头高端化和双摄像头等技术创新带来的产业机遇，拥有光学设计、图像处理、软件算法等核心技术，在美国、日本、韩国等地均设立研发中心，并从韩国、日本等地引入优秀团队，持续提高光学和产品设计能力，充分发挥创新型平台优势，提高单摄像头模组的份额， 加速双摄像头模组市场渗透。 报告期内， 公司双摄模组出货量占比迅速提升，在重点客户端热卖机型的供货份额持续提高，成为国际、国内主流智能手机厂商的主力供应商，公司摄像头模组从 2016年底开始单月出货量稳居全球第一，截至报告期末，公司摄像头模组产能整体超过 60KK/月， 双摄像头产能 15KK/月， 产线自动化率及综合良率均处于行业领先水平。2017 年 4月，公司完成与索尼华南电子的交割事项，获取COB（Chip  on  Board）以外的Flip-Chip 关键制程及相关专利许可，顺利进入国际大客户供应链体系。通过资源整合，公司在产线自动化改造和高端摄像头模组的研发、工艺制程等方面得到了大幅提升。",
+        "bottom": 415.76,
+        "data_offset_end": 510,
+        "font_size": 48.0,
+        "left": 537.0,
+        "line_height": 0,
+        "data_offset_start": 35,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 44.88,
+        "level": "ATitle_9999"
+    }
+]

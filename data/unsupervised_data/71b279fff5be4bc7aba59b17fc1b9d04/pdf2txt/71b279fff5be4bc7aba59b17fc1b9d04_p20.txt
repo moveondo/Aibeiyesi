@@ -1,0 +1,53 @@
+SUMMARY
+
+Share-based Compensation
+
+Under US GAAP, we have elected to recognize compensation expense using the straight line
+method for all employee equity awards granted with graded vesting based on service conditions;
+provided that the amount of compensation cost recognized at any date is at least equal to the portion
+of the grant date value of the options that are vested at that date.
+
+Under IFRSs, the accelerated method is required to recognize compensation expense for all
+employee equity awards granted with graded vesting. Hence additional share based compensation
+expense and deferred tax asset arising therefrom are required to be recognised under IFRS.
+
+Preferred Shares
+
+The convertible preferred shares issued by the Company had been converted into the ordinary
+shares of the Company upon the listing of the ordinary shares of the Company on Nasdaq in February
+2016.
+
+Under US GAAP, the convertible preferred shares issued by the Company were classified as
+mezzanine equity as such preferred shares were redeemable upon the occurrence of a conditional
+event. The conversion options and contingent redemption options of such preferred shares did not
+qualify for bifurcation accounting. No beneficial conversion features were recognized for such
+preferred shares as the fair values per ordinary share at the respective commitment dates were less than
+the most favorable conversion prices. We concluded that the preferred shares were not redeemable
+currently, and it was not probable that the preferred shares would become redeemable because the
+likelihood of the liquidation transaction was remote. Therefore, no adjustment would be made to the
+initial carrying amount of the preferred shares until
+they would become
+redeemable.
+
+it was probable that
+
+Under IFRSs, certain redemption triggering events of the preferred shares were outside the
+control of the ordinary shareholders of the Company. In addition, the holders of the preferred shares
+were entitled to convert the preferred shares into a variable number of the Company’s ordinary shares
+upon the occurrence of certain anti-dilution events. Accordingly, the preferred shares were regarded
+as hybrid instruments consisting of a host debt instrument and a conversion option as a derivative. We
+designated the entire preferred shares as financial liabilities at fair value through profit or loss such
+that the preferred shares were initially recognized at fair value with all subsequent changes in fair
+value prior to its conversion recognized in the income statement, because we considered that the fair
+value of preferred shares attributed to change in credit risks were not significant.
+
+Tax Benefit/Deficiency on Share-based Compensation
+
+Under US GAAP, deferred taxes are calculated based on the cumulative share-based
+compensation expense recognized in the income statement, and ASC 2016-09 requires all excess tax
+benefits and tax deficiencies to be recorded as income tax expense or benefit in the income statement,
+rather than in shareholders’ equity.
+
+— 14 —
+
+

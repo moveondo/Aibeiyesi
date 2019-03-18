@@ -1,0 +1,465 @@
+{
+    "root": true,
+    "children": [
+        {
+            "left": 822,
+            "top": 625,
+            "text": "一、生活圈媒体持续高景气，强者恒强",
+            "pageid": 1,
+            "font-size": 31,
+            "font-id": "f3",
+            "data-offset-start": 119,
+            "data-offset-end": 135,
+            "color": "rgba(54,95,145,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 822,
+            "top": 1001,
+            "text": "二、梯媒市场硝烟再起，新一轮点位扩张开始",
+            "pageid": 1,
+            "font-size": 31,
+            "font-id": "f3",
+            "data-offset-start": 403,
+            "data-offset-end": 422,
+            "color": "rgba(54,95,145,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 822,
+            "top": 1424,
+            "text": "三、渠道下沉+口红效应，影院广告有望持续稳定增长",
+            "pageid": 1,
+            "font-size": 31,
+            "font-id": "f3",
+            "data-offset-start": 807,
+            "data-offset-end": 830,
+            "color": "rgba(54,95,145,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 822,
+            "top": 1847,
+            "text": "四、生活圈媒体相关公司",
+            "pageid": 1,
+            "font-size": 31,
+            "font-id": "f3",
+            "data-offset-start": 1084,
+            "data-offset-end": 1094,
+            "color": "rgba(54,95,145,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 379,
+            "top": 1959,
+            "level": "Level_0",
+            "text": "一、电梯媒体持续高景气，行业集中度有望进一步提升....................................................................5",
+            "pageid": 2,
+            "font-size": 29,
+            "font-id": "f2",
+            "data-offset-start": 57,
+            "children": [
+                {
+                    "left": 379,
+                    "top": 2016,
+                    "text": "（一）电梯媒体持续高景气，行业集中度有望进一步提高................................................................5",
+                    "pageid": 2,
+                    "font-size": 29,
+                    "font-id": "f2",
+                    "data-offset-start": 152,
+                    "data-offset-end": 242,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 379,
+                    "top": 2055,
+                    "text": "（二）电梯媒体表现形式开始多样化,数据联网未来可期..................................................................7",
+                    "pageid": 2,
+                    "font-size": 29,
+                    "font-id": "f2",
+                    "data-offset-start": 244,
+                    "data-offset-end": 336,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 379,
+                    "top": 2094,
+                    "text": "（三）电梯媒体资源质量重于数量，海外拓展是趋势........................................................................9",
+                    "pageid": 2,
+                    "font-size": 29,
+                    "font-id": "f2",
+                    "data-offset-start": 338,
+                    "data-offset-end": 434,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                }
+            ],
+            "color": "rgba(0,0,0,1)",
+            "data-offset-end": 150
+        },
+        {
+            "left": 379,
+            "top": 2151,
+            "level": "Level_0",
+            "text": "二、影院广告规模快速增长，影院场景营销未来可期......................................................................11",
+            "pageid": 2,
+            "font-size": 29,
+            "font-id": "f2",
+            "data-offset-start": 436,
+            "children": [
+                {
+                    "left": 379,
+                    "top": 328,
+                    "text": "（一）映前广告稳中有进.....................................................................................................................11",
+                    "pageid": 3,
+                    "font-size": 29,
+                    "font-id": "f2",
+                    "data-offset-start": 28,
+                    "data-offset-end": 159,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 379,
+                    "top": 367,
+                    "text": "（二）贴片广告历史悠久但份额在逐步降低......................................................................................15",
+                    "pageid": 3,
+                    "font-size": 29,
+                    "font-id": "f2",
+                    "data-offset-start": 161,
+                    "data-offset-end": 268,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 379,
+                    "top": 406,
+                    "text": "（三）阵地广告形式多样，是影院场景营销的重要组成部分..........................................................16",
+                    "pageid": 3,
+                    "font-size": 29,
+                    "font-id": "f2",
+                    "data-offset-start": 270,
+                    "data-offset-end": 356,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                }
+            ],
+            "color": "rgba(0,0,0,1)",
+            "data-offset-end": 531
+        },
+        {
+            "left": 379,
+            "top": 463,
+            "level": "Level_0",
+            "text": "三、相关公司.........................................................................................................................................18",
+            "pageid": 3,
+            "font-size": 29,
+            "font-id": "f2",
+            "data-offset-start": 358,
+            "children": [
+                {
+                    "left": 379,
+                    "top": 520,
+                    "text": "（一）分众传媒：巩固龙头地位，持续享受强势媒体溢价..............................................................18",
+                    "pageid": 3,
+                    "font-size": 29,
+                    "font-id": "f2",
+                    "data-offset-start": 506,
+                    "data-offset-end": 595,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 379,
+                    "top": 559,
+                    "text": "（二）新潮传媒：老树开新花，向行业老二进军..............................................................................22",
+                    "pageid": 3,
+                    "font-size": 29,
+                    "font-id": "f2",
+                    "data-offset-start": 597,
+                    "data-offset-end": 698,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 379,
+                    "top": 598,
+                    "text": "（三）亿家晶视：聚焦核心资源的小而美公司..................................................................................24",
+                    "pageid": 3,
+                    "font-size": 29,
+                    "font-id": "f2",
+                    "data-offset-start": 700,
+                    "data-offset-end": 804,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 379,
+                    "top": 637,
+                    "text": "（四）万达传媒：打造影院矩阵式营销平台......................................................................................26",
+                    "pageid": 3,
+                    "font-size": 29,
+                    "font-id": "f2",
+                    "data-offset-start": 806,
+                    "data-offset-end": 913,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                }
+            ],
+            "color": "rgba(0,0,0,1)",
+            "data-offset-end": 504
+        },
+        {
+            "left": 379,
+            "top": 694,
+            "text": "四、风险提示.........................................................................................................................................27",
+            "pageid": 3,
+            "font-size": 29,
+            "font-id": "f2",
+            "data-offset-start": 915,
+            "data-offset-end": 1061,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 531,
+            "top": 389,
+            "level": "Level_0",
+            "text": "一、电梯媒体持续高景气，行业集中度有望进一步提升",
+            "pageid": 5,
+            "font-size": 45,
+            "font-id": "f2",
+            "data-offset-start": 28,
+            "children": [
+                {
+                    "left": 531,
+                    "top": 1333,
+                    "text": "（一）电梯媒体持续高景气，行业集中度有望进一步提高",
+                    "pageid": 5,
+                    "font-size": 42,
+                    "font-id": "f2",
+                    "data-offset-start": 523,
+                    "data-offset-end": 547,
+                    "color": "rgba(31,72,124,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 531,
+                    "top": 1082,
+                    "text": "（二）电梯媒体表现形式开始多样化,数据联网未来可期",
+                    "pageid": 7,
+                    "font-size": 42,
+                    "font-id": "f2",
+                    "data-offset-start": 212,
+                    "data-offset-end": 236,
+                    "color": "rgba(31,72,124,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 531,
+                    "top": 1469,
+                    "text": "（三）电梯媒体资源质量重于数量，海外拓展是趋势",
+                    "pageid": 9,
+                    "font-size": 42,
+                    "font-id": "f2",
+                    "data-offset-start": 673,
+                    "data-offset-end": 695,
+                    "color": "rgba(31,72,124,1)",
+                    "level": "Level_1"
+                }
+            ],
+            "color": "rgba(31,72,124,1)",
+            "data-offset-end": 51
+        },
+        {
+            "left": 531,
+            "top": 391,
+            "level": "Level_0",
+            "text": "二、影院广告规模快速增长，影院场景营销未来可期",
+            "pageid": 11,
+            "font-size": 45,
+            "font-id": "f2",
+            "data-offset-start": 41,
+            "children": [
+                {
+                    "left": 531,
+                    "top": 846,
+                    "text": "（一）映前广告稳中有进",
+                    "pageid": 11,
+                    "font-size": 42,
+                    "font-id": "f2",
+                    "data-offset-start": 283,
+                    "data-offset-end": 293,
+                    "color": "rgba(31,72,124,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 531,
+                    "top": 1626,
+                    "text": "（二）贴片广告历史悠久但份额在逐步降低",
+                    "pageid": 15,
+                    "font-size": 42,
+                    "font-id": "f2",
+                    "data-offset-start": 310,
+                    "data-offset-end": 328,
+                    "color": "rgba(31,72,124,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 531,
+                    "top": 1065,
+                    "text": "（三）阵地广告形式多样，是影院场景营销的重要组成部分",
+                    "pageid": 16,
+                    "font-size": 42,
+                    "font-id": "f2",
+                    "data-offset-start": 460,
+                    "data-offset-end": 485,
+                    "color": "rgba(31,72,124,1)",
+                    "level": "Level_1"
+                }
+            ],
+            "color": "rgba(31,72,124,1)",
+            "data-offset-end": 63
+        },
+        {
+            "left": 531,
+            "top": 330,
+            "level": "Level_0",
+            "text": "三、相关公司",
+            "pageid": 18,
+            "font-size": 45,
+            "font-id": "f2",
+            "data-offset-start": 29,
+            "children": [
+                {
+                    "left": 531,
+                    "top": 417,
+                    "level": "Level_1",
+                    "text": "（一）分众传媒：巩固龙头地位，持续享受强势媒体溢价",
+                    "pageid": 18,
+                    "font-size": 42,
+                    "font-id": "f2",
+                    "data-offset-start": 36,
+                    "data-offset-end": 60,
+                    "color": "rgba(31,72,124,1)",
+                    "children": [
+                        {
+                            "left": 594,
+                            "top": 804,
+                            "text": "1、巩固梯媒龙头地位，将持续享受强势媒体溢价；开拓第二曲线市场，短期内利",
+                            "pageid": 18,
+                            "font-size": 19,
+                            "font-id": "f1",
+                            "data-offset-start": 259,
+                            "data-offset-end": 294,
+                            "color": "rgba(0,0,0,1)",
+                            "level": "Level_4"
+                        },
+                        {
+                            "left": 594,
+                            "top": 1601,
+                            "text": "2、受益于影院视频广告的持续高景气，公司影院媒体业务有望持续稳定增长",
+                            "pageid": 19,
+                            "font-size": 19,
+                            "font-id": "f1",
+                            "data-offset-start": 505,
+                            "data-offset-end": 538,
+                            "color": "rgba(0,0,0,1)",
+                            "level": "Level_4"
+                        },
+                        {
+                            "left": 594,
+                            "top": 1712,
+                            "text": "3、受宏观经济周期及逆周期资源扩张的影响，公司现金流压力开始显现",
+                            "pageid": 20,
+                            "font-size": 19,
+                            "font-id": "f1",
+                            "data-offset-start": 272,
+                            "data-offset-end": 303,
+                            "color": "rgba(0,0,0,1)",
+                            "level": "Level_4"
+                        },
+                        {
+                            "left": 594,
+                            "top": 1093,
+                            "text": "4、阿里战略入股成第二大股东，助力公司开拓第二曲线市场",
+                            "pageid": 21,
+                            "font-size": 19,
+                            "font-id": "f1",
+                            "data-offset-start": 282,
+                            "data-offset-end": 308,
+                            "color": "rgba(0,0,0,1)",
+                            "level": "Level_4"
+                        }
+                    ]
+                },
+                {
+                    "left": 531,
+                    "top": 615,
+                    "text": "（二）新潮传媒：老树开新花，向行业老二进军",
+                    "pageid": 22,
+                    "font-size": 42,
+                    "font-id": "f2",
+                    "data-offset-start": 162,
+                    "data-offset-end": 182,
+                    "color": "rgba(31,72,124,1)",
+                    "level": "Level_1"
+                }
+            ],
+            "color": "rgba(31,72,124,1)",
+            "data-offset-end": 34
+        },
+        {
+            "left": 531,
+            "top": 1125,
+            "level": "Level_0",
+            "text": "五、恺英网络、顾家家居和欧普照明等5家A股上市公司的创始人或董事长投资，新潮随即宣布在中国安装20万张电梯电视屏，覆盖8000万中产人群的计划。",
+            "pageid": 22,
+            "font-size": 31,
+            "font-id": "f2",
+            "data-offset-start": 462,
+            "children": [
+                {
+                    "left": 531,
+                    "top": 391,
+                    "text": "（三）亿家晶视：聚焦核心资源的小而美公司",
+                    "pageid": 24,
+                    "font-size": 42,
+                    "font-id": "f2",
+                    "data-offset-start": 29,
+                    "data-offset-end": 48,
+                    "color": "rgba(31,72,124,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 531,
+                    "top": 452,
+                    "text": "（四）万达传媒：打造影院矩阵式营销平台",
+                    "pageid": 26,
+                    "font-size": 42,
+                    "font-id": "f2",
+                    "data-offset-start": 84,
+                    "data-offset-end": 102,
+                    "color": "rgba(31,72,124,1)",
+                    "level": "Level_1"
+                }
+            ],
+            "color": "rgba(0,0,0,1)",
+            "data-offset-end": 534
+        },
+        {
+            "left": 531,
+            "top": 330,
+            "text": "四、风险提示",
+            "pageid": 27,
+            "font-size": 45,
+            "font-id": "f2",
+            "data-offset-start": 29,
+            "data-offset-end": 34,
+            "color": "rgba(31,72,124,1)",
+            "level": "Level_0"
+        }
+    ]
+}

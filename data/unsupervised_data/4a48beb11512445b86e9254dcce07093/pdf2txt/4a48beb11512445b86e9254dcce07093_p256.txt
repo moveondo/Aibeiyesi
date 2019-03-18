@@ -1,0 +1,51 @@
+BUSINESS
+
+Current Development Status and Data
+
+Step 1: CMC and Analytical Characterization
+
+We have developed, manufactured and characterized a master cell bank and demonstrated
+its quality and stability in accordance with the ICH guidelines. We have also completed
+development of a stable and controllable production process for IBI-305 and demonstrated
+through comprehensive studies that the stability of drug substance and drug product comply
+with the requirements of clinical research.
+
+We completed extensive analytical characterization and in vitro studies comparing
+
+IBI-305 to the reference product Avastin.
+
+We have confirmed through Lys-C peptide mapping that the amino acid sequence of
+IBI-305 is identical to that of the reference product Avastin, which is required for the biosimilar
+pathway under NMPA regulations. The graph below shows the peptide fingerprint of IBI-305
+compared with Avastin. IBI-305 and Avastin were fragmented by endoproteinase Lys-C
+degradation
+chromatography-mass
+spectroscopy/mass spectroscopy (LC-MS/MS). This technology creates a peptide fragment-
+based fingerprint for proteins. If the fingerprints are identical, it can be inferred that two
+proteins have identical amino acid primary structure.
+
+peptides were
+
+separated
+
+and
+
+the
+
+by
+
+liquid
+
+The peptide fingerprint of IBI-305 is highly similar to bevacizumab (Avastin)
+
+Abbreviation: mAU = mAnson Unit (a unit of measurement for enzyme activity)
+
+A cell-based potency assay demonstrated that IBI-305 and Avastin have similar in vitro
+potency. As shown in the left hand panel of the following figure, when increasing concentration
+of IBI-305 and Avastin are incubated in the reporter assay, both antibodies block VEGF
+induced activation of the reporter gene with identical potency. The right hand panel of the
+following figure demonstrates that multiple lots of IBI-305 and Avastin have similar potency.
+
+– 247 –
+
+

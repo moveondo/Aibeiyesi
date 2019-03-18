@@ -1,0 +1,228 @@
+SUMMARY
+
+REVLIMID威 Competitive Landscape in China (Late-Stage)
+
+Lenalidomide is an analogue of thalidomide with immunomodulatory, antiangiogenic, and antineoplastic properties. Cellular
+activities of lenalidomide are mediated through its target cereblon, a component of a cullin ring E3 ubiquitin ligase enzyme
+
+complex. In vitro, in the presence of drug, substrate proteins (including Aiolos, Ikaros, and CK1␣) are targeted for
+
+ubiquitination and subsequent degradation leading to direct cytotoxic and immunomodulatory effects. Lenalidomide inhibits
+proliferation and induces apoptosis of certain hematopoietic tumor cells including MM, mantle cell lymphoma, and del (5q)
+
+myelodysplastic syndromes in vitro. Lenalidomide causes a delay in tumor growth in some in vivo nonclinical
+
+hematopoietic tumor models including MM. Immunomodulatory properties of lenalidomide include increased number and
+
+activation of T cells and natural killer (NK) cells leading to direct and enhanced antibody-dependent cell-mediated
+
+cytotoxicity (ADCC) via increased secretion of interleukin-2 and interferon-gamma, increased numbers of NKT cells, and
+
+inhibition of pro-inflammatory cytokines (e.g., TNF-␣ and IL-6) by monocytes. In MM cells, the combination of
+
+lenalidomide and dexamethasone synergizes the inhibition of cell proliferation and the induction of apoptosis.
+
+Products
+
+Products
+
+(generic name)
+
+(brand name)
+
+Company
+
+CDA Status
+
+Lead
+
+Indications
+
+Reimbursement
+
+U.S. Patent
+Exclusivity
+
+Generic
+Versions
+
+lenalidomide
+
+REVLIMID威
+
+Celgene,
+BeiGene
+
+lenalidomide
+
+LISHENG
+
+SL Pharm
+
+Approved
+(2013.1,
+2018.2)
+
+Approved
+(2017.11)
+
+lenalidomide
+
+lenalidomide
+
+NA
+
+NA
+
+Yangtze River
+
+ANDA review
+
+Qilu
+
+ANDA review
+
+R/R MM,
+NDMM
+
+NRDL List B
+
+(2017)
+
+2022
+
+See
+
+below
+
+MM
+
+MM
+
+MM
+
+NRDL List B
+
+(2017)
+
+NA
+
+NA
+
+NA
+
+NA
+
+NA
+
+NA
+
+NA
+
+NA
+
+Abbreviations: MM = multiple myeloma; NDMM = newly diagnosed multiple myeloma; NRDL = National Reimbursement Drug
+List
+
+VIDAZA威 Competitive Landscape in China (Late-Stage)
+
+VIDAZA威 is a pyrimidine nucleoside analog of cytidine. VIDAZA威 is believed to exert its antineoplastic effects by causing
+hypomethylation of DNA and direct cytotoxicity on abnormal hematopoietic cells in the bone marrow. The concentration of
+
+azacitidine required for maximum inhibition of DNA methylation in vitro does not cause major suppression of DNA
+
+synthesis. Hypomethylation may restore normal function to genes that are critical for differentiation and proliferation. The
+
+cytotoxic effects of azacitidine cause the death of rapidly dividing cells, including cancer cells that are no longer
+responsive to normal growth control mechanisms. Non-proliferating cells are relatively insensitive to azacitidine.
+
+Products
+
+Products
+
+(generic name)
+
+(brand name)
+
+Company
+
+CDA Status
+
+azacitidine
+
+VIDAZA威
+
+Celgene,
+BeiGene
+
+Approved
+(2017.4)
+
+azacitidine
+
+azacitidine
+
+NA
+
+NA
+
+Seacross
+Pharma
+
+Chiatai
+Tianqing
+
+ANDA review
+
+ANDA review
+
+Lead
+
+Indications
+
+MDS, AML
+with 20-30%
+bone marrow
+
+blasts,
+CMMoL
+
+MDS, AML,
+
+CMMoL
+
+MDS, AML,
+
+CMMoL
+
+Reimbursement
+
+U.S. Patent
+Exclusivity
+
+Generic
+Versions
+
+NA
+
+2011
+
+NA
+
+NA
+
+NA
+
+NA
+
+See
+
+below
+
+NA
+
+NA
+
+— 11 —
+
+

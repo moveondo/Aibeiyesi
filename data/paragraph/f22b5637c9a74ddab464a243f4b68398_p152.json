@@ -1,0 +1,74 @@
+[
+    {
+        "data-offset-end": 9,
+        "pageid": 152,
+        "top": 153,
+        "font-id": "f8",
+        "level": "Level",
+        "left": 127,
+        "text": "綜合財務報表附註",
+        "font-size": 51,
+        "color": "rgba(222,129,14,1)",
+        "data-offset-start": 2
+    },
+    {
+        "data-offset-end": 186,
+        "pageid": 152,
+        "top": 1431,
+        "font-id": "f13",
+        "level": "Level",
+        "left": 212,
+        "text": "其他分部項目如下：",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 178
+    },
+    {
+        "data-offset-end": 232,
+        "pageid": 152,
+        "top": 537,
+        "font-id": "f12",
+        "level": "Level",
+        "left": 1086,
+        "text": "截至二零一七年十二月三十一日止年度",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 216
+    },
+    {
+        "data-offset-end": 728,
+        "pageid": 152,
+        "top": 1637,
+        "font-id": "f12",
+        "level": "Level",
+        "left": 1142,
+        "text": "於二零一七年十二月三十一日",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 716
+    },
+    {
+        "data-offset-end": 846,
+        "pageid": 152,
+        "top": 2303,
+        "font-id": "f7",
+        "level": "Level",
+        "left": 39,
+        "text": "150融創中國控股有限公司",
+        "font-size": 33,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 833
+    },
+    {
+        "data-offset-end": 855,
+        "pageid": 152,
+        "top": 2330,
+        "font-id": "f9",
+        "level": "Level",
+        "left": 127,
+        "text": "2017年度報告",
+        "font-size": 24,
+        "color": "rgba(101,98,98,1)",
+        "data-offset-start": 848
+    }
+]

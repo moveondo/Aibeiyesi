@@ -1,0 +1,42 @@
+BUSINESS
+
+6.
+
+Refractory or Metastatic Nasopharyngeal Carcinoma (Phase II)
+
+Design. Patients received a 3 mg/kg JS001 infusion every two weeks and were evaluated
+by the independent evaluation committee for clinical efficacy every eight weeks in accordance
+with the RECIST v1.1 assessment criteria. 57 patients with advanced nasopharyngeal cancer
+were treated with JS001. 39 patients underwent at least one efficacy evaluation.
+
+Results. Of the 39 patients evaluated, 12 cases of PR and 13 cases of SD were observed
+with the ORR of 30.8% (12/39) and the DCR of 64.1% (25/39). It showed that the efficacy in
+PD-L1 positive tumor patients was better than in the negative patients. The ORR and DCR of
+PD-L1 positive tumor patients were 42.1% and 73.7%, respectively.
+
+The following waterfall plot
+
+shows optimal
+
+tumor
+
+shrinkage rate in advanced
+
+nasopharyngeal cancer patients treated with JS001.
+
+Optimal tumor shrinkage rate in advanced
+
+nasopharyngeal cancer patients treated with JS001
+
+Source: CSCO 2017
+
+Safety. The overall safety profile of JS001 observed in NPC cohorts was generally
+manageable, reversible and of low severity. The most commonly reported TRAEs were pyrexia,
+anemia, hypothyroidism, hypoalbuminemia, cough, leukopenia, abnormal hepatic function,
+increased blood bilirubin and asthenia. The majority of TRAEs were grade 1 or 2 in severity.
+Four (7.4%) subjects terminated due to TEAE. Grade 3 to 5 TRAEs mainly include anaemia,
+pyrexia, decreased white blood cell count, asthenia, increased blood bilirubin and nausea.
+
+– 196 –
+
+

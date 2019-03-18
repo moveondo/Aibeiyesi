@@ -1,0 +1,112 @@
+GLOSSARY OF TECHNICAL TERMS
+
+PD-L1
+
+PI3K
+
+Pivotal trials/programs
+
+RAF
+
+RAF dimer
+
+Relapsed/refractory (R/R)
+
+SEER
+
+SCC
+
+SLL
+
+Means programmed death-ligand 1, a protein in humans
+encoded by the CD274 gene. PD-L1 binds the PD-1 receptor
+and sends an inhibitory signal inside the T-cell, stopping it
+from making more poisonous proteins and killing the cells
+that send the signal via PD-L1 and in the neighborhood
+
+Means one or more phosphoinositide 3-kinase enzymes,
+which are part of the PI3K/AKT/mTOR pathway, an important
+signaling pathway for many cellular functions such as growth
+control, metabolism and translation initiation
+
+Means a potentially registration-enabling trial or program that
+is intended to provide clinical data to support a regulatory
+approval for marketing the drug candidate
+
+Means Rapidly Accelerated Fibrosarcoma. RAF kinases are a
+family of three serine/threonine-specific protein kinases that
+are related to retroviral oncogenes. RAF kinases participate in
+the RAS-RAF-MEK-ERK MAPK pathway
+
+Means a protein complex formed by two copies of RAF
+proteins. This
+a
+BRAF-CRAF complex, or a CRAF-CRAF complex
+
+a BRAF-BRAF complex,
+
+could
+
+be
+
+Relapsed means patients initially respond to treatment but
+then cancer returns after a period of remission; refractory
+means cancer/tumor did not respond to treatment
+
+Means Surveillance, Epidemiology and End Results
+
+Means squamous cell carcinoma
+
+Means small lymphocytic lymphoma
+
+Stable Disease (SD)
+
+Means cancer that
+extent or severity
+
+is neither decreasing nor increasing in
+
+T-cell
+
+TIM-3
+
+Means a type of white blood cell that play a large role in
+immune response and that differs from other white blood cells
+like B-cells by the presence of the T-cell receptor on the
+T-cell’s outer surface, which is responsible for recognizing
+antigens
+complex
+molecules
+
+histocompatibility
+
+to major
+
+bound
+
+a Th1-specific
+
+immunoglobulin
+cell
+
+mucin-domain
+Means
+containing-3,
+that
+functions as an immune checkpoint, regulating macrophage
+activation and enhancing the
+experimental
+autoimmune encephalomyelitis in mice
+
+and
+surface
+
+severity of
+
+protein
+
+T-cell
+
+— 37 —
+
+

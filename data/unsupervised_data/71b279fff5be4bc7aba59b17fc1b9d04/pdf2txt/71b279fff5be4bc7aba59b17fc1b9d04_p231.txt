@@ -1,0 +1,57 @@
+BUSINESS
+
+The efficacy-evaluable population included 15 UC patients. One patient had a confirmed CR,
+four achieved a confirmed PR, and three achieved SD. Nine evaluable patients had PD-L1 status
+determined. There was one CR, two PR and one SD among six PD-L1 high patients, and one PR among
+three PD-L1 low or negative patients.
+
+We expect to complete enrollment of patients in pivotal Phase 2 trial of urothelial cancer in
+
+China in 2018.
+
+Hodgkin’s Lymphoma
+
+In June 2018, we received preliminary topline results from the independent review of response
+data from our Phase 2 single-arm pivotal trial of tislelizumab in Chinese patients with R/R cHL. This
+trial enrolled 70 patients with cHL who either failed autologous stem cell transplantation, or ASCT,
+or who were ineligible for ASCT. The primary endpoint was overall response rate as defined by the
+Lugano 2014 criteria. Secondary endpoints included progression-free survival, duration of response,
+complete response rate, time to response, safety, and tolerability. As of the data cutoff, the median
+follow-up time was approximately 6.0 months. The overall response rate was 73%, including 50%
+complete response, and the median duration of response had not been reached. Frequency and severity
+of adverse events was generally consistent with the previously reported Phase 1 safety and tolerability
+data for tislelizumab, or, in the case of certain immune-related events such as hypothyroidism and
+fever, consistent with previous reports of other PD-1 antibodies for the treatment of cHL. We expect
+to include these data, along with additional follow-up data from the study, in the NDA that we plan
+to file with the CDA in China later this year, and we also plan to present full results of the trial at an
+upcoming medical conference.
+
+Combination with Pamiparib
+
+On June 5, 2017, we presented initial data from the dose-escalation portion of the Phase 1 trial
+of tislelizumab in combination with our investigational PARP inhibitor, pamiparib, in patients with
+advanced solid tumors at
+the 2017 American Society for Clinical Oncology, or ASCO, Annual
+Meeting. We presented an updated dataset on January 25, 2018 at the 2018 ASCO-SITC Clinical
+Immuno-Oncology Symposium. The preliminary data suggested that the combination of tislelizumab
+and pamiparib was generally well-tolerated and showed anti-tumor activity in multiple solid tumor
+types.
+
+At the data cutoff of July 31, 2017, 49 patients were enrolled in the dose-escalation portion of
+the trial. Cohorts of six to 13 patients each received treatments at five planned dose levels, or DLs.
+Tislelizumab was administered at 2 mg/kg Q3W with pamiparib at 20, 40, or 60 mg twice daily, or
+BID, in DLs 1, 2 and 3, respectively. Tislelizumab was also administered at a fixed dose of 200 mg
+Q3W with pamiparib at 40 or 60 mg twice daily in DLs 4 and 5, respectively. Duration of treatment
+was greater than 200 days for 10 patients, and a total of seven patients remained on treatment as of
+the data cutoff date.
+
+Dose-limiting toxicities occurred in four patients;
+
+these included one patient with grade 2
+nausea, one patient with grade 3 rash at DL 4, one patient with grade 2 nausea or vomiting and one
+patient with grade 4 autoimmune hepatitis at DL 5. The trial identified the recommended Phase 2 dose
+to be tislelizumab at 200 mg fixed dose Q3W and pamiparib at 40 mg BID.
+
+— 225 —
+
+

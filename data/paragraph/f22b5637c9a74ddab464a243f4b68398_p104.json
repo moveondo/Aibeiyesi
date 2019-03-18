@@ -1,0 +1,110 @@
+[
+    {
+        "data-offset-end": 92,
+        "pageid": 104,
+        "top": 1173,
+        "font-id": "f10",
+        "level": "Level",
+        "left": 144,
+        "text": "流動資產",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 89
+    },
+    {
+        "data-offset-end": 159,
+        "pageid": 104,
+        "top": 1722,
+        "font-id": "f10",
+        "level": "Level",
+        "left": 144,
+        "text": "資產總額",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 156
+    },
+    {
+        "data-offset-end": 165,
+        "pageid": 104,
+        "top": 1794,
+        "font-id": "f10",
+        "level": "Level",
+        "left": 144,
+        "text": "權益及負債",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 161
+    },
+    {
+        "data-offset-end": 176,
+        "pageid": 104,
+        "top": 1839,
+        "font-id": "f10",
+        "level": "Level",
+        "left": 144,
+        "text": "本公司擁有人應佔權益",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 167
+    },
+    {
+        "data-offset-end": 224,
+        "pageid": 104,
+        "top": 2303,
+        "font-id": "f7",
+        "level": "Level",
+        "left": 39,
+        "text": "102融創中國控股有限公司",
+        "font-size": 33,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 211
+    },
+    {
+        "data-offset-end": 233,
+        "pageid": 104,
+        "top": 2330,
+        "font-id": "f9",
+        "level": "Level",
+        "left": 127,
+        "text": "2017年度報告",
+        "font-size": 24,
+        "color": "rgba(101,98,98,1)",
+        "data-offset-start": 226
+    },
+    {
+        "data-offset-end": 245,
+        "pageid": 104,
+        "top": 362,
+        "font-id": "f10",
+        "level": "Level",
+        "left": 1335,
+        "text": "於十二月三十一日",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 238
+    },
+    {
+        "data-offset-end": 714,
+        "pageid": 104,
+        "top": 1651,
+        "font-id": "f13",
+        "level": "Level",
+        "left": 1271,
+        "text": "499,600,923252,697,687",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 692
+    },
+    {
+        "data-offset-end": 738,
+        "pageid": 104,
+        "top": 1723,
+        "font-id": "f13",
+        "level": "Level",
+        "left": 1271,
+        "text": "623,102,238293,183,098",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 716
+    }
+]

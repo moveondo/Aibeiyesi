@@ -1,0 +1,98 @@
+[
+    {
+        "data-offset-end": 60,
+        "pageid": 74,
+        "top": 687,
+        "font-id": "f11",
+        "level": "Level",
+        "left": 144,
+        "text": "董事",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 59
+    },
+    {
+        "data-offset-end": 231,
+        "pageid": 74,
+        "top": 480,
+        "font-id": "f11",
+        "level": "Level",
+        "left": 1183,
+        "text": "二零一七年二零一七年二零一七年",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 215
+    },
+    {
+        "data-offset-end": 1065,
+        "pageid": 74,
+        "top": 1231,
+        "font-id": "f10",
+        "level": "Level",
+        "left": 127,
+        "text": "附註：",
+        "font-size": 22,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 1063
+    },
+    {
+        "data-offset-end": 1138,
+        "pageid": 74,
+        "top": 1309,
+        "font-id": "f12",
+        "level": "Level",
+        "left": 127,
+        "text": "(1)該等454,000份已註銷購股權中，204,000份購股權的行使價為每股7.27港元，250,000份購股權的行使價為每股4.62港元。",
+        "font-size": 22,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 1067
+    },
+    {
+        "data-offset-end": 1151,
+        "pageid": 74,
+        "top": 1391,
+        "font-id": "f11",
+        "level": "Level",
+        "left": 127,
+        "text": "董事及主要行政人員的權益",
+        "font-size": 39,
+        "color": "rgba(190,146,91,1)",
+        "data-offset-start": 1140
+    },
+    {
+        "data-offset-end": 1306,
+        "pageid": 74,
+        "top": 1489,
+        "font-id": "f10",
+        "level": "Level",
+        "left": 127,
+        "text": "於二零一七年十二月三十一日，本公司董事及主要行政人員在本公司或其相聯法團（定義見香港法例第571章證券及期貨條例（「證券及期貨條例」）第XV部）的股份、相關股份及債券中擁有須於本公司根據證券及期貨條例第352條存置的登記冊中登記；或根據上市規則附錄十所載標準守則規定須通知本公司及聯交所的權益及淡倉如下：",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 1153
+    },
+    {
+        "data-offset-end": 1320,
+        "pageid": 74,
+        "top": 2303,
+        "font-id": "f7",
+        "level": "Level",
+        "left": 47,
+        "text": "72融創中國控股有限公司",
+        "font-size": 33,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 1308
+    },
+    {
+        "data-offset-end": 1329,
+        "pageid": 74,
+        "top": 2330,
+        "font-id": "f9",
+        "level": "Level",
+        "left": 127,
+        "text": "2017年度報告",
+        "font-size": 24,
+        "color": "rgba(101,98,98,1)",
+        "data-offset-start": 1322
+    }
+]

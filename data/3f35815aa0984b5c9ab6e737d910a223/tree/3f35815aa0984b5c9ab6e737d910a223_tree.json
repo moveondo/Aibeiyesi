@@ -1,0 +1,493 @@
+{
+    "root": true,
+    "children": [
+        {
+            "left": 127,
+            "top": 1579,
+            "text": "1、《招商银行（600036）—为零售",
+            "pageid": 1,
+            "font-size": 27,
+            "font-id": "f1",
+            "data-offset-start": 374,
+            "data-offset-end": 392,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_2"
+        },
+        {
+            "left": 127,
+            "top": 1652,
+            "text": "2、《招商银行（600036）—非基本",
+            "pageid": 1,
+            "font-size": 27,
+            "font-id": "f1",
+            "data-offset-start": 410,
+            "data-offset-end": 428,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_2"
+        },
+        {
+            "left": 127,
+            "top": 1759,
+            "text": "3、《招商银行（600036）—核心指",
+            "pageid": 1,
+            "font-size": 27,
+            "font-id": "f1",
+            "data-offset-start": 460,
+            "data-offset-end": 478,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_2"
+        },
+        {
+            "left": 505,
+            "top": 334,
+            "level": "Level_0",
+            "text": "一、最佳零售银行的崛起之路......................................................................................5",
+            "pageid": 2,
+            "font-size": 31,
+            "font-id": "f9",
+            "data-offset-start": 12,
+            "children": [
+                {
+                    "left": 505,
+                    "top": 403,
+                    "text": "（一）王士祯：立行元老，树立服务口碑....................................................................5",
+                    "pageid": 2,
+                    "font-size": 31,
+                    "font-id": "f9",
+                    "data-offset-start": 115,
+                    "data-offset-end": 203,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 505,
+                    "top": 472,
+                    "text": "（二）马蔚华：零售奠基人，构筑负债护城河.............................................................5",
+                    "pageid": 2,
+                    "font-size": 31,
+                    "font-id": "f9",
+                    "data-offset-start": 205,
+                    "data-offset-end": 288,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 505,
+                    "top": 541,
+                    "text": "（三）田惠宇：继往开来，加强盈利建设....................................................................5",
+                    "pageid": 2,
+                    "font-size": 31,
+                    "font-id": "f9",
+                    "data-offset-start": 290,
+                    "data-offset-end": 378,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                }
+            ],
+            "color": "rgba(0,0,0,1)",
+            "data-offset-end": 113
+        },
+        {
+            "left": 505,
+            "top": 610,
+            "level": "Level_0",
+            "text": "二、从零售1.0到零售3.0，招行始终引领变革...........................................................6",
+            "pageid": 2,
+            "font-size": 31,
+            "font-id": "f9",
+            "data-offset-start": 380,
+            "children": [
+                {
+                    "left": 505,
+                    "top": 679,
+                    "text": "（一）零售1.0：一卡通替代存折.................................................................................6",
+                    "pageid": 2,
+                    "font-size": 31,
+                    "font-id": "f9",
+                    "data-offset-start": 468,
+                    "data-offset-end": 567,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 505,
+                    "top": 748,
+                    "text": "（二）零售2.0：财富管理替代存款为中心..................................................................9",
+                    "pageid": 2,
+                    "font-size": 31,
+                    "font-id": "f9",
+                    "data-offset-start": 569,
+                    "data-offset-end": 658,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 505,
+                    "top": 817,
+                    "text": "（三）零售3.0：APP经营替代卡片经营...................................................................12",
+                    "pageid": 2,
+                    "font-size": 31,
+                    "font-id": "f9",
+                    "data-offset-start": 660,
+                    "data-offset-end": 751,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                }
+            ],
+            "color": "rgba(0,0,0,1)",
+            "data-offset-end": 466
+        },
+        {
+            "left": 505,
+            "top": 886,
+            "level": "Level_0",
+            "text": "三、招行相对行业的超额ROE重新扩大...................................................................13",
+            "pageid": 2,
+            "font-size": 31,
+            "font-id": "f9",
+            "data-offset-start": 753,
+            "children": [
+                {
+                    "left": 505,
+                    "top": 956,
+                    "text": "（一）负债端：成本优势一直保持，利率市场化后进一步拉大.................................15",
+                    "pageid": 2,
+                    "font-size": 31,
+                    "font-id": "f9",
+                    "data-offset-start": 845,
+                    "data-offset-end": 908,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 505,
+                    "top": 1025,
+                    "text": "（二）资产端：改善并不全靠提高风险偏好，成本下降是关键.................................16",
+                    "pageid": 2,
+                    "font-size": 31,
+                    "font-id": "f9",
+                    "data-offset-start": 910,
+                    "data-offset-end": 973,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                }
+            ],
+            "color": "rgba(0,0,0,1)",
+            "data-offset-end": 843
+        },
+        {
+            "left": 505,
+            "top": 1094,
+            "level": "Level_0",
+            "text": "四、2018年完美收官，2019年有望延续..................................................................18",
+            "pageid": 2,
+            "font-size": 31,
+            "font-id": "f9",
+            "data-offset-start": 975,
+            "children": [
+                {
+                    "left": 505,
+                    "top": 1163,
+                    "text": "（一）2018年完美收关，业绩无可挑剔....................................................................18",
+                    "pageid": 2,
+                    "font-size": 31,
+                    "font-id": "f9",
+                    "data-offset-start": 1069,
+                    "data-offset-end": 1160,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 505,
+                    "top": 1232,
+                    "text": "（二）判断2019年业绩增长仍能保持平稳................................................................19",
+                    "pageid": 2,
+                    "font-size": 31,
+                    "font-id": "f9",
+                    "data-offset-start": 1162,
+                    "data-offset-end": 1250,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                }
+            ],
+            "color": "rgba(0,0,0,1)",
+            "data-offset-end": 1067
+        },
+        {
+            "left": 505,
+            "top": 1301,
+            "text": "五、投资建议..............................................................................................................23",
+            "pageid": 2,
+            "font-size": 31,
+            "font-id": "f9",
+            "data-offset-start": 1252,
+            "data-offset-end": 1371,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 505,
+            "top": 246,
+            "level": "Level_0",
+            "text": "一、最佳零售银行的崛起之路",
+            "pageid": 5,
+            "font-size": 47,
+            "font-id": "f33",
+            "data-offset-start": 2,
+            "children": [
+                {
+                    "left": 505,
+                    "top": 549,
+                    "text": "（一）王士祯：立行元老，树立服务口碑",
+                    "pageid": 5,
+                    "font-size": 42,
+                    "font-id": "f33",
+                    "data-offset-start": 111,
+                    "data-offset-end": 128,
+                    "color": "rgba(152,50,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 505,
+                    "top": 1347,
+                    "text": "（二）马蔚华：零售奠基人，构筑负债护城河",
+                    "pageid": 5,
+                    "font-size": 42,
+                    "font-id": "f33",
+                    "data-offset-start": 562,
+                    "data-offset-end": 581,
+                    "color": "rgba(152,50,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 505,
+                    "top": 2193,
+                    "text": "（三）田惠宇：继往开来，加强盈利建设",
+                    "pageid": 5,
+                    "font-size": 42,
+                    "font-id": "f33",
+                    "data-offset-start": 1090,
+                    "data-offset-end": 1107,
+                    "color": "rgba(152,50,0,1)",
+                    "level": "Level_1"
+                }
+            ],
+            "color": "rgba(128,0,0,1)",
+            "data-offset-end": 14
+        },
+        {
+            "left": 505,
+            "top": 924,
+            "level": "Level_0",
+            "text": "二、从零售1.0到零售3.0，招行始终引领变革",
+            "pageid": 6,
+            "font-size": 47,
+            "font-id": "f110",
+            "data-offset-start": 435,
+            "children": [
+                {
+                    "left": 505,
+                    "top": 1385,
+                    "text": "（一）零售1.0：一卡通替代存折",
+                    "pageid": 6,
+                    "font-size": 42,
+                    "font-id": "f110",
+                    "data-offset-start": 705,
+                    "data-offset-end": 721,
+                    "color": "rgba(152,50,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 505,
+                    "top": 1846,
+                    "text": "（二）零售2.0：财富管理替代存款为中心",
+                    "pageid": 9,
+                    "font-size": 42,
+                    "font-id": "f330",
+                    "data-offset-start": 729,
+                    "data-offset-end": 749,
+                    "color": "rgba(152,50,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 505,
+                    "top": 246,
+                    "text": "（三）零售3.0：APP经营替代卡片经营",
+                    "pageid": 12,
+                    "font-size": 42,
+                    "font-id": "f33",
+                    "data-offset-start": 2,
+                    "data-offset-end": 23,
+                    "color": "rgba(152,50,0,1)",
+                    "level": "Level_1"
+                }
+            ],
+            "color": "rgba(128,0,0,1)",
+            "data-offset-end": 460
+        },
+        {
+            "left": 505,
+            "top": 1331,
+            "level": "Level_0",
+            "text": "三、招行相对行业的超额ROE重新扩大",
+            "pageid": 13,
+            "font-size": 47,
+            "font-id": "f76",
+            "data-offset-start": 306,
+            "children": [
+                {
+                    "left": 505,
+                    "top": 246,
+                    "text": "（一）负债端：成本优势一直保持，利率市场化后进一步拉大",
+                    "pageid": 15,
+                    "font-size": 42,
+                    "font-id": "f33",
+                    "data-offset-start": 7,
+                    "data-offset-end": 33,
+                    "color": "rgba(152,50,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 505,
+                    "top": 923,
+                    "text": "（二）资产端：改善并不全靠提高风险偏好，成本下降是关键",
+                    "pageid": 16,
+                    "font-size": 42,
+                    "font-id": "f584",
+                    "data-offset-start": 1078,
+                    "data-offset-end": 1104,
+                    "color": "rgba(152,50,0,1)",
+                    "level": "Level_1"
+                }
+            ],
+            "color": "rgba(128,0,0,1)",
+            "data-offset-end": 325
+        },
+        {
+            "left": 505,
+            "top": 1521,
+            "level": "Level_0",
+            "text": "四、2018年完美收官，2019年有望延续",
+            "pageid": 18,
+            "font-size": 47,
+            "font-id": "f99",
+            "data-offset-start": 462,
+            "children": [
+                {
+                    "left": 505,
+                    "top": 1640,
+                    "text": "（一）2018年完美收关，业绩无可挑剔",
+                    "pageid": 18,
+                    "font-size": 42,
+                    "font-id": "f99",
+                    "data-offset-start": 486,
+                    "data-offset-end": 505,
+                    "color": "rgba(152,50,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 505,
+                    "top": 1106,
+                    "level": "Level_1",
+                    "text": "（二）判断2019年业绩增长仍能保持平稳",
+                    "pageid": 19,
+                    "font-size": 42,
+                    "font-id": "f485",
+                    "data-offset-start": 731,
+                    "data-offset-end": 752,
+                    "color": "rgba(152,50,0,1)",
+                    "children": [
+                        {
+                            "left": 505,
+                            "top": 1445,
+                            "text": "1、资产质量大概率好于同业",
+                            "pageid": 19,
+                            "font-size": 36,
+                            "font-id": "f15",
+                            "data-offset-start": 1063,
+                            "data-offset-end": 1075,
+                            "color": "rgba(152,50,0,1)",
+                            "level": "Level_2"
+                        },
+                        {
+                            "left": 505,
+                            "top": 1917,
+                            "text": "2、贷款分类一直严格，信贷成本有下调空间",
+                            "pageid": 21,
+                            "font-size": 36,
+                            "font-id": "f15",
+                            "data-offset-start": 788,
+                            "data-offset-end": 807,
+                            "color": "rgba(152,50,0,1)",
+                            "level": "Level_2"
+                        }
+                    ]
+                }
+            ],
+            "color": "rgba(128,0,0,1)",
+            "data-offset-end": 484
+        },
+        {
+            "left": 505,
+            "top": 870,
+            "level": "Level_0",
+            "text": "五、投资建议",
+            "pageid": 23,
+            "font-size": 47,
+            "font-id": "f64",
+            "data-offset-start": 218,
+            "data-offset-end": 223,
+            "color": "rgba(128,0,0,1)",
+            "children": [
+                {
+                    "left": 505,
+                    "top": 1033,
+                    "text": "1、《招商银行（600036）—为零售之王正名》2019/01/03",
+                    "pageid": 24,
+                    "font-size": 31,
+                    "font-id": "f15",
+                    "data-offset-start": 276,
+                    "data-offset-end": 309,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_2"
+                },
+                {
+                    "left": 505,
+                    "top": 1091,
+                    "text": "2、《招商银行（600036）—非基本面原因大跌，判断是第二个重要底部！》2018/12/20",
+                    "pageid": 24,
+                    "font-size": 31,
+                    "font-id": "f15",
+                    "data-offset-start": 311,
+                    "data-offset-end": 357,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_2"
+                },
+                {
+                    "left": 505,
+                    "top": 1150,
+                    "text": "3、《招商银行（600036）—核心指标延续稳健表现，基本面最为确定标的》2018/10/30",
+                    "pageid": 24,
+                    "font-size": 31,
+                    "font-id": "f15",
+                    "data-offset-start": 359,
+                    "data-offset-end": 405,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_2"
+                },
+                {
+                    "left": 505,
+                    "top": 1209,
+                    "text": "4、《招商银行（600036）—低风险偏好与高息差兼备，资产质量延续优秀表现》2018/08/25",
+                    "pageid": 24,
+                    "font-size": 31,
+                    "font-id": "f15",
+                    "data-offset-start": 407,
+                    "data-offset-end": 456,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_2"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+APPENDIX I
+
+Government grants
+
+ACCOUNTANTS’ REPORT
+
+Government grants are not recognised until there is reasonable assurance that the Group will comply with the
+
+conditions attaching to them and that the grants will be received.
+
+Government grants are recognised in profit or loss on a systematic basis over the periods in which the Group
+recognises as expenses the related costs for which the grants are intended to compensate. Specifically, government
+grants whose primary condition is that the Group should purchase, construct or otherwise acquire non-current assets
+are recognised as deferred income in the consolidated statements of financial position and transferred to profit or loss
+on a systematic and rational basis over the useful lives of the related assets.
+
+Government grants that are receivable as compensation for expenses or losses already incurred or for the
+purpose of giving immediate financial support to the Group with no future related costs are recognised in profit or
+loss in the period in which they become receivable.
+
+Retirement benefits costs
+
+Payments to state-managed retirement benefit schemes are recognised as an expense when employees have
+
+rendered service entitling them to the contributions.
+
+Short-term employee benefits
+
+Short-term employee benefits are recognised at the undiscounted amount of the benefits expected to be paid
+as and when employees rendered the services. All short-term employee benefits are recognised as an expense unless
+another IFRS standards requires or permits the inclusion of the benefit in the cost of an asset.
+
+A liability is recognised for benefits accruing to employees (such as wages and salaries, annual leave and sick
+
+leave) after deducting any amount already paid.
+
+Share-based payment arrangements
+
+Equity-settled share-based payment transactions
+
+Share options granted to employees
+
+Equity-settled share-based payments to employees and others providing similar services are measured at the
+
+fair value of the equity instruments at the grant date.
+
+The fair value of the equity-settled share-based payments determined at the grant date without taking into
+consideration all non-market vesting conditions is expensed on a straight-line basis over the vesting period, based on
+the Group’s estimate of equity instruments that will eventually vest, with a corresponding increase in equity
+(share-based payments reserve). At the end of each reporting period, the Group revises its estimate of the number of
+equity instruments expected to vest based on assessment of all relevant non-market vesting conditions. The impact
+of the revision of the original estimates, if any, is recognised in profit or loss such that the cumulative expense reflects
+the revised estimate, with a corresponding adjustment to the share based payment reserve. For share options that vest
+immediately at the date of grant, the fair value of the share options granted is expensed immediately to profit or loss.
+
+When share options are exercised, the amount previously recognised in share-based payment reserve will be
+transferred to share premium. When the share options are forfeited after the vesting date or are still not exercised at
+the expiry date, the amount previously recognised in share options reserve will be transferred to accumulated losses.
+
+Share options granted to consultants
+
+Equity-settled share-based payment transactions with parties other than employees are measured at the fair
+value of the goods or services received, except where that fair value cannot be estimated reliably, in which case they
+are measured at the fair value of the equity instruments granted, measured at the date the entity obtains the goods
+or the counterparty renders the service. The fair values of the goods or services received are recognised as expenses
+(unless the goods or services qualify for recognition as assets).
+
+– I-16 –
+
+

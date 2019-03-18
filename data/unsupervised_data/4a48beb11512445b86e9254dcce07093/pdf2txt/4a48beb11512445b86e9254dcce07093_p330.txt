@@ -1,0 +1,64 @@
+FINANCIAL INFORMATION
+
+When the share options are exercised,
+
+the amount previously recognized in the
+share-based payment reserve will be transferred to share premium. When the share options are
+forfeited after the vesting date or are still not exercised at
+the amount
+previously recognized in the share options reserve will be transferred to accumulated losses.
+
+the expiry date,
+
+Early Application of IFRS 9 and IFRS 15
+
+IFRS 9 “Financial Instruments”
+
+IFRS 9 “Financial Instruments” replaces IAS 39 “Financial Instruments” for recognition
+and measurement for financial assets and liabilities. The standard is effective for annual
+periods beginning on or after January 1, 2018 and earlier application is permitted. We have
+elected to early apply IFRS 9, which has been applied consistently in the Track Record Period.
+
+We have assessed the effects of early adoption of IFRS 9 on our financial statements and
+concluded that there was no significant impact on our financial position and performance as
+compared to the requirements of IAS 39, specifically because:
+
+(1)
+
+(2)
+
+(3)
+
+all our financial assets and financial liabilities would be measured on the same bases
+under IFRS 9 and IAS 39;
+
+the application of expected credit loss model under IFRS 9 would not cause a
+material impact on the impairment loss allowance for our financial assets measured
+at amortized cost during the Track Record Period as compared with the incurred loss
+model under IAS 39; and
+
+there are no fair value changes of our financial liabilities which we had designated
+as at FVTPL attributable to our credit risk change during the Track Record Period,
+and thus the measurement difference for the fair value changes of our financial
+liabilities designated as at FVTPL attributable to the credit risk change under IFRS
+9 and IAS 39 has no impact on our profit or loss during the Track Record Period.
+
+IFRS 15 “Revenue from contracts with customers”
+
+IFRS 15 “Revenue from contracts with customers” replaces the previous revenue
+standards IAS 18 “Revenue” and IAS 11 “Construction Contracts” and related interpretations.
+The standard is effective for the first interim period within annual reporting periods beginning
+on or after January 1, 2018 and we have early applied IFRS 15 to our financial statements,
+which has been applied consistently in the Track Record Period.
+
+We have assessed the effects of the early adoption of IFRS 15 on our financial statements
+
+as compared to the requirements of IAS 18 and summarized as follows:
+
+(1) Advances from customers of RMB292.2 million, RMB349.7 million and RMB443.4
+million as of December 31, 2016 and 2017 and June 30, 2018, respectively, under
+IAS 18, were classified as contract liabilities under IFRS 15.
+
+– 321 –
+
+

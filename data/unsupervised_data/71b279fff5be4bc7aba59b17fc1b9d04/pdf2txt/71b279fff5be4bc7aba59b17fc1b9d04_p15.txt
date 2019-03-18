@@ -1,0 +1,245 @@
+SUMMARY
+
+PD-1/PD-L1 Competitive Landscape in China (Late-Stage)
+
+Binding of the PD-1 ligands, PD-L1 and PD-L2, to the PD-1 receptor found on T-cells, inhibits T-cell proliferation and cytokine
+production. Upregulation of PD-1 ligands occurs in some tumors and signaling through this pathway can contribute to inhibition
+
+of active T-cell immune surveillance of tumors. Thus, PD-1 or PD-L1 inhibitor antibodies could inhibit this pathway and
+
+reactivate the T-cell immune surveillance of tumors.
+
+Products
+
+Products
+
+(generic name)
+
+(brand name)
+
+Company
+
+CDA Status
+
+nivolumab
+
+OPDIVO威
+
+BMS
+
+pembrolizumab
+
+KEYTRUDA威
+
+MSD
+
+Approved in June
+
+2018
+
+Approved in July
+
+2018
+
+Lead
+
+Indication
+
+2L NSCLC
+
+melanoma
+
+NA
+
+NA
+
+NA
+
+Junshi
+
+NDA review
+
+melanoma
+
+Innovent
+
+NDA review
+
+Hengrui
+
+NDA review
+
+cHL
+
+cHL
+
+Reimbursement
+
+U.S. Patent
+Exclusivity
+
+Generic
+Versions
+
+NA
+
+NA
+
+NA
+
+NA
+
+NA
+
+2027
+
+2028
+
+NA
+
+NA
+
+NA
+
+NA
+
+NA
+
+NA
+
+NA
+
+NA
+
+trepinzumab
+
+(JS001)
+
+sintilimab
+(IBI308)
+
+camrelizumab
+(SHR-1210)
+
+tislelizumab
+(BGB-A317)
+
+NA
+
+BeiGene
+
+NDA submission in
+
+2018 for the
+
+treatment of cHL;
+currently also in
+other PhIII and
+pivotal PhII trials
+
+cHL
+
+NA
+
+2033
+
+NA
+
+Abbreviations: cHL = classical Hodgkin’s lymphoma
+
+PARP Competitive Landscape in China (Late-Stage)
+
+PARP inhibitors are involved in DNA transcription and repair. PARP can detect and initiate the immediate cellular response
+
+to chemical or radiation-induced single-strand DNA breaks by signaling the enzymatic machinery involved in the repair
+
+process. Cancer cells with mutations in breast cancer susceptibility gene, or BRCA1/2 genes, are highly sensitive to PARP
+
+inhibition. This phenomenon is called “synthetic lethality” and is the foundation of the therapeutic utility of PARP
+
+inhibition in cancer therapy.
+
+Products
+
+Products
+
+(generic name)
+
+(brand name)
+
+Company
+
+CDA Status
+
+olaparib
+
+LYNPARZA威
+
+AstraZeneca
+
+NDA review
+
+ZL-2306
+
+Pamiparib
+(BGB-290)
+
+ZEJULA威
+(in the US)
+
+Tesaro, Zai
+
+Lab
+
+PhIII
+
+NA
+
+BeiGene
+
+PhIII
+
+Lead
+
+Indications
+
+Ovarian cancer,
+Breast cancer
+
+Ovarian cancer,
+Small cell lung
+
+cancer
+
+Ovarian
+cancer
+
+Reimbursement
+
+U.S. Patent
+Exclusivity
+
+Generic
+Versions
+
+NA
+
+NA
+
+NA
+
+2022
+
+NA
+
+2030
+
+NA
+
+2031
+
+NA
+
+— 9 —
+
+

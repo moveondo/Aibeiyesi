@@ -1,0 +1,52 @@
+APPENDIX I
+
+ACCOUNTANTS’ REPORT
+
+Share-based compensation
+
+Awards granted to employees
+
+The Group applies ASC 718, Compensation—Stock Compensation (“ASC 718”), to account for
+its employee share-based payments. In accordance with ASC 718, the Group determines whether an
+award should be classified and accounted for as a liability award or equity award. All the Group’s
+grants of share-based awards to employees were classified as equity awards and are recognized in the
+financial statements based on their grant date fair values. Specifically, the grant date fair value of
+share options is calculated using an option pricing model. The fair value of restricted shares and
+restricted share units are based on the closing market price of the common stock on the Nasdaq Global
+Select Market on the date of grant. The Group has elected to recognize compensation expense using
+the straight-line method for all employee equity awards granted with graded vesting based on service
+conditions provided that the amount of compensation cost recognized at any date is at least equal to
+the portion of the grant-date value of the options that are vested at that date. The Group uses the
+accelerated method for all awards granted with graded vesting based on performance conditions. To
+the extent that the required vesting conditions are not met resulting in the forfeiture of the share-based
+awards, previously recognized compensation expense relating to those awards are reversed. ASC 718
+requires forfeitures to be estimated at the time of grant and revised, if necessary, in the subsequent
+period if actual forfeitures differ from initial estimates.
+
+Forfeiture rates are estimated based on historical and future expectations of employee turnover
+rates and are adjusted to reflect future changes in circumstances and facts,
+if any. Share-based
+compensation expense is recorded net of estimated forfeitures such that expense is recorded only for
+those share-based awards that are expected to vest. To the extent that the Group revises these estimates
+in the future, the share-based payments could be materially impacted in the period of revision, as well
+as in following periods. The Group, with the assistance of an independent third-party valuation firm,
+determined the estimated fair value of the stock options granted to employees using the binomial
+option pricing model.
+
+Awards granted to non-employees
+
+The Group has accounted for equity instruments issued to non-employees in accordance with the
+provisions of ASC 718 and ASC 505, Equity. All transactions in which goods or services are received
+in exchange for equity instruments are accounted for based on the fair value of the consideration
+received or the fair value of the equity instrument issued, whichever is more reliably measurable. The
+measurement date of the fair value of the equity instrument
+issued is the date on which the
+counterparty’s performance is completed as there is no associated performance commitment. The
+expense is recognized in the same manner as if the Group had paid cash for the services provided by
+the non-employees in accordance with ASC 505-50, Equity-based Payments to Non-employees. The
+Group estimates the fair value of share options granted to non-employees using the same method as
+employees.
+
+— I-28 —
+
+

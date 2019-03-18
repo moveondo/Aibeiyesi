@@ -1,0 +1,91 @@
+{
+    "root": true,
+    "children": [
+        {
+            "left": 187,
+            "top": 522,
+            "level": "Level_0",
+            "text": "一、安防的国际和国内市场规模",
+            "pageid": 1,
+            "font-size": 26,
+            "font-id": "f7",
+            "data-offset-start": 269,
+            "children": [
+                {
+                    "left": 187,
+                    "top": 884,
+                    "text": "（1）随着自从智慧城市概念提出以来，各地建设热情不断高涨，越来越多的三四",
+                    "pageid": 1,
+                    "font-size": 26,
+                    "font-id": "f7",
+                    "data-offset-start": 881,
+                    "data-offset-end": 916,
+                    "color": "rgba(36,36,36,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 187,
+                    "top": 1019,
+                    "text": "（2）越来越多城市地铁等基础设施建设推动者安防市场的扩大；",
+                    "pageid": 1,
+                    "font-size": 26,
+                    "font-id": "f7",
+                    "data-offset-start": 936,
+                    "data-offset-end": 964,
+                    "color": "rgba(36,36,36,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 187,
+                    "top": 1108,
+                    "text": "（3）随着新兴市场的出现，例如无人超市，自动驾驶等的出现，为安防市场带来",
+                    "pageid": 1,
+                    "font-size": 26,
+                    "font-id": "f7",
+                    "data-offset-start": 966,
+                    "data-offset-end": 1001,
+                    "color": "rgba(36,36,36,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 187,
+                    "top": 1243,
+                    "text": "（4）国内市场注重安全和稳定，APEC大会，G20峰会，亚运会以及冬奥会等一",
+                    "pageid": 1,
+                    "font-size": 26,
+                    "font-id": "f7",
+                    "data-offset-start": 1012,
+                    "data-offset-end": 1051,
+                    "color": "rgba(36,36,36,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 187,
+                    "top": 1378,
+                    "text": "（5）存在的老旧安防产品更新换代，高清智能化替代过程。",
+                    "pageid": 1,
+                    "font-size": 26,
+                    "font-id": "f7",
+                    "data-offset-start": 1081,
+                    "data-offset-end": 1107,
+                    "color": "rgba(36,36,36,1)",
+                    "level": "Level_1"
+                }
+            ],
+            "color": "rgba(36,36,36,1)",
+            "data-offset-end": 282
+        },
+        {
+            "left": 187,
+            "top": 1649,
+            "text": "二、国内安防结构与应用",
+            "pageid": 2,
+            "font-size": 26,
+            "font-id": "f148",
+            "data-offset-start": 677,
+            "data-offset-end": 687,
+            "color": "rgba(36,36,36,1)",
+            "level": "Level_0"
+        }
+    ]
+}

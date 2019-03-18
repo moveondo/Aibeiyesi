@@ -1,0 +1,89 @@
+BUSINESS
+
+In vitro studies have shown that
+
+the binding affinity of sintilimab for PD-1 is
+approximately 10- and 50-fold higher compared to that of pembrolizumab and nivolumab,
+respectively. This higher binding affinity allows sintilimab to bind more tightly to PD-1 on
+lymphocytes and to better compete against the binding of PD-L1 and PD-L2 on tumor cells.
+The following table shows the in vitro equilibrium binding characteristics of sintilimab,
+pembrolizumab and nivolumab. A lower dissociation constant (Kd) indicates higher binding
+affinity.
+
+Sintilimab (IBI-308) has higher binding affinity for
+human PD-1 than pembrolizumab and nivolumab
+
+Abbreviations: M = mole (unit for amount of substance); Kd = dissociation constant; hPD-1 = human PD-1.
+
+Prolonged binding for PD-1
+
+The binding affinity of an antibody consists of two opposing factors: the on-rate which
+is the rate at which the antibody (sintilimab) binds to the antigen (PD-1); and the off-rate which
+is the rate at which the antibody releases the antigen. Pembrolizumab has a comparably fast
+off-rate, and hence, after binding to PD-1 on lymphocytes, pembrolizumab can dissociate from
+PD-1,
+leaving the lymphocyte’s PD-1 free to bind to PD-L1 or PD-L2 on tumor cells.
+Sintilimab was engineered to slow down its dissociation from PD-1 and thereby prolong the
+duration of its binding to PD-1 so as to allow more robust and longer inhibition of the PD-1
+signal as compared to pembrolizumab. The following graphs show the side-by-side comparison
+of the binding kinetics of pembrolizumab and sintilimab.
+
+Sintilimab (IBI-308) has a slower off-rate than pembrolizumab
+
+ 
+)
+
+U
+R
+
+(
+ 
+s
+c
+i
+t
+e
+n
+i
+K
+g
+n
+i
+d
+n
+i
+B
+
+ 
+
+ 
+)
+
+U
+R
+
+(
+ 
+s
+c
+i
+t
+e
+n
+i
+K
+g
+n
+i
+d
+n
+i
+B
+
+ 
+
+Abbreviations: RU = resonance units.
+
+– 230 –
+
+

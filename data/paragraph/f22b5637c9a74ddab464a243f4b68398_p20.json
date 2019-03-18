@@ -1,0 +1,74 @@
+[
+    {
+        "data-offset-end": 9,
+        "pageid": 20,
+        "top": 153,
+        "font-id": "f8",
+        "level": "Level",
+        "left": 127,
+        "text": "管理層討論與分析",
+        "font-size": 51,
+        "color": "rgba(190,146,91,1)",
+        "data-offset-start": 2
+    },
+    {
+        "data-offset-end": 17,
+        "pageid": 20,
+        "top": 347,
+        "font-id": "f10",
+        "level": "Level",
+        "left": 127,
+        "text": "2.業務摘要",
+        "font-size": 39,
+        "color": "rgba(190,146,91,1)",
+        "data-offset-start": 11
+    },
+    {
+        "data-offset-end": 28,
+        "pageid": 20,
+        "top": 441,
+        "font-id": "f10",
+        "level": "Level",
+        "left": 127,
+        "text": "2.1物業分佈概覽",
+        "font-size": 33,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 19
+    },
+    {
+        "data-offset-end": 135,
+        "pageid": 20,
+        "top": 535,
+        "font-id": "f12",
+        "level": "Level",
+        "left": 127,
+        "text": "於二零一七年十二月三十一日，本集團正在開發的物業項目共計340個，分佈於中國70個城市，總佔地面積約7,402.44萬平方米，估計總建築面積約1.82億平方米，及估計可銷售或可出租的建築面積約1.52億平方米。",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 30
+    },
+    {
+        "data-offset-end": 149,
+        "pageid": 20,
+        "top": 2303,
+        "font-id": "f7",
+        "level": "Level",
+        "left": 47,
+        "text": "18融創中國控股有限公司",
+        "font-size": 33,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 137
+    },
+    {
+        "data-offset-end": 158,
+        "pageid": 20,
+        "top": 2330,
+        "font-id": "f9",
+        "level": "Level",
+        "left": 127,
+        "text": "2017年度報告",
+        "font-size": 24,
+        "color": "rgba(101,98,98,1)",
+        "data-offset-start": 151
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "data-offset-end": 9,
+        "pageid": 157,
+        "top": 153,
+        "font-id": "f8",
+        "level": "Level",
+        "left": 1240,
+        "text": "綜合財務報表附註",
+        "font-size": 51,
+        "color": "rgba(222,129,14,1)",
+        "data-offset-start": 2
+    },
+    {
+        "data-offset-end": 27,
+        "pageid": 157,
+        "top": 215,
+        "font-id": "f10",
+        "level": "Level",
+        "left": 1187,
+        "text": "截至二零一七年十二月三十一日止年度",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 11
+    },
+    {
+        "data-offset-end": 51,
+        "pageid": 157,
+        "top": 423,
+        "font-id": "f11",
+        "level": "Level",
+        "left": 195,
+        "text": "(II)抵質押非流動資產",
+        "font-size": 33,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 39
+    },
+    {
+        "data-offset-end": 88,
+        "pageid": 157,
+        "top": 567,
+        "font-id": "f11",
+        "level": "Level",
+        "left": 195,
+        "text": "(III)合約責任",
+        "font-size": 33,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 79
+    },
+    {
+        "data-offset-end": 173,
+        "pageid": 157,
+        "top": 787,
+        "font-id": "f13",
+        "level": "Level",
+        "left": 263,
+        "text": "部分投資物業以長期經營租賃租予租戶，租金每月支付。投資物業租約的最低應收租賃付款如下：",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 131
+    },
+    {
+        "data-offset-end": 287,
+        "pageid": 157,
+        "top": 1249,
+        "font-id": "f11",
+        "level": "Level",
+        "left": 127,
+        "text": "10無形資產",
+        "font-size": 39,
+        "color": "rgba(222,129,14,1)",
+        "data-offset-start": 281
+    },
+    {
+        "data-offset-end": 321,
+        "pageid": 157,
+        "top": 1748,
+        "font-id": "f11",
+        "level": "Level",
+        "left": 195,
+        "text": "(A)土地使用權",
+        "font-size": 33,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 313
+    },
+    {
+        "data-offset-end": 385,
+        "pageid": 157,
+        "top": 1376,
+        "font-id": "f12",
+        "level": "Level",
+        "left": 1235,
+        "text": "十二月三十一日十二月三十一日",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 371
+    },
+    {
+        "data-offset-end": 542,
+        "pageid": 157,
+        "top": 2303,
+        "font-id": "f8",
+        "level": "Level",
+        "left": 1412,
+        "text": "融創中國控股有限公司155",
+        "font-size": 24,
+        "color": "rgba(222,129,14,1)",
+        "data-offset-start": 529
+    },
+    {
+        "data-offset-end": 551,
+        "pageid": 157,
+        "top": 2330,
+        "font-id": "f9",
+        "level": "Level",
+        "left": 1504,
+        "text": "2017年度報告",
+        "font-size": 24,
+        "color": "rgba(101,98,98,1)",
+        "data-offset-start": 544
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "data-offset-end": 9,
+        "pageid": 136,
+        "top": 153,
+        "font-id": "f8",
+        "level": "Level",
+        "left": 127,
+        "text": "綜合財務報表附註",
+        "font-size": 51,
+        "color": "rgba(222,129,14,1)",
+        "data-offset-start": 2
+    },
+    {
+        "data-offset-end": 140,
+        "pageid": 136,
+        "top": 933,
+        "font-id": "f12",
+        "level": "Level",
+        "left": 280,
+        "text": "綜合資產負債表（摘錄）",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 130
+    },
+    {
+        "data-offset-end": 291,
+        "pageid": 136,
+        "top": 582,
+        "font-id": "f12",
+        "level": "Level",
+        "left": 1053,
+        "text": "於二零一七年十二月三十一日",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 279
+    },
+    {
+        "data-offset-end": 324,
+        "pageid": 136,
+        "top": 636,
+        "font-id": "f12",
+        "level": "Level",
+        "left": 1318,
+        "text": "提早採納",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 321
+    },
+    {
+        "data-offset-end": 793,
+        "pageid": 136,
+        "top": 2303,
+        "font-id": "f7",
+        "level": "Level",
+        "left": 39,
+        "text": "134融創中國控股有限公司",
+        "font-size": 33,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 780
+    },
+    {
+        "data-offset-end": 802,
+        "pageid": 136,
+        "top": 2330,
+        "font-id": "f9",
+        "level": "Level",
+        "left": 127,
+        "text": "2017年度報告",
+        "font-size": 24,
+        "color": "rgba(101,98,98,1)",
+        "data-offset-start": 795
+    }
+]

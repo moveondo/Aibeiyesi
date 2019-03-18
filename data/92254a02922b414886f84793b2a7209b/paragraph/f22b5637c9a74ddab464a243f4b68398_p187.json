@@ -1,0 +1,98 @@
+[
+    {
+        "data-offset-end": 9,
+        "pageid": 187,
+        "top": 153,
+        "font-id": "f8",
+        "level": "Level",
+        "left": 1240,
+        "text": "綜合財務報表附註",
+        "font-size": 51,
+        "color": "rgba(222,129,14,1)",
+        "data-offset-start": 2
+    },
+    {
+        "data-offset-end": 27,
+        "pageid": 187,
+        "top": 215,
+        "font-id": "f10",
+        "level": "Level",
+        "left": 1187,
+        "text": "截至二零一七年十二月三十一日止年度",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 11
+    },
+    {
+        "data-offset-end": 164,
+        "pageid": 187,
+        "top": 942,
+        "font-id": "f13",
+        "level": "Level",
+        "left": 280,
+        "text": "計算應課稅收入時不可扣稅金額的稅務影響：",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 145
+    },
+    {
+        "data-offset-end": 217,
+        "pageid": 187,
+        "top": 1212,
+        "font-id": "f13",
+        "level": "Level",
+        "left": 280,
+        "text": "計算應課稅收入時不可扣稅金額的稅務影響：",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 198
+    },
+    {
+        "data-offset-end": 807,
+        "pageid": 187,
+        "top": 1885,
+        "font-id": "f13",
+        "level": "Level",
+        "left": 263,
+        "text": "年內估計應課稅溢利已按16.5%（二零一六年：16.5%）的稅率計提香港利得稅撥備。海外利得稅乃根據年內估計應課稅溢利按本集團經營所在國家或地區的現行稅率計算。",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 727
+    },
+    {
+        "data-offset-end": 876,
+        "pageid": 187,
+        "top": 2002,
+        "font-id": "f13",
+        "level": "Level",
+        "left": 263,
+        "text": "根據開曼群島及英屬處女群島（「英屬處女群島」）的適用規則及規例，本公司及本集團的英屬處女群島附屬公司在該等司法權區毋須繳納任何所得稅。",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 809
+    },
+    {
+        "data-offset-end": 891,
+        "pageid": 187,
+        "top": 2303,
+        "font-id": "f8",
+        "level": "Level",
+        "left": 1412,
+        "text": "融創中國控股有限公司185",
+        "font-size": 24,
+        "color": "rgba(222,129,14,1)",
+        "data-offset-start": 878
+    },
+    {
+        "data-offset-end": 900,
+        "pageid": 187,
+        "top": 2330,
+        "font-id": "f9",
+        "level": "Level",
+        "left": 1504,
+        "text": "2017年度報告",
+        "font-size": 24,
+        "color": "rgba(101,98,98,1)",
+        "data-offset-start": 893
+    }
+]

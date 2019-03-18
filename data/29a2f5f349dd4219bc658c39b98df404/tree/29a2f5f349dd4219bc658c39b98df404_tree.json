@@ -1,0 +1,91 @@
+{
+    "root": true,
+    "children": [
+        {
+            "left": 149,
+            "top": 472,
+            "text": "一、新兴国家&amp;新能源激发需求潜力，供需缺口支撑铜价长期上行：铜精矿供应增速放缓，供应缺口",
+            "pageid": 2,
+            "font-size": 42,
+            "font-id": "f4",
+            "data-offset-start": 22,
+            "data-offset-end": 69,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 149,
+            "top": 772,
+            "text": "二、金价筑底蓄势待发，黄金避险价值凸显：全球通胀预期上升为金价提供支撑；油价屡创新高，巩固通胀预期；加息边际影响减弱，利空出尽或迎来利好：①市场已提前消化美联储加息预期，利空边际影响逐步弱化②美债期限利差收窄，加息空间受限，金价或触底反弹。重点推荐标的：紫金矿业（",
+            "pageid": 2,
+            "font-size": 42,
+            "font-id": "f4",
+            "data-offset-start": 159,
+            "data-offset-end": 292,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 149,
+            "top": 1148,
+            "level": "Level_0",
+            "text": "三、库存降，成本升，待需求回暖抬升铝价：供给侧改革政策下，电解铝去库存效果显著；环保限产导致原材料成本提升，供给端放量受阻；前三季度电解铝消费放缓，伴随下游行业回暖，未来期间需",
+            "pageid": 2,
+            "font-size": 42,
+            "font-id": "f4",
+            "data-offset-start": 322,
+            "children": [
+                {
+                    "left": 166,
+                    "top": 486,
+                    "text": "1、公司18年前三季度营业总收入同比增加22.9%；净利润39.08亿元，同比增加了46.28个百分点，经营稳健向好；2、铜储量大幅增长，未来三年公司科卢韦齐、多宝山二期、紫金山以及卡莫阿项目进入爬产和投产期；3、目前世界上未开发的最大型的卡莫阿铜矿，未来还有进一步增储空间。",
+                    "pageid": 28,
+                    "font-size": 42,
+                    "font-id": "f24",
+                    "data-offset-start": 128,
+                    "data-offset-end": 267,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 166,
+                    "top": 537,
+                    "text": "1、主要金属量价同比提升，业绩实现新突破；2、财务费用改善，投资收益增加助力公司利润增长；",
+                    "pageid": 29,
+                    "font-size": 42,
+                    "font-id": "f24",
+                    "data-offset-start": 159,
+                    "data-offset-end": 203,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 166,
+                    "top": 588,
+                    "text": "3、铜价中枢上行，钼、钴价格企稳，公司未来业绩可期。",
+                    "pageid": 29,
+                    "font-size": 42,
+                    "font-id": "f24",
+                    "data-offset-start": 205,
+                    "data-offset-end": 230,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 166,
+                    "top": 537,
+                    "text": "1、公司氧化铝自给率高，可较大程度享受氧化铝价格上涨带来的利润；2、公司产能分布广泛，采暖季错峰生产受限小；3、公司未来在建项目将陆续投产，产能持续释放，成长属性突出；4、公司自备电比例较低，受电力成本抬升影响较小。",
+                    "pageid": 30,
+                    "font-size": 42,
+                    "font-id": "f15",
+                    "data-offset-start": 168,
+                    "data-offset-end": 277,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                }
+            ],
+            "color": "rgba(0,0,0,1)",
+            "data-offset-end": 410
+        }
+    ]
+}

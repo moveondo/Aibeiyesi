@@ -1,0 +1,71 @@
+APPENDIX I
+
+Leasing
+
+ACCOUNTANTS’ REPORT
+
+Leases are classified as finance leases whenever the terms of the lease transfer substantially all the risks and
+
+rewards of ownership to the lessee. All other leases are classified as operating leases.
+
+The Group as lessee
+
+Operating lease payments, including the cost of acquiring land held under operating leases, are recognised as
+
+an expenses on a straight-line basis over the lease term.
+
+Leasehold land and building
+
+When the Group makes payments for a property interest which includes both leasehold land and building
+elements, the Group assesses the classification of each element separately based on the assessment as to whether
+substantially all the risks and rewards incidental to ownership of each element have been transferred to the Group,
+unless it is clear that both elements are operating leases in which case the entire property is accounted as an operating
+lease. Specifically, the entire consideration (including any lump-sum upfront payments) is allocated between the
+leasehold land and the building elements in proportion to the relative fair values of the leasehold interests in the land
+element and building element at initial recognition.
+
+To the extent the allocation of the relevant payments can be made reliably, interest in leasehold land that is
+accounted for as an operating lease is presented as “prepaid lease payments” in the consolidated statement of
+financial position and is amortised over the lease term on a straight-line basis.
+
+Foreign currencies
+
+In preparing the financial statements of each individual group entity, transactions in currencies other than the
+functional currency of that entity (foreign currencies) are recognised at the rates of exchanges prevailing at the dates
+of the transactions. At the end of the reporting period, monetary items denominated in foreign currencies are
+retranslated at the rates prevailing at that date. Non-monetary items that are measured in terms of historical cost in
+a foreign currency are not retranslated.
+
+Exchange differences arising on the settlement of monetary items, and on the retranslation of monetary items,
+
+are recognised in profit or loss for the period in which they arise.
+
+For the purposes of presenting the consolidated financial statements, the assets and liabilities of the Group’s
+foreign operations are translated into the presentation currency of the Group (i.e. RMB) using exchange rates
+prevailing at the end of each reporting period. Income and expenses items are translated at the average exchange rates
+for the period. Exchange differences arising, if any, are recognised in other comprehensive income and accumulated
+in equity under the heading of translation reserve (attributed to non-controlling interests as appropriate).
+
+Borrowing costs
+
+Borrowing costs directly attributable to the acquisition, construction or production of qualifying assets, which
+are assets that necessarily take a substantial period of time to get ready for their intended use or sale, are added to
+the cost of those assets, until such time as the assets are substantially ready for their intended use or sale.
+
+All other borrowing costs are recognised in profit or loss for the period in which they are incurred.
+
+Government grants
+
+Government grants are not recognised until there is reasonable assurance that the Group will comply with the
+
+conditions attaching to them and that the grants will be received.
+
+Government grants are recognised in profit or loss on a systematic basis over the periods in which the Group
+recognises as expenses the related costs for which the grants are intended to compensate. Specifically, government
+grants whose primary condition is that the Group should purchase, construct or otherwise acquire non-current assets
+are recognised as deferred income in the consolidated statement of financial position and transferred to profit or loss
+on a systematic and rational basis over the useful lives of the related assets.
+
+– I-19 –
+
+

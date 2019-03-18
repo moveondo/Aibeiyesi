@@ -1,0 +1,54 @@
+[
+    {
+        "font_family": "ff1",
+        "text": "欧菲科技股份有限公司  2017  年年度报告全文",
+        "bottom": 790.32,
+        "data_offset_end": 30,
+        "font_size": 36.0,
+        "left": 363.16,
+        "line_height": 0,
+        "data_offset_start": 6,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "Text_9999"
+    },
+    {
+        "font_family": "ff2",
+        "text": "18",
+        "bottom": 51.72,
+        "data_offset_end": 34,
+        "font_size": 36.0,
+        "left": 529.68,
+        "line_height": 0,
+        "data_offset_start": 31,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "Text_9999"
+    },
+    {
+        "font_family": "ff1",
+        "text": "公司在美国、日本、韩国和欧洲等地设立研究中心，吸引当地优质的 技术人才，获取最前沿的科技信息产业信息，在给客户提供技术服务的同时与全球先进 技术接轨并进行产业型投资，投资领域涵盖生物识别， 3D影像、算法， AR/VR, 智能驾驶，激光雷达、触控反馈等。",
+        "bottom": 753.9,
+        "data_offset_end": 161,
+        "font_size": 48.0,
+        "left": 80.7,
+        "line_height": 0,
+        "data_offset_start": 35,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 39.9375,
+        "level": "ATitle_9999"
+    },
+    {
+        "font_family": "ff2",
+        "text": "2 、成本控制优势（ 1 ）垂直一体化产业链随着行业的快速发展，在竞争不断加剧、产品价格不断下降的压力下 ，通过构建垂直一体化产业链， 公司可以控制产业链中的各个环节， 并直接与终端客户接触， 从而在成本控制、质量一致性、柔性生产、快速响应、及时交货、缩短研究开发及市场推广周期等方面获得明显的竞争优势。关键原料实现部分或全部自产，内制化程度不断提高 ，为公司提高产品质量和降低产品成本提供了有力保证， 是公司吸引下游厂商订单、 维持长期客户关系的重要因素。公司通过垂直集成生产，柔性的生产系统可以依据下游客户的个性化 需求组织生产，同时垂直一体化模式使公司生产具备高度的灵活性和及时应变能力， 减少了采购、 运输等物流环节，加快了资产周转效率，能够快速响应客户需求，及时交货，为公司进 一步拓展市场奠定了良好的基础。（ 2 ）产线自动化程度高公司在大批量生产中采用自动化设备和产线提高劳动生产率，稳定产品质量，降低生产成本，缩短生产周期，保证生产均衡性。作为业内领先的智能制造厂 家，公司拥有较高的自动化产线水平，并组建了专业的自动化改造团队，整体提升公司的研 发和制造实力并持续优",
+        "bottom": 450.58,
+        "data_offset_end": 655,
+        "font_size": 48.0,
+        "left": 537.18,
+        "line_height": 0,
+        "data_offset_start": 162,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 44.88,
+        "level": "ATitle_9999"
+    }
+]

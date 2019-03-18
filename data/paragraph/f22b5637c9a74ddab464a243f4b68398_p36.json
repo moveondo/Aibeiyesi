@@ -1,0 +1,110 @@
+[
+    {
+        "data-offset-end": 7,
+        "pageid": 36,
+        "top": 153,
+        "font-id": "f8",
+        "level": "Level",
+        "left": 127,
+        "text": "企業管治報告",
+        "font-size": 51,
+        "color": "rgba(190,146,91,1)",
+        "data-offset-start": 2
+    },
+    {
+        "data-offset-end": 233,
+        "pageid": 36,
+        "top": 569,
+        "font-id": "f10",
+        "level": "Level",
+        "left": 127,
+        "text": "各董事所接受之培訓記錄由本公司公司秘書保管及更新。",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 209
+    },
+    {
+        "data-offset-end": 266,
+        "pageid": 36,
+        "top": 659,
+        "font-id": "f10",
+        "level": "Level",
+        "left": 127,
+        "text": "截至二零一七年十二月三十一日止年度，各董事所接受之培訓概述如下：",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 235
+    },
+    {
+        "data-offset-end": 304,
+        "pageid": 36,
+        "top": 749,
+        "font-id": "f11",
+        "level": "Level",
+        "left": 1531,
+        "text": "閱讀有關",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 301
+    },
+    {
+        "data-offset-end": 453,
+        "pageid": 36,
+        "top": 1688,
+        "font-id": "f10",
+        "level": "Level",
+        "left": 127,
+        "text": "註：1.李紹忠先生於二零一七年五月二十二日起退任執行董事。",
+        "font-size": 22,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 423
+    },
+    {
+        "data-offset-end": 484,
+        "pageid": 36,
+        "top": 1766,
+        "font-id": "f12",
+        "level": "Level",
+        "left": 195,
+        "text": "2.孫喆一先生於二零一七年五月二十五日起獲委任為執行董事。",
+        "font-size": 22,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 455
+    },
+    {
+        "data-offset-end": 516,
+        "pageid": 36,
+        "top": 1844,
+        "font-id": "f12",
+        "level": "Level",
+        "left": 195,
+        "text": "3.謝志偉先生於二零一七年十二月十九日起辭任獨立非執行董事。",
+        "font-size": 22,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 486
+    },
+    {
+        "data-offset-end": 586,
+        "pageid": 36,
+        "top": 2303,
+        "font-id": "f7",
+        "level": "Level",
+        "left": 47,
+        "text": "34融創中國控股有限公司",
+        "font-size": 33,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 574
+    },
+    {
+        "data-offset-end": 595,
+        "pageid": 36,
+        "top": 2330,
+        "font-id": "f9",
+        "level": "Level",
+        "left": 127,
+        "text": "2017年度報告",
+        "font-size": 24,
+        "color": "rgba(101,98,98,1)",
+        "data-offset-start": 588
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "font_family": "ff1",
+        "text": "欧菲科技股份有限公司  2017  年年度报告全文",
+        "bottom": 790.32,
+        "data_offset_end": 30,
+        "font_size": 36.0,
+        "left": 363.16,
+        "line_height": 0,
+        "data_offset_start": 6,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "BTitle_9999"
+    },
+    {
+        "font_family": "ff2",
+        "text": "34Platform事业部 -CANSpy1,767,583.3462,953.01---131,717.811,698,818.54---SGMWCN180S/CN180M/CN210MGateway566,417.64105,754.06------672,171.70---JAC M6 Gateway664,203.78(14,758.79)------649,444.99---SMCV SV91 MSM316,287.36---11,800.00304,487.36---SMCV SV91 DCDC39,568.35159,323.09------198,891.44---BAIC C40D BCM81,212.7492,960.21------174,172.95---JAC S7 Gateway140,252.6824,947.97------165,200.65---BAIC C40D Gateway---157,404.01------157,404.01---O-Film Around View Module1,071,794.29804,865.26---1,876,659.55------SMTC SK81 RLS56,531.3012,175.87---68,707.17------CHA F4B BCM262,449.90------262,449.90------INALFA CB SCU180,172.96------180,172.96------INALFA H33 SCU964,399.84------964,399.84------JMC E313 MSM96,556.00------96,556.00------SAIC A-Architecture Gateway1,133,010.10------1,133,010.10------PET 基材镀铜开发1,668,638.14------1,668,638.14------合计57,230,287.57504,327,455.98---94,937,664.18362,198,803.09104,421,276.28",
+        "bottom": 51.72,
+        "data_offset_end": 1193,
+        "font_size": 36.0,
+        "left": 529.68,
+        "line_height": 0,
+        "data_offset_start": 31,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "BTitle_9999"
+    },
+    {
+        "font_family": "ff3",
+        "text": "",
+        "bottom": 406.76,
+        "data_offset_end": 1194,
+        "font_size": 42.0,
+        "left": 56.94,
+        "line_height": 0,
+        "data_offset_start": 1194,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 39.27,
+        "level": "ATitle_9999"
+    },
+    {
+        "font_family": "ff1",
+        "text": "公司研发投入情况",
+        "bottom": 389.72,
+        "data_offset_end": 1204,
+        "font_size": 36.0,
+        "left": 56.94,
+        "line_height": 0,
+        "data_offset_start": 1195,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "BTitle_9999"
+    },
+    {
+        "font_family": "ff2",
+        "text": "2017  年2016  年变动比例研发人员数量（人）3,1221,390124.60%研发人员数量占比7.46%5.10%2.36%研发投入金额（元）1,756,155,728.001,448,091,915.0021.27%研发投入占营业收入比例5.20%5.41%-0.21%研发投入资本化的金额（元）415,498,255.00206,768,361.00100.95%资本化研发投入占研发投入的比例23.66%14.28%9.38%研发投入总额占营业收入的比重较上年发生显著变化的原因□  适用   √ 不适用研发投入资本化率大幅变动的原因及其合理性说明√  适用   □ 不适用研发项目多，满足资本化条件的项目也多。",
+        "bottom": 6.66,
+        "data_offset_end": 1575,
+        "font_size": 36.0,
+        "left": 70.64,
+        "line_height": 0,
+        "data_offset_start": 1205,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "BTitle_9999"
+    },
+    {
+        "font_family": "ff3",
+        "text": "5 、现金流",
+        "bottom": 127.38,
+        "data_offset_end": 1582,
+        "font_size": 42.0,
+        "left": 56.94,
+        "line_height": 0,
+        "data_offset_start": 1576,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 39.27,
+        "level": "ATitle_9999"
+    },
+    {
+        "font_family": "ff1",
+        "text": "单位：元",
+        "bottom": 97.2,
+        "data_offset_end": 1588,
+        "font_size": 36.0,
+        "left": 502.68,
+        "line_height": 0,
+        "data_offset_start": 1583,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "BTitle_9999"
+    }
+]

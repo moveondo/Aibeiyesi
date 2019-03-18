@@ -1,0 +1,93 @@
+[
+    {
+        "font_family": "ff1",
+        "text": "欧菲科技股份有限公司  2017  年年度报告全文",
+        "bottom": 790.32,
+        "data_offset_end": 30,
+        "font_size": 36.0,
+        "left": 363.16,
+        "line_height": 0,
+        "data_offset_start": 6,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "BTitle_9999"
+    },
+    {
+        "font_family": "ff2",
+        "text": "194SCUJMC E313MSM96,556.0096,556.000.00SAICA-Architecture  Gateway1,133,010.101,133,010.100.00PET  基材镀铜开发1,668,638.141,668,638.140.00合计57,230,287.57504,327,455.98362,198,803.0994,937,664.18104,421,276.28其他说明",
+        "bottom": 51.72,
+        "data_offset_end": 306,
+        "font_size": 36.0,
+        "left": 525.18,
+        "line_height": 0,
+        "data_offset_start": 31,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "BTitle_9999"
+    },
+    {
+        "font_family": "ff3",
+        "text": "21 、商誉",
+        "bottom": 548.74,
+        "data_offset_end": 313,
+        "font_size": 42.0,
+        "left": 56.94,
+        "line_height": 0,
+        "data_offset_start": 307,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 39.27,
+        "level": "ATitle_9999"
+    },
+    {
+        "font_family": "ff1",
+        "text": "（ 1 ）商誉账面原值",
+        "bottom": 518.08,
+        "data_offset_end": 324,
+        "font_size": 42.0,
+        "left": 56.94,
+        "line_height": 0,
+        "data_offset_start": 314,
+        "text_shadow": "-0.015em 0 rgb(0,0,0),0 0.015em rgb(0,0,0),0.015em 0 rgb(0,0,0),0 -0.015em rgb(0,0,0)",
+        "height": 39.27,
+        "level": "ATitle_9999"
+    },
+    {
+        "font_family": "ff1",
+        "text": "单位：  元被投资单位名称或形成商誉的事项期初余额本期增加本期减少期末余额融创天下 （上海）科技发展有限公司181,201,085.86181,201,085.86上海华东汽车信息技术有限公司122,270,674.27122,270,674.27南京天擎汽车电子有限公司34,487,635.4034,487,635.40SensegOy21,953,447.6121,953,447.61合计359,912,843.14359,912,843.14",
+        "bottom": 487.9,
+        "data_offset_end": 616,
+        "font_size": 36.0,
+        "left": 498.18,
+        "line_height": 0,
+        "data_offset_start": 325,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "BTitle_9999"
+    },
+    {
+        "font_family": "ff1",
+        "text": "（ 2 ）商誉减值准备",
+        "bottom": 240.08,
+        "data_offset_end": 627,
+        "font_size": 42.0,
+        "left": 56.94,
+        "line_height": 0,
+        "data_offset_start": 617,
+        "text_shadow": "-0.015em 0 rgb(0,0,0),0 0.015em rgb(0,0,0),0.015em 0 rgb(0,0,0),0 -0.015em rgb(0,0,0)",
+        "height": 39.27,
+        "level": "ATitle_9999"
+    },
+    {
+        "font_family": "ff1",
+        "text": "单位：  元被投资单位名称或形成商誉的事项期初余额本期增加本期减少期末余额融创天下 （上海）科技发展有限公司12,434,385.86168,766,700.00181,201,085.86南京天擎汽车电34,487,635.4034,487,635.40",
+        "bottom": 209.9,
+        "data_offset_end": 789,
+        "font_size": 36.0,
+        "left": 498.18,
+        "line_height": 0,
+        "data_offset_start": 628,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "BTitle_9999"
+    }
+]

@@ -1,0 +1,73 @@
+APPENDIX I
+
+ACCOUNTANTS’ REPORT
+
+Where an impairment loss subsequently reverses, the carrying amount of the asset (or cash-generating unit) is
+increased to the revised estimate of its recoverable amount, but so that the increased carrying amount does not exceed
+the carrying amount that would have been determined had no impairment loss been recognised for the asset (or a
+cash-generating unit) in prior years. A reversal of an impairment loss is recognised immediately in profit or loss.
+
+Inventories
+
+Raw materials acquired for usage in research and development activities and for the production of trial batches
+for the research and development stage are stated at the lower of cost and net realisable value. Cost of inventories
+are determined on a weighted average method. Net realisable value represents estimated selling price for inventories
+less estimated costs necessary to make the sale. Trial batches manufactured prior to regulatory approval (including
+raw materials cost) is changed to development expenses when they are produced.
+
+Financial instruments
+
+Financial assets and financial liabilities are recognised when a group entity becomes a party to the contractual
+
+provisions of the instrument.
+
+Financial assets and financial liabilities are initially measured at fair value. Transaction costs that are directly
+attributable to the acquisition or issue of financial assets and financial liabilities (other than financial assets and
+financial liabilities at fair value through profit or loss) are added to or deducted from the fair value of the financial
+assets or financial liabilities, as appropriate, on initial recognition. Transaction costs directly attributable to the
+acquisition of financial assets or financial liabilities at fair value through profit or loss are recognised immediately
+in profit or loss.
+
+Financial assets
+
+All regular way purchases or sales of financial assets are recognised and derecognised on a trade date basis.
+Regular way purchases or sales are purchases or sales of financial assets that require delivery of assets within the
+time frame established by regulation or convention in the marketplace.
+
+All recognised financial assets are subsequently measured in their entirety at either amortised cost or fair
+
+value, depending on the classification of the financial assets.
+
+Classification of financial assets
+
+Debt instruments that meet the following conditions are subsequently measured at amortised cost:
+
+(cid:129)
+
+(cid:129)
+
+the financial asset is held within a business model whose objective is to hold financial assets in order
+to collect contractual cash flows; and
+
+the contractual terms of the financial asset give rise on specified dates to cash flows that are solely
+payments of principal and interest on the principal amount outstanding.
+
+Debt instruments that meet the following conditions are subsequently measured at fair value through other
+
+comprehensive income (“FVTOCI”):
+
+(cid:129)
+
+(cid:129)
+
+the financial asset is held within a business model whose objective is achieved by both collecting
+contractual cash flows and selling the financial assets; and
+
+the contractual terms of the financial asset give rise on specified dates to cash flows that are solely
+payments of principal and interest on the principal amount outstanding.
+
+By default, all other financial assets are subsequently measured at fair value through profit or loss (“FVTPL”).
+
+– I-19 –
+
+

@@ -1,0 +1,26 @@
+[
+    {
+        "data-offset-end": 854,
+        "pageid": 48,
+        "top": 2303,
+        "font-id": "f7",
+        "level": "Level",
+        "left": 47,
+        "text": "46融創中國控股有限公司",
+        "font-size": 33,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 842
+    },
+    {
+        "data-offset-end": 863,
+        "pageid": 48,
+        "top": 2330,
+        "font-id": "f9",
+        "level": "Level",
+        "left": 127,
+        "text": "2017年度報告",
+        "font-size": 24,
+        "color": "rgba(101,98,98,1)",
+        "data-offset-start": 856
+    }
+]

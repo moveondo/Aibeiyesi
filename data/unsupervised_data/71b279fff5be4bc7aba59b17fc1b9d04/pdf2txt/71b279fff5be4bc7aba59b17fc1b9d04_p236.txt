@@ -1,0 +1,56 @@
+BUSINESS
+
+The safety analysis suggested that pamiparib was generally well-tolerated in patients with
+advanced solid tumors. AEs assessed to be treatment-related occurred in 78% of patients and were all
+grade 3 or lower in severity. The most common treatment-related AEs (≥10% of patients) were nausea
+(56%), fatigue (40%), anemia (25%), vomiting (21%), diarrhea (21%), decreased appetite (15%), and
+neutropenia or neutrophil count decrease (12%). SAEs occurred in 46% of patients, and SAEs
+considered to be treatment-related and occurring in more than one patient included two cases each of
+nausea and anemia. Four patients reported dose-limiting toxicity, or DLT. Four patients had a
+treatment-emergent AE with a fatal outcome, none were assessed as being treatment-related and all of
+which were associated with disease progression.
+
+At the time of the data cutoff, 39 patients with epithelial ovarian cancer, or EOC, or associated
+tumors such as fallopian tube or primary peritoneal cancers were evaluable for efficacy. Among this
+group, there were three confirmed CRs, 10 confirmed PRs, and 21 cases of SD. Of the 23 evaluable
+patients with EOC or other associated tumors known to be BRCA-mutated, there were three CRs,
+seven PRs, and 10 cases of SD. Of the 13 evaluable patients whose BRCA gene types are wild type,
+there were two PRs. Of the three evaluable patients whose BRCA gene types were unknown, there was
+one PR. Complete and partial responses were observed in patients known to be platinum-resistant as
+well as patients with platinum-sensitive disease. There is no guarantee that these results will be
+reproduced in pivotal trials.
+
+On April 16, 2018, we presented the preliminary clinical data from the open-label, multi-center
+Phase 1 dose-escalation trial of pamiparib in Chinese patients with locally advanced or metastatic
+high-grade non-mucinous ovarian cancer, or HGOC, including fallopian cancer, or triple-negative
+breast cancer, or TNBC, who had disease progression following at least one line of chemotherapy at
+the 2018 American Association for Cancer Research Annual Meeting in Chicago, IL.
+
+Patients were dosed at 20mg, 40mg, or 60mg BID. As of September 25, 2017, 15 female patients
+were enrolled, nine with HGOC and six with TNBC. Nine patients received four or more prior lines
+of therapies. All nine patients with HGOC were platinum-resistant (n=8) or refractory (n=1). Seven
+patients had a confirmed BRCA1/2 mutation (BRCAm), including five patients with HGOC and two
+patients with TNBC and the remaining patients had BRCA 1/2 wildtype (BRCA-WT). The median
+duration of treatment was 2.5 months (range: 8-260 days).
+
+The safety analysis suggested that pamiparib was generally well-tolerated. No dose-limiting
+toxicities were reported across the dose range, with RP2D confirmed as 60mg BID. Asthenia (n=12)
+and nausea (n=12) were the most commonly reported treatment-emergent AE. Severity of all AEs was
+grade 3 or less. Overall, three patients experienced a serious AE (grade 2 abdominal infection, n=1;
+grade 3 pleural effusion, n=1; grade 3 ileus, n=1), none of which were considered related to treatment.
+Two of the SAEs led to treatment withdrawal (abdominal infection, n=1; pleural effusion, n=1).
+
+As of September 25, 2017, 13 of the 15 patients were evaluable for antitumor activity; five
+patients remained on treatment. Two of the nine HGOC patients achieved a confirmed PR including
+one platinum-refractory patient with BRCA wildtype status and one platinum-resistant patient with
+BRCA1/2 mutation, six HGOC patients had SD (BRCAm, n=4 and BRCA-WT, n=2) and one patient
+discontinued before the first
+five
+
+the six treated TNBC patients,
+
+radiographic assessment. Of
+
+— 230 —
+
+

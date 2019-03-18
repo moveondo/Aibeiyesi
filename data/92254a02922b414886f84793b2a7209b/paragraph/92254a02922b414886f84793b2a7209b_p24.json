@@ -1,0 +1,54 @@
+[
+    {
+        "font_family": "ff1",
+        "text": "欧菲科技股份有限公司  2017  年年度报告全文",
+        "bottom": 790.32,
+        "data_offset_end": 30,
+        "font_size": 36.0,
+        "left": 363.16,
+        "line_height": 0,
+        "data_offset_start": 6,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "Text_9999"
+    },
+    {
+        "font_family": "ff2",
+        "text": "24",
+        "bottom": 51.72,
+        "data_offset_end": 34,
+        "font_size": 36.0,
+        "left": 529.68,
+        "line_height": 0,
+        "data_offset_start": 31,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "Text_9999"
+    },
+    {
+        "font_family": "ff1",
+        "text": "在 3D sensing领域，公司与以色列3D算法公司  Mantis Vision Ltd.达成战略合作关系，利用双方在技术、制造、 市场和平台等方面的优势资源，在 3D成像及相关技术和应用等领域开展深入的合作，提前布局未来影像的发展，实现编码结构光技术在智能手机上的增强现实和虚拟现实、机器人等领域更加广泛的应用，致力于发展软件、硬件相结合的科技型平台企业的发展，推动全球消费电子产业智能化升级。",
+        "bottom": 753.9,
+        "data_offset_end": 237,
+        "font_size": 48.0,
+        "left": 80.22,
+        "line_height": 0,
+        "data_offset_start": 35,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 44.88,
+        "level": "ATitle_9999"
+    },
+    {
+        "font_family": "ff2",
+        "text": "11 月，公司设立子公司南昌欧菲精密光学制品有限公司进军光学镜头产业，进一步深入布局光学镜头的研发和制造， 在自身优势产品的基础上还会继续向产业链上游进行延伸发展，未来重点布局 VCSEL、 DOE等上游的关键元器件， 形成产业链联动，打造光学领域的垂直产业一体化布局，利于公司稳固供货能力并提升成本控制能力，加强产品竞争实力。",
+        "bottom": 379.88,
+        "data_offset_end": 402,
+        "font_size": 48.0,
+        "left": 501.6,
+        "line_height": 0,
+        "data_offset_start": 238,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 44.88,
+        "level": "ATitle_9999"
+    }
+]

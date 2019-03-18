@@ -1,0 +1,99 @@
+BUSINESS
+
+Currently Repatha (evolocumab) is the only one marketed PCSK inhibitor in China,
+which received the approval by the NMPA for the treatment of hypercholesterolemia in August
+2018. Besides us, there are three other anti-PCSK9 drug candidates in clinical development in
+China,
+including Junshi’s JS002, Amgen’s Repatha (evolocumab) and Sanofi’s Praluent
+(alirocumab). The table below sets forth the information of the foregoing anti-PCSK9 drug
+candidates in clinical development in China:
+
+Generic name/
+mAb category
+
+Evolocumab (Fully Human
+
+Anti-PCSK-9 mAb)
+
+Brand name/
+Drug Code
+AMG145
+
+Company
+
+Amgen
+
+Status in
+China
+Marketed
+
+Date*
+2018/8/8
+
+Indication
+
+Hypercholesterolemia
+
+Alirocumab (Fully Human
+
+SAR236553
+
+Sanofi-aventis
+
+Anti-PCSK-9 mAb)
+
+Phase 3
+Phase 3
+
+2016/7/6
+2016/2/25
+
+Hypercholesterolemia
+
+Acute coronary
+syndrome
+
+Humanized Anti-PCSK-9 mAb
+
+JS002
+
+Shanghai Junshi
+
+Phase 1
+
+2017/11/17 Hypercholesterolemia
+
+Biosciences Co., Ltd
+
+Source: Frost & Sullivan
+
+*
+
+for a marketed product, it refers to the NMPA approval date; for a clinical stage product, it refers to the
+date when the information about clinical trials is published for the first time (首次公示日期).
+
+Current Treatments and Limitations
+
+The approved anti-PCSK9 drugs, alirocumab (sold under the trade name Praluent by
+Sanofi) and evolocumab (sold under the trade name Repatha by Amgen), have limitations in
+terms of their binding affinity for PCSK9. The ability of an antibody to produce a beneficial
+effect in a patient depends on its ability to block the target protein. Blocking the target protein
+depends on several factors including the binding affinity of the antibody for the target, the
+distribution of the antibody in the body and the duration that the antibody binds the target. We
+believe that higher binding affinity of IBI-306 for PCSK9 compared with the binding affinity
+of evolocumab and alirocumab could provide more durable responses in patients at a lower
+dose strength, which could allow IBI-306 to provide more clinical benefits at lower dosage
+levels and also at the same dose level achieve both a convenient (shorter and less frequent)
+dosing schedule and a lower dosage level for patients. In comparison, alirocumab and
+evolocumab require monthly injections with 2-3 separate injections each dose and the injecting
+time varies from 40 seconds to 9 minutes depending on the product.
+
+Potential Advantages
+
+Based on initial pre-clinical data, we believe that IBI-306 has the following potential
+competitive advantages as compared to approved anti-PCSK9 drugs alirocumab and
+evolocumab:
+
+– 265 –
+
+

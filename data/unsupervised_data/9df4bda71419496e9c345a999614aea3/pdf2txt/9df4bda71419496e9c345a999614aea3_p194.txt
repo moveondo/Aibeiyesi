@@ -1,0 +1,103 @@
+BUSINESS
+
+The following table sets forth certain information on the efficacy of JS001 from clinical
+
+studies:
+
+Indication (Phase of Trial)
+
+JS001
+
+1.  Recurrent metastatic lymphoma (I)
+
+– HL
+– NHL
+
+2.  Advanced or refractory alveolar 
+
+soft part sarcoma (I)
+
+3. 
+
+4. 
+
+Advanced or metastatic urothelial 
+carcinoma (II)
+
+Advanced esophageal squamous cell 
+carcinoma (Ib/II)
+
+75% ORR，88% DCR (n = 24)
+88.2% ORR，100.0% DCR (n = 17)
+42.9% ORR，57.1% DCR (n = 7)
+
+25% ORR, 67% DCR (n = 12)
+
+30% ORR, 78% DCR (n = 27)
+
+23% ORR, 50% DCR (n = 48)
+
+5. 
+
+Advanced gastric adenocarcinoma (Ib/II)
+
+18.6% ORR, 39.5% DCR (n = 43)
+
+6. 
+
+Refractory or metastatic 
+nasopharyngeal carcinoma (II)
+
+7.  Metastatic mucosal melanoma in 
+ 
+
+combination with Axitinib (Ib)
+
+8.  Advanced melanoma (II)
+
+– CSD
+– Non-CSD
+– Mucosal
+– Acral
+
+31% ORR, 64% DCR (n = 39)
+
+61% ORR, 88% DCR (n = 33)
+
+20.7% ORR, 60.3% DCR (n = 121)
+
+35.3% ORR，64.7% DCR (n = 17)
+33.3% ORR，77.8% DCR (n = 36)
+0.0% ORR, 42.1% DCR (n = 19)
+14.3% ORR, 53.1% DCR (n = 49)
+
+Sources: ASCO, CSCO and clinical trial results summary
+
+Investigators participating in our clinical studies are mainly clinicians independent from
+us, who work in reputable hospitals across various provinces in China. The members of the
+independent review committees include medical professionals from hospitals, medical centers
+and universities, who are also independent from us.
+
+Among our clinical studies on JS001,
+
+those for advanced or metastatic urothelial
+carcinoma (Phase II), refractory or etastatic nasopharyngeal carcinoma (Phase II) and advanced
+melanoma (Phase II, pivotal) are all single-arm, non-randomized trials with registration
+purpose. The independent review committee-evaluated ORRs will be the primary endpoints to
+support our NDA filings according to the Guidance for Industry Clinical Trial Endpoints for the
+Approval of Cancer Drugs and Biologics and RECIST 1.1 (Response Evaluation Criteria In
+Solid Tumours). Therefore, we have consulted independent review committees in these clinical
+trials. By contrast, the clinical trial for metastatic mucosal melanoma (Phase Ib, + Axitinib) is
+an exploratory clinical
+to the
+evaluation by such investigators instead of an independent review committee.
+
+investigators and is subject
+
+trial
+
+initiated by independent
+
+– 188 –
+
+

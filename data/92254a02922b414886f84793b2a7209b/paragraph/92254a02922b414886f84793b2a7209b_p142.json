@@ -1,0 +1,67 @@
+[
+    {
+        "font_family": "ff1",
+        "text": "欧菲科技股份有限公司  2017  年年度报告全文",
+        "bottom": 790.32,
+        "data_offset_end": 30,
+        "font_size": 36.0,
+        "left": 363.16,
+        "line_height": 0,
+        "data_offset_start": 6,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "BTitle_9999"
+    },
+    {
+        "font_family": "ff2",
+        "text": "142（一） 综合收益总额210,681,496.65210,681,496.65（二） 所有者投入和减少资本55,654,390.001,617,309,000.1 1279,872,500.001,393,090,890.1 11 ．股东投入的普通股55,654,390.001,563,902,490.501,619,556,880.502 ．其他权益工具持有者投入资本3 ．股份支付计入所有者权益的金额53,406,509.61279,872,500.00-226,465,990.394 ．其他（三）利润分配21,068,149.67-93,210,989.67-72,142,840.001 ．提取盈余公积21,068,149.67-21,068,149.672 ．对所有者（或股东）的分配-72,142,840.00-72,142,840.003 ．其他（四） 所有者权益内部结转1 ．资本公积转增资本（或股本）2 ．盈余公积转增资本（或股本）3 ．盈余公积弥补亏损4 ．其他（五）专项储备1 ．本期提取2 ．本期使用（六）其他四、 本期期末余额1,086,266,390.004,635,761,507.44279,872,500.0069,594,291.39291,064,419.615,802,814,108.44",
+        "bottom": 51.72,
+        "data_offset_end": 903,
+        "font_size": 36.0,
+        "left": 525.18,
+        "line_height": 0,
+        "data_offset_start": 31,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "BTitle_9999"
+    },
+    {
+        "font_family": "ff1",
+        "text": "三、公司基本情况",
+        "bottom": 121.8,
+        "data_offset_end": 913,
+        "font_size": 48.0,
+        "left": 56.94,
+        "line_height": 0,
+        "data_offset_start": 904,
+        "text_shadow": "-0.015em 0 rgb(0,0,0),0 0.015em rgb(0,0,0),0.015em 0 rgb(0,0,0),0 -0.015em rgb(0,0,0)",
+        "height": 44.88,
+        "level": "ATitle_9999"
+    },
+    {
+        "font_family": "ff4",
+        "text": "1.   公司注册地、组织形式和总部地址",
+        "bottom": 91.8,
+        "data_offset_end": 933,
+        "font_size": 42.0,
+        "left": 56.94,
+        "line_height": 0,
+        "data_offset_start": 914,
+        "text_shadow": "-0.015em 0 rgb(0,0,0),0 0.015em rgb(0,0,0),0.015em 0 rgb(0,0,0),0 -0.015em rgb(0,0,0)",
+        "height": 40.404,
+        "level": "BTitle_9999"
+    },
+    {
+        "font_family": "ff1",
+        "text": "欧菲科技股份有限公司（以下简称 “公司 ”或 “本公司 ”）系于 2001年 3月经根据商务部 “商资批",
+        "bottom": 76.2,
+        "data_offset_end": 979,
+        "font_size": 42.0,
+        "left": 95.72,
+        "line_height": 0,
+        "data_offset_start": 934,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 39.27,
+        "level": "BTitle_9999"
+    }
+]

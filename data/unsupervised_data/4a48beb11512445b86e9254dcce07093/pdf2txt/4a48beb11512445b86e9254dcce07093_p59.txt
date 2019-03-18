@@ -1,0 +1,65 @@
+GLOSSARY OF TECHNICAL TERMS
+
+“squamous NSCLC”
+
+“standard-of-care”
+
+“superiority trial”
+
+“t1/2”
+
+“target occupancy”
+
+“T cell” or “T lymphocyte”
+
+a type of non-small cell lung cancer, which begins in
+squamous cells
+
+treatment that is accepted by medical experts as a proper
+treatment for a certain type of disease and that is widely
+used by healthcare professionals. Also called best
+practice, standard medical care, and standard therapy
+
+a clinical trial designed to prove that the response to the
+investigational product is superior to a comparable active
+agent or placebo control
+
+the time required for the concentration to fall to 50% of
+its peak value
+
+based on in vivo pharmacodynamics comparison data, the
+ability of an antibody to occupy more of the available
+binding sites at a given drug concentration
+
+a lymphocyte of a type produced or processed by the
+thymus gland and actively participating in the immune
+response, which plays a central role in cell-mediated
+immunity. T cells can be distinguished from other
+lymphocytes, such as B cells and NK cells, by the
+presence of a T cell receptor on the cell surface
+
+“TEAE” or “treatment emergent
+
+adverse events”
+
+adverse events not present prior to medical treatment, or
+an already present event that worsens either in intensity
+or frequency following the treatment
+
+“TIGIT”
+
+“TNF-␣”
+
+a receptor expressed on the surface of T cells and NK
+cells that can drive inhibition of immune function after
+binding to CD155 expressed on cancer cells or dendritic
+cells. TIGIT is a checkpoint inhibitor protein expressed
+on tumor antigen specific T cells and is associated with
+turning off anti-tumor T cells
+
+a protein called tumor necrosis factor-␣ that stimulates
+the inflammatory response in the body
+
+– 50 –
+
+

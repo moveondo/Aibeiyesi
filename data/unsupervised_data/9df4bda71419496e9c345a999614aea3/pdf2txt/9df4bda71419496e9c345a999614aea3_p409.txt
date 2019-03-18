@@ -1,0 +1,79 @@
+APPENDIX I
+
+Business combinations
+
+ACCOUNTANTS’ REPORT
+
+Acquisitions of businesses are accounted for using the acquisition method. The consideration transferred in a
+business combination is measured at fair value, which is calculated as the sum of the acquisition-date fair values of
+the assets transferred by the Group, liabilities incurred by the Group to the former owners of the acquiree and the
+equity interests issued by the Group in exchange for control of the acquiree. Acquisition-related costs are generally
+recognised in profit or loss as incurred.
+
+At the acquisition date, the identifiable assets acquired and the liabilities assumed are recognised at their fair
+
+value, except that:
+
+(cid:129)
+
+(cid:129)
+
+(cid:129)
+
+deferred tax assets or liabilities, and assets or liabilities related to employee benefit arrangements are
+recognised and measured in accordance with IAS 12 Income Taxes and IAS 19 Employee Benefits
+respectively; and
+
+liabilities or equity instruments related to share-based payment arrangements of the acquiree or
+share-based payment arrangements of
+the Group entered into to replace share-based payment
+arrangements of the acquiree are measured in accordance with IFRS 2 Share-based Payment at the
+acquisition date (see the accounting policy below); and
+
+assets (or disposal groups) that are classified as held for sale in accordance with IFRS 5 Non-current
+Assets Held for Sale and Discontinued Operations are measured in accordance with that standard.
+
+Goodwill
+
+is measured as the excess of the sum of the consideration transferred,
+
+the amount of any
+non-controlling interests in the acquiree, and the fair value of the acquirer’s previously held equity interest in the
+acquiree (if any) over the net amount of the identifiable assets acquired and the liabilities assumed as at acquisition
+date. If, after re-assessment, the net amount of the identifiable assets acquired and liabilities assumed exceeds the sum
+of the consideration transferred, the amount of any non-controlling interests in the acquiree and the fair value of the
+acquirer’s previously held interest in the acquiree (if any), the excess is recognised immediately in profit or loss as
+a bargain purchase gain.
+
+Non-controlling interests that are present ownership interests and entitle their holders to a proportionate share
+of the relevant subsidiary’s net assets in the event of liquidation are initially measured at the non-controlling
+interests’ proportionate share of the recognised amounts of the acquiree’s identifiable net assets or at fair value. The
+choice of measurement basis is made on a transaction-by-transaction basis. Other types of non-controlling interests
+are measured at their fair value.
+
+Goodwill
+
+Goodwill arising on an acquisition of a business is carried at cost as established at the date of acquisition of
+
+the business (see the accounting policy above) less accumulated impairment losses, if any.
+
+For the purposes of impairment testing, goodwill is allocated to each of the Group’s cash-generating units (or
+groups of cash-generating units) that is expected to benefit from the synergies of the combination, which represent
+the lowest level at which the goodwill is monitored for internal management purposes and not larger than an operating
+segment.
+
+A cash-generating unit (or groups of cash-generating units) to which goodwill has been allocated is tested for
+impairment annually or more frequently when there is indication that the unit may be impaired. For goodwill arising
+on an acquisition in a reporting period, the cash-generating unit (or groups of cash-generating units) to which
+goodwill has been allocated is tested for impairment before the end of that reporting period. If the recoverable amount
+is less than its carrying amount, the impairment loss is allocated first to reduce the carrying amount of any goodwill
+and then to the other assets on a pro-rata basis based on the carrying amount of each asset in the unit (or groups of
+cash-generating units).
+
+On disposal of the relevant cash-generating units (or groups of cash-generating units), the attributable amount
+of goodwill is included in the determination of the amount of profit or loss on disposal (or any of the cash-generating
+unit within group of cash-generating units in which the Group monitors goodwill).
+
+– I-16 –
+
+

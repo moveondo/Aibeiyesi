@@ -1,0 +1,249 @@
+{
+    "root": true,
+    "children": [
+        {
+            "left": 127,
+            "top": 1598,
+            "text": "1、《分众传媒（002027）—从历史",
+            "pageid": 1,
+            "font-size": 27,
+            "font-id": "f1",
+            "data-offset-start": 418,
+            "data-offset-end": 436,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_1"
+        },
+        {
+            "left": 127,
+            "top": 1705,
+            "text": "2、《分众传媒（002027）—生活圈",
+            "pageid": 1,
+            "font-size": 27,
+            "font-id": "f1",
+            "data-offset-start": 466,
+            "data-offset-end": 484,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_1"
+        },
+        {
+            "left": 505,
+            "top": 403,
+            "text": "一、广告媒体变迁下，生活圈媒体引领新经济.............................................................8",
+            "pageid": 2,
+            "font-size": 31,
+            "font-id": "f9",
+            "data-offset-start": 88,
+            "data-offset-end": 171,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 505,
+            "top": 748,
+            "text": "二、链接品牌与消费者，分众成为品牌引爆器...........................................................15",
+            "pageid": 2,
+            "font-size": 31,
+            "font-id": "f9",
+            "data-offset-start": 506,
+            "data-offset-end": 588,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 505,
+            "top": 1093,
+            "text": "三、总结：为什么选择分众？品效合一，为品牌赋能................................................23",
+            "pageid": 2,
+            "font-size": 31,
+            "font-id": "f9",
+            "data-offset-start": 892,
+            "data-offset-end": 966,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 505,
+            "top": 1646,
+            "text": "四、“品效合一”叠加消费升级，分众长期成长空间仍大..............................................28",
+            "pageid": 2,
+            "font-size": 31,
+            "font-id": "f9",
+            "data-offset-start": 1536,
+            "data-offset-end": 1609,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 505,
+            "top": 1853,
+            "text": "四、盈利预测及投资评级............................................................................................31",
+            "pageid": 2,
+            "font-size": 31,
+            "font-id": "f9",
+            "data-offset-start": 1751,
+            "data-offset-end": 1857,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 505,
+            "top": 1922,
+            "level": "Level_0",
+            "text": "五、风险因素..............................................................................................................31",
+            "pageid": 2,
+            "font-size": 31,
+            "font-id": "f9",
+            "data-offset-start": 1859,
+            "children": [
+                {
+                    "left": 505,
+                    "top": 364,
+                    "text": "1、“华帝股份世界杯营销事件”来龙去脉",
+                    "pageid": 6,
+                    "font-size": 31,
+                    "font-id": "f25",
+                    "data-offset-start": 33,
+                    "data-offset-end": 51,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 505,
+                    "top": 1070,
+                    "text": "2、“华帝世界杯营销事件”的启示：证明分众传媒作为链接品牌广告主和消费者的平台，具备引爆品牌的价值",
+                    "pageid": 6,
+                    "font-size": 31,
+                    "font-id": "f25",
+                    "data-offset-start": 532,
+                    "data-offset-end": 581,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 505,
+                    "top": 1466,
+                    "text": "2、从用户画像的角度看，分众由于更加精准的聚焦城市主流人群，与世界杯用户画像重合度高，与华帝品牌升级重点突破的目标群体吻合，因此能帮助华帝实现更好的促销效果，且能助力其品牌引爆，提升品牌价值。华帝品牌过去的定位为介于老板（高端）",
+                    "pageid": 7,
+                    "font-size": 31,
+                    "font-id": "f25",
+                    "data-offset-start": 43,
+                    "data-offset-end": 158,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                }
+            ],
+            "color": "rgba(0,0,0,1)",
+            "data-offset-end": 1978
+        },
+        {
+            "left": 505,
+            "top": 1072,
+            "text": "一、广告媒体变迁下，生活圈媒体引领新经济",
+            "pageid": 8,
+            "font-size": 47,
+            "font-id": "f77",
+            "data-offset-start": 450,
+            "data-offset-end": 469,
+            "color": "rgba(128,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 505,
+            "top": 512,
+            "text": "二、链接品牌与消费者，分众成为品牌引爆器",
+            "pageid": 15,
+            "font-size": 47,
+            "font-id": "f48",
+            "data-offset-start": 163,
+            "data-offset-end": 182,
+            "color": "rgba(128,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 505,
+            "top": 866,
+            "text": "三、总结：为什么选择分众？品效合一，为品牌赋能",
+            "pageid": 23,
+            "font-size": 47,
+            "font-id": "f78",
+            "data-offset-start": 320,
+            "data-offset-end": 342,
+            "color": "rgba(128,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 505,
+            "top": 246,
+            "text": "四、“品效合一”叠加消费升级，分众长期成长空间仍大",
+            "pageid": 28,
+            "font-size": 47,
+            "font-id": "f33",
+            "data-offset-start": 7,
+            "data-offset-end": 31,
+            "color": "rgba(128,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 505,
+            "top": 1278,
+            "text": "四、盈利预测及投资评级",
+            "pageid": 31,
+            "font-size": 47,
+            "font-id": "f69",
+            "data-offset-start": 415,
+            "data-offset-end": 425,
+            "color": "rgba(128,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 505,
+            "top": 1945,
+            "level": "Level_0",
+            "text": "五、风险因素",
+            "pageid": 31,
+            "font-size": 47,
+            "font-id": "f69",
+            "data-offset-start": 836,
+            "children": [
+                {
+                    "left": 505,
+                    "top": 2063,
+                    "text": "1、宏观经济增速降低导致广告行业增速下降。当前互联网行业及部分消费品广告主的",
+                    "pageid": 31,
+                    "font-size": 31,
+                    "font-id": "f25",
+                    "data-offset-start": 855,
+                    "data-offset-end": 892,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 505,
+                    "top": 2269,
+                    "text": "2、竞争加剧导致公司成本上升。电梯广告领域的新进入者如新潮传媒的扩张，对于公司核心城市的市场份额和核心广告主客户不会产生明显影响，但对于公司进军三四线城",
+                    "pageid": 31,
+                    "font-size": 31,
+                    "font-id": "f25",
+                    "data-offset-start": 998,
+                    "data-offset-end": 1074,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 505,
+                    "top": 403,
+                    "text": "3、限售股解禁风险。",
+                    "pageid": 32,
+                    "font-size": 31,
+                    "font-id": "f25",
+                    "data-offset-start": 89,
+                    "data-offset-end": 98,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                }
+            ],
+            "color": "rgba(128,0,0,1)",
+            "data-offset-end": 841
+        }
+    ]
+}

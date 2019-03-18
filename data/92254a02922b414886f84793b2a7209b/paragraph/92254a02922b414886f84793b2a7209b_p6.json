@@ -1,0 +1,28 @@
+[
+    {
+        "font_family": "ff1",
+        "text": "欧菲科技股份有限公司  2017  年年度报告全文",
+        "bottom": 790.32,
+        "data_offset_end": 30,
+        "font_size": 36.0,
+        "left": 363.16,
+        "line_height": 0,
+        "data_offset_start": 6,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "ATitle_9999"
+    },
+    {
+        "font_family": "ff2",
+        "text": "6SHAR P指Sharp Corporation ，夏普公司SEMCO指Semco Co., Ltd.  三星电机舜宇光学指舜宇光学科技（集团）有限公司丘钛指丘钛科技（集团）有限公司光宝指光宝科技股份有限公司合力泰指合力泰科技股份有限公司莱宝高科指深圳莱宝高科技股份有限公司超声电子指广东汕头超声电子股份有限公司长信科技指芜湖长信科技股份有限公司Nissha Printing指日本写真印刷株式会社Nitto指日东电工株式会社硕贝德指惠州硕贝德无线科技股份有限公司信利指信利光电股份有限公司小派科技指小派科技（上海）有限责任公司纵慧光电  、 Vertilite指上海纵慧光电科技有限公司",
+        "bottom": 51.72,
+        "data_offset_end": 412,
+        "font_size": 36.0,
+        "left": 534.18,
+        "line_height": 0,
+        "data_offset_start": 31,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "ATitle_9999"
+    }
+]

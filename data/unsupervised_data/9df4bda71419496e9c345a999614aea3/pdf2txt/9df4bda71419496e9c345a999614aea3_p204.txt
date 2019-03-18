@@ -1,0 +1,110 @@
+BUSINESS
+
+Optimal tumor shrinkage rate in mucosal melanoma patients treated with JS001
+
+combined with axitinib
+
+Source: ASCO 2018
+
+Safety. No DLT was observed in the study. TRAEs occurred in 97.7% subjects. The most
+common TRAEs were grade 1 or 2. No grade 4 or 5 AE was observed. Grade 3 TRAEs occurred
+in 6 subjects, including ALT increase, proteinuria, AST increase, weight loss, cholesterol
+increase, hypertension and hyperglycemia. No emergence of new AE that was unreported from
+either monotherapy. 1 (3.0%) subject terminated due to TEAE and no subject terminated due
+to TRAE.
+
+The following table sets out an overview of the adverse events.
+
+JS001 1mg/kg Q2W
++ Axitinib 5mg
+Bid N=3
+n (%)
+
+JS001 3mg/kg Q2W
++ Axitinib 5mg
+Bid N=30
+n (%)
+
+3 (100)
+0
+3 (100)
+3 (100)
+3 (100)
+0
+
+30 (100)
+5 (16.7)
+30 (100)
+30 (100)
+30 (100)
+1 (3.3)
+
+Total
+N=33
+n (%)
+
+33 (100)
+5 (15.2)
+33 (100)
+33 (100)
+33 (100)
+1 (3.0)
+
+0
+
+1 (3.3)
+
+1 (3.0)
+
+0
+2 (66.7)
+2 (66.7)
+2 (66.7)
+
+2 (66.7)
+0
+
+1 (3.3)
+13 (43.3)
+7 (23.3)
+9 (30.0)
+
+1 (3.0)
+15 (45.5)
+9 (27.3)
+11 (33.3)
+
+9 (30.0)
+4 (13.3)
+
+11 (33.3)
+4 (12.1)
+
+Any TEAE
+Any treatment emergent SAE
+Any TEAE relating to JS001
+Any TEAE relating to Axitinib
+Any TEAE relating to JS001 or Axitinib
+Any treatment emergent SAE relating to JS001
+Any treatment emergent SAE relating to
+
+Axitinib
+
+Any treatment emergent SAE relating to JS001
+
+or Axitinib
+
+Any TEAE ⱖ Grade 3
+Any TEAE ⱖ Grade 3 relating to JS001
+Any TEAE ⱖ Grade 3 relating to Axitinib
+Any TEAE ⱖ Grade 3 relating to JS001 or
+
+Axitinib
+
+TEAE leading to treatment discontinuation
+
+Source: clinical trial result summary
+
+– 198 –
+
+

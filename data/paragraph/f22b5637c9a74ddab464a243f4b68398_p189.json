@@ -1,0 +1,122 @@
+[
+    {
+        "data-offset-end": 9,
+        "pageid": 189,
+        "top": 153,
+        "font-id": "f8",
+        "level": "Level",
+        "left": 1240,
+        "text": "綜合財務報表附註",
+        "font-size": 51,
+        "color": "rgba(222,129,14,1)",
+        "data-offset-start": 2
+    },
+    {
+        "data-offset-end": 27,
+        "pageid": 189,
+        "top": 215,
+        "font-id": "f10",
+        "level": "Level",
+        "left": 1187,
+        "text": "截至二零一七年十二月三十一日止年度",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 11
+    },
+    {
+        "data-offset-end": 49,
+        "pageid": 189,
+        "top": 441,
+        "font-id": "f11",
+        "level": "Level",
+        "left": 195,
+        "text": "(D)土地增值稅",
+        "font-size": 33,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 41
+    },
+    {
+        "data-offset-end": 141,
+        "pageid": 189,
+        "top": 665,
+        "font-id": "f11",
+        "level": "Level",
+        "left": 127,
+        "text": "35每股盈利",
+        "font-size": 39,
+        "color": "rgba(222,129,14,1)",
+        "data-offset-start": 135
+    },
+    {
+        "data-offset-end": 148,
+        "pageid": 189,
+        "top": 759,
+        "font-id": "f11",
+        "level": "Level",
+        "left": 195,
+        "text": "(A)基本",
+        "font-size": 33,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 143
+    },
+    {
+        "data-offset-end": 187,
+        "pageid": 189,
+        "top": 853,
+        "font-id": "f13",
+        "level": "Level",
+        "left": 263,
+        "text": "每股基本盈利按本公司擁有人應佔溢利，除以本年度已發行普通股的加權平均數計算。",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 150
+    },
+    {
+        "data-offset-end": 282,
+        "pageid": 189,
+        "top": 1199,
+        "font-id": "f11",
+        "level": "Level",
+        "left": 195,
+        "text": "(B)攤薄",
+        "font-size": 33,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 277
+    },
+    {
+        "data-offset-end": 466,
+        "pageid": 189,
+        "top": 1294,
+        "font-id": "f13",
+        "level": "Level",
+        "left": 263,
+        "text": "每股攤薄盈利乃在假設在所有潛在攤薄普通股已轉換的情況下，按調整已發行普通股的加權平均數計算。本公司有一類潛在攤薄普通股，即購股權。就購股權而言，假設購股權獲行使而原應發行的股份數目扣除就相同所得款項總額按公允價值（按年內每股平均市價釐定）可能發行的股份數目，即為無償發行的股份數目。據此得出的無償發行股份數目會於計算每股攤薄盈利時計入普通股加權平均數作為分母。",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 284
+    },
+    {
+        "data-offset-end": 636,
+        "pageid": 189,
+        "top": 2303,
+        "font-id": "f8",
+        "level": "Level",
+        "left": 1412,
+        "text": "融創中國控股有限公司187",
+        "font-size": 24,
+        "color": "rgba(222,129,14,1)",
+        "data-offset-start": 623
+    },
+    {
+        "data-offset-end": 645,
+        "pageid": 189,
+        "top": 2330,
+        "font-id": "f9",
+        "level": "Level",
+        "left": 1504,
+        "text": "2017年度報告",
+        "font-size": 24,
+        "color": "rgba(101,98,98,1)",
+        "data-offset-start": 638
+    }
+]

@@ -1,0 +1,54 @@
+BUSINESS
+
+(BRCAm, n=1, BRCA-WT, n=4) experienced disease progression and one patient
+(BRCAm)
+discontinued before the first radiographic assessment. Four of these evaluable TNBC patients were
+BRCA-WT and all experienced disease progression during the previous platinum-based chemotherapy.
+
+Clinical Development Plan
+
+In addition to the ongoing Phase 2 trial of pamiparib in combination with tislelizumab, we are
+currently conducting two other global combination trials: a Phase 1b/2 trial of pamiparib with
+radiation therapy and/or temozolomide in patients with glioblastoma and a Phase 1b/2 trial of
+pamiparib with temozolomide in patients with advanced tumors such as OC, TNBC, small cell lung
+cancer, prostate cancer and GC. We are also running a global Phase 3 maintenance trial in patients with
+platinum-sensitive GC.
+
+In China, we are conducting a Phase 2 pivotal trial in patients with gBRCA-positive OC who
+have received at least two prior lines of therapy in advanced or metastatic setting and a Phase 3 trial
+as a maintenance therapy in patients with platinum-sensitive recurrent OC.
+
+WE MAY NOT BE ABLE TO ULTIMATELY DEVELOP AND MARKET PAMIPARIB
+
+SUCCESSFULLY.
+
+Lifirafenib (BGB-283), a RAF Dimer Inhibitor
+
+Lifirafenib is an investigational novel small molecule inhibitor with RAF monomer and dimer
+inhibition activities. Lifirafenib has shown antitumor activities in preclinical models and in cancer
+patients with tumors harbouring BRAF V600E mutations, non-V600E BRAF mutations or
+KRAS/NRAS mutations. We have been developing lifirafenib for the treatment of cancers with
+aberrations in the mitogen-activated protein kinase, or MAPK, pathway,
+including BRAF gene
+mutations and KRAS/NRAS gene mutations where first generation BRAF inhibitors are not effective.
+The MAPK pathway consists of proteins in the cell that transmit a signal from a receptor on the
+surface of the cell to the DNA in the nucleus of the cell. This pathway plays an essential role in
+regulating cell proliferation and survival. We believe that lifirafenib as monotherapy or in combination
+with other agents may have a potential for treating various malignancies, such as melanoma, NSCLC
+and endometrial cancer.
+
+Roche’s ZELBORAF威 (vemurafenib) and Novartis’ TAFINLAR威 (dabrafenib) are two of the
+currently approved BRAF inhibitors for treating late-stage BRAF V600E/K mutant melanoma. In
+addition, the combination of dabrafenib and GSK’s MEKINIST威 (trametinib), an MEK inhibitor, as
+well as vemurafenib and COTELLIC威 (cobimeditinib), another MEK inhibitor, are approved in
+patients with BRAF V600E/K mutation-positive metastatic melanoma. We are aware of several other
+BRAF inhibitors in clinical development
+targeting BRAF V600E/K mutated cancers including
+melanoma, NSCLC, hairy cell leukemia and thyroid cancer. These BRAF inhibitors include Array
+Biopharma’s encorafenib, currently in Phase 3 trials, and Takeda’s MLN-2480 (BIIB-024) and
+TAK-580, Daiichi Sankyo’s PLX-8394, Roche’s RG-6185, Genentech’s HM95573 and Novartis’
+LXH254 in Phase 1 trials.
+
+— 231 —
+
+

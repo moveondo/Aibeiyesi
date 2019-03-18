@@ -1,0 +1,110 @@
+[
+    {
+        "data-offset-end": 9,
+        "pageid": 165,
+        "top": 153,
+        "font-id": "f8",
+        "level": "Level",
+        "left": 1240,
+        "text": "綜合財務報表附註",
+        "font-size": 51,
+        "color": "rgba(222,129,14,1)",
+        "data-offset-start": 2
+    },
+    {
+        "data-offset-end": 27,
+        "pageid": 165,
+        "top": 215,
+        "font-id": "f10",
+        "level": "Level",
+        "left": 1187,
+        "text": "截至二零一七年十二月三十一日止年度",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 11
+    },
+    {
+        "data-offset-end": 36,
+        "pageid": 165,
+        "top": 347,
+        "font-id": "f11",
+        "level": "Level",
+        "left": 127,
+        "text": "12遞延所得稅",
+        "font-size": 39,
+        "color": "rgba(222,129,14,1)",
+        "data-offset-start": 29
+    },
+    {
+        "data-offset-end": 68,
+        "pageid": 165,
+        "top": 699,
+        "font-id": "f13",
+        "level": "Level",
+        "left": 280,
+        "text": "遞延稅項資產（以下稱「遞延稅項資產」）：",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 49
+    },
+    {
+        "data-offset-end": 148,
+        "pageid": 165,
+        "top": 582,
+        "font-id": "f12",
+        "level": "Level",
+        "left": 1235,
+        "text": "十二月三十一日十二月三十一日",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 134
+    },
+    {
+        "data-offset-end": 268,
+        "pageid": 165,
+        "top": 1021,
+        "font-id": "f13",
+        "level": "Level",
+        "left": 263,
+        "text": "年內遞延稅項資產的變動（未計及於同一稅收管轄區內的結餘抵銷）如下：",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 236
+    },
+    {
+        "data-offset-end": 438,
+        "pageid": 165,
+        "top": 1111,
+        "font-id": "f12",
+        "level": "Level",
+        "left": 1388,
+        "text": "作稅項",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 436
+    },
+    {
+        "data-offset-end": 912,
+        "pageid": 165,
+        "top": 2303,
+        "font-id": "f8",
+        "level": "Level",
+        "left": 1412,
+        "text": "融創中國控股有限公司163",
+        "font-size": 24,
+        "color": "rgba(222,129,14,1)",
+        "data-offset-start": 899
+    },
+    {
+        "data-offset-end": 921,
+        "pageid": 165,
+        "top": 2330,
+        "font-id": "f9",
+        "level": "Level",
+        "left": 1504,
+        "text": "2017年度報告",
+        "font-size": 24,
+        "color": "rgba(101,98,98,1)",
+        "data-offset-start": 914
+    }
+]

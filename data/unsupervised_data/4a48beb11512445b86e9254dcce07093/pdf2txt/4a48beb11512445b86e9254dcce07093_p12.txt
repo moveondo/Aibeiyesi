@@ -1,0 +1,279 @@
+SUMMARY
+
+OUR DRUG CANDIDATES
+
+The following table summarizes the development status in China of our pipeline antibody
+
+candidates as of the Latest Practicable Date:
+
+Candidate/
+
+Reference Drug
+
+Target(s)
+
+Therapeutic Area: Disease Indications***
+
+Commercial
+
+Rights
+
+Status
+
+Pre-clinical
+
+IND
+
+(Filed)
+
+(Accepted)
+
+Phase 1
+
+Phase 2
+
+Phase 3
+
+NDA
+(Filed)
+
+sintilimab
+(IBI-308)*
+
+PD-1
+
+IBI-306
+
+IBI-310(1)
+
+PCSK9
+
+CTLA-4
+
+Oncology: r/r Hodgkin’s lymphoma, 1L and 2L  
+melanoma, refractory gastrointestinal cancers, 
+2L NSCLC, 2L esophageal cancer, 1L and 
+2L squamous NSCLC, 1L non-squamous NSCLC,
+r/r NK/T-cell lymphoma, 2L ESCC, 1L gastric 
+cancer, solid tumors, and esophageal carcinoma
+
+Metabolic: homozygous familial hyperlipidemia; 
+statin intolerant high CV risk patients
+
+Oncology: melanoma and renal cell carcinoma
+
+VEGF/Complement
+proteins
+
+Ophthalmology: wet AMD
+
+NDA filed for r/r Hodgkin’s lymphoma: Apr 3, 2018
+
+IND approved: Sep 8, 2017
+
+IND approved: Feb 13, 2018
+
+IND approved: Dec 9, 2016
+
+IND approved: Jun 15, 2018
+
+IND approved: Jun 15, 2018
+
+IND approved: Aug 22, 2018
+
+Worldwide(2)
+
+China, Hong
+Kong, Taiwan
+
+Worldwide 
+
+Worldwide
+
+Worldwide
+
+Worldwide
+
+Worldwide
+
+Worldwide
+
+Worldwide
+
+China, Hong
+Kong, Macau(3)
+China, Hong
+Kong, Macau(3)
+
+Worldwide
+
+**
+
+Worldwide
+
+Metabolic: osteoporosis and lytic bone lesions
+associated with cancer metastasis
+
+Oncology: advanced solid tumors, hepatitis B
+
+Oncology: B-cell lymphoma, ovarian cancer, 
+colorectal cancer
+
+Oncology: NSCLC, melanoma, mBrCA, 
+advanced tumors
+
+Oncology: advanced solid tumors
+
+Oncology: advanced tumors (undisclosed target)
+
+Oncology: advanced tumors (undisclosed target)
+
+Oncology: PDL1/CD47 coexpressing tumors,
+M1 macrophage signature tumors
+
+Oncology: Her2 + cancers, mBrCA, 
+gastric cancer, NSCLC
+
+Oncology: PDL1+ tumors with “hot tumor” 
+phenotype
+
+IBI-302
+
+IBI-307
+
+IBI-101
+
+IBI-188
+
+IBI-110
+
+IBI-939
+
+IBI-318
+
+IBI-319
+
+IBI-322
+
+IBI-315
+
+IBI-323
+
+rituximab 
+(IBI-301)/
+Rituxan*
+
+adalimumab
+(IBI-303)/
+Humira*
+
+bevacizumab
+(IBI-305)/
+Avastin*
+
+l
+e
+v
+o
+N
+
+r
+a
+l
+i
+
+m
+
+i
+s
+o
+i
+B
+
+RANKL
+
+OX40
+
+CD47
+
+LAG-3
+
+TIGIT
+
+PD-1/undisclosed
+target
+PD-1/undisclosed
+target
+
+PD-L1/CD47
+
+PD-1/HER2
+
+LAG-3/PD-LI
+
+CD20
+
+TNF-α
+
+Oncology: non-Hodgkin’s lymphoma, 
+chronic lymphocytic leukemia, rheumatoid arthritis
+
+Worldwide(2)
+
+IND approved: Sep 13, 2014
+
+Autoimmune: rheumatoid arthritis, juvenile 
+idiopathic arthritis, psoriatic arthritis, 
+ankylosing spondylitis, Crohn’s disease, 
+ulcerative colitis and psoriasis
+
+Worldwide
+
+IND approved: Dec 28, 2015
+
+VEGF-A
+
+Oncology: r/r NSCLC and metastatic CRC
+
+Worldwide
+
+IND approved: May 10, 2016
+
+Abbreviations: 1L = first-line; 2L = second-line; AMD = age-related macular degeneration; CRC = colorectal cancer;
+CV = cardiovascular; EGFR = epidermal growth factor receptor; ESCC = esophageal squamous cell carcinoma; HCC
+= hepatocellular carcinoma; NHL = non-Hodgkin’s lymphoma; NK/T-cell
+lymphoma = natural killer/T-cell
+lymphoma; NSCLC = non-small cell lung cancer; RCC = renal cell carcinoma; r/r = relapsed, refractory; SCLC =
+small-cell lung cancer; TKI = tyrosine kinase inhibitor.
+
+*
+
+**
+
+denotes a core product.
+
+collaboration with Hanmi, subject
+information.
+
+to confidentiality terms prohibiting the disclosure of confidential
+
+*** We also plan to develop sintilimab in combination with (i) IBI-310 for the treatment of melanoma, SCLC and
+RCC, (ii) each of IBI-101, IBI-188, IBI-110 and IBI-939 for the treatment of advanced solid tumors, (iii)
+IBI-305 for the treatment of HCC and EGFR-TKI failure NSCLC, and (iv) IBI-301 for the treatment of B-cell
+NHL. We also plan to develop IBI-188 in combination with IBI-301 for the treatment of B-cell NHL.
+
+(1) We are developing IBI-310 as an innovative drug candidate in accordance with NMPA regulations because
+ipilimumab has not been approved for marketing in China even though IBI-310 has the same amino acid
+sequence as ipilimumab.
+
+(2) We and Eli Lilly will co-promote sintilimab (IBI-308) and rituximab (IBI-301) in China, Hong Kong and
+
+Macau.
+
+(3)
+
+Eli Lilly may opt in to co-commercialize IBI-318 and IBI-319 with us in China, Hong Kong and Macau.
+
+– 3 –
+
+

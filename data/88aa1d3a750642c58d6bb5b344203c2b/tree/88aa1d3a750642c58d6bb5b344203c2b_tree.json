@@ -1,0 +1,361 @@
+{
+    "root": true,
+    "children": [
+        {
+            "left": 110,
+            "top": 347,
+            "text": "1、2018年回顾：美元强+需求弱+供给增=行业低迷.....................................................................3",
+            "pageid": 2,
+            "font-size": 36,
+            "font-id": "f15",
+            "data-offset-start": 21,
+            "data-offset-end": 119,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 110,
+            "top": 535,
+            "text": "2、基本金属：推荐铜、锡、锌冶炼利润环节改善........................................................................12",
+            "pageid": 2,
+            "font-size": 36,
+            "font-id": "f15",
+            "data-offset-start": 371,
+            "data-offset-end": 467,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 110,
+            "top": 777,
+            "text": "3、贵金属：美元走弱+避险需求，黄金或有阶段性机会...............................................................26",
+            "pageid": 2,
+            "font-size": 36,
+            "font-id": "f15",
+            "data-offset-start": 814,
+            "data-offset-end": 904,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 110,
+            "top": 857,
+            "text": "4、小金属：看好供需共振的钛，钴、锂仍待转机........................................................................28",
+            "pageid": 2,
+            "font-size": 36,
+            "font-id": "f15",
+            "data-offset-start": 906,
+            "data-offset-end": 1002,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 110,
+            "top": 1099,
+            "text": "5、主题投资看好轻量化...............................................................................................................42",
+            "pageid": 2,
+            "font-size": 36,
+            "font-id": "f15",
+            "data-offset-start": 1379,
+            "data-offset-end": 1504,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 110,
+            "top": 1233,
+            "text": "6、投资建议.................................................................................................................................46",
+            "pageid": 2,
+            "font-size": 36,
+            "font-id": "f15",
+            "data-offset-start": 1634,
+            "data-offset-end": 1772,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 110,
+            "top": 1853,
+            "text": "7、风险提示.................................................................................................................................61",
+            "pageid": 2,
+            "font-size": 36,
+            "font-id": "f15",
+            "data-offset-start": 3343,
+            "data-offset-end": 3481,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 638,
+            "top": 265,
+            "level": "Level_0",
+            "text": "1、2018年回顾：美元强+需求弱+供给增=行业低迷",
+            "pageid": 3,
+            "font-size": 47,
+            "font-id": "f15",
+            "data-offset-start": 31,
+            "children": [
+                {
+                    "left": 638,
+                    "top": 1881,
+                    "text": "（1）宏观环境回顾：2018年美元走强压制有色金属价格",
+                    "pageid": 8,
+                    "font-size": 31,
+                    "font-id": "f15",
+                    "data-offset-start": 444,
+                    "data-offset-end": 471,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 638,
+                    "top": 416,
+                    "text": "（2）供给回顾：环保政策纠偏，供给约束弱化",
+                    "pageid": 9,
+                    "font-size": 31,
+                    "font-id": "f15",
+                    "data-offset-start": 119,
+                    "data-offset-end": 139,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 638,
+                    "top": 1801,
+                    "text": "（3）需求回顾：国内整体表现较弱",
+                    "pageid": 9,
+                    "font-size": 31,
+                    "font-id": "f15",
+                    "data-offset-start": 776,
+                    "data-offset-end": 791,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                }
+            ],
+            "color": "rgba(128,0,128,1)",
+            "data-offset-end": 58
+        },
+        {
+            "left": 638,
+            "top": 1726,
+            "level": "Level_0",
+            "text": "2、基本金属：推荐铜、锡、锌冶炼利润环节改善",
+            "pageid": 12,
+            "font-size": 47,
+            "font-id": "f15",
+            "data-offset-start": 1105,
+            "children": [
+                {
+                    "left": 638,
+                    "top": 1950,
+                    "text": "（1）铜供给：铜精矿供应趋紧",
+                    "pageid": 12,
+                    "font-size": 31,
+                    "font-id": "f16",
+                    "data-offset-start": 1157,
+                    "data-offset-end": 1170,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 638,
+                    "top": 953,
+                    "text": "（2）铜需求：稳定增长，电网基建与新能源领域或为主要助推力",
+                    "pageid": 16,
+                    "font-size": 31,
+                    "font-id": "f15",
+                    "data-offset-start": 62,
+                    "data-offset-end": 90,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 638,
+                    "top": 1942,
+                    "text": "（3）铜供需格局：铜精矿供应趋紧，需求易升难降，供需有望持续改善随着铜精矿供给增速下滑，且需求稳定增长，铜供需格局有望持续改善，长",
+                    "pageid": 19,
+                    "font-size": 31,
+                    "font-id": "f15",
+                    "data-offset-start": 523,
+                    "data-offset-end": 588,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 638,
+                    "top": 2047,
+                    "text": "（1）锡供给：缅甸矿进口下滑，印尼出口受阻，国内选厂搬迁",
+                    "pageid": 20,
+                    "font-size": 31,
+                    "font-id": "f15",
+                    "data-offset-start": 833,
+                    "data-offset-end": 860,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 638,
+                    "top": 370,
+                    "text": "（2）锡供需：2019年国内供需格局有望迎来反转",
+                    "pageid": 22,
+                    "font-size": 31,
+                    "font-id": "f15",
+                    "data-offset-start": 92,
+                    "data-offset-end": 116,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 638,
+                    "top": 1946,
+                    "text": "（1）锌矿供给：矿山投产复产，未来供给充足",
+                    "pageid": 22,
+                    "font-size": 31,
+                    "font-id": "f15",
+                    "data-offset-start": 962,
+                    "data-offset-end": 982,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 638,
+                    "top": 260,
+                    "text": "（2）锌冶炼环节：冶炼利润环节改善，加工费持续走高",
+                    "pageid": 24,
+                    "font-size": 31,
+                    "font-id": "f15",
+                    "data-offset-start": 18,
+                    "data-offset-end": 42,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 638,
+                    "top": 1562,
+                    "text": "（2）2019年加工费或继续走高，利好中游冶炼企业。推荐国内锌相关标的：",
+                    "pageid": 25,
+                    "font-size": 31,
+                    "font-id": "f15",
+                    "data-offset-start": 625,
+                    "data-offset-end": 661,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                }
+            ],
+            "color": "rgba(128,0,128,1)",
+            "data-offset-end": 1126
+        },
+        {
+            "left": 638,
+            "top": 265,
+            "level": "Level_0",
+            "text": "3、贵金属：美元走弱+避险需求，黄金或有阶段性机会",
+            "pageid": 26,
+            "font-size": 47,
+            "font-id": "f15",
+            "data-offset-start": 18,
+            "children": [
+                {
+                    "left": 638,
+                    "top": 1248,
+                    "text": "（1）加息放缓，看空美元情绪上升",
+                    "pageid": 26,
+                    "font-size": 31,
+                    "font-id": "f16",
+                    "data-offset-start": 295,
+                    "data-offset-end": 310,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 638,
+                    "top": 1176,
+                    "text": "（2）避险情绪升温，短期看好黄金价格",
+                    "pageid": 27,
+                    "font-size": 31,
+                    "font-id": "f16",
+                    "data-offset-start": 318,
+                    "data-offset-end": 335,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                }
+            ],
+            "color": "rgba(128,0,128,1)",
+            "data-offset-end": 43
+        },
+        {
+            "left": 638,
+            "top": 265,
+            "text": "4、小金属：看好供需共振的钛，钴、锂仍待转机",
+            "pageid": 28,
+            "font-size": 47,
+            "font-id": "f15",
+            "data-offset-start": 18,
+            "data-offset-end": 39,
+            "color": "rgba(128,0,128,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 638,
+            "top": 265,
+            "text": "5、主题投资看好轻量化",
+            "pageid": 42,
+            "font-size": 47,
+            "font-id": "f15",
+            "data-offset-start": 31,
+            "data-offset-end": 41,
+            "color": "rgba(128,0,128,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 638,
+            "top": 2039,
+            "level": "Level_0",
+            "text": "6、投资建议",
+            "pageid": 46,
+            "font-size": 47,
+            "font-id": "f16",
+            "data-offset-start": 549,
+            "children": [
+                {
+                    "left": 638,
+                    "top": 553,
+                    "text": "（50），给予2019年55倍PE，对应目标价31.35元。首次给予“增持”评级。",
+                    "pageid": 54,
+                    "font-size": 31,
+                    "font-id": "f15",
+                    "data-offset-start": 216,
+                    "data-offset-end": 265,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 638,
+                    "top": 1753,
+                    "text": "（1）轨道交通：公司轨道交通生产线项目于2013年正式投产。锁定大客户，为中车主要供应商之一，占中车四方采购份额高达60%。未来随着轨交行业需求的不断增加，产品产销量有望进一步扩张。（2）汽车用铝：公司为国内首家本土汽车板生产商。汽车轻量化大势所趋，铝合金成为首选替代材料。我们预测2020年中国汽车制造用铝将达到570万吨，公司的产品四门两盖成为主要增长点。（3）航空用铝：公司为国内首家波音供货商。2018年拟与FIGEACAERO共同成立南山飞卓宇航工业有限公司，深耕航空深加工市场。",
+                    "pageid": 60,
+                    "font-size": 31,
+                    "font-id": "f15",
+                    "data-offset-start": 970,
+                    "data-offset-end": 1232,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                }
+            ],
+            "color": "rgba(128,0,128,1)",
+            "data-offset-end": 554
+        },
+        {
+            "left": 638,
+            "top": 1521,
+            "text": "7、风险提示",
+            "pageid": 61,
+            "font-size": 47,
+            "font-id": "f17",
+            "data-offset-start": 800,
+            "data-offset-end": 805,
+            "color": "rgba(128,0,128,1)",
+            "level": "Level_0"
+        }
+    ]
+}

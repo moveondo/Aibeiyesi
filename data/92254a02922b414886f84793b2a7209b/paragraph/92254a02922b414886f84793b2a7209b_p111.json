@@ -1,0 +1,54 @@
+[
+    {
+        "font_family": "ff1",
+        "text": "欧菲科技股份有限公司  2017  年年度报告全文",
+        "bottom": 790.32,
+        "data_offset_end": 30,
+        "font_size": 36.0,
+        "left": 363.16,
+        "line_height": 0,
+        "data_offset_start": 6,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "BTitle_9999"
+    },
+    {
+        "font_family": "ff2",
+        "text": "111学， 导致一般失误； 公司重要业务制度或系统存在缺陷； 公司内部控制重要缺陷在合理期间内未得到整改； 其他可能对公司产生较大负面影响的缺陷。 （ 3）一般缺陷： 未构成重大缺陷、 重要缺陷标准之外的其他控制缺陷。定量标准（ 1） 重大缺陷： 可能导致无法及时地预防或发现财务报告中出现大于或等于公司资产总额  1% ，且绝对值超过 20,000 万的错报。 （ 2）重要缺陷：可能导致无法及时地预防或发现财务报告中出现超过资产总额的  0.5%但小于  1% ，且绝对值超过 10,000万但不超过  20,000  万的错报。（3）一般缺陷：对不构成重大缺陷和重要缺陷之外的其他缺陷。（ 1）重大缺陷：可能导致无法及时地预防或发现财务报告中出现大于或等于公司资产总额  1%，且绝对值超过20,000  万的错报。（2）重要缺陷：可能导致无法及时地预防或发现财务报告中出现超过资产总额的  0.5%但小于1% ，且绝对值超过  10,000 万但不超过20,000  万的错报。（3）一般缺陷：对不构成重大缺陷和重要缺陷之外的其他缺陷。财务报告重大缺陷数量（个）0非财务报告重大缺陷数量（个）0财务报告重要缺陷数量（个）0非财务报告重要缺陷数量（个）0",
+        "bottom": 51.72,
+        "data_offset_end": 582,
+        "font_size": 36.0,
+        "left": 525.84,
+        "line_height": 0,
+        "data_offset_start": 31,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "BTitle_9999"
+    },
+    {
+        "font_family": "ff1",
+        "text": "十、内部控制审计报告或鉴证报告",
+        "bottom": 405.2,
+        "data_offset_end": 599,
+        "font_size": 48.0,
+        "left": 56.94,
+        "line_height": 0,
+        "data_offset_start": 583,
+        "text_shadow": "-0.015em 0 rgb(0,0,0),0 0.015em rgb(0,0,0),0.015em 0 rgb(0,0,0),0 -0.015em rgb(0,0,0)",
+        "height": 44.88,
+        "level": "ATitle_9999"
+    },
+    {
+        "font_family": "ff4",
+        "text": "□  适用   √ 不适用",
+        "bottom": 375.62,
+        "data_offset_end": 611,
+        "font_size": 36.0,
+        "left": 56.94,
+        "line_height": 0,
+        "data_offset_start": 600,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "BTitle_9999"
+    }
+]

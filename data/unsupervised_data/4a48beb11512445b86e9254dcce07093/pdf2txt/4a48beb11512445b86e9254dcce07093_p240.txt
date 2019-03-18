@@ -1,0 +1,32 @@
+BUSINESS
+
+Improvements in the binding affinity and in binding kinetics lead to more robust activity
+of sintilimab in ex vivo mixed lymphocyte reactions, which is a measure of the ability of human
+lymphocytes to recognize foreign cells and become activated. The degree of lymphocyte
+activation is measured by the induction of cytokines such as interferon-␥ and interleukin-2
+(IL-2). As shown in the figure below, sintilimab leads to greater induction of IL-2 and
+interferon-␥ than nivolumab or pembrolizumab, respectively.
+
+Sintilimab outperforms both nivolumab and pembrolizumab in
+
+mixed lymphocyte reaction cytokine induction
+
+Abbreviations: IL-2 = interleukin-2; IFN-␥ = interferon-␥; IgG = immunoglobulin G.
+
+In another laboratory study,
+
+the ability of sintilimab to change the types of tumor
+infiltrating T lymphocytes (TILs) in human xenographs was compared directly against that of
+pembrolizumab and nivolumab. A proximate measure of blockade of PD-1 action in tumors is
+CD8/Treg, which is the ratio of cytotoxic T lymphocytes (CD8) to Treg lymphocytes. While each
+PD-1 antibody increased the ratio of CD8/Treg lymphocytes, at the equivalent dose levels,
+sintilimab led to more robust changes, as shown in the figure below. This increase in CD8/Treg
+ratio is a beneficial change in the immune status within the tumors.
+
+Tumor infiltrating lymphocytes in a syngeneic murine model of cancer
+
+Abbreviations: Treg = Regulatory T-cell; h-IgG = human immunoglobulin G.
+
+– 231 –
+
+

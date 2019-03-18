@@ -1,0 +1,79 @@
+BUSINESS
+
+Mechanism of Action
+
+preventing
+
+PCSK9 has emerged as a promising treatment target to lower serum cholesterol, a major
+the surface of
+risk factor of cardiovascular diseases. PCSK9 binds the LDL receptor at
+enhancing
+in
+hepatocytes,
+and
+endosomes/lysosomes. PCSK9 inhibitors block the
+interaction of PCSK9 and the
+LDLreceptor,which enhances LDL-C clearance from plasma by increasing hepatic expression
+of LDL receptors. The FDA approved PCSK9
+of
+hypercholesterolemia have demonstrated their ability to lower LDL-C levels and reduce the
+risk of cardiovascular disease.
+
+degradation
+
+treatment
+
+inhibitors
+
+for
+
+the
+
+LDL-R
+
+recycling
+
+its
+
+(low-density 
+
+lipoprotein) 
+PCSK9  binds  LDL 
+receptor  at  the  surface  of  hepatocytes,  preventing 
+LDL-R  recycling  and  enhancing  its  degradation  in 
+endosomes/lysosomes.
+
+PCSK9 inhibitors can bind to the PCSK9, thus more 
+LDL receptors will be recycled to the surface of the 
+cell.  And  this  can  increase  the  clearance  of  LDL 
+cholesterol from the circulation.
+
+Source: Frost & Sullivan.
+
+Features of JS002
+
+JS002 is an innovative anti-PCSK9 monoclonal antibody. JS002 can bind with high
+affinity to human PCSK9, block the binding of PCSK9 to LDL-R on the cell surface, reduce
+endocytosis of LDL-R, and enhance the uptake of LDL-C by the liver cells, to reduce LDL-C
+level in the blood. The affinity of JS002 and PCSK9 subtypes is 1.83E-11 M (PCSK9) and
+1.23E-11 M (PCSK9-D347Y), where PCSK9-D347Y is a Gain-Of-Function (GOF) mutation
+that results in hypercholesterolemia. JS002 has the following main features demonstrated in the
+preclinical studies:
+
+(1) With high affinity and a new CDR structure, it is able to identify more types of
+
+PCSK9;
+
+(2) No obvious side effect was observed during the single-dose toxicity studies and
+
+repeated-dose toxicity studies of macaca fascicularis or rattus norvegicus;
+
+(3) Based on the pharmacodynamics results from the preclinical studies, JS002 has
+demonstrated to be effective in lowering the LDL-C level in macaca mulatta models
+with hypercholesterolemia; and
+
+(4) The pharmacokinetic profile of JS002 is similar to the marketed PCSK9 inhibitors.
+
+– 213 –
+
+

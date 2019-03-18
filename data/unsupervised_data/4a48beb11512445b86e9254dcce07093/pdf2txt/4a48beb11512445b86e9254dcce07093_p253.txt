@@ -1,0 +1,43 @@
+BUSINESS
+
+(cid:129)
+
+AUC0-inf: area under the concentration-time curve from the first time point measured
+(0) extrapolated to infinity.
+
+The area under the curve, or the AUC, is a measure of how much of a drug is in a patient’s
+system over a given time period. In order to calculate the AUC, the concentration of the drug
+in blood serum or plasma is plotted over time starting at the time the drug is administered and
+is collected (AUC0-t) or when the serum or plasma
+ending when the last
+concentration would be below the level of detection or zero (AUC0-inf), and then the area under
+this curve is calculated. To be deemed bioequivalent, for each parameter, the ratio of the
+biosimilar drug candidate and the reference product shall fall between 80% and 125%, with the
+identical match being at 100%.
+
+time point
+
+Step 4: Clinical Confirmation Studies. The final step to support regulatory approval for
+a biosimilar drug candidate is a single Phase 3 confirmatory safety and efficacy study in a
+therapeutic indication for which the reference product has been approved. The objective of this
+study is to demonstrate biosimilarity between the two molecules with respect to both safety and
+efficacy. Trial endpoints include considerations such as the number of subjects, statistical
+significance, confidence intervals and accumulated safety database size. We currently do not
+have safety data relating to our biosimilar product candidates available because our clinical
+confirmation studies are double blind trials which are still ongoing. Only upon the closure of
+such trials the safety data will be “unblinded” and cleansed and become available.
+
+IBI-305 is our biosimilar product candidate to bevacizumab, which is sold under the trade
+
+name Avastin (阿瓦斯汀) in China.
+
+Mechanism of Action
+
+Bevacizumab is a recombinant fully-humanized monoclonal antibody that decreases the
+growth of blood vessels (this growth is referred to as angiogenesis) by inhibiting vascular
+endothelial growth factor A (VEGF-A). VEGF-A is a protein that stimulates angiogenesis
+which in turn promotes the growth of certain solid tissues, including solid tumors.
+
+– 244 –
+
+

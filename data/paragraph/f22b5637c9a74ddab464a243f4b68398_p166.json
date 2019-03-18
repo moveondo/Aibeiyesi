@@ -1,0 +1,98 @@
+[
+    {
+        "data-offset-end": 9,
+        "pageid": 166,
+        "top": 153,
+        "font-id": "f8",
+        "level": "Level",
+        "left": 127,
+        "text": "綜合財務報表附註",
+        "font-size": 51,
+        "color": "rgba(222,129,14,1)",
+        "data-offset-start": 2
+    },
+    {
+        "data-offset-end": 39,
+        "pageid": 166,
+        "top": 346,
+        "font-id": "f11",
+        "level": "Level",
+        "left": 127,
+        "text": "12遞延所得稅（續）",
+        "font-size": 39,
+        "color": "rgba(222,129,14,1)",
+        "data-offset-start": 29
+    },
+    {
+        "data-offset-end": 151,
+        "pageid": 166,
+        "top": 582,
+        "font-id": "f12",
+        "level": "Level",
+        "left": 1235,
+        "text": "十二月三十一日十二月三十一日",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 137
+    },
+    {
+        "data-offset-end": 271,
+        "pageid": 166,
+        "top": 1021,
+        "font-id": "f13",
+        "level": "Level",
+        "left": 263,
+        "text": "年內遞延稅項負債的變動（未計及於同一稅收管轄區結餘內的抵銷）如下：",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 239
+    },
+    {
+        "data-offset-end": 426,
+        "pageid": 166,
+        "top": 1108,
+        "font-id": "f12",
+        "level": "Level",
+        "left": 832,
+        "text": "遞延",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 425
+    },
+    {
+        "data-offset-end": 518,
+        "pageid": 166,
+        "top": 1210,
+        "font-id": "f12",
+        "level": "Level",
+        "left": 1400,
+        "text": "中國實體",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 515
+    },
+    {
+        "data-offset-end": 1136,
+        "pageid": 166,
+        "top": 2303,
+        "font-id": "f7",
+        "level": "Level",
+        "left": 39,
+        "text": "164融創中國控股有限公司",
+        "font-size": 33,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 1123
+    },
+    {
+        "data-offset-end": 1145,
+        "pageid": 166,
+        "top": 2330,
+        "font-id": "f9",
+        "level": "Level",
+        "left": 127,
+        "text": "2017年度報告",
+        "font-size": 24,
+        "color": "rgba(101,98,98,1)",
+        "data-offset-start": 1138
+    }
+]

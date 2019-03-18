@@ -1,0 +1,150 @@
+FINANCIAL INFORMATION
+
+The assumptions adopted to estimate the fair value of share options using the binomial option
+
+pricing model were as follows:
+
+Three Months Ended March 31,
+
+Year Ended December 31,
+
+2018
+
+2017
+
+2017
+
+2016
+
+Risk-free interest rate ............................
+Expected exercise multiple ....................
+Expected volatility ................................
+Expected dividend yield ........................
+Contractual life .....................................
+
+2.5%-2.9%
+2.8
+60%-63%
+0%
+10 years
+
+2.3%-2.6%
+2.2-2.8
+99%-100%
+0%
+10 years
+
+2.2%-2.6%
+2.2-2.8
+99%-100%
+0%
+10 years
+
+1.5%-2.6%
+2.2-2.8
+98%-102%
+0%
+10 years
+
+We are also required to estimate forfeitures at the time of grant and revise those estimates in
+subsequent periods if actual forfeitures differ from our estimates. We use historical data to estimate
+pre-vesting option forfeitures and record share-based compensation expense only for those awards that
+are expected to vest. To the extent that actual forfeitures differ from our estimates, the difference is
+recorded as a cumulative adjustment in the period the estimates were revised.
+
+These assumptions
+
+represented our best estimates, but
+
+involve inherent
+factors change and we use
+uncertainties and the application of our
+significantly different assumptions or estimates when valuing our share options, our share-based
+compensation expense could be materially different.
+
+judgment. As a result,
+
+the estimates
+
+if
+
+The fair value of restricted shares and restricted share units are based on the closing market price
+
+of our ADSs on the Nasdaq on the date of grant.
+
+The following table summarizes total share-based compensation cost recognized for the relevant
+
+periods:
+
+Three Months Ended March 31
+
+Year Ended December 31,
+
+2018
+
+2017
+
+2017
+
+2016
+
+(US dollars in thousands)
+
+Research and development.....................
+Selling, general and administration........
+
+Total .....................................................
+
+$
+
+$
+
+12,052
+5,344
+
+17,396
+
+$
+
+$
+
+4,529
+1,463
+
+5,992
+
+$
+
+$
+
+30,610
+12,253
+
+42,863
+
+$
+
+$
+
+8,076
+2,549
+
+10,625
+
+As of March 31, 2018,
+
+total unrecognized share based
+compensation expense, net of estimated forfeitures, related to unvested share-based awards which are
+expected to be recognized over a weighed-average period of 3.1 years.
+
+there was US$179.0 million of
+
+As of December 31, 2017,
+
+there was US$178.2 million of total unrecognized share-based
+compensation expense, net of estimated forfeitures, related to unvested share-based awards which are
+expected to be recognized over a weighted-average period of 3.4 years. As of December 31, 2016,
+
+— 301 —
+
+

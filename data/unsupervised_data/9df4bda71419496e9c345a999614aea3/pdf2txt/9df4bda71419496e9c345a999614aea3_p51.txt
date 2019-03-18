@@ -1,0 +1,42 @@
+“target”
+
+“TEAE”
+
+“TNF-␣”
+
+“TRAE”
+
+“tyrosine”
+
+GLOSSARY
+
+a molecule in the body, usually a protein,
+is
+intrinsically associated with a particular disease process
+and that could be addressed by a drug to produce a
+desired therapeutic effect
+
+that
+
+treatment emergent adverse event, adverse event not
+present prior to medical treatment, or an already present
+event
+frequency
+following the treatment
+
+that worsens either
+
+in intensity or
+
+tumor necrosis factor alpha
+
+treatment related adverse event, an adverse event present
+after medical treatment
+
+one of the 20 standard amino acids that are used by cells
+to synthesize proteins. It is a non-essential amino acid
+with a polar side group
+
+– 45 –
+
+

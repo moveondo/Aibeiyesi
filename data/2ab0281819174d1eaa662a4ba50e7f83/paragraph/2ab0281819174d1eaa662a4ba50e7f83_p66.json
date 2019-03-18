@@ -1,0 +1,67 @@
+[
+    {
+        "line_height": 0,
+        "font_family": "ff1",
+        "bottom": 790.32,
+        "text": "美的集团股份有限公司  2017  年年度报告",
+        "font_size": 36.0,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "left": 381.07,
+        "data_offset_end": 28,
+        "data_offset_start": 6,
+        "level": "Text_9999",
+        "height": 33.66
+    },
+    {
+        "line_height": 0,
+        "font_family": "ff2",
+        "bottom": 51.744,
+        "text": "66",
+        "font_size": 36.0,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "left": 293.11,
+        "data_offset_end": 32,
+        "data_offset_start": 29,
+        "level": "CTitle_9999",
+        "height": 33.66
+    },
+    {
+        "line_height": 0,
+        "font_family": "ff1",
+        "bottom": 745.54,
+        "text": "第七节   优先股相关情况",
+        "font_size": 63.84,
+        "text_shadow": "-0.015em 0 rgb(0,0,0),0 0.015em rgb(0,0,0),0.015em 0 rgb(0,0,0),0 -0.015em rgb(0,0,0)",
+        "left": 213.29,
+        "data_offset_end": 45,
+        "data_offset_start": 33,
+        "level": "ATitle_9999",
+        "height": 59.6904
+    },
+    {
+        "line_height": 0,
+        "font_family": "ff1",
+        "bottom": 704.14,
+        "text": "□   适用  √  不适用",
+        "font_size": 42.24,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "left": 56.664,
+        "data_offset_end": 57,
+        "data_offset_start": 46,
+        "level": "BTitle_9999",
+        "height": 35.145
+    },
+    {
+        "line_height": 0,
+        "font_family": "ff1",
+        "bottom": 682.54,
+        "text": "报告期公司不存 在优先股。",
+        "font_size": 42.24,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "left": 56.664,
+        "data_offset_end": 71,
+        "data_offset_start": 58,
+        "level": "BTitle_9999",
+        "height": 35.145
+    }
+]

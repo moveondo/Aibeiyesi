@@ -1,0 +1,68 @@
+BUSINESS
+
+line treatment; gBRCA = germline BRCA; OC = ovarian cancer, TMZ = temozolomide; RT = radiotherapy;
+IMiD =
+immunomodulatory drugs; MM = multiple myeloma; ND = newly diagnosed; NHL = non-Hodgkin’s lymphoma; MDS =
+myelodysplastic syndrome; AML = acute myeloid leukemia; CMMoL = chronic myelomonocytic leukemia; DLBCL = diffuse
+large B-cell lymphoma;
+
+*
+
+**
+
+Some indications will not require a non-pivotal Phase 2 clinical trial prior to beginning pivotal Phase 2 or 3 clinical trials.
+
+Confirmatory clinical trials post-approval are required for accelerated approvals.
+
+***
+
+REVLIMID威 approved as a combination therapy with dexamethasone.
+
+1
+
+2
+
+3
+
+Celgene has the right to develop and commercialize tislelizumab in solid tumors in the United States, Europe, Japan and
+the rest-of-world outside of Asia.
+
+Limited collaboration with Merck KGaA.
+
+Partnership with Mirati Therapeutics, Inc.
+
+Our drug candidates are subject to NDA approval by the relevant authorities, such as the FDA
+and the CDA, before commercialization in the relevant jurisdictions. Please refer to the section titled
+“Regulations — U.S. Regulation — U.S. Government Regulation and Product Approval” and “— PRC
+Regulation — PRC Drug Regulation” for details. As of the date of this prospectus, we believe that we
+have not received any material comments or concerns raised by the CDA that we are not able to
+address in a timely manner, and we believe we are on track to file the NDAs related to our Core
+Product Candidates as described in the section titled “— Our Clinical-Stage Drug Candidates.”
+
+Our Clinical-Stage Drug Candidates
+
+Zanubrutinib (BGB-3111), a BTK Inhibitor
+
+Zanubrutinib is an investigational small molecule inhibitor of BTK that
+
+is currently being
+evaluated in a broad pivotal clinical program globally and in China as a monotherapy and in
+combination with other therapies to treat various lymphomas. Zanubrutinib has demonstrated higher
+selectivity against BTK than IMBRUVICA威 (ibrutinib), an approved BTK inhibitor, based on our
+biochemical assays, higher exposure than ibrutinib based on their respective Phase 1 experience in
+separate studies, and sustained 24-hour BTK occupancy in both the peripheral blood and lymph node
+compartments.
+
+Mechanism of Action
+
+BTK is a key component of the BCR signaling pathway and is an important regulator of cell
+in various lymphomas. BTK inhibitors block BCR-induced BTK
+proliferation and cell survival
+leading to growth inhibition and cell death in certain
+activation and its downstream signaling,
+malignant white blood cells called B-cells. Zanubrutinib is an orally active inhibitor that covalently
+binds to BTK, resulting in irreversible inactivation of the enzyme.
+
+— 209 —
+
+

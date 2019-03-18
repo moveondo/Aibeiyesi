@@ -1,0 +1,56 @@
+FINANCIAL INFORMATION
+
+reliably measurable. The measurement date of the fair value of the equity instrument issued is the date
+on which the counterparty’s performance is completed as there is no associated performance
+commitment. The expense is recognized in the same manner as if we had paid cash for the services
+provided by the non-employees
+to
+non-employees. We estimate the fair value of share options granted to non-employees using the same
+method as employees.
+
+in accordance with ASC 505-50, Equity-based payments
+
+Modification of Awards
+
+A change in any of the terms or conditions of the awards is accounted for as a modification of
+the award. Incremental compensation cost is measured as the excess, if any, of the fair value of the
+modified award over the fair value of the original award immediately before its terms are modified,
+measured based on the fair value of the awards and other pertinent factors at the modification date.
+For vested awards, we recognize incremental compensation cost in the period the modification occurs.
+For unvested awards, we recognize over the remaining requisite service period,
+the sum of the
+incremental compensation cost and the remaining unrecognized compensation cost for the original
+award on the modification date. If the fair value of the modified award is lower than the fair value
+of the original award immediately before modification, the minimum compensation cost we recognize
+is the cost of the original award.
+
+Significant Factors, Assumptions and Methodologies Used in Determining Fair Value
+
+The fair value of each share option grant is estimated using the binomial option-pricing model.
+The model requires the input of highly subjective assumptions including the estimated expected share
+price volatility and, the share price upon which (i.e. the exercise multiple) the employees are likely
+to exercise share options. The trading history and observation period of our own share price movement
+has not been long enough to match the life of the share option. Therefore, we estimate our expected
+share price volatility based on the historical volatility of a group of similar companies, which are
+publicly-traded. We selected companies with characteristics similar to us,
+including the invested
+capital’s value, business model, development stage, risk profiles, position within the industry, and
+with historical share price information sufficient
+life of our share-based
+awards. We will continue to apply this process until a sufficient amount of historical information
+regarding the volatility of our own share price becomes available. For the exercise multiple, we were
+not able to develop an exercise pattern as reference,
+thus the exercise multiple is based on
+management’s estimation, which we believe is representative of the future exercise pattern of the
+options. The risk-free interest rates for the periods within the contractual life of the option are based
+on the U.S. Treasury yield curve in effect during the period the options were granted. Expected
+dividend yield is based on the fact that we have never paid, and do not expect to pay cash dividends
+in the foreseeable future.
+
+the contractual
+
+to meet
+
+— 300 —
+
+

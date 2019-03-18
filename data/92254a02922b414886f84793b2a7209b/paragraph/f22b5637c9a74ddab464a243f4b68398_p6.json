@@ -1,0 +1,74 @@
+[
+    {
+        "data-offset-end": 10,
+        "pageid": 6,
+        "top": 347,
+        "font-id": "f10",
+        "level": "Level",
+        "left": 127,
+        "text": "綜合業績",
+        "font-size": 39,
+        "color": "rgba(190,146,91,1)",
+        "data-offset-start": 7
+    },
+    {
+        "data-offset-end": 85,
+        "pageid": 6,
+        "top": 768,
+        "font-id": "f11",
+        "level": "Level",
+        "left": 136,
+        "text": "現金及現金等價物（包括受限制現金）",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 69
+    },
+    {
+        "data-offset-end": 121,
+        "pageid": 6,
+        "top": 1015,
+        "font-id": "f10",
+        "level": "Level",
+        "left": 127,
+        "text": "綜合財務狀況",
+        "font-size": 39,
+        "color": "rgba(190,146,91,1)",
+        "data-offset-start": 116
+    },
+    {
+        "data-offset-end": 187,
+        "pageid": 6,
+        "top": 423,
+        "font-id": "f10",
+        "level": "Level",
+        "left": 755,
+        "text": "二零一七年二零一六年二零一五年二零一四年二零一三年",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 159
+    },
+    {
+        "data-offset-end": 435,
+        "pageid": 6,
+        "top": 1091,
+        "font-id": "f10",
+        "level": "Level",
+        "left": 755,
+        "text": "二零一七年二零一六年二零一五年二零一四年二零一三年",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 407
+    },
+    {
+        "data-offset-end": 553,
+        "pageid": 6,
+        "top": 2303,
+        "font-id": "f7",
+        "level": "Level",
+        "left": 55,
+        "text": "4融創中國控股有限公司2017年度報告",
+        "font-size": 33,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 533
+    }
+]

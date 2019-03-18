@@ -1,0 +1,59 @@
+REGULATIONS
+
+Human clinical trials are typically conducted in three sequential phases that may overlap or be
+
+combined:
+
+•
+
+•
+
+•
+
+Phase 1. The product is initially introduced into a small number of healthy human subjects
+or patients and tested for safety, dosage tolerance, absorption, metabolism, distribution and
+excretion and, if possible, to gain early evidence on effectiveness. In the case of some
+products for severe or life-threatening diseases, especially when the product is suspected or
+known to be unavoidably toxic, the initial human testing may be conducted in patients.
+
+Phase 2. Involves clinical trials in a limited patient population to identify possible adverse
+effects and safety risks, to preliminarily evaluate the efficacy of the product for specific
+targeted diseases and to determine dosage tolerance and optimal dosage and schedule.
+
+Phase 3. Clinical trials are undertaken to further evaluate dosage, clinical efficacy and
+safety in an expanded patient population. These clinical trials are intended to evaluate the
+overall risk/benefit relationship of the product and provide an adequate basis for product
+labeling.
+
+We refer to our Phase 1 programs as dose-escalation and dose-expansion trials. In addition, we
+refer to some of our Phase 2 programs as pivotal or registrational programs, where the results can be
+used to support regulatory approval in specific jurisdictions without the need to conduct a Phase 3
+trial.
+
+Progress reports detailing the results of the clinical trials must be submitted at least annually to
+the FDA and safety reports must be submitted to the FDA and the investigators for serious and
+unexpected suspected AEs, any clinically important increase in the rate of a serious suspected adverse
+reaction over that listed in the protocol or investigator’s brochure, or any findings from other studies
+or animal or in vitro testing that suggest a significant risk in humans exposed to the product drug.
+Phase 1, Phase 2 and Phase 3 studies may not be completed successfully within any specified period,
+if at all. The FDA or the sponsor may suspend or terminate a clinical trial at any time on various
+grounds,
+the research subjects or patients are being exposed to an
+unacceptable health risk. Similarly, an IRB can suspend or terminate approval of a clinical trial at its
+institution if the clinical trial is not being conducted in accordance with the IRB’s requirements or if
+the product has been associated with unexpected serious harm to subjects.
+
+including a finding that
+
+Concurrent with clinical trials, companies usually complete additional animal studies and must
+also develop additional information about the chemistry and physical characteristics of the product
+and finalize a process for manufacturing the product in commercial quantities in accordance with
+cGMP requirements. The manufacturing process must be capable of consistently producing quality
+batches of the product and, among other things, the manufacturer must develop methods for testing
+the identity, strength, quality and purity of the final product. Additionally, appropriate packaging must
+be selected and tested and stability studies must be conducted to demonstrate that the product does not
+undergo unacceptable deterioration over its shelf life.
+
+— 168 —
+
+

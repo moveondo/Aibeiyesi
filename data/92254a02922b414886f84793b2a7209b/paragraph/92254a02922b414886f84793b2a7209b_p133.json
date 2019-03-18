@@ -1,0 +1,54 @@
+[
+    {
+        "font_family": "ff1",
+        "text": "欧菲科技股份有限公司  2017  年年度报告全文",
+        "bottom": 790.32,
+        "data_offset_end": 30,
+        "font_size": 36.0,
+        "left": 363.16,
+        "line_height": 0,
+        "data_offset_start": 6,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "BTitle_9999"
+    },
+    {
+        "font_family": "ff2",
+        "text": "133（一）基本每股收益（二）稀释每股收益",
+        "bottom": 51.72,
+        "data_offset_end": 61,
+        "font_size": 36.0,
+        "left": 525.18,
+        "line_height": 0,
+        "data_offset_start": 31,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "BTitle_9999"
+    },
+    {
+        "font_family": "ff4",
+        "text": "5 、合并现金流量表",
+        "bottom": 702.66,
+        "data_offset_end": 72,
+        "font_size": 42.0,
+        "left": 56.94,
+        "line_height": 0,
+        "data_offset_start": 62,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 39.27,
+        "level": "ATitle_9999"
+    },
+    {
+        "font_family": "ff1",
+        "text": "单位：元项目本期发生额上期发生额一、经营活动产生的现金流量：销售商品、提供劳务收到的现金33,252,626,538.4922,838,081,460.95客户存款和同业存放款项净增加额向中央银行借款净增加额向其他金融机构拆入资金净增加额收到原保险合同保费取得的现金收到再保险业务现金净额保户储金及投资款净增加额处置以公允价值计量且其变动计入当期损益的金融资产净增加额收取利息、手续费及佣金的现金拆入资金净增加额回购业务资金净增加额收到的税费返还946,926,185.28607,095,614.24收到其他与经营活动有关的现金289,016,539.83179,031,313.21经营活动现金流入小计34,488,569,263.6023,624,208,388.40购买商品、接受劳务支付的现金29,789,425,368.6319,671,728,137.97客户贷款及垫款净增加额存放中央银行和同业款项净增加额支付原保险合同赔付款项的现金支付利息、手续费及佣金的现金支付保单红利的现金支付给职工以及为职工支付的现金3,241,745,542.762,536,022,638.84支付的各项税费604,603,994.72305,650,883.50支付其他与经营活动有关的现金523,464,01 1.43300,124,239.04",
+        "bottom": 672.46,
+        "data_offset_end": 769,
+        "font_size": 36.0,
+        "left": 502.68,
+        "line_height": 0,
+        "data_offset_start": 73,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "BTitle_9999"
+    }
+]

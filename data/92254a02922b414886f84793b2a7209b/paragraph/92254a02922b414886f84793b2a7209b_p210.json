@@ -1,0 +1,80 @@
+[
+    {
+        "font_family": "ff1",
+        "text": "欧菲科技股份有限公司  2017  年年度报告全文",
+        "bottom": 790.32,
+        "data_offset_end": 30,
+        "font_size": 36.0,
+        "left": 363.16,
+        "line_height": 0,
+        "data_offset_start": 6,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "BTitle_9999"
+    },
+    {
+        "font_family": "ff2",
+        "text": "210地方教育费附加7,369,653.774,686,416.27房产税、土地使用税、车船税、印花税49,866,761.1826,266,383.33其他585,435.44合计94,079,532.1854,868,930.78其他说明：",
+        "bottom": 51.72,
+        "data_offset_end": 179,
+        "font_size": 36.0,
+        "left": 525.18,
+        "line_height": 0,
+        "data_offset_start": 31,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "BTitle_9999"
+    },
+    {
+        "font_family": "ff3",
+        "text": "52 、销售费用",
+        "bottom": 644.86,
+        "data_offset_end": 188,
+        "font_size": 42.0,
+        "left": 56.94,
+        "line_height": 0,
+        "data_offset_start": 180,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 39.27,
+        "level": "ATitle_9999"
+    },
+    {
+        "font_family": "ff1",
+        "text": "单位：  元项目本期发生额上期发生额人工费用56,535,991.1852,542,192.29股份支付46,863,536.4914,512,455.69运输费43,277,827.4433,790,368.03市场业务费60,692,410.2217,970,261.05业务招待费12,726,166.7110,775,781.43差旅费9,273,377.909,638,234.17产品质量保证金32,504,394.2825,055,569.67其他8,463,479.959,753,577.49合计270,337,184.17174,038,439.82其他说明：",
+        "bottom": 614.62,
+        "data_offset_end": 541,
+        "font_size": 36.0,
+        "left": 498.18,
+        "line_height": 0,
+        "data_offset_start": 189,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "BTitle_9999"
+    },
+    {
+        "font_family": "ff3",
+        "text": "53 、管理费用",
+        "bottom": 362.48,
+        "data_offset_end": 550,
+        "font_size": 42.0,
+        "left": 56.94,
+        "line_height": 0,
+        "data_offset_start": 542,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 39.27,
+        "level": "ATitle_9999"
+    },
+    {
+        "font_family": "ff1",
+        "text": "单位：  元项目本期发生额上期发生额人工费用342,649,501.36184,736,584.92股份支付127,284,557.8462,047,018.98管理税金8,065,773.43折旧摊销费140,625,284.951 17,053,573.86专业咨询服务费35,185,921.8520,939,795.46办公费用72,208,006.3847,228,713.23人力资源费1,590,227.581,367,095.91业务费用9,175,005.886,783,513.73车辆费用6,418,983.765,404,016.15研究开发费用1,340,657,473.481,254,840,092.03差旅费45,939,645.9819,897,944.22",
+        "bottom": 332.24,
+        "data_offset_end": 967,
+        "font_size": 36.0,
+        "left": 498.18,
+        "line_height": 0,
+        "data_offset_start": 551,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "BTitle_9999"
+    }
+]

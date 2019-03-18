@@ -1,0 +1,113 @@
+BUSINESS
+
+Generic
+
+(Brand) Name/
+
+Drug Code
+
+Durvalumab
+KN035
+
+Filing
+
+Status in
+China
+
+Phase 3
+Phase 3
+
+Company
+Astrazeneca
+Alphamab
+
+Date*
+2017/1/19
+2018/4/9
+
+Mechanism
+of Action
+Anti-PD-L1
+Anti-PD-L1
+
+Avelumab
+
+Merck
+
+Phase 3
+
+2018/6/25
+
+Anti-PD-L1
+
+Lead/Proposed
+
+Indication
+
+NSCLC
+MSI-H/dMMR CRC
+Gastric carcinoma
+Cholangiocarcinoma
+HNSCC
+
+Retail Price
+
+(RMB)
+
+N.A.
+N.A.
+
+N.A.
+
+NRDL/PRDL
+N.A.
+N.A.
+
+N.A.
+
+KGaA/
+Pfizer
+
+Source: Frost & Sullivan
+
+Notes:
+
+Abbreviation: NRDL = national reimbursement drug list of China; PRDL = provincial reimbursement drug list;
+
+“No”
+
+means that the drug is not list in the NRDL or the PRDL even though it is marketed.
+
+“N.A.” means, with respect to date, not applicable because the drug candidate is still in pre-clinical stage; with
+respect to retail price, not available, and with respect to NRDL/PRDL, not applicable because the drug
+candidate is not marketed yet.
+
+*
+
+for a marketed product, it refers to the NMPA approval date; for a clinical stage product, it refers to the
+date when the information about clinical trials is published for the first time (首次公示日期); for a product
+with NDA submitted and the NDA result pending, it refers to the date of NDA submission.
+
+COLLABORATION AGREEMENTS
+
+Collaboration with Eli Lilly
+
+Beginning in March 2015, we have entered into several agreements with Eli Lilly
+concerning the development and commercialization of various products. Each of
+the
+collaborations that we are currently participating in with Eli Lilly are described as follows:
+
+Exclusive License and Collaboration Agreement for China and Co-Development Agreement
+for IBI-301 and PD-1 (collectively, the “Lilly China Agreement”)
+
+The Lilly China Agreement, which was entered into in March 2015, governs the
+development and commercialization activities concerning (1) IBI-301, our Rituxan biosimilar,
+and (2) sintilimab (IBI-308), our PD-1 monoclonal antibody (collectively,
+the “China
+Products”) in the People’s Republic of China, including Hong Kong and Macau, but excluding
+Taiwan (solely for purposes of this “Collaboration Agreements – Collaboration with Eli Lilly”,
+“China”).
+
+– 280 –
+
+

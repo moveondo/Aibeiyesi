@@ -1,0 +1,51 @@
+FINANCIAL INFORMATION
+
+Development milestone revenue is recognized when we can conclude that it is highly
+probable that there will not be a subsequent reversal of a significant amount of such revenue.
+With respect to payment for services that are not due from customers until the development
+milestones are completed, a contract asset is recognized over the period in which such services
+are performed.
+
+License Fee Income
+
+We license our patented intellectual property or right to commercialize our products to
+customers. The consideration for licensing consists of a fixed element (the upfront payment)
+and variable elements (including, but not limited to, development milestones and sales-based
+royalties). The upfront fee is recognized as revenue when customers have the ability to use the
+underlying intellectual property of the licence. Development milestones are recognized as
+revenue when we conclude that it is highly probable that there will not be a subsequent reversal
+of a significant amount of such revenue. Sales-based royalties are not recognized until a
+customer starts selling products that are manufactured by using the licensed intellectual
+property or the right to commercialization.
+
+Research and Development Expenses
+
+Research and development expenses incurred on our drug candidate pipelines are
+capitalized and deferred only when we can demonstrate the technical feasibility of completing
+the intangible asset so that it will be available for use or sale, our intention to complete such
+intangible asset and our ability to use or sell such intangible asset, that such intangible asset
+will generate future economic benefits, the availability of resources to complete the pipeline
+and our ability to measure reliably the expenditure during the development. Research and
+development expenses which do not meet
+these criteria are expensed when incurred.
+Management will assess the progress of each research and development project and determine
+whether the criteria are met for capitalization. During the Track Record Period, all research and
+development expenses are expensed when incurred.
+
+Equity-settled Share-based Payment Transactions
+
+Equity-settled share-based payment to employees (including directors of the Company)
+are measured at the fair value of the equity instruments as of the grant date. The fair value
+determined at the grant date of the equity-settled share-based payment is expensed on a
+straight-line basis over the vesting period, based on our estimate of equity instruments that will
+eventually vest, with a corresponding increase in the share-based payment reserve. At the end
+of each reporting period, we review our estimates of the number of equity instruments expected
+to vest based on assessment of all relevant non-market vesting conditions. The impact of the
+revision of the original estimates, if any, is recognized in profit or loss such that the cumulative
+expense reflects the revised estimates, with a corresponding adjustment to the share based
+payment reserve. For share options that vest immediately at the date of grant, the fair value of
+the share options granted is expensed immediately to profit or loss.
+
+– 320 –
+
+

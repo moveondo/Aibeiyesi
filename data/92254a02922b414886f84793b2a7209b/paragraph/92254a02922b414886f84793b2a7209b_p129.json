@@ -1,0 +1,54 @@
+[
+    {
+        "font_family": "ff1",
+        "text": "欧菲科技股份有限公司  2017  年年度报告全文",
+        "bottom": 790.32,
+        "data_offset_end": 30,
+        "font_size": 36.0,
+        "left": 363.16,
+        "line_height": 0,
+        "data_offset_start": 6,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "BTitle_9999"
+    },
+    {
+        "font_family": "ff2",
+        "text": "129其中：优先股永续债资本公积3,284,541,670.444,635,761,507.44减：库存股190,923,250.00279,872,500.00其他综合收益专项储备盈余公积69,594,291.3969,594,291.39未分配利润65,442,080.84291,064,419.61所有者权益合计5,943,100,767.675,802,814,108.44负债和所有者权益总计16,340,013,496.3410,751,835,475.85",
+        "bottom": 51.72,
+        "data_offset_end": 320,
+        "font_size": 36.0,
+        "left": 525.18,
+        "line_height": 0,
+        "data_offset_start": 31,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "BTitle_9999"
+    },
+    {
+        "font_family": "ff4",
+        "text": "3 、合并利润表",
+        "bottom": 541.84,
+        "data_offset_end": 329,
+        "font_size": 42.0,
+        "left": 56.94,
+        "line_height": 0,
+        "data_offset_start": 321,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 39.27,
+        "level": "ATitle_9999"
+    },
+    {
+        "font_family": "ff1",
+        "text": "单位：元项目本期发生额上期发生额一、营业总收入33,791,031,433.6826,746,418,937.61其中：营业收入33,791,031,433.6826,746,418,937.61利息收入已赚保费手续费及佣金收入二、营业总成本32,804,238,320.3226,069,1 17,196.57其中：营业成本29,140,167,934.9523,676,459,571.98利息支出手续费及佣金支出退保金赔付支出净额提取保险合同准备金净额保单红利支出分保费用税金及附加94,079,532.1854,868,930.78销售费用270,337,184.17174,038,439.82管理费用2,130,193,283.321,734,632,842.46财务费用426,649,060.83332,414,71 1.52资产减值损失742,81 1,324.8796,702,700.01加：公允价值变动收益（损失以-81,439,800.02",
+        "bottom": 511.66,
+        "data_offset_end": 865,
+        "font_size": 36.0,
+        "left": 502.68,
+        "line_height": 0,
+        "data_offset_start": 330,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "BTitle_9999"
+    }
+]

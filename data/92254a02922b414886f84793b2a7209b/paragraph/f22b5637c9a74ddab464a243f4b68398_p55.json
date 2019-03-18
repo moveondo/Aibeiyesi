@@ -1,0 +1,74 @@
+[
+    {
+        "data-offset-end": 6,
+        "pageid": 55,
+        "top": 153,
+        "font-id": "f8",
+        "level": "Level",
+        "left": 1397,
+        "text": "董事會報告",
+        "font-size": 51,
+        "color": "rgba(190,146,91,1)",
+        "data-offset-start": 2
+    },
+    {
+        "data-offset-end": 50,
+        "pageid": 55,
+        "top": 344,
+        "font-id": "f10",
+        "level": "Level",
+        "left": 127,
+        "text": "以下簡圖說明於最後實際可行日期根據合約安排由天津嘉睿流向融創房地產的目標股份經濟利益：",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 8
+    },
+    {
+        "data-offset-end": 66,
+        "pageid": 55,
+        "top": 1536,
+        "font-id": "f11",
+        "level": "Level",
+        "left": 127,
+        "text": "(i)獨家技術諮詢及服務協議",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 52
+    },
+    {
+        "data-offset-end": 351,
+        "pageid": 55,
+        "top": 1626,
+        "font-id": "f10",
+        "level": "Level",
+        "left": 195,
+        "text": "融創房地產及天津嘉睿已訂立獨家技術諮詢及服務協議，據此，天津嘉睿同意委聘融創房地產作為其獨家諮詢及服務供應商。因此，融創房地產將就（其中包括）下列方面向天津嘉睿提供建議及推薦意見：(i)有關天津嘉睿管理及經營的諮詢服務；(ii)有關市場研究及營銷策略的諮詢服務；(iii)有關處理器維護及網絡平台運營策略的技術諮詢服務；(iv)有關軟件產品研發及系統維護的服務；(v)向天津嘉睿出租電腦及其他運營設備；(vi)有關品牌推廣及管理的服務；(vii)授權天津嘉睿在其業務過程中按非獨家基準使用融創房地產的所有知識產權；及(viii)提供人力資源支持及相關技術人員。",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 68
+    },
+    {
+        "data-offset-end": 365,
+        "pageid": 55,
+        "top": 2303,
+        "font-id": "f8",
+        "level": "Level",
+        "left": 1412,
+        "text": "融創中國控股有限公司53",
+        "font-size": 24,
+        "color": "rgba(190,146,91,1)",
+        "data-offset-start": 353
+    },
+    {
+        "data-offset-end": 374,
+        "pageid": 55,
+        "top": 2330,
+        "font-id": "f9",
+        "level": "Level",
+        "left": 1504,
+        "text": "2017年度報告",
+        "font-size": 24,
+        "color": "rgba(101,98,98,1)",
+        "data-offset-start": 367
+    }
+]

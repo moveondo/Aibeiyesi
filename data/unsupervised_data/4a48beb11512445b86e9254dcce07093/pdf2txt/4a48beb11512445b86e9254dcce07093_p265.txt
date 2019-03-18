@@ -1,0 +1,35 @@
+BUSINESS
+
+The results of our studies also demonstrate the similarity in the PK profiles between
+IBI-301 and rituximab (MabThera/Rituxan). As shown in the figure below,
+there are no
+statistical differences in drug concentration between IBI-301 dosed animals and rituximab
+(MabThera/Rituxan) dosed animals at the same time points throughout the study. These results
+indicate the similarity in the PK profile between IBI-301 and rituximab (MabThera/Rituxan).
+
+Similarity in PK profiles for IBI-301 and rituximab
+
+(MabThera/Rituxan) in cynomolgus monkeys
+
+Step 3: Clinical Pharmacology Study
+
+Our IND application for IBI-301 was approved by the NMPA in September 2014 in
+accordance with the biosimilar regulatory development pathway based on the demonstrated
+similarity to the reference product in the CMC and pre-clinical studies. We are conducting a
+multi-center clinical trial to assess PK/PD, safety, tolerance and immunogenicity of IBI-301 in
+CD20 positive B-cell
+lymphoma patients who obtained complete remission or uncertain
+complete remission after the prior therapy. The primary endpoints of this study are AUC0-inf
+(the area under the curve from zero to infinity, which is the definite integral in a plot of drug
+concentration in blood plasma vs. time) and AUC0-t. As of June 7, 2018, 160 patients at 15 trial
+sites are enrolled in the trial and 142 of these patients have completed trial procedures. We
+expect to complete this clinical pharmacology study in the second quarter of 2019.
+
+We have not seen unexpected adverse events with IBI-301 in this study. Safety data from
+these small and short clinical pharmacology studies aimed at establishing bioequivalence are
+not useful, representative or material. The useful or material safety data set only comes from
+the large and lengthy clinical confirmation studies at Step 4.
+
+– 256 –
+
+

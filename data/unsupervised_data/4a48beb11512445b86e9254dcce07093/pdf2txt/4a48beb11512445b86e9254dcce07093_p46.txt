@@ -1,0 +1,70 @@
+“AUC0-t”
+
+“auto-immunology”
+
+“B cell”
+
+“bioequivalence”
+
+“bioequivalents”
+
+“binding kinetics”
+
+“biosimilars”
+
+GLOSSARY OF TECHNICAL TERMS
+
+area under the concentration-time curve from the first
+time point measured (0) to the last time point measured
+(t)
+
+the branch of immunology that studies the misdirected
+immune response that occurs when the immune system
+goes awry and attacks the body itself. Autoimmunity is
+present
+in everyone and is usually
+harmless. However, autoimmunity can cause a broad
+range of human illnesses, known collectively as
+autoimmune diseases
+
+to some extent
+
+a type of white blood cell that differs from other types of
+lymphocytes by expressing B cell
+receptors on its
+surface, and responsible for producing antibodies
+
+the absence of a significant difference in the rate and
+extent to which the active ingredient or active molecular
+portion in pharmaceutical equivalents or pharmaceutical
+alternatives becomes available at the site of drug action
+when administered
+
+the
+drugs having the equivalent bioavailability,
+equivalent rates and extents of absorption of parent drugs
+or active metabolites from a dosage form into the
+systemic circulation.
+
+i.e.
+
+the time in which a drug and its target associate and
+dissociate
+
+biological drugs which are designed to have the same
+amino acid sequence and the equivalent (but not identical
+or clinical better) active properties as compared to, and
+which are not necessarily clinically interchangeable with,
+reference originator drugs that have already received
+marketing approvals, not to be confused with such other
+terms as “biobetters” (which are clinically better than
+reference originator drugs), “biogenerics” (which are
+clinically interchangeable with reference originator
+drugs) or “follow-on biologics” (which may or may not
+include biosimilars) even though these terms are used
+interchangeably under certain regulatory regimes and in
+certain contexts
+
+– 37 –
+
+

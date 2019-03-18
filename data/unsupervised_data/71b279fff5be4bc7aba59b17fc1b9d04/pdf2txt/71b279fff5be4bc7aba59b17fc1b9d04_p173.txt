@@ -1,0 +1,62 @@
+REGULATIONS
+
+•
+
+•
+
+•
+
+•
+
+a determination by the FDA within 60 days of its receipt of an NDA or BLA to file the
+application for review;
+
+satisfactory completion of an FDA inspection of the manufacturing facility or facilities at
+which the product, or components thereof, are produced to assess compliance with cGMP;
+
+FDA audits of some clinical trial sites to ensure compliance with GCPs; and
+
+FDA review and approval of the NDA or licensing of the BLA.
+
+toxicity,
+
+tests include laboratory evaluations of product chemistry,
+
+Once a product candidate is identified for development, it enters the preclinical testing stage.
+formulation and
+Preclinical
+stability, as well as animal studies. An IND sponsor must submit the results of the preclinical tests,
+together with manufacturing information, analytical data and any available clinical data or literature,
+to the FDA as part of the IND. The sponsor must also include a protocol detailing, among other things,
+the objectives of the initial clinical trial, dosing procedures, subject selection and exclusion criteria,
+the parameters to be used in monitoring safety and the effectiveness criteria to be evaluated if the
+initial clinical trial lends itself to an efficacy evaluation. Some preclinical testing may continue even
+after the IND is submitted. The IND automatically becomes effective 30 days after receipt by the FDA,
+unless the FDA raises concerns or questions related to the proposed clinical trial and places the trial
+on a clinical hold within that 30-day time period. In such a case, the IND sponsor and the FDA must
+resolve any outstanding concerns before the clinical
+trial can begin. Clinical holds also may be
+imposed by the FDA at any time before or during clinical
+trials due to safety concerns or
+noncompliance, and may be imposed on all products within a certain class of products. The FDA also
+can impose partial clinical holds, for example, prohibiting the initiation of clinical trials of a certain
+duration or for a certain dose.
+
+All clinical trials must be conducted under the supervision of one or more qualified investigators
+that all research
+in accordance with GCP regulations. These regulations include the requirement
+subjects provide informed consent in writing before their participation in any clinical trial. Further,
+an IRB, must review and approve the plan for any clinical trial before it commences at any institution,
+and the IRB must conduct continuing review and reapprove the study at least annually. An IRB
+considers, among other things, whether the risks to individuals participating in the clinical trial are
+minimized and are reasonable in relation to anticipated benefits. The IRB also approves the
+information regarding the clinical trial and the consent form that must be provided to each clinical trial
+subject or his or her legal representative and must monitor the clinical trial until completed.
+
+Each new clinical protocol and any amendments to the protocol must be filed with the FDA as
+
+an IND amendment, and submitted to the IRBs for approval.
+
+— 167 —
+
+

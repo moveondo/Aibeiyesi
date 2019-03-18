@@ -1,0 +1,78 @@
+“PD”
+
+“PD-1”
+
+“PD-L1”
+
+“PD-L2”
+
+“pharmacodynamics”
+
+GLOSSARY
+
+progressive disease
+
+programmed cell death protein 1
+
+PD-1 ligand 1, the principal ligand of PD-1.
+
+PD-1 ligand 2, a cell surface protein expressed by
+activated macrophages and dendritic cells that binds
+PD-1 on T cells to inhibit immune responses
+
+the study of the biochemical and physiologic effects of
+drugs (especially pharmaceutical drugs). The effects can
+include those manifested within animals
+(including
+humans), microorganisms, or combinations of organisms
+(for example, infection)
+
+“pharmacokinetics” or “PK”
+
+a branch of pharmacology dedicated to determining the
+fate of substances administered to a living organism
+
+“PI”
+
+“placebo”
+
+“plasma cells”
+
+Principal investigators
+
+a substance or treatment with no active therapeutic effect,
+commonly used in clinical
+trials as the administered
+substance for the control group
+
+also called plasma B cells, plasmocytes, plasmacytes, or
+effector B cells, are white blood cells that secrete large
+volumes of antibodies. They are transported by the blood
+plasma and the lymphatic system
+
+“plasmablasts”
+
+immature plasma cells
+
+“pneumonia”
+
+“PR”
+
+“proteins”
+
+“proteinuria”
+
+an inflammatory condition of the lung affecting primarily
+the small air sacs known as alveoli
+
+partial response
+
+large biological molecules or macromolecules, consisting
+of one or more long chains of amino acid residues
+
+the presence of excess proteins in the urine, which is
+suggestive of illness
+
+– 43 –
+
+

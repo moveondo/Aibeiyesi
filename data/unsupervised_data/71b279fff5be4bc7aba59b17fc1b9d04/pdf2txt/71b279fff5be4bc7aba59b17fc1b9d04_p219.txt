@@ -1,0 +1,85 @@
+BUSINESS
+
+At the time of the data cutoff, 51 patients were evaluable for response, excluding those with less
+than 12 weeks of follow-up (n=13) and those with IgM less than 5 g/L at baseline (n=3). Of the 51
+patients evaluable for efficacy, 12 were treatment naïve and 39 patients were relapsed or refractory to
+prior treatment. The overall response rate, or ORR, was 92% (47/51), and the major response rate was
+80%, with 43 percent of patients achieving a very good partial responses, or VGPR, (defined as a
+>90% reduction in baseline IgM levels and improvement of extramedullary disease by CT scan). The
+12-month progression-free survival (PFS) was estimated at 91%, and the median PFS had not yet been
+reached with 16.9 months median follow-up. Median time to response (partial response or higher) was
+88 days (range, 77-279). The median IgM decreased from 32.5 g/L (range, 5.3-88.5) at baseline to 4.9
+g/L (range, 0.1-57). Of 22 patients with hemoglobin <10 g/dL at baseline, the median increased from
+8.7 g/dL (range, 6.3-9.8) to 13.8 g/dL (range, 7.7-15.8). While the presence of MYD88L265P appears
+to be associated with response and depth of response with zanubrutinib treatment, significant activity
+was also observed in patients with MYD88WT (ORR 83%, major response rate 50%, VGPR rate 17%).
+
+The table below shows the progression-free survival data of WM patients treated with
+
+zanubrutinib:
+
+Progression-Free Survival in Evaluable Patients (n=51)
+
+)
+
+%
+
+(
+ 
+l
+a
+v
+i
+v
+r
+u
+S
+ 
+e
+e
+r
+f
+-
+n
+o
+i
+s
+s
+e
+r
+g
+o
+r
+P
+ 
+f
+o
+y
+t
+i
+l
+i
+
+ 
+
+b
+a
+b
+o
+r
+P
+
+Chronic Lymphocytic Leukemia / Small Lymphocytic Lymphoma
+
+On June 14, 2017 at the 14th International Conference on Malignant Lymphoma in Lugano,
+Switzerland, we presented the data in patients with CLL/SLL from the same trial. As of the data cutoff
+of March 31, 2017, 69 patients with CLL or SLL (18 treatment naïve, or TN, 51 R/R) were enrolled
+in the trial.
+
+Zanubrutinib was shown to be generally well-tolerated in CLL/SLL. The most frequent AEs
+(≥10%) of any attribution were petechiae/purpura/contusion (46%), fatigue (29%), upper respiratory
+tract infection (28%), cough (23%), diarrhea (22%), headache (19%), hematuria (15%), nausea (13%),
+
+— 213 —
+
+

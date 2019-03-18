@@ -1,0 +1,74 @@
+“bi-specific”
+
+“BLA”
+
+“C3a”
+
+“carcinoma”
+
+“CD8”
+
+“CD8/Treg”
+
+“CD20”
+
+“CD47”
+
+“CD155”
+
+“CDC”
+
+“cell line”
+
+“cellular lysis”
+
+GLOSSARY OF TECHNICAL TERMS
+
+antibody that combines two antigen-recognizing elements
+into a single construct, able to bind to two different
+antigens at the same time
+
+biologic license application
+
+a part of the complement protein known as complement
+component 3
+
+a cancer that begins in the lining layer (epithelial cells) of
+organs
+
+a transmembrane glycoprotein that serves as a co-
+receptor for the T-cell receptor
+
+a proximate measure of blockade of PD-1 action in
+tumors, which is the ratio of cytotoxic T lymphocytes
+(CD8) to Treg lymphocytes. An increase in the CD8/Treg
+ratio is a beneficial change in the immune status within
+the tumors
+
+a cell surface protein widely expressed on immune
+system B cells
+
+cluster of differentiation 47, also known as integrin
+associated protein (IAP), a membrane protein which
+provides a “do not eat me” signal to macrophages
+
+a transmembrane glycoprotein in the immunoglobulin
+superfamily
+
+complement-dependent cytotoxicity
+
+a population of cells which descend from a single cell and
+contain the same genetic makeup, thereby producing the
+same proteins. The productivity of a cell line determines
+the cost of manufacturing and the quality of a cell line is
+directly related to the quality of the relevant biologics
+
+technique used in laboratories to break open cells and
+purify or further study their contents. Lysis refers to the
+breaking down of the membrane of a cell, often by viral,
+enzymic, or osmotic mechanisms that compromise its
+integrity
+
+– 38 –
+
+

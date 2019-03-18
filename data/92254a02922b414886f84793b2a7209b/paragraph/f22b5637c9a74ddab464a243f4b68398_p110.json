@@ -1,0 +1,98 @@
+[
+    {
+        "data-offset-end": 84,
+        "pageid": 110,
+        "top": 804,
+        "font-id": "f11",
+        "level": "Level",
+        "left": 144,
+        "text": "償還借貸",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 81
+    },
+    {
+        "data-offset-end": 99,
+        "pageid": 110,
+        "top": 894,
+        "font-id": "f11",
+        "level": "Level",
+        "left": 144,
+        "text": "已付利息",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 96
+    },
+    {
+        "data-offset-end": 283,
+        "pageid": 110,
+        "top": 362,
+        "font-id": "f10",
+        "level": "Level",
+        "left": 1279,
+        "text": "截至十二月三十一日止年度",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 272
+    },
+    {
+        "data-offset-end": 432,
+        "pageid": 110,
+        "top": 805,
+        "font-id": "f12",
+        "level": "Level",
+        "left": 1277,
+        "text": "(64,307,378)(51,043,865)",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 408
+    },
+    {
+        "data-offset-end": 474,
+        "pageid": 110,
+        "top": 895,
+        "font-id": "f12",
+        "level": "Level",
+        "left": 1292,
+        "text": "(4,006,299)(3,698,520)",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 452
+    },
+    {
+        "data-offset-end": 774,
+        "pageid": 110,
+        "top": 2192,
+        "font-id": "f11",
+        "level": "Level",
+        "left": 127,
+        "text": "第109至208頁之附註為此等綜合財務報表的組成部分。",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 748
+    },
+    {
+        "data-offset-end": 789,
+        "pageid": 110,
+        "top": 2303,
+        "font-id": "f7",
+        "level": "Level",
+        "left": 39,
+        "text": "108融創中國控股有限公司",
+        "font-size": 33,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 776
+    },
+    {
+        "data-offset-end": 798,
+        "pageid": 110,
+        "top": 2330,
+        "font-id": "f9",
+        "level": "Level",
+        "left": 127,
+        "text": "2017年度報告",
+        "font-size": 24,
+        "color": "rgba(101,98,98,1)",
+        "data-offset-start": 791
+    }
+]

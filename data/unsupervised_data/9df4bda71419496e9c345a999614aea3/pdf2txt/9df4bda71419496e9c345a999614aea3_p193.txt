@@ -1,0 +1,84 @@
+BUSINESS
+
+Source: Internal technical report
+
+MFI= mean fluorescence intensity. PD-1 predominantly expressed on activated T lymphocytes. Dose-
+dependent JS001 induced PD1 internalization was observed in activated T cells of human PBMC. PD-1
+internalization were confirmed with CypHer5E-labeled JS001 and counter-stained with a PE-conjugated
+non-competing PD-1 mAb clone MIH4, which shows surface PD-1 level. In the left chart, a negative
+correlation was observed between CypHer5E fluorescence intensity (blue line) and surface PD-1 level after
+JS001 treatment (red line). In the right chart, JS001-induced PD-1 internalization (blue line) increased steadily
+over time, up to 6 hours (the longest time tested) following antibody incubation, while cell surface PD-1 level
+(red line), conversely, declined over time.
+
+JS001 binds PD-1 with high affinity and specifically blocks interactions of PD-1 with its
+ligands, PD-L1 and PD-L2. JS001 binds PD-1 expressed on activated T lymphocyte to promote
+T lymphocyte activation, proliferation, cytokine release and killing of tumor cells. The
+limitation of JS001 is that it may also induce autoimmune adverse events, including hyper- or
+hypo-thyroidism, pancreatitis,
+the
+autoimmune adverse events may be managed by pausing or stopping JS001 and timely steroid
+treatment. Administration of JS001 will affect PD-1-PD-L1/PD-L2 function in normal
+non-cancerous cells and might cause autoimmune adverse events. The usage of JS001 is
+intended to be limited to cancer patients.
+
+lung disease, diabetes and colitis. However,
+
+interstitial
+
+Clinical Trials
+
+As of the Latest Practicable Date, we were conducting a total of 18 clinical trials on JS001
+monotherapies and combination therapies in China. PIs involved in such clinical trials are
+mainly researchers and clinicians from reputable research institutes and hospitals in various
+provinces in China. Our Phase I clinical trial of JS001 in the U.S. involves 12 participating
+clinical centers in the U.S.
+
+The following table sets out our management team responsible for our conduct of clinical
+
+trials, including results coordination and scrutiny of multi-center results:
+
+Name
+
+Position
+
+Responsibility
+
+Li Ning(1)
+Yao Sheng(1)
+
+Chief Executive Officer
+Senior vice president
+
+Overall supervision
+Translational medicine and clinical trials in
+
+Gu Juanhong(1)
+
+Deputy general manager
+
+Clinical trials in China and the Asia-Pacific
+
+Jiang Yinrui(2)
+
+Executive Medical Director
+
+Clinical trials execution
+
+Region
+
+the U.S.
+
+Notes:
+
+(1)
+
+See “Directors, Supervisors and Senior Management” for further information.
+
+(2) Ms. Jiang graduated from Fudan University with a master’s degree in clinical medicine and worked as
+a senior medical manager at Sanofi-Aventis (China) Investment Co., Ltd. and PD Medical Director at
+Roche (China) Holding Ltd. before joining us.
+
+– 187 –
+
+

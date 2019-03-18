@@ -1,0 +1,41 @@
+[
+    {
+        "font_family": "ff1",
+        "text": "欧菲科技股份有限公司  2017  年年度报告全文",
+        "bottom": 790.32,
+        "data_offset_end": 30,
+        "font_size": 36.0,
+        "left": 363.16,
+        "line_height": 0,
+        "data_offset_start": 6,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "Text_9999"
+    },
+    {
+        "font_family": "ff2",
+        "text": "25",
+        "bottom": 51.72,
+        "data_offset_end": 34,
+        "font_size": 36.0,
+        "left": 529.68,
+        "line_height": 0,
+        "data_offset_start": 31,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "Text_9999"
+    },
+    {
+        "font_family": "ff2",
+        "text": "B ．   触控显示：前沿触控技术储备深厚，迎接柔性触控庞大市场公司一直以来围绕触控渗透上下游产品布局， 业务覆盖盖板玻璃、 触控 sensor、  film和glass电容式触摸屏和全贴合 LCM模组等，涵盖产业链上除了显示面板外的所有环节，应用领域已从消费电子的手机、平板、笔记本电脑延伸到汽车电子、工业控制和穿戴设备等诸多领域。公司具备业界领先的垂直一体化能力，拥有前沿的触控技术储备，在消费电子终端竞争日趋激烈的大背景下，不仅增强产品性价比和综合竞争力，更提高了服务客户的能力和响应速度。以 OLED为代表的柔性显示技术已然成为产业新趋势，公司已经做好 3D玻璃、薄膜触控等各项技术储备工作。 公司集中优势资源提早研发布局柔性薄膜触控感应层、  3D触控感应层、 3D全贴合等产品， 国际大客户业务良率稳步提升，盈利能力持续改善， 待终端需求大规模释放， 公司的触控显示业务将迎接柔性触控庞大的市场空间， 有望带来新一轮的快速增长。同时， 公司布局 Super Hover触控技术、IFS一体屏技术、Force Touch触控技术和静电触觉反馈触控技术，拓展了智能穿戴触控产品和车载工控触控产品领域，为公司后续发展提供技术储备和支持。",
+        "bottom": 538.18,
+        "data_offset_end": 553,
+        "font_size": 48.0,
+        "left": 534.72,
+        "line_height": 0,
+        "data_offset_start": 35,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 44.88,
+        "level": "ATitle_9999"
+    }
+]

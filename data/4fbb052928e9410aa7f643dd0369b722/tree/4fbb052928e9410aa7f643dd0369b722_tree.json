@@ -1,0 +1,129 @@
+{
+    "root": true,
+    "children": [
+        {
+            "left": 181,
+            "top": 950,
+            "text": "1、业绩压倒竞争对手，销量每月环比增长超过100%；",
+            "pageid": 13,
+            "font-size": 36,
+            "font-id": "f14",
+            "data-offset-start": 316,
+            "data-offset-end": 342,
+            "color": "rgba(8,65,97,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 181,
+            "top": 994,
+            "text": "2、汽车出租量超过80%；",
+            "pageid": 13,
+            "font-size": 36,
+            "font-id": "f14",
+            "data-offset-start": 344,
+            "data-offset-end": 357,
+            "color": "rgba(8,65,97,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 181,
+            "top": 1037,
+            "text": "3、电话呼入超过28000次/天；",
+            "pageid": 13,
+            "font-size": 36,
+            "font-id": "f14",
+            "data-offset-start": 359,
+            "data-offset-end": 376,
+            "color": "rgba(8,65,97,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 181,
+            "top": 1080,
+            "level": "Level_0",
+            "text": "4、车辆规模增长18倍",
+            "pageid": 13,
+            "font-size": 36,
+            "font-id": "f14",
+            "data-offset-start": 378,
+            "children": [
+                {
+                    "left": 1232,
+                    "top": 1170,
+                    "text": "（1）存在有力证据证明与客户之间达成了协议",
+                    "pageid": 19,
+                    "font-size": 42,
+                    "font-id": "f6",
+                    "data-offset-start": 243,
+                    "data-offset-end": 263,
+                    "color": "rgba(8,65,97,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 1232,
+                    "top": 1220,
+                    "text": "（2）广告已按协议约定的投放媒介类型、投放",
+                    "pageid": 19,
+                    "font-size": 42,
+                    "font-id": "f6",
+                    "data-offset-start": 268,
+                    "data-offset-end": 288,
+                    "color": "rgba(8,65,97,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 1232,
+                    "top": 1371,
+                    "text": "（3）与交易相关的经济利益能够流入本公司",
+                    "pageid": 19,
+                    "font-size": 42,
+                    "font-id": "f6",
+                    "data-offset-start": 396,
+                    "data-offset-end": 415,
+                    "color": "rgba(8,65,97,1)",
+                    "level": "Level_1"
+                },
+                {
+                    "left": 1232,
+                    "top": 1422,
+                    "level": "Level_1",
+                    "text": "（4）收入的金额能够可靠地计量",
+                    "pageid": 19,
+                    "font-size": 42,
+                    "font-id": "f6",
+                    "data-offset-start": 417,
+                    "data-offset-end": 431,
+                    "color": "rgba(8,65,97,1)",
+                    "children": [
+                        {
+                            "left": 100,
+                            "top": 686,
+                            "text": "一、46岁的江南春经历过25年商界起伏，带领分众成为成熟的一流企业，只要他在一线继续领导，分众不会出大问题",
+                            "pageid": 37,
+                            "font-size": 60,
+                            "font-id": "f3",
+                            "data-offset-start": 20,
+                            "data-offset-end": 75,
+                            "color": "rgba(8,65,97,1)",
+                            "level": "Level_4"
+                        },
+                        {
+                            "left": 100,
+                            "top": 1118,
+                            "text": "二、分众只要不再横向收购，专注于现有主业，看好企业长期竞争力",
+                            "pageid": 37,
+                            "font-size": 60,
+                            "font-id": "f3",
+                            "data-offset-start": 77,
+                            "data-offset-end": 107,
+                            "color": "rgba(8,65,97,1)",
+                            "level": "Level_4"
+                        }
+                    ]
+                }
+            ],
+            "color": "rgba(8,65,97,1)",
+            "data-offset-end": 389
+        }
+    ]
+}

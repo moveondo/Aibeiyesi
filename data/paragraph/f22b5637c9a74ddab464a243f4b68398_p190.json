@@ -1,0 +1,74 @@
+[
+    {
+        "data-offset-end": 9,
+        "pageid": 190,
+        "top": 153,
+        "font-id": "f8",
+        "level": "Level",
+        "left": 127,
+        "text": "綜合財務報表附註",
+        "font-size": 51,
+        "color": "rgba(222,129,14,1)",
+        "data-offset-start": 2
+    },
+    {
+        "data-offset-end": 69,
+        "pageid": 190,
+        "top": 699,
+        "font-id": "f13",
+        "level": "Level",
+        "left": 280,
+        "text": "就下列各項作出調整：",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 60
+    },
+    {
+        "data-offset-end": 259,
+        "pageid": 190,
+        "top": 1509,
+        "font-id": "f13",
+        "level": "Level",
+        "left": 280,
+        "text": "營運資金變動",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 254
+    },
+    {
+        "data-offset-end": 379,
+        "pageid": 190,
+        "top": 2303,
+        "font-id": "f7",
+        "level": "Level",
+        "left": 39,
+        "text": "188融創中國控股有限公司",
+        "font-size": 33,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 366
+    },
+    {
+        "data-offset-end": 388,
+        "pageid": 190,
+        "top": 2330,
+        "font-id": "f9",
+        "level": "Level",
+        "left": 127,
+        "text": "2017年度報告",
+        "font-size": 24,
+        "color": "rgba(101,98,98,1)",
+        "data-offset-start": 381
+    },
+    {
+        "data-offset-end": 438,
+        "pageid": 190,
+        "top": 1467,
+        "font-id": "f14",
+        "level": "Level",
+        "left": 1155,
+        "text": "30",
+        "font-size": 24,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 437
+    }
+]

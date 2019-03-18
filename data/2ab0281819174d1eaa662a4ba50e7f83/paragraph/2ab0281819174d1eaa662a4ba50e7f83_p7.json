@@ -1,0 +1,41 @@
+[
+    {
+        "line_height": 0,
+        "font_family": "ff1",
+        "bottom": 790.32,
+        "text": "美的集团股份有限公司  2017  年年度报告7",
+        "font_size": 36.0,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "left": 381.07,
+        "data_offset_end": 31,
+        "data_offset_start": 6,
+        "level": "BTitle_9999",
+        "height": 33.66
+    },
+    {
+        "line_height": 0,
+        "font_family": "ff1",
+        "bottom": 748.66,
+        "text": "释义",
+        "font_size": 63.84,
+        "text_shadow": "-0.015em 0 rgb(0,0,0),0 0.015em rgb(0,0,0),0.015em 0 rgb(0,0,0),0 -0.015em rgb(0,0,0)",
+        "left": 281.59,
+        "data_offset_end": 35,
+        "data_offset_start": 32,
+        "level": "ATitle_9999",
+        "height": 59.6904
+    },
+    {
+        "line_height": 0,
+        "font_family": "ff1",
+        "bottom": 6.6,
+        "text": "释义项指释义内容公司、本公司、美的集团或本集团指美的集团股份有限公司美的控股指美的控股有限公司小天鹅指无锡小天鹅股份有限公司东芝指东芝株式会社（ TOSHIBA CORPORATION）东芝家电或  TLSC指东芝生活电器株式会社（ Toshiba Lifestyle Products &amp;Services Corporation ）库卡集团、库卡或  KUKA  集团指KUKA   AktiengesellschaftSMCServotronix  及其子公司MECCA指MECCA  Intern ational (BVI) Limited报告期指2017  年 1月1 日至  2017 年12 月31 日",
+        "font_size": 36.0,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "left": 95.989,
+        "data_offset_end": 392,
+        "data_offset_start": 36,
+        "level": "BTitle_9999",
+        "height": 33.66
+    }
+]

@@ -1,0 +1,187 @@
+{
+    "root": true,
+    "children": [
+        {
+            "left": 606,
+            "top": 330,
+            "text": "1、公司优势：技术及成本优势为公司立足根基..............................................5",
+            "pageid": 2,
+            "font-size": 31,
+            "font-id": "f2",
+            "data-offset-start": 14,
+            "data-offset-end": 82,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 606,
+            "top": 596,
+            "text": "2、同业对比：力战海内外，宁德时代保持独特优势.....................................11",
+            "pageid": 2,
+            "font-size": 31,
+            "font-id": "f2",
+            "data-offset-start": 349,
+            "data-offset-end": 411,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 606,
+            "top": 808,
+            "text": "3、历史业绩回顾：营收3年增长23倍，规模效应带动净利率逆向上涨.......18",
+            "pageid": 2,
+            "font-size": 31,
+            "font-id": "f2",
+            "data-offset-start": 605,
+            "data-offset-end": 650,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 606,
+            "top": 1022,
+            "text": "4、出货预测：电池出货全球第一，未来市占率有望进一步提升....................22",
+            "pageid": 2,
+            "font-size": 31,
+            "font-id": "f2",
+            "data-offset-start": 873,
+            "data-offset-end": 923,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 606,
+            "top": 1234,
+            "text": "5、公司1650亿是否可合理？为何认为2025市值为2100-2200亿？...........24",
+            "pageid": 2,
+            "font-size": 31,
+            "font-id": "f2",
+            "data-offset-start": 1143,
+            "data-offset-end": 1198,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 606,
+            "top": 1393,
+            "text": "6、盈利预测及投资建议...............................................................................25",
+            "pageid": 2,
+            "font-size": 31,
+            "font-id": "f2",
+            "data-offset-start": 1340,
+            "data-offset-end": 1432,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 606,
+            "top": 1447,
+            "text": "7、风险提示.................................................................................................26",
+            "pageid": 2,
+            "font-size": 31,
+            "font-id": "f2",
+            "data-offset-start": 1434,
+            "data-offset-end": 1539,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 606,
+            "top": 221,
+            "text": "1、公司优势：技术及成本优势为公司立足根基",
+            "pageid": 5,
+            "font-size": 36,
+            "font-id": "f4",
+            "data-offset-start": 9,
+            "data-offset-end": 29,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 606,
+            "top": 1815,
+            "level": "Level_0",
+            "text": "2、同业对比：力战海内外，宁德时代保持独特优势",
+            "pageid": 11,
+            "font-size": 36,
+            "font-id": "f4",
+            "data-offset-start": 605,
+            "children": [
+                {
+                    "left": 362,
+                    "top": 1972,
+                    "text": "一、全球内优先采购，应用于MEB平台的动力电池企业。",
+                    "pageid": 13,
+                    "font-size": 27,
+                    "font-id": "f1",
+                    "data-offset-start": 1064,
+                    "data-offset-end": 1091,
+                    "color": "rgba(0,0,0,1)",
+                    "level": "Level_1"
+                }
+            ],
+            "color": "rgba(0,0,0,1)",
+            "data-offset-end": 627
+        },
+        {
+            "left": 606,
+            "top": 2158,
+            "text": "3、历史业绩回顾：营收3年增长23倍，规模效应带动净利率逆向上涨",
+            "pageid": 18,
+            "font-size": 36,
+            "font-id": "f4",
+            "data-offset-start": 540,
+            "data-offset-end": 576,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 606,
+            "top": 865,
+            "text": "4、出货预测：电池出货全球第一，未来市占率有望进一步提升",
+            "pageid": 22,
+            "font-size": 36,
+            "font-id": "f4",
+            "data-offset-start": 193,
+            "data-offset-end": 220,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 606,
+            "top": 881,
+            "text": "5、公司1650亿是否可合理？为何认为2025市值为2100-2200亿？",
+            "pageid": 24,
+            "font-size": 36,
+            "font-id": "f4",
+            "data-offset-start": 137,
+            "data-offset-end": 179,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 606,
+            "top": 2223,
+            "text": "6、盈利预测及投资建议",
+            "pageid": 25,
+            "font-size": 36,
+            "font-id": "f4",
+            "data-offset-start": 767,
+            "data-offset-end": 777,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_0"
+        },
+        {
+            "left": 606,
+            "top": 475,
+            "text": "7、风险提示",
+            "pageid": 26,
+            "font-size": 36,
+            "font-id": "f4",
+            "data-offset-start": 255,
+            "data-offset-end": 260,
+            "color": "rgba(0,0,0,1)",
+            "level": "Level_0"
+        }
+    ]
+}

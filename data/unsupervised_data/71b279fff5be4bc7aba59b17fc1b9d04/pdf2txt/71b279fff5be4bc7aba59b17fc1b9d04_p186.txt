@@ -1,0 +1,63 @@
+REGULATIONS
+
+CDE Guideline on PD-1/L1 NDA
+
+on
+
+recurrent
+
+(抗PD-1/PD-L1單抗品種申報上市的資料數據基本要求)
+
+In addition to the programs and proposals above, the CDE has recently stated that it will permit
+applicants for PD-1/L1 agents to submit data on a rolling basis based on the current high unmet
+medical need for PD-1/L1 agents. In February 2018, the CDE released the Guideline on the Basic
+Requirements of Information and Data for NDA Submissions of anti-PD-1/L1 Monoclonal Antibody
+Products
+refractory
+advanced cancers without standard-of-care therapies. Under the guideline, the sponsor must have a
+pre-NDA meeting with the CDE regarding the data and the NDA submission. The CDE will permit the
+following submission for these applicants: (1) an initial NDA submission with full preliminary safety
+data and effectiveness data, including the results of at least two independent therapeutic efficacy
+assessments of all patients who are currently enrolled pursuant to all of the protocol’s requirements;
+(2) during the CDE’s substantive technical review of the NDA, submission on a rolling basis of
+follow-up safety and effectiveness data from at least six months from the time of the last enrolled
+patient showing the duration of the response; and (3) submission of all efficacy and safety data as
+provided for under the protocol before final approval is granted by the CDA. Sponsors may also apply
+for priority review and approval for their NDA to accelerate the progress. If granted, priority status
+will be applied to various stages of the approval process,
+including testing, manufacturing site
+inspection, technical review, and clinical site inspection.
+
+and
+
+Clinical Trials and Marketing Approval
+
+Upon completion of pre-clinical studies, a sponsor typically needs to conduct clinical trials in
+China for registering a new drug in China. The materials required for this application and the data
+requirements are determined by the registration category. The CDA has taken a number of steps to
+increase efficiency for approving CTAs, and it has also significantly increased monitoring and
+enforcement of GCP to ensure data integrity.
+
+Trial Approval
+
+All clinical trials conducted in China must be approved and conducted at hospitals accredited by
+the CDA. For imported drugs, proof of foreign approval is required prior to the trial, unless the drug
+has never been approved anywhere in the world. In addition to a standalone China trial to support
+development, imported drug applicants may establish a site in China that is part of an international
+multicenter trial, or IMCT, at the outset of the global trial. Domestically manufactured drugs are not
+subject to foreign approval requirements, and in contrast to prior practice, the CDA has recently
+indicated its intent to permit those drugs to conduct development via an IMCT as well.
+
+trial,
+
+In 2015, the CDA began to issue an umbrella approval for all phases (typically three) of a new
+instead of issuing approval phase by phase. For certain types of new drug
+drug clinical
+candidates, clinical trial applications may be prioritized over other applications, and put in a separate
+expedited queue for approval. Category 1 drugs are new drug trials which would qualify for this
+expedited umbrella approval status. Other trials that are not part of these expedited lines could still
+wait up to a year for approval to conduct the trial.
+
+— 180 —
+
+

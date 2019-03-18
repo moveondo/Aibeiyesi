@@ -1,0 +1,42 @@
+BUSINESS
+
+The following chart illustrates the four main functions of our fully-integrated platform.
+
+Drug Discovery and Pre-clinical Development
+
+This aspect of our fully-integrated platform is focused on the discovery and pre-clinical
+development of new drug candidates. We have discovered 12 drug candidates which are
+currently in various stages of development, including three discovered solely by ourselves (i.e.,
+IBI-307, IBI-322 and IBI-323) and the other nine discovered in collaboration with our partners
+(i.e., sintilimab, IBI-306, IBI-101, IBI-188, IBI-110, IBI-939, IBI-318, IBI-319 and IBI-315).
+
+We use various antibody discovery and engineering technologies, either independently or
+in collaboration with third parties, to generate novel mono-specific or bi-specific antibodies,
+evaluate their potential efficacy and eventually determine whether the antibodies can be further
+developed as therapeutics. The four major approaches we use to generate mono-specific
+antibodies or engineer bi-specific antibodies are summarized below:
+
+(cid:129)
+
+(cid:129)
+
+(cid:129)
+
+Hybridoma technology: We first generate a mouse antibody through immunization
+of mice with the target antigen. We then convert the mouse antibody into an antibody
+with characteristics that mimic a human antibody through a process called
+humanization.
+
+Fully humanized mouse: We licensed mice with a human immune system from
+third-party developers of human antibody discovery platforms, including Trianni,
+Inc. and Harbour Antibodies. These mouse strains can be used to discover potential
+human monoclonal antibody drug candidates. See “– Raw Materials and Suppliers”
+for more information on the mice strains we use to discover drug candidates.
+
+Phage display: We use a protein target to screen monoclonal antibodies from our
+own proprietary human synthetic antibody library (also called a phage library). Such
+process is called phage display.
+
+– 292 –
+
+

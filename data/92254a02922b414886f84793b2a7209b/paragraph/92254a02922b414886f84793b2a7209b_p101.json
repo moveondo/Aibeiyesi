@@ -1,0 +1,80 @@
+[
+    {
+        "font_family": "ff1",
+        "text": "欧菲科技股份有限公司  2017  年年度报告全文",
+        "bottom": 790.32,
+        "data_offset_end": 30,
+        "font_size": 36.0,
+        "left": 363.16,
+        "line_height": 0,
+        "data_offset_start": 6,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "BTitle_9999"
+    },
+    {
+        "font_family": "ff2",
+        "text": "101",
+        "bottom": 51.72,
+        "data_offset_end": 35,
+        "font_size": 36.0,
+        "left": 525.18,
+        "line_height": 0,
+        "data_offset_start": 31,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "BTitle_9999"
+    },
+    {
+        "font_family": "ff2",
+        "text": "2017 年11 月24 日公司第四届董事会第一次（临时）会议审议通过公司第四届董事会高级管理人员的薪酬。同次会议审议通过了公司第四届董事会董事长薪酬，并于 2017年 12月 15日通过了公司 2017年第七次临时股东大会的审议。",
+        "bottom": 753.9,
+        "data_offset_end": 148,
+        "font_size": 48.0,
+        "left": 80.7,
+        "line_height": 0,
+        "data_offset_start": 36,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 44.88,
+        "level": "ATitle_9999"
+    },
+    {
+        "font_family": "ff1",
+        "text": "公司报告期内董事、监事和高级管理人员报酬情况",
+        "bottom": 686.62,
+        "data_offset_end": 172,
+        "font_size": 36.0,
+        "left": 56.7,
+        "line_height": 0,
+        "data_offset_start": 149,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "BTitle_9999"
+    },
+    {
+        "font_family": "ff1",
+        "text": "单位：万元姓名职务性别年龄任职状态从公司获得的税前报酬总额是否在公司关联方获取报酬蔡荣军董事长男46现任87否蔡高校董事男44现任226否黄丽辉董事男42现任176否赵伟董事男37现任178否关赛新董事男39现任12否马敬仁董事男63现任1否蔡元庆独立董事男49现任4否张汉斌独立董事男52现任3否陈俊发独立董事男53现任1否罗勇辉监事男46现任60否宣利监事男43现任133否海江监事男40现任12否谭振林总经理男35现任11否郭剑副总经理男40现任180否唐根初副总经理男38现任138否孟锴副总经理男45现任12否李素雯财务总监女46现任1 16否肖燕松董事会秘书、副总经理男35现任103否胡殿君董事男52离任9否王红波独立董事男49离任7否郭晋龙独立董事男56离任6否高卫民独立董事男60离任9否尹爱珍监事女62离任38否合计--------1,522--公司董事、高级管理人员报告期内被授予的股权激励情况√  适用   □ 不适用",
+        "bottom": 668.98,
+        "data_offset_end": 947,
+        "font_size": 36.0,
+        "left": 493.68,
+        "line_height": 0,
+        "data_offset_start": 173,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "BTitle_9999"
+    },
+    {
+        "font_family": "ff1",
+        "text": "单位：股",
+        "bottom": 95.58,
+        "data_offset_end": 953,
+        "font_size": 36.0,
+        "left": 502.68,
+        "line_height": 0,
+        "data_offset_start": 948,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "BTitle_9999"
+    }
+]

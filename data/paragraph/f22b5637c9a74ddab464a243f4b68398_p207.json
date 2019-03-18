@@ -1,0 +1,122 @@
+[
+    {
+        "data-offset-end": 9,
+        "pageid": 207,
+        "top": 153,
+        "font-id": "f8",
+        "level": "Level",
+        "left": 1240,
+        "text": "綜合財務報表附註",
+        "font-size": 51,
+        "color": "rgba(222,129,14,1)",
+        "data-offset-start": 2
+    },
+    {
+        "data-offset-end": 27,
+        "pageid": 207,
+        "top": 215,
+        "font-id": "f10",
+        "level": "Level",
+        "left": 1187,
+        "text": "截至二零一七年十二月三十一日止年度",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 11
+    },
+    {
+        "data-offset-end": 53,
+        "pageid": 207,
+        "top": 753,
+        "font-id": "f12",
+        "level": "Level",
+        "left": 195,
+        "text": "於中國註冊成立（續）：",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 43
+    },
+    {
+        "data-offset-end": 258,
+        "pageid": 207,
+        "top": 445,
+        "font-id": "f12",
+        "level": "Level",
+        "left": 878,
+        "text": "已發行及繳足",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 253
+    },
+    {
+        "data-offset-end": 264,
+        "pageid": 207,
+        "top": 490,
+        "font-id": "f12",
+        "level": "Level",
+        "left": 898,
+        "text": "股本╱註冊",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 260
+    },
+    {
+        "data-offset-end": 764,
+        "pageid": 207,
+        "top": 870,
+        "font-id": "f13",
+        "level": "Level",
+        "left": 1505,
+        "text": "文化及旅遊項目經營",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 755
+    },
+    {
+        "data-offset-end": 786,
+        "pageid": 207,
+        "top": 1005,
+        "font-id": "f13",
+        "level": "Level",
+        "left": 1505,
+        "text": "文化及旅遊項目經營",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 777
+    },
+    {
+        "data-offset-end": 958,
+        "pageid": 207,
+        "top": 1680,
+        "font-id": "f13",
+        "level": "Level",
+        "left": 1505,
+        "text": "文化及旅遊項目經營",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 949
+    },
+    {
+        "data-offset-end": 973,
+        "pageid": 207,
+        "top": 2303,
+        "font-id": "f8",
+        "level": "Level",
+        "left": 1412,
+        "text": "融創中國控股有限公司205",
+        "font-size": 24,
+        "color": "rgba(222,129,14,1)",
+        "data-offset-start": 960
+    },
+    {
+        "data-offset-end": 982,
+        "pageid": 207,
+        "top": 2330,
+        "font-id": "f9",
+        "level": "Level",
+        "left": 1504,
+        "text": "2017年度報告",
+        "font-size": 24,
+        "color": "rgba(101,98,98,1)",
+        "data-offset-start": 975
+    }
+]

@@ -1,0 +1,81 @@
+APPENDIX I
+
+ACCOUNTANTS’ REPORT
+
+Despite the aforegoing, the Group assumes that the credit risk on a financial instrument has not increased
+significantly since initial recognition if the financial instrument is determined to have low credit risk at the reporting
+date. A financial instrument is determined to have low credit risk if i) the financial instrument has a low risk of
+default, ii) the borrower has a strong capacity to meet its contractual cash flow obligations in the near term and iii)
+adverse changes in economic and business conditions in the longer term may, but will not necessarily, reduce the
+ability of the borrower to fulfil its contractual cash flow obligations. The Group considers a financial asset to have
+low credit risk when it has an internal or external credit rating of ‘investment grade’ as per globally understood
+definition.
+
+The Group regularly monitors the effectiveness of the criteria used to identify whether there has been a
+significant increase in credit risk and revises them as appropriate to ensure that the criteria are capable of identifying
+significant increase in credit risk before the amount becomes past due.
+
+Definition of default
+
+The Group considers the following as constituting an event of default for internal credit risk management
+purposes as historical experience indicates that receivables that meet either of the following criteria are generally not
+recoverable.
+
+(cid:129)
+
+(cid:129)
+
+when there is a breach of financial covenants by the counterparty; or
+
+information developed internally or obtained from external sources indicates that the debtor is unlikely
+to pay its creditors, including the Group, in full (without taking into account any collaterals held by the
+Group).
+
+Irrespective of the above analysis, the Group considers that default has occurred when a financial asset is more
+than 90 days past due unless the Group has reasonable and supportable information to demonstrate that a more
+lagging default criterion is more appropriate.
+
+Credit-impaired financial assets
+
+Financial asset is credit-impaired when one or more events that have a detrimental impact on the estimated
+future cash flows of that financial asset have occurred. Evidence that a financial asset is credit-impaired includes
+observable data about the following events:
+
+(a)
+
+significant financial difficulty of the issuer or the borrower;
+
+(b)
+
+a breach of contract, such as a default or past due event;
+
+(c)
+
+the lender(s) of the borrower, for economic or contractual reasons relating to the borrower’s financial
+difficulty, having granted to the borrower a concession(s) that
+the lender(s) would not otherwise
+consider; or
+
+(d)
+
+it is becoming probable that the borrower will enter bankruptcy or other financial reorganisation.
+
+Write-off policy
+
+The Group writes off a financial asset when there is information indicating that the counterparty is in severe
+financial difficulty and there is no realistic prospect of recovery, e.g. when the counterparty has been placed under
+liquidation or has entered into bankruptcy proceedings, or in the case of trade receivables, when the amounts are over
+two years past due, whichever occurs sooner. Financial assets written off may still be subject to enforcement activities
+under the Group’s recovery procedures, taking into account legal advice where appropriate. Any recoveries made are
+recognised in profit or loss.
+
+Measurement and recognition of ECL
+
+The measurement of ECL is a function of the probability of default, loss given default (i.e. the magnitude of
+the loss if there is a default) and the exposure at default. The assessment of the probability of default and loss given
+default is based on historical data adjusted by forward-looking information as described above. As for the exposure
+at default, for financial assets, this is represented by the assets’ gross carrying amount at the reporting date.
+
+– I-22 –
+
+

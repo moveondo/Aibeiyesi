@@ -1,0 +1,99 @@
+APPENDIX I
+
+Credit risk
+
+ACCOUNTANTS’ REPORT
+
+Credit risk refers to the risk that a counterparty will default on its contractual obligations resulting in
+
+financial loss to the Group.
+
+In order to minimise credit risk, the Group has tasked its finance team to develop and maintain the
+Group’s credit risk gradings to categorise exposures according to their degree of risk of default. Management
+uses publicly available financial information and the Group’s own historical repayment records to rate other
+debtors. The Group’s exposure and the credit ratings of its counterparties are continuously monitored and the
+aggregate value of transactions concluded is spread amongst approved counterparties.
+
+The Group’s current credit risk grading framework comprises the following categories:
+
+Category
+
+Description
+
+Basis for recognising
+expected credit losses
+
+Performing
+
+The counterparty has a low risk of default and does not
+
+12-months ECL
+
+have any past due amounts
+
+Doubtful
+
+Amount is >30 days past due or there has been a
+
+significant increase in credit risk since initial
+recognition
+
+Lifetime ECL –
+
+not credit-impaired
+
+in default
+
+Amount is >90 days past due or there is evidence
+
+indicating the asset is credit-impaired
+
+Lifetime ECL –
+
+credit-impaired
+
+Write-off
+
+There is evidence indicating that the debtor is in severe
+
+Amount is written off
+
+financial difficulty and the Group has no realistic
+prospect of recovery
+
+Note 19 details the Group’s maximum exposure to credit risk for subscription receivables for restricted
+shares, receivables due from share options holders, receivables for Preferred Shares and other loans and their
+measurement bases used to determine expected credit losses.
+
+The credit risk on liquid funds of the Group is limited because the counterparties are banks with high
+
+credit ratings assigned by international credit-rating agencies.
+
+Liquidity risk
+
+In the management of liquidity risk, the Group’s management monitors and maintains a level of cash
+and cash equivalents deemed adequate by the management to finance the Group’s operations and mitigate the
+effects of fluctuations in cash flows. In addition, the management monitors the utilisation of borrowings, and
+renews the borrowings upon expiry based on the actual operation requirement of the Group. The Group relies
+on bank borrowings and other financial liabilities as a significant source of liquidity.
+
+As at 31 December 2016 and 2017 and 30 June 2018, the Group has bank borrowings of approximately
+RMB500,000,000, RMB510,000,000 and RMB697,000,000, respectively and details of which are set out in
+note 26. In addition, the Group issued Series E Preferred Shares to independent investors during January to
+April 2018, in which the earliest redemption dates of all previous issued Preferred Shares has also been
+extended to 2025. The directors of the Company are satisfied that the Group and the Company will have
+sufficient financial resource to meet its financial obligation as they fall due for the foreseeable future after
+taking into account of the aforesaid proceeds from the Preferred Shares and extension of earliest redemption
+dates of all previous issued Preferred Shares. Accordingly, the Historical Financial Information has been
+prepared on a going concern basis.
+
+The following table details remaining contractual maturity of the Group and the Company for the
+Preferred Shares designated as at FVTPL, gross obligation from Share Purchase Options written designated as
+at FVTPL of the Group and Share Purchase Options of the Company which has been drawn up based on the
+undiscounted cash flows based on the earliest date on which the Group and the Company can be required to
+pay. The table includes both interest and principal cash flows. To the extent that interest flows are variable rate,
+the undiscounted amount is derived from weighted average interest rate at the end of each reporting period.
+
+– I-62 –
+
+

@@ -1,0 +1,93 @@
+[
+    {
+        "font_family": "ff1",
+        "text": "欧菲科技股份有限公司  2017  年年度报告全文",
+        "bottom": 790.32,
+        "data_offset_end": 30,
+        "font_size": 36.0,
+        "left": 363.16,
+        "line_height": 0,
+        "data_offset_start": 6,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "BTitle_9999"
+    },
+    {
+        "font_family": "ff2",
+        "text": "214深圳市战略性新兴产业发展专项资金补助因符合地方政府招商引资等地方性扶持政策而获得的补助否否500,000.04与收益相关发展扶持资金补助因符合地方政府招商引资等地方性扶持政策而获得的补助否否430,000.00与收益相关出口信用保费资助补助因符合地方政府招商引资等地方性扶持政策而获得的补助否否1,390,228.00与收益相关其他补助因符合地方政府招商引资等地方性扶持政策而获得的补助否否2,840,731.64与收益相关合计----------142,174,776.63--其他说明：",
+        "bottom": 51.72,
+        "data_offset_end": 385,
+        "font_size": 36.0,
+        "left": 525.18,
+        "line_height": 0,
+        "data_offset_start": 31,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "BTitle_9999"
+    },
+    {
+        "font_family": "ff3",
+        "text": "61 、营业外支出",
+        "bottom": 359.54,
+        "data_offset_end": 395,
+        "font_size": 42.0,
+        "left": 56.94,
+        "line_height": 0,
+        "data_offset_start": 386,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 39.27,
+        "level": "ATitle_9999"
+    },
+    {
+        "font_family": "ff1",
+        "text": "单位：  元项目本期发生额上期发生额计入当期非经常性损益的金额对外捐赠3,750,000.00非流动资产报废损失3,246,455.761,870,650.23赔偿款19,243,035.7319,243,035.73其他3,413,528.691,01 1,297.893,413,528.69合计25,903,020.186,631,948.1225,903,020.18其他说明：",
+        "bottom": 329.3,
+        "data_offset_end": 635,
+        "font_size": 36.0,
+        "left": 498.18,
+        "line_height": 0,
+        "data_offset_start": 396,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "BTitle_9999"
+    },
+    {
+        "font_family": "ff3",
+        "text": "62 、所得税费用",
+        "bottom": 141.98,
+        "data_offset_end": 645,
+        "font_size": 42.0,
+        "left": 56.94,
+        "line_height": 0,
+        "data_offset_start": 636,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 39.27,
+        "level": "ATitle_9999"
+    },
+    {
+        "font_family": "ff1",
+        "text": "（ 1 ）所得税费用表",
+        "bottom": 111.24,
+        "data_offset_end": 656,
+        "font_size": 42.0,
+        "left": 56.94,
+        "line_height": 0,
+        "data_offset_start": 646,
+        "text_shadow": "-0.015em 0 rgb(0,0,0),0 0.015em rgb(0,0,0),0.015em 0 rgb(0,0,0),0 -0.015em rgb(0,0,0)",
+        "height": 39.27,
+        "level": "ATitle_9999"
+    },
+    {
+        "font_family": "ff1",
+        "text": "单位：  元",
+        "bottom": 81.06,
+        "data_offset_end": 663,
+        "font_size": 36.0,
+        "left": 498.18,
+        "line_height": 0,
+        "data_offset_start": 657,
+        "text_shadow": "-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em transparent",
+        "height": 33.66,
+        "level": "BTitle_9999"
+    }
+]

@@ -1,0 +1,88 @@
+“psoriasis”
+
+“RECIST”
+
+“RES”
+
+“Revlimid”
+
+“rheumatoid arthritis”
+
+“R&D”
+
+“SAE”
+
+GLOSSARY
+
+common,
+
+chronic,
+
+relapsing/remitting,
+
+a
+immune-
+mediated systemic disease characterized by skin lesions
+including red, scaly patches, papules and plaques, which
+usually itch
+
+Response Evaluation Criteria in Solid Tumors, a set of
+published rules that define when tumors in cancer
+patients improve, stay the same, or worsen during
+treatment
+
+response evaluable subtype
+
+Lenalidomide, a derivative of thalidomide introduced in
+2004 and sold under trade name Revlimid
+
+an autoimmune disease where the body’s immune system
+attacks normal joint tissues, causing inflammation of the
+joints and surrounding tissues; it can also affect other
+organs
+
+research and development
+
+serious adverse event, any untoward medical occurrence
+in a patient during clinical trials that results in death, is
+requires impatient hospitalization or
+life-threatening,
+prolongation of
+existing hospitalization,
+in
+persistent or significant disability/incapacity, or
+is a
+congenital anomaly/birth defect
+
+results
+
+“SD”
+
+stable disease
+
+“second-line therapy”
+
+treatment that is given when first-line therapy doesn’t
+work, or stops working
+
+“SLE” or “systemic lupus
+
+erythematosus”
+
+a systemic autoimmune disease in which the body’s
+immune system attacks normal, healthy tissue and can
+result in symptoms such as inflammation and swelling
+
+“statins”
+
+“T cell”
+
+a group of medicines that can help lower the level of
+LDL-C in the blood
+
+a type of white blood cell which is an essential part of the
+immune system
+
+– 44 –
+
+

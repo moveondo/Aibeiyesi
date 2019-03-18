@@ -1,0 +1,110 @@
+[
+    {
+        "data-offset-end": 11,
+        "pageid": 34,
+        "top": 153,
+        "font-id": "f8",
+        "level": "Level",
+        "left": 127,
+        "text": "董事及高級管理層履歷",
+        "font-size": 51,
+        "color": "rgba(190,146,91,1)",
+        "data-offset-start": 2
+    },
+    {
+        "data-offset-end": 21,
+        "pageid": 34,
+        "top": 347,
+        "font-id": "f10",
+        "level": "Level",
+        "left": 127,
+        "text": "董事及董事資料變動",
+        "font-size": 39,
+        "color": "rgba(190,146,91,1)",
+        "data-offset-start": 13
+    },
+    {
+        "data-offset-end": 52,
+        "pageid": 34,
+        "top": 445,
+        "font-id": "f11",
+        "level": "Level",
+        "left": 127,
+        "text": "於二零一七年五月二十二日起，李紹忠先生已退任本公司執行董事。",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 23
+    },
+    {
+        "data-offset-end": 115,
+        "pageid": 34,
+        "top": 535,
+        "font-id": "f11",
+        "level": "Level",
+        "left": 127,
+        "text": "於二零一七年五月二十五日起，孫喆一先生已獲委任為本公司執行董事。孫喆一先生的履歷已載於本年報「董事及高級管理層履歷」部分。",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 54
+    },
+    {
+        "data-offset-end": 147,
+        "pageid": 34,
+        "top": 670,
+        "font-id": "f11",
+        "level": "Level",
+        "left": 127,
+        "text": "謝志偉先生於二零一七年十二月十九日起辭任本公司獨立非執行董事。",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 117
+    },
+    {
+        "data-offset-end": 331,
+        "pageid": 34,
+        "top": 760,
+        "font-id": "f11",
+        "level": "Level",
+        "left": 127,
+        "text": "獨立非執行董事潘昭國先生（「潘先生」）於二零一八年一月五日獲委任為創建集團（控股）有限公司（股份代碼：1609）的非執行董事，於二零一七年六月十五日及於二零一七年六月二十九日分別獲委任為宏華集團有限公司（股份代號：196）及兗州煤業股份有限公司（股份代號：1171）（以上公司股份均在聯交所主板上市）的獨立非執行董事。潘先生已成為澳洲會計師公會資深註冊會計師。",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 149
+    },
+    {
+        "data-offset-end": 403,
+        "pageid": 34,
+        "top": 985,
+        "font-id": "f11",
+        "level": "Level",
+        "left": 127,
+        "text": "自刊發本公司截至二零一七年六月三十日止期間的中期報告以來，除本年報已披露事項外，概無董事資料須根據上市規則13.51(B)(1)條予以披露。",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 333
+    },
+    {
+        "data-offset-end": 417,
+        "pageid": 34,
+        "top": 2303,
+        "font-id": "f7",
+        "level": "Level",
+        "left": 47,
+        "text": "32融創中國控股有限公司",
+        "font-size": 33,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 405
+    },
+    {
+        "data-offset-end": 426,
+        "pageid": 34,
+        "top": 2330,
+        "font-id": "f9",
+        "level": "Level",
+        "left": 127,
+        "text": "2017年度報告",
+        "font-size": 24,
+        "color": "rgba(101,98,98,1)",
+        "data-offset-start": 419
+    }
+]

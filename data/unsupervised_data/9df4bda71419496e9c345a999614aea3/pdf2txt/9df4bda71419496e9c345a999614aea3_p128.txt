@@ -1,0 +1,356 @@
+INDUSTRY OVERVIEW
+
+to be RMB43,500 after the anti-PD-1/PD-L1 products get into the reimbursement drug list in 2019.
+Moreover, PD-1 products from domestic companies, such as JS001, showed favorable safety and
+efficacy profile based on clinical data. Therefore, the patient share of domestic companies is expected
+to rapidly increase once approved. Over time, the prices for both MNC and local anti-PD-1/PD-L1
+products will decrease accordingly and the annual cost gap will decrease to less than RMB20,000 in
+2030. Since the medical insurance will pay for the majority of drug cost at that time, the patient share
+between MNC and local anti-PD-1/PD-L1 products will not have obvious changes since then. In
+addition, policy support such as the application of Deepening the Reform of the Evaluation and
+Approval Systems and Encouraging Innovation on Drugs and Medical Devices is another factor that
+encourages the expansion of local brand products. The favorable policies are conducive to the rapid
+development of domestic pharmaceutical companies and launch of new products.
+
+In addition to monotherapies, PD-1/PD-L1 inhibitors have shown significant potential in
+combined therapies. As of the Latest Practicable Date,
+there were only two approved
+combination therapies globally for PD-1 products. However, there are 698 and 321 global PD-1
+and PD-L1 ongoing combination therapy clinical trials, respectively. Of such clinical trials,
+56.9% of PD-1 inhibitor clinical trials and 59.5% of PD-L1 inhibitor clinical trials are in Phase
+I. In the PRC, there are currently 11 and 27 combination therapy clinical trials in Phase II and
+III, respectively, for PD-1/PD-L1. In particular, two MNCs and two PRC companies are
+conducting Phase III clinical
+trials for PD-1 inhibitor combination therapies in the PRC
+including the Company.
+
+Because the PD-1/PD-L1 checkpoint functions at the last step of effector T cell activation,
+PD-1/PD-L1 inhibitors can potentially serve as the backbone of a great number of combination
+therapies. Combined therapies of PD-1 and PD-L1 inhibitors have shown superior efficacy over
+monotherapies and will be major growth drivers in the PD-1 and PD-L1 inhibitors market in
+the future.
+
+Epidemiology of PD-1/PD-L1 Antibody Sensitive Cancers in China
+
+Incidence of all cancers in China increased from 3.7 million in 2013 to 4.2 million in
+2017, representing a CAGR of 3.4%. Driven by a combination of factors such as unhealthy
+lifestyle and increasing pollution, it is estimated that the incidence of all cancers in China will
+reach 4.8 million in 2022 at a CAGR of 2.6% from 2017 to 2022, and further reach 5.8 million
+in 2030 at a CAGR of 2.3% from 2022 to 2030. Among all types of cancers, lung, liver, gastric,
+colorectal, breast and esophageal cancers are the six cancers with the highest incidences in
+China and accounted for 20.6%, 11.7%, 10.8%, 9.8%, 7.1% and 6.8% of the total incidence in
+China in 2017, respectively. Moreover, the incidences of lung, colorectal and esophageal
+cancers tend to grow faster than that of other cancers in China. The incidence of non-small cell
+lung cancer, a sub-type of lung cancer, increased at a CAGR of 3.5% from 0.6 million in 2013
+to 0.7 million in 2017. The chart below shows the incidence by cancer types in the periods
+indicated.
+
+Incidence by Cancer Types in China, 2013-2030E
+
+(in thousands)
+
+Cancer Type
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018E 2019E 2020E 2021E 2022E 2023E 2024E 2025E 2026E 2027E 2028E 2029E 2030E
+
+Lung
+Liver
+Gastric
+Colorectal
+Breast
+Esophageal
+Brain, CNS
+Cervix
+Pancreas
+Non hodgkin
+lymphoma
+Nasopharynx
+Melanoma
+Hodgkin lymphoma
+Others
+
+753.6
+440.2
+395.7
+357.2
+271.9
+248.2
+98.6
+100.3
+89.2
+
+73.8
+43.5
+7.5
+5.2
+787.0
+
+781.4
+453.4
+410.3
+370.4
+279.0
+257.8
+101.2
+102.0
+92.2
+
+75.9
+44.6
+7.8
+5.4
+826.1
+
+809.6
+466.1
+425.1
+383.9
+286.0
+267.4
+103.7
+103.8
+95.2
+
+77.9
+45.8
+8.0
+5.5
+857.3
+
+837.1
+477.6
+439.9
+397.6
+292.8
+276.5
+106.3
+105.7
+98.3
+
+79.8
+46.8
+8.2
+5.6
+892.9
+
+863.9
+489.1
+454.5
+411.1
+299.6
+285.3
+108.8
+107.4
+101.4
+
+81.8
+47.7
+8.5
+5.7
+930.5
+
+889.8
+501.4
+468.6
+424.2
+306.0
+293.9
+111.1
+109.0
+104.5
+
+83.5
+48.5
+8.7
+5.8
+966.2
+
+914.7
+513.7
+482.1
+437.2
+312.1
+302.1
+113.3
+110.5
+107.4
+
+938.5
+526.4
+495.6
+449.8
+317.8
+310.4
+115.4
+112.0
+110.3
+
+962.0
+539.8
+508.5
+462.2
+322.8
+318.8
+117.5
+113.5
+113.2
+
+987.0 1,014.6 1,045.0 1,081.6 1,120.6 1,156.4 1,191.1 1,225.0 1,258.7
+681.6
+553.6
+521.2
+656.5
+600.7
+474.5
+365.9
+327.4
+416.6
+327.2
+136.8
+119.5
+122.2
+114.9
+116.0
+147.1
+
+567.7
+538.5
+488.9
+331.9
+338.7
+121.5
+116.2
+119.1
+
+582.1
+553.5
+503.6
+336.6
+348.9
+123.6
+117.5
+122.6
+
+596.9
+569.0
+519.2
+341.3
+359.3
+125.7
+118.5
+126.4
+
+630.5
+600.8
+550.8
+350.9
+381.2
+130.0
+120.3
+134.2
+
+665.0
+636.7
+583.8
+360.8
+404.4
+134.5
+121.6
+142.5
+
+612.0
+584.4
+535.3
+346.1
+370.1
+127.8
+119.5
+130.3
+
+648.2
+618.2
+567.4
+355.8
+392.6
+132.2
+121.0
+138.2
+
+85.3
+49.2
+8.9
+5.9
+
+86.9
+49.9
+9.1
+6.0
+
+105.8
+57.4
+12.1
+6.9
+999.5 1,031.4 1,059.4 1,078.1 1,079.8 1,068.3 1,034.8 1,024.3 1,040.5 1,075.3 1,125.0 1,188.6
+
+103.8
+56.6
+11.7
+6.8
+
+101.9
+55.8
+11.4
+6.7
+
+100.0
+55.0
+11.0
+6.7
+
+98.0
+54.3
+10.7
+6.6
+
+96.0
+53.5
+10.4
+6.5
+
+93.8
+52.8
+10.1
+6.3
+
+88.5
+50.6
+9.3
+6.1
+
+90.1
+51.3
+9.6
+6.1
+
+91.8
+52.0
+9.8
+6.2
+
+Total
+
+3,671.8 3,804.0 3,935.2 4,065.1 4,195.2 4,321.0 4,442.0 4,559.7 4,673.7 4,781.2 4,876.9 4,964.6 5,039.1 5,139.9 5,268.4 5,415.9 5,578.4 5,756.9
+
+– 122 –
+
+

@@ -1,0 +1,110 @@
+[
+    {
+        "data-offset-end": 9,
+        "pageid": 164,
+        "top": 153,
+        "font-id": "f8",
+        "level": "Level",
+        "left": 127,
+        "text": "綜合財務報表附註",
+        "font-size": 51,
+        "color": "rgba(222,129,14,1)",
+        "data-offset-start": 2
+    },
+    {
+        "data-offset-end": 27,
+        "pageid": 164,
+        "top": 215,
+        "font-id": "f10",
+        "level": "Level",
+        "left": 127,
+        "text": "截至二零一七年十二月三十一日止年度",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 11
+    },
+    {
+        "data-offset-end": 161,
+        "pageid": 164,
+        "top": 1282,
+        "font-id": "f13",
+        "level": "Level",
+        "left": 331,
+        "text": "單獨並不屬重大的聯營公司的資料合計：",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 144
+    },
+    {
+        "data-offset-end": 223,
+        "pageid": 164,
+        "top": 715,
+        "font-id": "f12",
+        "level": "Level",
+        "left": 1362,
+        "text": "聯營公司－A",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 217
+    },
+    {
+        "data-offset-end": 251,
+        "pageid": 164,
+        "top": 816,
+        "font-id": "f12",
+        "level": "Level",
+        "left": 1235,
+        "text": "十二月三十一日十二月三十一日",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 237
+    },
+    {
+        "data-offset-end": 384,
+        "pageid": 164,
+        "top": 1418,
+        "font-id": "f12",
+        "level": "Level",
+        "left": 1235,
+        "text": "十二月三十一日十二月三十一日",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 370
+    },
+    {
+        "data-offset-end": 445,
+        "pageid": 164,
+        "top": 1697,
+        "font-id": "f12",
+        "level": "Level",
+        "left": 1235,
+        "text": "十二月三十一日十二月三十一日",
+        "font-size": 27,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 431
+    },
+    {
+        "data-offset-end": 512,
+        "pageid": 164,
+        "top": 2303,
+        "font-id": "f7",
+        "level": "Level",
+        "left": 39,
+        "text": "162融創中國控股有限公司",
+        "font-size": 33,
+        "color": "rgba(35,31,31,1)",
+        "data-offset-start": 499
+    },
+    {
+        "data-offset-end": 521,
+        "pageid": 164,
+        "top": 2330,
+        "font-id": "f9",
+        "level": "Level",
+        "left": 127,
+        "text": "2017年度報告",
+        "font-size": 24,
+        "color": "rgba(101,98,98,1)",
+        "data-offset-start": 514
+    }
+]

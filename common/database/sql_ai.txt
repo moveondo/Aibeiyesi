@@ -1,0 +1,6 @@
+sql_create = """CREATE TABLE tb_ai (
+                        id INT auto_increment primary key,
+                        modelType CHAR(20),
+                        predictFileName CHAR(20) ,
+                        predictResult TEXT ,
+                        loadTime TIMESTAMP )"""
