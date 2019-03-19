@@ -54,7 +54,7 @@ class ExecuteAbstract(ExecuteInterface):  # 抽象类
             self.conf_name = 'MysqlTest'
         elif self.bys_params.env == 'dev':
             self.conf_name = 'MysqlDev'
-        mp = MyPymysqlPool.instance(conf_path=r"../conf/mysql.ini",conf_name=self.conf_name)
+        mp = MyPymysqlPool.instance(conf_path=r"../conf/mysql1.ini",conf_name=self.conf_name)
         sql = """SELECT bm_id FROM tb_corp_analyze WHERE id=%s""" %(corp_analyze_id)
         result = mp.getAll(sql)
         for row in result:
@@ -67,7 +67,7 @@ class ExecuteAbstract(ExecuteInterface):  # 抽象类
         elif self.bys_params.env == 'dev':
             self.conf_name = 'MysqlDev'
         sql = """SELECT tag_class_id FROM tb_analyze_aspect WHERE biz_model=%s""" %(bm_id)
-        mp = MyPymysqlPool.instance(conf_path=r"../conf/mysql.ini",conf_name=self.conf_name)
+        mp = MyPymysqlPool.instance(conf_path=r"../conf/mysql1.ini",conf_name=self.conf_name)
         result = mp.getAll(sql)
         tagClassId_list = []
         if result:
@@ -82,7 +82,7 @@ class ExecuteAbstract(ExecuteInterface):  # 抽象类
             self.conf_name = 'MysqlTest'
         elif self.bys_params.env == 'dev':
             self.conf_name = 'MysqlDev'
-        mp = MyPymysqlPool.instance(conf_path=r"../conf/mysql.ini",conf_name=self.conf_name)
+        mp = MyPymysqlPool.instance(conf_path=r"../conf/mysql1.ini",conf_name=self.conf_name)
         if predict_type == 'all':
             sql = """SELECT * FROM tb_crawler_result WHERE stock_code=(SELECT corp_code FROM tb_corp_analyze WHERE id=%s) AND info_catagory_id IN (SELECT DISTINCT c.`info_catagory_id` FROM tb_corp_analyze AS a INNER JOIN tb_analyze_aspect AS b ON a.bm_id=b.biz_model INNER JOIN tb_analyze_source AS c ON b.id=c.analyze_aspect_id)""" % (corp_analyze_id)
             result = mp.getAll(sql)

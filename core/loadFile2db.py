@@ -21,7 +21,7 @@ class Load2DB():
                 conf_name = 'MysqlTest'
             elif env == 'dev':
                 conf_name = 'MysqlDev'
-            self.mp = MyPymysqlPool(conf_path=r"../conf/mysql.ini", conf_name=conf_name)
+            self.mp = MyPymysqlPool(conf_path=r"../conf/mysql1.ini", conf_name=conf_name)
 
     def deleteData(self,dbName,corp_analyze_id,model_name):
         self.logger.info('删除数据，corp_analyze_id：'+str(corp_analyze_id))

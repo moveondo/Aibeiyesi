@@ -32,7 +32,7 @@ class TrainData():
             conf_name = 'MysqlTest'
         elif self.env == 'dev':
             conf_name = 'MysqlDev'
-        mp = MyPymysqlPool.instance(conf_path=r"../conf/mysql.ini",conf_name=conf_name)
+        mp = MyPymysqlPool.instance(conf_path=r"../conf/mysql1.ini",conf_name=conf_name)
         params = ('a.id','a.doc_id','a.start_offset','a.end_offset','a.page_ind','a.tag_class_name','a.tag_class','b.bm_id','c.name')
         params = str(params).replace("'", '').replace("(",'').replace(")",'')
         sql = """SELECT %s FROM tb_text_tagging AS a INNER JOIN tb_corp_analyze AS b ON a.corp_analyze_id=b.id INNER JOIN tb_biz_model AS c ON b.bm_id=c.id WHERE a.type='annotation' and a.id>2752""" % params

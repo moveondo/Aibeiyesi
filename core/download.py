@@ -25,7 +25,7 @@ class DownLoad():
             outputFile = self.checkFile(doc_id)
             if outputFile:            #存储文件不存在返回False，存储文件存在且已经下载则返回文件
                 return outputFile
-        self.mp = MyPymysqlPool.instance(conf_path=r"../conf/mysql.ini",conf_name=conf_name)
+        self.mp = MyPymysqlPool.instance(conf_path=r"../conf/mysql1.ini",conf_name=conf_name)
 
         result = self.getTaskFilefc(outputPath,'_tree.json',doc_id,need_download)
         return result

@@ -228,7 +228,7 @@ class MyPymysqlPool(BasePymysqlPool):
         self._cursor.close()
 
 if __name__ == '__main__':
-    mp = MyPymysqlPool(conf_path=r"../../conf/mysql.ini",conf_name="MysqlTest")
+    mp = MyPymysqlPool(conf_path=r"../../conf/mysql1.ini",conf_name="MysqlTest")
     # sql = """select * from tb_text_tagging where id =14"""
     # result = mp.getAll(sql)
     # print(result[0]['queue_name'])

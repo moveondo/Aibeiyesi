@@ -17,7 +17,7 @@ class DownLoadTxt():
         return result
 
     def downloadTask(self,taskName,outputPath,limit,need_download):
-        self.mp = MyPymysqlPool(conf_path=r"../conf/mysql.ini", conf_name="MysqlDev")
+        self.mp = MyPymysqlPool(conf_path=r"../conf/mysql1.ini", conf_name="MysqlDev")
         if need_download=='yes':
             result = self.getTaskFiles(taskName,outputPath,'.txt',limit)
         else:
